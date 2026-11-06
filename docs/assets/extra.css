@@ -814,6 +814,130 @@
   .timeline-marker { left: -1.58rem; }
 }
 
+.momentum-chart-card {
+  margin: 1.5rem 0;
+  padding: 1rem 1.2rem 1.3rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .8rem;
+  background: var(--md-default-bg-color);
+  overflow-x: auto;
+}
+.momentum-chart-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  font-size: .78rem;
+  font-weight: 800;
+  color: var(--md-default-fg-color--light);
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  margin-bottom: .3rem;
+}
+#momentum-chart { min-width: 480px; }
+.momentum-chart-svg { width: 100%; height: auto; display: block; }
+.momentum-baseline { stroke: var(--md-default-fg-color--lightest); stroke-width: 1; }
+.momentum-row-label {
+  text-anchor: middle;
+  dominant-baseline: middle;
+  font-size: 10.5px;
+  fill: var(--md-default-fg-color--light);
+}
+.momentum-value-label {
+  dominant-baseline: middle;
+  font-size: 11px;
+  font-weight: 800;
+  fill: var(--md-default-fg-color);
+}
+.momentum-chart-svg path,
+.momentum-chart-svg rect { cursor: pointer; }
+.momentum-chart-svg path:focus,
+.momentum-chart-svg rect:focus { outline: 2px solid var(--md-accent-fg-color); outline-offset: 1px; }
+.momentum-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem 1.1rem;
+  margin: .9rem 0 0;
+  font-size: .78rem;
+  color: var(--md-default-fg-color--light);
+}
+.momentum-legend-item { display: inline-flex; align-items: center; gap: .4rem; }
+.momentum-swatch {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: .25rem;
+  color: #fff;
+  font-size: .68rem;
+  font-weight: 800;
+  flex: none;
+}
+.momentum-bar { cursor: pointer; }
+.momentum-bar:focus,
+.momentum-bar:hover { opacity: .85; }
+.momentum-bar:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 1px; }
+
+.momentum-popup-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, .55);
+  z-index: 1000;
+}
+.momentum-popup-overlay[hidden] { display: none; }
+.momentum-popup {
+  width: 100%;
+  max-width: 580px;
+  max-height: 82vh;
+  overflow-y: auto;
+  background: var(--md-default-bg-color);
+  border-radius: .9rem;
+  padding: 1.1rem 1.3rem 1.4rem;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, .35);
+}
+.momentum-popup-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: .7rem;
+  position: sticky;
+  top: 0;
+  background: var(--md-default-bg-color);
+  padding-top: .1rem;
+}
+.momentum-popup-head h3 { margin: 0; font-size: 1.02rem; }
+.momentum-popup-close {
+  flex: none;
+  border: none;
+  background: transparent;
+  color: var(--md-default-fg-color--light);
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 .2rem;
+}
+.momentum-popup-close:hover,
+.momentum-popup-close:focus-visible { color: var(--md-default-fg-color); }
+.momentum-popup .timeline-list { margin: 0; }
+.momentum-stance-tag {
+  grid-column: 1 / -1;
+  justify-self: start;
+  padding: .12rem .55rem;
+  border-radius: 999px;
+  font-size: .68rem;
+  font-weight: 800;
+  color: #fff;
+}
+.momentum-stance-pro { background: #2e7d32; }
+.momentum-stance-mixed { background: #f57c00; }
+.momentum-stance-against { background: #c62828; }
+
 .coverage-stats-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -929,9 +1053,20 @@
 .md-typeset .email-subject__copy:hover {
   background: #d3e3fd;
 }
+.md-typeset .email-subject__copy-full {
+  background: #e3f3e8;
+  color: #146c2e;
+}
+.md-typeset .email-subject__copy-full:hover {
+  background: #cdeeda;
+}
 [data-md-color-scheme="slate"] .md-typeset .tabbed-labels,
 [data-md-color-scheme="slate"] .md-typeset .email-subject__copy {
   background: color-mix(in srgb, #0b57d0 24%, var(--md-default-bg-color));
+}
+[data-md-color-scheme="slate"] .md-typeset .email-subject__copy-full {
+  background: color-mix(in srgb, #1e8e3e 24%, var(--md-default-bg-color));
+  color: #81c995;
 }
 [data-md-color-scheme="slate"] .md-typeset .tabbed-labels {
   border-bottom-color: color-mix(in srgb, #8ab4f8 28%, transparent);
@@ -1217,27 +1352,6 @@
 @media (max-width: 760px) {
   #country-summary-table, #outreach-country-table { min-width: 620px; }
 }
-.coverage-status-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: .4rem;
-  padding: .15rem .55rem;
-  border-radius: 999px;
-  font-size: .72rem;
-  font-weight: 700;
-  white-space: nowrap;
-  color: var(--md-default-fg-color);
-  background: color-mix(in srgb, var(--status-color, #757575) 16%, var(--md-default-bg-color));
-}
-.coverage-status-badge::before {
-  content: "";
-  width: .5rem;
-  height: .5rem;
-  border-radius: 50%;
-  background: var(--status-color, #757575);
-  flex: none;
-}
-
 .coverage-priority-summary {
   margin: .65rem 0;
   color: var(--md-default-fg-color--light);
@@ -1253,26 +1367,9 @@
   padding: 0;
   list-style: none;
 }
-.coverage-priority-item { --status-color: #9aa3af; }
-.coverage-country-details { --row-accent: var(--status-color); }
 .coverage-country-summary { align-items: flex-start; }
-.coverage-priority-rank {
-  display: grid;
-  place-items: center;
-  flex: none;
-  width: 2.2rem;
-  height: 2.2rem;
-  border-radius: 50%;
-  background: var(--status-color);
-  color: #fff;
-  font-size: .85rem;
-  font-weight: 800;
-}
 .coverage-priority-content { flex: 1; min-width: 0; }
 .coverage-priority-heading { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .65rem; }
-.coverage-priority-facts,
-.coverage-priority-next { margin: .35rem 0 0; font-size: .78rem; line-height: 1.45; }
-.coverage-priority-facts { color: var(--md-default-fg-color--light); }
 .coverage-outlet-list {
   margin: 0;
   padding: 0 1rem .5rem;
@@ -1321,9 +1418,93 @@ a.coverage-outlet-headline { font-weight: 600; }
 .coverage-priority-loading { color: var(--md-default-fg-color--light); }
 @media (max-width: 520px) {
   .coverage-country-summary { gap: .55rem; padding: .7rem; }
-  .coverage-priority-rank { width: 1.9rem; height: 1.9rem; }
   .coverage-priority-percentage { width: 100%; margin-left: 0; }
   .coverage-outlet-list { padding: 0 0 .7rem .5rem; }
   .coverage-outlet-item { align-items: flex-start; flex-direction: column; gap: .35rem; }
   .coverage-outlet-links { justify-content: flex-start; }
 }
+
+.treemap-chart {
+  position: relative;
+  width: 100%;
+  height: 260px;
+  border-radius: .45rem;
+  overflow: hidden;
+  background: var(--md-default-bg-color);
+}
+.treemap-group {
+  position: absolute;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  padding: 3px;
+  gap: 2px;
+  border-radius: .25rem;
+  background: color-mix(in srgb, var(--group-accent) 8%, var(--md-default-bg-color));
+  outline: 1px solid color-mix(in srgb, var(--group-accent) 45%, transparent);
+  outline-offset: -1px;
+}
+.treemap-group-label {
+  flex: 0 0 16px;
+  overflow: hidden;
+  color: var(--md-default-fg-color--light);
+  font-size: .68rem;
+  font-weight: 700;
+  line-height: 16px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.treemap-group-body {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+}
+.treemap-leaf {
+  position: absolute;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding: 0 3px;
+  overflow: hidden;
+  cursor: default;
+  transition: filter .1s ease;
+}
+.treemap-leaf:hover,
+.treemap-leaf:focus-visible {
+  filter: brightness(1.15);
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: -1px;
+  z-index: 1;
+}
+.treemap-leaf-label {
+  overflow: hidden;
+  font-size: .68rem;
+  font-weight: 600;
+  line-height: 1.1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.treemap-tooltip {
+  position: absolute;
+  z-index: 2;
+  transform: translate(-50%, -100%);
+  display: flex;
+  flex-direction: column;
+  gap: .1rem;
+  padding: .35rem .55rem;
+  border-radius: .4rem;
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color);
+  font-size: .74rem;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .18);
+}
+.treemap-tooltip strong { font-size: .82rem; }
+.treemap-table { margin-top: .8rem; font-size: .8rem; }
+.treemap-table summary { cursor: pointer; color: var(--md-default-fg-color--light); font-weight: 700; }
+.treemap-table table { width: 100%; margin-top: .5rem; border-collapse: collapse; }
+.treemap-table th,
+.treemap-table td { padding: .3rem .5rem; border-bottom: 1px solid var(--md-default-fg-color--lightest); text-align: left; }
+.treemap-table td:last-child,
+.treemap-table th:last-child { text-align: right; font-variant-numeric: tabular-nums; }

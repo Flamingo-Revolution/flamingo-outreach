@@ -36,12 +36,16 @@ extra_javascript:
   - assets/js/directory.js
   - assets/js/timeline.js
   - assets/js/media_coverage.js
+  - assets/js/media_reports.js
+  - assets/js/status_directory.js
   - assets/js/institutions.js
   - assets/js/parties.js
+  - assets/js/remaining_treemaps.js
   - assets/js/outreach_directory.js
   - assets/js/education_map.js
   - assets/js/email_templates.js
   - assets/js/evidence_comparison.js
+  - assets/js/momentum.js
 plugins:
   - search
 nav:
@@ -66,7 +70,8 @@ nav:
       - Media: media-coverage.md
       - Institutions: institutions.md
       - Parties: parties.md
-  - Donate: donate.md
+      - Remaining: remaining.md
+      - Momentum: momentum.md
   - Background:
       - Overview: background/index.md
       - Movement: background/context.md

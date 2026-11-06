@@ -2,8 +2,6 @@
 
 General safety information for people attending protests in Albania, based on public reporting and established protest-safety guidance current as of 19 October 2026. This is not legal advice, and it cannot make a confrontation safe — treat it as a starting checklist. Police conduct and the situation on the ground can change quickly, so check current news and local sources before relying on anything here.
 
-For what to buy and how to ship it, see [Help equip students in Tirana](../donate.md).
-
 ## Before you go
 
 === "Phone and documents"
@@ -76,5 +74,3 @@ Claims that milk or a baking-soda mixture "neutralize" tear gas are widely repea
 9. [Lawyers for Lawyers — threats against lawyer Gentian Sejrani, July 2026](https://www.lawyersforlawyers.org/?p=41907)
 10. [CPJ — call for urgent action after police violence against journalists in Albania, October 2026](https://cpj.org/2026/10/cpj-partners-call-for-urgent-action-after-police-violence-against-journalists-in-albania/amp/)
 11. [CIVICUS Monitor — Albania protests](https://monitor.civicus.org/explore/unending-protests-unleash-alarming-violence-protesters-spray-buildings-black/)
-
-For equipment, see [Help equip students in Tirana](../donate.md).

@@ -5,7 +5,7 @@ hide:
 
 # Media coverage
 
-See where the protests are being reported and which outlets still need checking. Select a country on the map to see which outlets have posts and which do not.
+See where the protests are being reported. Select a country on the map to see which outlets have posts and which do not.
 
 <div class="coverage-chart-card coverage-chart-card--map">
   <div class="status-map-stats" id="coverage-map-stats" aria-label="Media coverage statistics" aria-live="polite">
@@ -18,26 +18,22 @@ See where the protests are being reported and which outlets still need checking.
   <div class="coverage-map-legend" id="coverage-map-legend"></div>
 </div>
 
-## Countries
 
-<div class="coverage-priority-summary" id="coverage-priority-summary" role="status">Calculating priorities…</div>
 <div class="coverage-sort-control">
-  <label for="coverage-country-sort">Sort countries by</label>
-  <select id="coverage-country-sort">
-    <option value="coverage-low">Lowest coverage first</option>
-    <option value="coverage-high">Highest coverage first</option>
-    <option value="missing-high">Most outlets without posts</option>
-    <option value="alphabetical">Country name A–Z</option>
+  <label for="mentions-country-filter">Country</label>
+  <select id="mentions-country-filter">
+    <option value="">All countries</option>
   </select>
-  <label for="coverage-tag-filter">Show topic</label>
-  <select id="coverage-tag-filter">
-    <option value="">All topics</option>
-  </select>
+  <label for="mentions-search">Find an outlet</label>
+  <input id="mentions-search" type="search" placeholder="Outlet name" autocomplete="off">
 </div>
-<ol class="coverage-priority-list" id="coverage-priority-list" aria-live="polite">
-  <li class="coverage-priority-loading">Loading media coverage…</li>
-</ol>
+
+<p class="coverage-priority-summary" id="mentions-summary" role="status">Loading published coverage…</p>
+
+<div class="coverage-priority-list" id="media-reports-list" aria-live="polite"></div>
 
 ## Download the data
+
+This page includes only rows with at least one recorded article or post in the list above. A link shows that coverage was found; it does not imply that every claim in the publication has been independently verified.
 
 [Download the CSV](assets/data/media_coverage.csv). This is a snapshot, so coverage may change between checks.

@@ -4,54 +4,256 @@ hide:
 ---
 
 !!! warning "Ennen lähettämistä"
-    Valitse oikea vastaanottaja, muokkaa aihe, tervehdys ja pyyntö, tarkista uusimmat lähteet ja lähetä viesti omalla nimelläsi.
+    - [ ] Valitse oikea vastaanottaja-välilehti.
+    - [ ] Mukauta aihe, tervehdys ja pyyntö.
+    - [ ] Tarkista viimeisimmät raportit ja linkit.
+    - [ ] Lähetä omalla nimelläsi ilman organisaation valtuutusta.
 
-# Albanian Flamingo-mielenosoitukset — suomenkieliset sähköpostit
+# Flamingoprotestit Albaniassa – Englanninkieliset tiedotussähköpostit
 
 === "Media"
 
-    **Aihe:** Albanian Flamingo-mielenosoitukset: raportoidut oikeudenloukkaukset opiskelijamielenosoituksissa
+    **Aihe:** Flamingo-mielenosoitukset Albaniassa: raportoitu poliisin väärinkäytöksistä Tiranan opiskelijamielenosoituksissa
 
-    Asianomaiselle,
+    Arvoisa vastaanottaja,
 
-    Pyydän toimitustanne tutkimaan kiireellisesti raportoituja ihmisoikeusloukkauksia opiskelijoiden johtamissa mielenosoituksissa, jotka alkoivat Tiranassa 13. lokakuuta 2026 ja ovat sittemmin levinneet. Opiskelijat, myös lukiolaiset, toimittajat, sivulliset ja kiinniotetut voivat olla vaarassa.
+    Pyydän uutishuonettanne tutkimaan kiireellisesti ilmoitetut ihmisoikeusloukkaukset opiskelijoiden johtamien mielenosoitusten aikana, jotka alkoivat Tiranassa 13. lokakuuta 2026 ja ovat sittemmin levinneet. Mielenosoituksissa on mukana opiskelijoita, myös lukiolaisia, ja syytökset ansaitsevat laajempaa julkista huomiota.
 
-    Raportoituihin lukuihin kuuluvat **1 067 pidätystä ja 388 rikosmenettelyä** (Reuters), **310 loukkaantunutta 19. lokakuuta mennessä** (El País terveysministeriön tietojen perusteella), **32 raportoitua poliisiväkivaltatapausta** Res Publican avoimen kirjeen liitteessä ja **124 tarkastettua todistusaineistoa** Amnesty Internationalille lähetetyssä juristien saatekirjeessä. Luvut ovat päällekkäisiä eikä niitä pidä laskea yhteen.
+    Nämä mielenosoitukset ovat osa yli 140 päivää kestäneitä Flamingo-mielenosoituksia Albaniassa. [liikkeen julkaiseman protestikronologian](https://www.flamingorevolution.eu/protestat/) mukaan mielenosoitukset alkoivat suojeltua Vjosë–Nartën rannikkomaisemaa koskevista kehityksestä ja laajenivat huoleen julkisesta vastuullisuudesta, korruptiosyytöksistä, koulutuksesta ja terveydenhuollosta, nuorten maastamuutosta, taloudellisista paineista, demokraattisesta edustuksesta ja oikeusvaltioperiaatteesta.
 
-    Lähteissä kuvataan kyynelkaasun, vesitykkien, pamppujen, ärsytesumutteen ja kumiluotien käyttöä, mahdollisesti liiallista voimankäyttöä, puutteita säilöönotossa, alaikäisten mahdollista kaltoinkohtelua ja toimittajiin kohdistuneita toimia. Kyse on riippumatonta varmistusta vaativista väitteistä, ei lopullisista oikeudellisista päätelmistä.
+    Tärkeimmät raportoidut luvut ovat:
 
-    Pyydän nimeämään toimittajan, hankkimaan vastaukset viranomaisilta ja asianomaisilta sekä vaatimaan poliisivideoiden, toimintakäskyjen ja potilasasiakirjojen säilyttämistä ja riippumatonta tutkintaa.
+    - **1 067 pidätystä ja 388 rikosoikeudellista menettelyä:** Reuters raportoi ja syytettiin Albanian viranomaisilta julkaisuhetkellä.
+    - **310 loukkaantui 19. lokakuuta mennessä:** 191 poliisia, 88 mielenosoittajaa ja 31 sivustakatsojaa, *El País* raportoi terveysministeriön lukuihin viitaten.
+    - **Aiemman seurannan aikana tapasi 214 säilöön otettua:** Res Publica -kirjeessä mainittu oikeusasiamiehen alustava selvitys havaitsi näkyviä merkkejä väkivallasta tai huonosta kohtelusta 26 henkilön osalta ja raportit noin 12 väitetysti eristetyssä pidetystä alaikäisestä.
+    - **32 ilmoitettua poliisin väkivaltatapausta:** luetteloitu Res Publican avoimen kirjeen liitteeseen 13.–17. lokakuuta; nämä ovat raportoituja tapauksia, eivät lopullisia oikeudellisia havaintoja.
+    - **124 tarkistettua todistetta:** kuvattu asianajajien Amnesty Internationalille lähettämässä saatekirjeessä, mukaan lukien 31 uutta lokimerkintää, jotka kattavat 18.–20. lokakuuta; taustalla oleva luottamuksellinen loki ei ole julkinen tässä arkistossa.
 
-    Ystävällisin terveisin,
+    Näillä luvuilla on eri ajanjaksoja, populaatioita ja määritelmiä. Ne menevät päällekkäin, eikä niitä pidä laskea yhteen yhdeksi kokonaisuudeksi.
+
+    Lähteeseen linkitetty raportointi herättää huolta seuraavista seikoista:
+
+    - **Joulun hallinta-aseet:** poliisin käyttämä kyynelkaasua, vesitykkiä, patukkuja, ärsyttävää suihketta ja 17. lokakuuta julkaistun kansainvälisen raportin mukaan kumiluoteja mielenosoittajia ja sivullisia vastaan.
+    - **Fyysinen voima ja rajoitukset:** mahdollisesti liiallinen voima, mukaan lukien ihmiset, joiden kerrotaan olevan maassa.
+    - **Vakava loukkaantuminen:** sairaalan haastateltava väitti poliisin aiheuttaneen vakavan jalkavamman.
+    - **Säilöönottotakeet:** Oikeusasiamies dokumentoi puuttuvat oikeuksia koskevat tietolomakkeet, puutteelliset säilöönottorekisterit ja väitteet siitä, että henkilökohtaisia ​​puhelimia etsittiin ilman asianmukaista lupaa.
+    - **Alaikäisten kohtelu:** Raportit sisältävät kuulusteluja ilman huoltajia tai psykologeja, väitetyn eristäytymisen ja mahdollisen altistumisen voimalle tai pidätykseen.
+    - **Lehdistön vapaus:** toimittajiin ja mediatyöntekijöihin kohdistuvat pahoinpitelyt, uhkailut, vammat, esteet ja pakkopoistot.
+
+    Nämä raportit ja väitteet edellyttävät riippumatonta todentamista, eivät vahvistettuja oikeudellisia havaintoja. Jotkut osallistujat kuulemma heittivät kiviä ja sytyttivät tulta; Tämä ei oikeuta voimankäyttöä niitä vastaan, jotka eivät sitä tehneet. Kuten Albanian Helsinki-komitea totesi 13. lokakuuta, yksittäisten ihmisten teot eivät voi tehdä kokonaista edustajakokousta väkivaltaiseksi, ja poliisivoimien on pysyttävä laillisina, tarpeellisina ja oikeasuhteisina.
+
+    Nimeä toimittaja, pyydä vastauksia Albanian viranomaisilta ja asianomaisilta ihmisiltä ja vaadi poliisin videoiden, lähetyskäskyjen ja lääketieteellisten tietojen säilyttämistä sekä vakavan jalkavamman tapauksen riippumatonta tutkimusta – erityisesti samalla kun käsitellään alaikäisten mahdollista hoitoa ja toimittajien häirintää. Olisin kiitollinen, jos tietäisin, aikooko uutistoimistonne käsitellä tätä asiaa ja milloin. Oheisessa tiedotteessa on lähteet ja varmistuskysymykset.
+
+    Ystävällisin terveisin
+
+    - Flamingo Revolution – protestidokumentaatio ja kansalaishankkeet.
+    - Flamingo Revolution Diaspora – diasporan päivitykset ja tiedotus.
+    - Albanian Diaspora Civic Network – tutkimusta ja näyttöön perustuvaa kansalaistyötä.
+    - Illyian Brains Network – albanialaisten ammattilaisten maailmanlaajuinen verkosto.
+
+    ---
+
+    **Viitteet:**
+
+    Valitut kansainväliset raportit, uusimmat ensin:
+
+    - El País, 22. lokakuuta – raportointi Tiranan jatkuvista opiskelijamielenosoituksista, poliisin ja mielenosoittajien välisestä väkivallasta ja hallituksen vuoropuhelutarjouksesta: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. lokakuuta – pidätykset, rikosoikeudelliset menettelyt ja hallituksen vastaus: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Ensisijaiset ja paikalliset asiakirjat tiettyjä syytöksiä varten:
+
+    - Albanian oikeusasiamies, 20. lokakuuta – alustavat seurantahavainnot pidätysolosuhteista ja alaikäisten kohtelusta: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — todistepohja: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh – videokokoelma, jossa dokumentoidaan raportoitu poliisiväkivalta: <https://hajdenshesh.com/dhuna>
+
+    Täydellinen luettelo protesteista uutisoineista tiedotusvälineistä löytyy sivulta [Mediaraportit ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "Kansainvälinen instituutio"
 
-    **Aihe:** Albanian Flamingo-mielenosoitukset: kiireellinen ilmoitus raportoiduista oikeudenloukkauksista
+    !!! warning "Kuka voi parhaiten lähettää tämän?"
+        Ehdotetut lähettäjät tärkeysjärjestyksessä:
 
-    Asianomaiselle,
+        - **Flamingoyhteisöt**
+        - **Kansalaisjärjestöt**
+        - **Verkostojen ammattilaiset**
+        - **Disporan jäsen**
 
-    Kirjoitan vakavista ihmisoikeushuolista Tiranassa 13. lokakuuta 2026 alkaneissa mielenosoituksissa. Raportoidut luvut sisältävät 1 067 pidätystä, 388 rikosmenettelyä ja 310 loukkaantunutta 19. lokakuuta mennessä. Kansalaisyhteiskunnan aineistoissa kuvataan lisäksi mahdollista väkivaltaa, säilöönoton puutteita ja alaikäisten kohtelua. Luvut ovat päällekkäisiä ja vaativat riippumatonta tarkistamista.
+        Käytä vahvinta aitoa yhteyttä ja kuvaile se tarkasti.
 
-    Pyydän ottamaan tilanteen kiireelliseen seurantaan, ottamaan yhteyttä Albanian viranomaisiin, tukemaan todistusaineiston säilyttämistä ja riippumattomia tutkimuksia sekä kertomaan käytettävissä olevista kahden- ja monenvälisistä toimista.
+    **Aihe:** Flamingo-mielenosoitukset Albaniassa: kiireellinen hälytys ilmoitetuista oikeuksien loukkauksista
 
-    Ystävällisin terveisin,
+    Arvoisa vastaanottaja,
+
+    Kirjoitan varoittaakseni oppilaitoksenne vakavista ihmisoikeushuoleista opiskelijoiden vetämien mielenosoitusten aikana, jotka alkoivat Tiranassa 13. lokakuuta 2026 ja ovat sittemmin levinneet. Opiskelijat, toimittajat, sivulliset ja vangit voivat vaikuttaa, ja lukioon osallistuminen herättää erityisiä lastensuojeluongelmia.
+
+    Nämä mielenosoitukset ovat osa yli 140 päivää kestäneitä Flamingo-mielenosoituksia Albaniassa. [liikkeen julkaiseman protestikronologian](https://www.flamingorevolution.eu/protestat/) mukaan mielenosoitukset alkoivat suojeltua Vjosë–Nartën rannikkomaisemaa koskevista kehityksestä ja laajenivat huoleen julkisesta vastuullisuudesta, korruptiosyytöksistä, koulutuksesta ja terveydenhuollosta, nuorten maastamuutosta, taloudellisista paineista, demokraattisesta edustuksesta ja oikeusvaltioperiaatteesta.
+
+    Tärkeimmät raportoidut luvut ovat:
+
+    - **1 067 pidätystä ja 388 rikosoikeudellista menettelyä:** Reuters raportoi ja syytettiin Albanian viranomaisilta julkaisuhetkellä.
+    - **310 loukkaantui 19. lokakuuta mennessä:** 191 poliisia, 88 mielenosoittajaa ja 31 sivustakatsojaa, *El País* raportoi terveysministeriön lukuihin viitaten.
+    - **Aiemman seurannan aikana tapasi 214 säilöön otettua:** Res Publica -kirjeessä mainittu oikeusasiamiehen alustava selvitys havaitsi näkyviä merkkejä väkivallasta tai huonosta kohtelusta 26 henkilön osalta ja raportit noin 12 väitetysti eristetyssä pidetystä alaikäisestä.
+    - **32 ilmoitettua poliisin väkivaltatapausta:** luetteloitu Res Publican avoimen kirjeen liitteeseen 13.–17. lokakuuta; nämä ovat raportoituja tapauksia, eivät lopullisia oikeudellisia havaintoja.
+    - **124 tarkistettua todistetta:** kuvattu asianajajien Amnesty Internationalille lähettämässä saatekirjeessä, mukaan lukien 31 uutta lokimerkintää, jotka kattavat 18.–20. lokakuuta; taustalla oleva luottamuksellinen loki ei ole julkinen tässä arkistossa.
+
+    Näillä luvuilla on eri ajanjaksoja, populaatioita ja määritelmiä. Ne menevät päällekkäin, eikä niitä pidä laskea yhteen yhdeksi kokonaisuudeksi.
+
+    Lähteeseen linkitetty raportointi herättää huolta seuraavista seikoista:
+
+    - **Joulun hallinta-aseet:** poliisin käyttämä kyynelkaasua, vesitykkiä, patukkuja, ärsyttävää suihketta ja 17. lokakuuta julkaistun kansainvälisen raportin mukaan kumiluoteja mielenosoittajia ja sivullisia vastaan.
+    - **Fyysinen voima ja rajoitukset:** mahdollisesti liiallinen voima, mukaan lukien ihmiset, joiden kerrotaan olevan maassa.
+    - **Vakava loukkaantuminen:** sairaalan haastateltava väitti poliisin aiheuttaneen vakavan jalkavamman.
+    - **Säilöönottotakeet:** Oikeusasiamies dokumentoi puuttuvat oikeuksia koskevat tietolomakkeet, puutteelliset säilöönottorekisterit ja väitteet siitä, että henkilökohtaisia ​​puhelimia etsittiin ilman asianmukaista lupaa.
+    - **Alaikäisten kohtelu:** Raportit sisältävät kuulusteluja ilman huoltajia tai psykologeja, väitetyn eristäytymisen ja mahdollisen altistumisen voimalle tai pidätykseen.
+    - **Lehdistön vapaus:** toimittajiin ja mediatyöntekijöihin kohdistuvat pahoinpitelyt, uhkailut, vammat, esteet ja pakkopoistot.
+
+    Nämä raportit ja väitteet edellyttävät riippumatonta todentamista, eivät vahvistettuja oikeudellisia havaintoja. Jotkut osallistujat kuulemma heittivät kiviä ja sytyttivät tulta; Tämä ei oikeuta voimankäyttöä niitä vastaan, jotka eivät sitä tehneet. Kuten Albanian Helsinki-komitea totesi 13. lokakuuta, yksittäisten ihmisten teot eivät voi tehdä kokonaista edustajakokousta väkivaltaiseksi, ja poliisivoimien on pysyttävä laillisina, tarpeellisina ja oikeasuhteisina.
+
+    Olisin kiitollinen, jos oppilaitoksenne voisi:
+
+    - Ota tämä tilanne kiireelliseen seurantaohjelmaasi ja ota heti yhteyttä asianomaisiin Albanian viranomaisiin.
+    - Pyri säilyttämään poliisin videokuvat, käyttöönottomääräykset ja lääketieteelliset tiedot, jotka liittyvät ilmoitettuihin vammoihin ja pidätyksiin.
+    - Pyydä riippumatonta, henkilökohtaista tutkimusta vakavasta jalkavamman tapauksesta ja kaikista väitteistä liiallisesta voimasta.
+    - Selvitä, mihin toimiin voit ryhtyä kahden- tai monenvälisten kanavien kautta, mukaan lukien ETYJ ja Euroopan neuvosto tarvittaessa.
+
+    Olisin kiitollinen vastauksesta, jossa kerrotaan, mitä laitoksesi voi tehdä ja milloin voin odottaa vastausta. Olen liittänyt mukaan ADCN:n todisteet, jotka linkittävät suoraan alla oleviin raportteihin ja alkuperäisiin viesteihin.
+
+    Ystävällisin terveisin
+
+    - Flamingo Revolution – protestidokumentaatio ja kansalaishankkeet.
+    - Flamingo Revolution Diaspora – diasporan päivitykset ja tiedotus.
+    - Albanian Diaspora Civic Network – tutkimusta ja näyttöön perustuvaa kansalaistyötä.
+    - Illyian Brains Network – albanialaisten ammattilaisten maailmanlaajuinen verkosto.
+
+    ---
+
+    **Viitteet:**
+
+    Valitut kansainväliset raportit, uusimmat ensin:
+
+    - El País, 22. lokakuuta – raportointi Tiranan jatkuvista opiskelijamielenosoituksista, poliisin ja mielenosoittajien välisestä väkivallasta ja hallituksen vuoropuhelutarjouksesta: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. lokakuuta – pidätykset, rikosoikeudelliset menettelyt ja hallituksen vastaus: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Ensisijaiset ja paikalliset asiakirjat tiettyjä syytöksiä varten:
+
+    - Albanian oikeusasiamies, 20. lokakuuta – alustavat seurantahavainnot pidätysolosuhteista ja alaikäisten kohtelusta: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — todistepohja: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh – videokokoelma, jossa dokumentoidaan raportoitu poliisiväkivalta: <https://hajdenshesh.com/dhuna>
+
+    Täydellinen luettelo protesteista uutisoineista tiedotusvälineistä löytyy sivulta [Mediaraportit ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "Kansainvälinen edustaja"
 
-    **Aihe:** Albanian Flamingo-mielenosoitukset: nostakaa raportoidut ihmisoikeusloukkaukset esiin
+    !!! warning "Kuka voi parhaiten lähettää tämän?"
+        Ehdotetut lähettäjät tärkeysjärjestyksessä:
 
-    Asianomaiselle,
+        - **Flamingoyhteisöt**
+        - **Kansalaisjärjestöt**
+        - **Verkostojen ammattilaiset**
+        - **Disporan jäsen**
 
-    [Äänestäjänä / Albanian diasporan jäsenenä / huolestuneena asukkaana] pyydän teitä nostamaan esiin mielenosoittajien, sivullisten, toimittajien ja kiinniotettujen turvallisuuden Albaniassa. Pyytäkää viranomaisia säilyttämään poliisivideot, toimintakäskyt ja potilasasiakirjat sekä tutkimaan riippumattomasti väitteet liiallisesta voimankäytöstä ja alaikäisten kohtelusta.
+        Käytä vahvinta aitoa yhteyttä ja kuvaile se tarkasti.
 
-    Kertokaa minulle, mitä hallituksenne aikoo tehdä Etyjin tai Euroopan neuvoston kautta.
+    **Aihe:** Flamingo-mielenosoitukset Albaniassa: ota esille ilmoitetut ihmisoikeusloukkaukset
 
-    Ystävällisin terveisin,
+    Arvoisa vastaanottaja,
 
-## Lähteet ja liitteet
+    Kirjoitan [valittuneena / albanialaisen diasporan jäsenenä / huolestuneena asukkaana] pyytääkseni sinua kiinnittämään kiireellisesti huomiota raportoituihin ihmisoikeusloukkauksiin opiskelijoiden vetämien mielenosoitusten aikana, jotka alkoivat Tiranassa 13. lokakuuta 2026 ja ovat sittemmin levinneet. Raporttien katsominen on ollut pelottavaa, ja haluan kaikkien protestoivien, ohikulkevien tai uutisia raportoivien tulevan turvallisesti kotiin.
 
-- [Englanninkieliset viestit ja päivitetty kansainvälinen uutislista](../messages/index.md)
-- [ADCN:n todistusaineisto](https://albaniandiasporacivicnetwork.com/sq/violence-appeal/)
-- [Flamingo-mielenosoitusten aikajana](https://www.flamingorevolution.eu/protestat/)
-- [Flamingo Dossier](https://www.flamingorevolution.eu/dosjet/)
-- [Flamingo-mielenosoituskartta](https://www.flamingorevolution.eu/harta/)
+    Nämä mielenosoitukset ovat osa yli 140 päivää kestäneitä Flamingo-mielenosoituksia Albaniassa. [liikkeen julkaiseman protestikronologian](https://www.flamingorevolution.eu/protestat/) mukaan mielenosoitukset alkoivat suojeltua Vjosë–Nartën rannikkomaisemaa koskevista kehityksestä ja laajenivat huoleen julkisesta vastuullisuudesta, korruptiosyytöksistä, koulutuksesta ja terveydenhuollosta, nuorten maastamuutosta, taloudellisista paineista, demokraattisesta edustuksesta ja oikeusvaltioperiaatteesta.
+
+    Tärkeimmät raportoidut luvut ovat:
+
+    - **1 067 pidätystä ja 388 rikosoikeudellista menettelyä:** Reuters raportoi ja syytettiin Albanian viranomaisilta julkaisuhetkellä.
+    - **310 loukkaantui 19. lokakuuta mennessä:** 191 poliisia, 88 mielenosoittajaa ja 31 sivustakatsojaa, *El País* raportoi terveysministeriön lukuihin viitaten.
+    - **Aiemman seurannan aikana tapasi 214 säilöön otettua:** Res Publica -kirjeessä mainittu oikeusasiamiehen alustava selvitys havaitsi näkyviä merkkejä väkivallasta tai huonosta kohtelusta 26 henkilön osalta ja raportit noin 12 väitetysti eristetyssä pidetystä alaikäisestä.
+    - **32 ilmoitettua poliisin väkivaltatapausta:** luetteloitu Res Publican avoimen kirjeen liitteeseen 13.–17. lokakuuta; nämä ovat raportoituja tapauksia, eivät lopullisia oikeudellisia havaintoja.
+    - **124 tarkistettua todistetta:** kuvattu asianajajien Amnesty Internationalille lähettämässä saatekirjeessä, mukaan lukien 31 uutta lokimerkintää, jotka kattavat 18.–20. lokakuuta; taustalla oleva luottamuksellinen loki ei ole julkinen tässä arkistossa.
+
+    Näillä luvuilla on eri ajanjaksoja, populaatioita ja määritelmiä. Ne menevät päällekkäin, eikä niitä pidä laskea yhteen yhdeksi kokonaisuudeksi.
+
+    Lähteeseen linkitetty raportointi herättää huolta seuraavista seikoista:
+
+    - **Joulun hallinta-aseet:** poliisin käyttämä kyynelkaasua, vesitykkiä, patukkuja, ärsyttävää suihketta ja 17. lokakuuta julkaistun kansainvälisen raportin mukaan kumiluoteja mielenosoittajia ja sivullisia vastaan.
+    - **Fyysinen voima ja rajoitukset:** mahdollisesti liiallinen voima, mukaan lukien ihmiset, joiden kerrotaan olevan maassa.
+    - **Vakava loukkaantuminen:** sairaalan haastateltava väitti poliisin aiheuttaneen vakavan jalkavamman.
+    - **Säilöönottotakeet:** Oikeusasiamies dokumentoi puuttuvat oikeuksia koskevat tietolomakkeet, puutteelliset säilöönottorekisterit ja väitteet siitä, että henkilökohtaisia ​​puhelimia etsittiin ilman asianmukaista lupaa.
+    - **Alaikäisten kohtelu:** Raportit sisältävät kuulusteluja ilman huoltajia tai psykologeja, väitetyn eristäytymisen ja mahdollisen altistumisen voimalle tai pidätykseen.
+    - **Lehdistön vapaus:** toimittajiin ja mediatyöntekijöihin kohdistuvat pahoinpitelyt, uhkailut, vammat, esteet ja pakkopoistot.
+
+    Nämä raportit ja väitteet edellyttävät riippumatonta todentamista, eivät vahvistettuja oikeudellisia havaintoja. Jotkut osallistujat kuulemma heittivät kiviä ja sytyttivät tulta; Tämä ei oikeuta voimankäyttöä niitä vastaan, jotka eivät sitä tehneet. Kuten Albanian Helsinki-komitea totesi 13. lokakuuta, yksittäisten ihmisten teot eivät voi tehdä kokonaista edustajakokousta väkivaltaiseksi, ja poliisivoimien on pysyttävä laillisina, tarpeellisina ja oikeasuhteisina.
+
+    Olisin kiitollinen, jos voisit:
+
+    - Edistäkää mielenosoittajien, sivullisten, toimittajien ja vankien turvallisuutta Albanian viranomaisten kanssa nyt.
+    - Pyri säilyttämään poliisin videokuvat, käyttöönottomääräykset ja lääketieteelliset tiedot, jotka liittyvät ilmoitettuihin vammoihin ja pidätyksiin.
+    - Pyydä riippumatonta, henkilökohtaista tutkimusta vakavasta jalkavamman tapauksesta ja kaikista väitteistä liiallisesta voimasta.
+    - Kerro minulle, mitä hallituksenne aikoo tehdä kahdenvälisten suhteillaan Albanian kanssa sekä Etyjin tai Euroopan neuvoston kautta.
+
+    Olisin kiitollinen vastauksesta, jossa kerrotaan, mitä voit tehdä ja milloin odotan vastausta. Olen liittänyt mukaan ADCN:n todisteet, jotka linkittävät suoraan alla oleviin raportteihin ja alkuperäisiin viesteihin.
+
+    Ystävällisin terveisin
+
+    - Flamingo Revolution – protestidokumentaatio ja kansalaishankkeet.
+    - Flamingo Revolution Diaspora – diasporan päivitykset ja tiedotus.
+    - Albanian Diaspora Civic Network – tutkimusta ja näyttöön perustuvaa kansalaistyötä.
+    - Illyian Brains Network – albanialaisten ammattilaisten maailmanlaajuinen verkosto.
+
+    ---
+
+    **Viitteet:**
+
+    Valitut kansainväliset raportit, uusimmat ensin:
+
+    - El País, 22. lokakuuta – raportointi Tiranan jatkuvista opiskelijamielenosoituksista, poliisin ja mielenosoittajien välisestä väkivallasta ja hallituksen vuoropuhelutarjouksesta: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. lokakuuta – pidätykset, rikosoikeudelliset menettelyt ja hallituksen vastaus: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Ensisijaiset ja paikalliset asiakirjat tiettyjä syytöksiä varten:
+
+    - Albanian oikeusasiamies, 20. lokakuuta – alustavat seurantahavainnot pidätysolosuhteista ja alaikäisten kohtelusta: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — todistepohja: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh – videokokoelma, jossa dokumentoidaan raportoitu poliisiväkivalta: <https://hajdenshesh.com/dhuna>
+
+    Täydellinen luettelo protesteista uutisoineista tiedotusvälineistä löytyy sivulta [Mediaraportit ↗](https://illyrianbrains.github.io/media-coverage/).
+
+## Valinnaiset kuvaliitteet ja Flamingo-resurssit
+
+Lataa vain viestiisi liittyvät kuvat, säilytä toimitettu saldo ja linkki alkuperäiseen julkaisuun. Älä anna ymmärtää, että valokuva osoittaa käyttäytymistä kehyksessä näkyvän ulkopuolella. Kuvien oikeudet säilyvät julkaisijalla; nämä tiedostot on tarkoitettu tiettyyn tavoitteeseen, ja ne tulee poistaa sähköpostista, jos uudelleenkäyttölupa on epävarma.
+
+<div class="email-attachment-grid">
+  <article>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
+    <strong>13 October · Tirana street scene</strong>
+    <span>Credit: Citizens.al. Context includes police vehicles, smoke, people and street damage; it does not establish responsibility for any specific act.</span>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+  <article>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
+    <strong>14 October · Student boycott and march</strong>
+    <span>Credit: Citizens.al. Use with the publisher's description and do not infer institutional endorsement from participation.</span>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+  <article>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
+    <strong>15 October · Live protest coverage</strong>
+    <span>Credit: Citizens.al. Verify the original caption and context before attaching or describing the image.</span>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+</div>
+
+[Protestin kronologia ja valokuvat ↗](https://www.flamingorevolution.eu/protestat/){ .md-button }
+[Flamingo Dossier ↗](https://www.flamingorevolution.eu/dosjet/){ .md-button }
+[Flamingo-protestikartta ↗](https://www.flamingorevolution.eu/harta/){ .md-button }
+
+!!! note "Ehdotettu liitteen kuvateksti"
+    Liitteenä olevat valokuvat hyvitetään Citizens.al:lle, ja ne jaetaan linkkien kanssa alkuperäiseen raporttiin. Ne tarjoavat vain visuaalisen kontekstin; kuvatekstit erottavat näkyvän väitteistä, jotka vaativat riippumattoman vahvistuksen. Yllä olevat Flamingo-linkit tarjoavat liikkeen protestin kronologian ja valokuvat, julkisen lähdeaineiston ja protestikartan.
+
+## Käännökset
+
+Samat kolme sähköpostia ovat saatavilla kielillä [albania](../languages/sq.md), [tšekki](../languages/cs.md), [tanska](../languages/da.md), [hollanti](../languages/nl.md), [suomi](../language). [ranska](../languages/fr.md), [saksa](../languages/de.md), [italia](../languages/it.md), [norja] (../languages/no.md), [puola](../languages/pl.languages](d.s.), [/. [espanja](../languages/es.md) ja [ruotsi](../languages/sv.md).
+
+## Kiitokset ja tunnustukset
+
+Tämä tiedotusmateriaali perustuu [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) ja muiden flamingoryhmien kautta diasporaan, Albanian Helsinki Committeen, paikallisten toimittajien ja riippumattomien toimittajien, toimittajien toimittamiin dokumentaatioihin, kansalaisjärjestöihin ja julkiseen tietoon. Kuittaus ei tarkoita, että jokainen nimetty ryhmä on laatinut, valtuuttanut tai hyväksynyt tämän mallin.
+
+Jokaisen yllä olevan väitteen lähteet, avoimet kysymykset ja vahvistusstandardit on koottu osioon [Tausta → Lähteet ja vahvistus] (../background/sources.md).

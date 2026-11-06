@@ -3,146 +3,257 @@ hide:
   - toc
 ---
 
-!!! warning "Prima dell’invio"
-    - [ ] Scegliere la scheda corretta per il destinatario.
-    - [ ] Personalizzare oggetto, saluto e richiesta.
-    - [ ] Verificare le notizie e i link più recenti.
-    - [ ] Inviare l’email a proprio nome.
-# Proteste Flamingo in Albania — email in italiano
+!!! warning "Prima di inviare"
+    - [ ] Scegli la scheda del destinatario corretto.
+    - [ ] Personalizza l'oggetto, il saluto e la richiesta.
+    - [ ] Verificare i report e i collegamenti più recenti.
+    - [ ] Invia a tuo nome senza implicare l'autorizzazione organizzativa.
+
+# Proteste dei Flamingo in Albania: email di sensibilizzazione in inglese
+
 === "Media"
-    **Oggetto:** Proteste Flamingo in Albania: presunti abusi della polizia durante le manifestazioni a Tirana
 
-    A chi di competenza,
+    **Oggetto:** Proteste Flamingo in Albania: denunciati abusi della polizia durante le manifestazioni studentesche di Tirana
 
-    Le chiedo di esaminare i presunti abusi dei diritti umani durante le manifestazioni studentesche a Tirana iniziate il 13 ottobre 2026 e da allora estesesi.
+    Per chi è coinvolto,
 
-    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo il resoconto pubblicato dal movimento, sono iniziate contro progetti che interessano il paesaggio costiero protetto di Vjosë–Nartë e si sono estese a responsabilità pubblica, accuse di corruzione, istruzione e sanità, emigrazione giovanile, pressione economica, rappresentanza democratica e Stato di diritto.
+    Chiedo alla vostra redazione di esaminare urgentemente le segnalazioni di violazioni dei diritti umani durante le manifestazioni guidate dagli studenti iniziate a Tirana il 13 ottobre 2026 e da allora si sono diffuse. Le proteste coinvolgono gli studenti, compresi quelli delle scuole superiori, e le accuse meritano una più ampia attenzione pubblica.
 
-    Gli abusi segnalati riguardano:
+    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo la [cronologia delle proteste pubblicata dal movimento](https://www.flamingorevolution.eu/protestat/), le proteste sono iniziate per lo sviluppo che ha interessato il paesaggio costiero protetto di Vjosë–Nartë e si sono ampliate alle preoccupazioni sulla responsabilità pubblica, sulle accuse di corruzione, sull'istruzione e l'assistenza sanitaria, sull'emigrazione giovanile, sulla pressione economica, sulla rappresentanza democratica e sullo stato di diritto.
 
-    - **Controllo della folla:** gas lacrimogeni, idranti, manganelli, spray irritante e, secondo le notizie internazionali del 17 ottobre, proiettili di gomma usati dalla polizia contro manifestanti e passanti.
-    - **Forza e immobilizzazione:** forza potenzialmente eccessiva e persone trattenute a terra.
-    - **Lesione grave:** una persona intervistata in ospedale ha accusato la polizia di averle causato una grave lesione alla gamba.
-    - **Garanzie dei fermati:** possibili violazioni procedurali nel contesto di arresti e fermi segnalati nel corso di più giorni.
-    - **Trattamento dei minori:** partecipazione di studenti delle scuole superiori, potenzialmente esposti a forza o fermo; non è noto quanti fossero minorenni.
-    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostacoli e allontanamento forzato di operatori dei media.
+    Le principali cifre riportate includono:
 
-    Sono accuse da verificare in modo indipendente, non accertamenti giuridici. Alcuni manifestanti avrebbero lanciato pietre e acceso incendi; ciò non giustifica l'uso della forza contro chi non lo ha fatto. Il Comitato Helsinki albanese ha dichiarato che gli atti di singoli individui non possono rendere violenta un'intera manifestazione, e che la forza della polizia deve restare legale, necessaria e proporzionata.
+    - **1.067 arresti e 388 procedimenti penali:** riportati da Reuters e attribuiti alle autorità albanesi al momento della pubblicazione.
+    - **310 feriti fino al 19 ottobre:** 191 agenti di polizia, 88 manifestanti e 31 passanti, secondo quanto riferito da *El País* citando dati del Ministero della Salute.
+    - **214 detenuti incontrati nel corso del precedente monitoraggio:** il verbale preliminare del Garante, citato nella lettera Res Publica, rilevava segni visibili di accuse di violenza o maltrattamenti per 26 persone e segnalazioni riguardanti circa 12 minori presumibilmente tenuti in isolamento.
+    - **32 casi denunciati di violenza da parte della polizia:** catalogati nell'allegato della lettera aperta Res Publica dal 13 al 17 ottobre; questi sono casi segnalati, non risultati legali definitivi.
+    - **124 prove esaminate:** descritte nella lettera di accompagnamento degli avvocati ad Amnesty International, comprese 31 voci di registro recentemente presentate relative al periodo dal 18 al 20 ottobre; il registro riservato sottostante non è pubblico in questo repository.
 
-    La prego di assegnare un giornalista, chiedere risposte alle autorità e alle persone coinvolte, chiedere la conservazione dei video della polizia e della documentazione medica e un'indagine indipendente sulla presunta lesione grave, e portare all'attenzione pubblica soprattutto il possibile trattamento dei minori e le interferenze contro i giornalisti.
+    Queste cifre hanno periodi, popolazioni e definizioni diverse. Si sovrappongono e non devono essere sommati come un unico totale.
 
-    Notizie internazionali selezionate, dalle più recenti:
+    La segnalazione collegata alla fonte solleva preoccupazioni riguardo a:
 
-    - Reuters, 18 ottobre — ultimi sviluppi e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Associated Press, 17 ottobre — quinto giorno di proteste, arresti, feriti e sospensioni di agenti: <https://apnews.com/article/9f0ce30c446aa9f273068b98d9f40b14>
-    - Al Jazeera, 17 ottobre — proiettili di gomma e disordini in espansione: <https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate>
-    - Le Monde, 17 ottobre — accuse di violenza della polizia e risposta civica: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
-    - BBC News — panoramica delle proteste, della violenza e della risposta della polizia: <https://www.bbc.co.uk/news/articles/crwydey50xeno>
+    - **Armi per il controllo della folla:** uso da parte della polizia di gas lacrimogeni, idranti, manganelli, spray irritanti e, secondo un rapporto internazionale del 17 ottobre, proiettili di gomma contro manifestanti e passanti.
+    - **Forza fisica e contenzione:** forza potenzialmente eccessiva, comprese le persone presumibilmente trattenute a terra.
+    - **Lesioni gravi:** un intervistato in ospedale ha affermato che la polizia ha causato un grave infortunio alla gamba.
+    - **Tutela della detenzione:** il Difensore civico ha documentato la mancanza di moduli di informazione sui diritti, registri di detenzione incompleti e accuse secondo cui i telefoni personali sarebbero stati perquisiti senza un'adeguata autorizzazione.
+    - **Trattamento di minori:** le segnalazioni includono interrogatori senza tutori o psicologi, presunto isolamento e possibile esposizione alla forza o alla detenzione.
+    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostruzione e allontanamento forzato nei confronti di giornalisti e operatori dei media.
+
+    Si tratta di rapporti e accuse che richiedono una verifica indipendente, non di accertamenti legali accertati. Secondo quanto riferito, alcuni partecipanti hanno lanciato pietre e acceso fuochi; ciò non giustifica l’uso della forza contro persone che non lo hanno fatto. Come ha affermato il Comitato Helsinki albanese il 13 ottobre, gli atti degli individui non possono rendere violenta un’intera assemblea e le forze di polizia devono rimanere legali, necessarie e proporzionate.
+
+    Si prega di assegnare un giornalista, chiedere risposte alle autorità albanesi e alle persone colpite e premere per la conservazione dei video della polizia, degli ordini di schieramento e delle cartelle cliniche insieme a un'indagine indipendente sul grave caso di infortunio alla gamba, in particolare coprendo il possibile trattamento dei minori e l'interferenza con i giornalisti. Apprezzerei sapere se e quando la vostra redazione intende occuparsi di questo. La nota allegata fornisce fonti e domande di verifica.
+
+    Cordiali saluti,
+
+    - Flamingo Revolution — documentazione di protesta e progetti civici.
+    - Flamingo Revolution Diaspora — aggiornamenti e sensibilizzazione sulla diaspora.
+    - Rete civica della diaspora albanese — ricerca e lavoro civico basato sull'evidenza.
+    - Illyrian Brains Network — una rete globale di professionisti albanesi.
+
+    ---
+
+    **Riferimenti:**
+
+    Rapporti internazionali selezionati, prima i più recenti:
+
+    - El País, 22 ottobre - rapporto da Tirana sulle continue proteste studentesche, sulla violenza tra polizia e manifestanti e sull'offerta di dialogo del governo: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 ottobre — arresti, procedimenti penali e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
 
     Documentazione primaria e locale per accuse specifiche:
 
-    - Euronews Albania — intervista in ospedale sulla presunta grave lesione alla gamba: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — incidenti documentati contro giornalisti e operatori dei media: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
-    - ADCN — base probatoria: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Difensore civico albanese, 20 ottobre — risultati preliminari del monitoraggio sulle condizioni di detenzione e sul trattamento dei minori: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — base di prove: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n'Shesh: raccolta di video che documentano le denunce di violenza da parte della polizia: <https://hajdenshesh.com/dhuna>
 
-    Cordiali saluti,
+    L'elenco completo dei media che hanno riportato le proteste è disponibile su [Rapporti dei media ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "Istituzione internazionale"
+
     !!! warning "Chi è nella posizione migliore per inviare questo?"
         Mittenti suggeriti, in ordine di priorità:
 
-        - **Le comunità Flamingo**
-        - **Le organizzazioni civiche**
-        - **I professionisti nelle reti**
+        - **Le comunità dei fenicotteri**
+        - **Organizzazioni civiche**
+        - **Professionisti nelle reti**
         - **Un membro della diaspora**
 
-        Scegliete il legame autentico più forte e descrivetelo accuratamente.
+        Usa la connessione autentica più forte e descrivila accuratamente.
 
-    **Oggetto:** Proteste Flamingo in Albania: allerta urgente su presunte violazioni dei diritti
+    **Oggetto:** Proteste dei Flamingo in Albania: allarme urgente sulle segnalazioni di violazioni dei diritti
 
-    A chi di competenza,
+    Per chi è coinvolto,
 
-    Segnalo gravi preoccupazioni per i diritti umani durante le manifestazioni a Tirana iniziate il 13 ottobre 2026 e da allora estesesi.
+    Scrivo per avvisare la vostra istituzione delle gravi preoccupazioni relative ai diritti umani segnalate durante le manifestazioni guidate dagli studenti iniziate a Tirana il 13 ottobre 2026 e da allora si sono diffuse. Studenti, giornalisti, passanti e detenuti potrebbero essere colpiti e la partecipazione alle scuole superiori solleva particolari preoccupazioni in materia di protezione dei bambini.
 
-    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo il resoconto pubblicato dal movimento, sono iniziate contro progetti che interessano il paesaggio costiero protetto di Vjosë–Nartë e si sono estese a responsabilità pubblica, accuse di corruzione, istruzione e sanità, emigrazione giovanile, pressione economica, rappresentanza democratica e Stato di diritto.
+    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo la [cronologia delle proteste pubblicata dal movimento](https://www.flamingorevolution.eu/protestat/), le proteste sono iniziate per lo sviluppo che ha interessato il paesaggio costiero protetto di Vjosë–Nartë e si sono ampliate alle preoccupazioni sulla responsabilità pubblica, sulle accuse di corruzione, sull'istruzione e l'assistenza sanitaria, sull'emigrazione giovanile, sulla pressione economica, sulla rappresentanza democratica e sullo stato di diritto.
 
-    Gli abusi segnalati riguardano:
+    Le principali cifre riportate includono:
 
-    - **Controllo della folla:** gas lacrimogeni, idranti, manganelli, spray irritante e, secondo le notizie internazionali del 17 ottobre, proiettili di gomma usati dalla polizia contro manifestanti e passanti.
-    - **Forza e immobilizzazione:** forza potenzialmente eccessiva e persone trattenute a terra.
-    - **Lesione grave:** l'accusa di una grave lesione alla gamba causata dalla polizia.
-    - **Garanzie dei fermati:** possibili violazioni procedurali nel contesto di arresti e fermi segnalati nel corso di più giorni.
-    - **Trattamento dei minori:** partecipazione di studenti e possibile esposizione a forza o fermo, senza un numero verificato.
-    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostacoli e allontanamento di operatori dei media.
+    - **1.067 arresti e 388 procedimenti penali:** riportati da Reuters e attribuiti alle autorità albanesi al momento della pubblicazione.
+    - **310 feriti fino al 19 ottobre:** 191 agenti di polizia, 88 manifestanti e 31 passanti, secondo quanto riferito da *El País* citando dati del Ministero della Salute.
+    - **214 detenuti incontrati nel corso del precedente monitoraggio:** il verbale preliminare del Garante, citato nella lettera Res Publica, rilevava segni visibili di accuse di violenza o maltrattamenti per 26 persone e segnalazioni riguardanti circa 12 minori presumibilmente tenuti in isolamento.
+    - **32 casi denunciati di violenza da parte della polizia:** catalogati nell'allegato della lettera aperta Res Publica dal 13 al 17 ottobre; questi sono casi segnalati, non risultati legali definitivi.
+    - **124 prove esaminate:** descritte nella lettera di accompagnamento degli avvocati ad Amnesty International, comprese 31 voci di registro recentemente presentate relative al periodo dal 18 al 20 ottobre; il registro riservato sottostante non è pubblico in questo repository.
 
-    Sono accuse da verificare indipendentemente. Alcuni manifestanti avrebbero lanciato pietre e acceso incendi; ciò non giustifica l'uso della forza contro chi non lo ha fatto. Il Comitato Helsinki albanese ha dichiarato che gli atti di singoli individui non possono rendere violenta un'intera manifestazione, e che la forza della polizia deve restare legale, necessaria e proporzionata.
+    Queste cifre hanno periodi, popolazioni e definizioni diverse. Si sovrappongono e non devono essere sommati come un unico totale.
 
-    Inserite la situazione nel vostro monitoraggio, interagite con le autorità albanesi, chiedete la conservazione dei video della polizia e della documentazione medica e un'indagine indipendente sulla presunta lesione grave, e riaffermate pubblicamente i diritti di riunione pacifica, tutela dei minori, giusto processo e giornalismo indipendente.
+    La segnalazione collegata alla fonte solleva preoccupazioni riguardo a:
 
-    Notizie internazionali selezionate, dalle più recenti:
+    - **Armi per il controllo della folla:** uso da parte della polizia di gas lacrimogeni, idranti, manganelli, spray irritanti e, secondo un rapporto internazionale del 17 ottobre, proiettili di gomma contro manifestanti e passanti.
+    - **Forza fisica e contenzione:** forza potenzialmente eccessiva, comprese le persone presumibilmente trattenute a terra.
+    - **Lesioni gravi:** un intervistato in ospedale ha affermato che la polizia ha causato un grave infortunio alla gamba.
+    - **Tutela della detenzione:** il Difensore civico ha documentato la mancanza di moduli di informazione sui diritti, registri di detenzione incompleti e accuse secondo cui i telefoni personali sarebbero stati perquisiti senza un'adeguata autorizzazione.
+    - **Trattamento di minori:** le segnalazioni includono interrogatori senza tutori o psicologi, presunto isolamento e possibile esposizione alla forza o alla detenzione.
+    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostruzione e allontanamento forzato nei confronti di giornalisti e operatori dei media.
 
-    - Reuters, 18 ottobre — ultimi sviluppi e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Associated Press, 17 ottobre — quinto giorno di proteste, arresti, feriti e sospensioni di agenti: <https://apnews.com/article/9f0ce30c446aa9f273068b98d9f40b14>
-    - Al Jazeera, 17 ottobre — proiettili di gomma e disordini in espansione: <https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate>
-    - Le Monde, 17 ottobre — accuse di violenza della polizia e risposta civica: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
-    - BBC News — panoramica delle proteste, della violenza e della risposta della polizia: <https://www.bbc.co.uk/news/articles/crwydey50xeno>
+    Si tratta di rapporti e accuse che richiedono una verifica indipendente, non di accertamenti legali accertati. Secondo quanto riferito, alcuni partecipanti hanno lanciato pietre e acceso fuochi; ciò non giustifica l’uso della forza contro persone che non lo hanno fatto. Come ha affermato il Comitato Helsinki albanese il 13 ottobre, gli atti degli individui non possono rendere violenta un’intera assemblea e le forze di polizia devono rimanere legali, necessarie e proporzionate.
+
+    Sarei grato se la vostra istituzione potesse:
+
+    - Inserisci questa situazione nella tua agenda di monitoraggio urgente e contatta subito le autorità albanesi competenti.
+    - Chiedere la conservazione dei video della polizia, degli ordini di schieramento e delle cartelle cliniche relative alle lesioni e alle detenzioni segnalate.
+    - Premere per un'indagine indipendente e personalizzata sul caso di grave infortunio alla gamba e su eventuali accuse di uso eccessivo della forza.
+    - Chiarire quali azioni è possibile intraprendere attraverso canali bilaterali o multilaterali, compresi l’OSCE e il Consiglio d’Europa, ove pertinente.
+
+    Sarei grato se ricevessi una risposta che spieghi cosa può fare la tua istituzione e quando potrei aspettarmi una risposta. Ho allegato la sintesi delle prove dell'ADCN, che si collega direttamente alla segnalazione e ai post originali di seguito.
+
+    Cordiali saluti,
+
+    - Flamingo Revolution — documentazione di protesta e progetti civici.
+    - Flamingo Revolution Diaspora — aggiornamenti e sensibilizzazione sulla diaspora.
+    - Rete civica della diaspora albanese — ricerca e lavoro civico basato sull'evidenza.
+    - Illyrian Brains Network — una rete globale di professionisti albanesi.
+
+    ---
+
+    **Riferimenti:**
+
+    Rapporti internazionali selezionati, prima i più recenti:
+
+    - El País, 22 ottobre - rapporto da Tirana sulle continue proteste studentesche, sulla violenza tra polizia e manifestanti e sull'offerta di dialogo del governo: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 ottobre — arresti, procedimenti penali e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
 
     Documentazione primaria e locale per accuse specifiche:
 
-    - Euronews Albania — intervista in ospedale sulla presunta grave lesione alla gamba: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — incidenti documentati contro giornalisti e operatori dei media: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
-    - ADCN — base probatoria: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Difensore civico albanese, 20 ottobre — risultati preliminari del monitoraggio sulle condizioni di detenzione e sul trattamento dei minori: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — base di prove: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n'Shesh: raccolta di video che documentano le denunce di violenza da parte della polizia: <https://hajdenshesh.com/dhuna>
 
-    Cordiali saluti,
+    L'elenco completo dei media che hanno riportato le proteste è disponibile su [Rapporti dei media ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "Rappresentante internazionale"
+
     !!! warning "Chi è nella posizione migliore per inviare questo?"
         Mittenti suggeriti, in ordine di priorità:
 
-        - **Le comunità Flamingo**
-        - **Le organizzazioni civiche**
-        - **I professionisti nelle reti**
+        - **Le comunità dei fenicotteri**
+        - **Organizzazioni civiche**
+        - **Professionisti nelle reti**
         - **Un membro della diaspora**
 
-        Scegliete il legame autentico più forte e descrivetelo accuratamente.
+        Usa la connessione autentica più forte e descrivila accuratamente.
 
-    **Oggetto:** Proteste Flamingo in Albania: sollevi la questione dei presunti abusi dei diritti umani
+    **Oggetto:** Proteste dei Flamingo in Albania: si prega di segnalare le violazioni dei diritti umani
 
-    A chi di competenza,
+    Per chi è coinvolto,
 
-    Le scrivo come [elettore/elettrice / membro della diaspora albanese / residente preoccupato/a] per chiederLe di sollevare la questione dei presunti abusi durante le manifestazioni a Tirana iniziate il 13 ottobre 2026 e da allora estesesi. Seguire le notizie è stato spaventoso, e desidero che chiunque stia protestando, passando di lì o facendo cronaca torni a casa sano e salvo.
+    Scrivo in qualità di [costituente / membro della diaspora albanese / residente preoccupato] per chiedervi di attirare urgentemente attenzione sulle violazioni dei diritti umani denunciate durante le manifestazioni guidate dagli studenti iniziate a Tirana il 13 ottobre 2026 e da allora si sono diffuse. Guardare i servizi è stato spaventoso e voglio che tutti coloro che protestano, passano di lì o riportano la notizia tornino a casa sani e salvi.
 
-    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo il resoconto pubblicato dal movimento, sono iniziate contro progetti che interessano il paesaggio costiero protetto di Vjosë–Nartë e si sono estese a responsabilità pubblica, accuse di corruzione, istruzione e sanità, emigrazione giovanile, pressione economica, rappresentanza democratica e Stato di diritto.
+    Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo la [cronologia delle proteste pubblicata dal movimento](https://www.flamingorevolution.eu/protestat/), le proteste sono iniziate per lo sviluppo che ha interessato il paesaggio costiero protetto di Vjosë–Nartë e si sono ampliate alle preoccupazioni sulla responsabilità pubblica, sulle accuse di corruzione, sull'istruzione e l'assistenza sanitaria, sull'emigrazione giovanile, sulla pressione economica, sulla rappresentanza democratica e sullo stato di diritto.
 
-    Gli abusi segnalati riguardano:
+    Le principali cifre riportate includono:
 
-    - **Controllo della folla:** gas lacrimogeni, idranti, manganelli, spray irritante e, secondo le notizie internazionali del 17 ottobre, proiettili di gomma usati dalla polizia contro manifestanti e passanti.
-    - **Forza e immobilizzazione:** forza potenzialmente eccessiva e persone trattenute a terra.
-    - **Lesione grave:** l'accusa di una grave lesione alla gamba causata dalla polizia.
-    - **Garanzie dei fermati:** possibili violazioni procedurali nel contesto di arresti e fermi segnalati nel corso di più giorni.
-    - **Trattamento dei minori:** partecipazione di studenti e possibile esposizione a forza o fermo, senza un numero verificato.
-    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostacoli e allontanamento di operatori dei media.
+    - **1.067 arresti e 388 procedimenti penali:** riportati da Reuters e attribuiti alle autorità albanesi al momento della pubblicazione.
+    - **310 feriti fino al 19 ottobre:** 191 agenti di polizia, 88 manifestanti e 31 passanti, secondo quanto riferito da *El País* citando dati del Ministero della Salute.
+    - **214 detenuti incontrati nel corso del precedente monitoraggio:** il verbale preliminare del Garante, citato nella lettera Res Publica, rilevava segni visibili di accuse di violenza o maltrattamenti per 26 persone e segnalazioni riguardanti circa 12 minori presumibilmente tenuti in isolamento.
+    - **32 casi denunciati di violenza da parte della polizia:** catalogati nell'allegato della lettera aperta Res Publica dal 13 al 17 ottobre; questi sono casi segnalati, non risultati legali definitivi.
+    - **124 prove esaminate:** descritte nella lettera di accompagnamento degli avvocati ad Amnesty International, comprese 31 voci di registro recentemente presentate relative al periodo dal 18 al 20 ottobre; il registro riservato sottostante non è pubblico in questo repository.
 
-    Sono accuse da verificare indipendentemente. Alcuni manifestanti avrebbero lanciato pietre e acceso incendi; ciò non giustifica l'uso della forza contro chi non lo ha fatto. Il Comitato Helsinki albanese ha dichiarato che gli atti di singoli individui non possono rendere violenta un'intera manifestazione, e che la forza della polizia deve restare legale, necessaria e proporzionata.
+    Queste cifre hanno periodi, popolazioni e definizioni diverse. Si sovrappongono e non devono essere sommati come un unico totale.
 
-    Sollevi queste preoccupazioni presso il ministero, la commissione parlamentare o la missione diplomatica competente, e chieda la conservazione dei video della polizia e della documentazione medica e un'indagine indipendente sulla presunta lesione grave. Le sarei grato/a di una risposta che spieghi cosa può fare ed entro quando posso aspettarmi un riscontro.
+    La segnalazione collegata alla fonte solleva preoccupazioni riguardo a:
 
-    Notizie internazionali selezionate, dalle più recenti:
+    - **Armi per il controllo della folla:** uso da parte della polizia di gas lacrimogeni, idranti, manganelli, spray irritanti e, secondo un rapporto internazionale del 17 ottobre, proiettili di gomma contro manifestanti e passanti.
+    - **Forza fisica e contenzione:** forza potenzialmente eccessiva, comprese le persone presumibilmente trattenute a terra.
+    - **Lesioni gravi:** un intervistato in ospedale ha affermato che la polizia ha causato un grave infortunio alla gamba.
+    - **Tutela della detenzione:** il Difensore civico ha documentato la mancanza di moduli di informazione sui diritti, registri di detenzione incompleti e accuse secondo cui i telefoni personali sarebbero stati perquisiti senza un'adeguata autorizzazione.
+    - **Trattamento di minori:** le segnalazioni includono interrogatori senza tutori o psicologi, presunto isolamento e possibile esposizione alla forza o alla detenzione.
+    - **Libertà di stampa:** aggressioni, minacce, lesioni, ostruzione e allontanamento forzato nei confronti di giornalisti e operatori dei media.
 
-    - Reuters, 18 ottobre — ultimi sviluppi e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Associated Press, 17 ottobre — quinto giorno di proteste, arresti, feriti e sospensioni di agenti: <https://apnews.com/article/9f0ce30c446aa9f273068b98d9f40b14>
-    - Al Jazeera, 17 ottobre — proiettili di gomma e disordini in espansione: <https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate>
-    - Le Monde, 17 ottobre — accuse di violenza della polizia e risposta civica: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
-    - BBC News — panoramica delle proteste, della violenza e della risposta della polizia: <https://www.bbc.co.uk/news/articles/crwydey50xeno>
+    Si tratta di rapporti e accuse che richiedono una verifica indipendente, non di accertamenti legali accertati. Secondo quanto riferito, alcuni partecipanti hanno lanciato pietre e acceso fuochi; ciò non giustifica l’uso della forza contro persone che non lo hanno fatto. Come ha affermato il Comitato Helsinki albanese il 13 ottobre, gli atti degli individui non possono rendere violenta un’intera assemblea e le forze di polizia devono rimanere legali, necessarie e proporzionate.
 
-    Documentazione primaria e locale per accuse specifiche:
+    Ti sarei grato se potessi:
 
-    - Euronews Albania — intervista in ospedale sulla presunta grave lesione alla gamba: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — incidenti documentati contro giornalisti e operatori dei media: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
-    - ADCN — base probatoria: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Aumentare ora la sicurezza dei manifestanti, degli astanti, dei giornalisti e dei detenuti presso le autorità albanesi.
+    - Chiedere la conservazione dei video della polizia, degli ordini di schieramento e delle cartelle cliniche relative alle lesioni e alle detenzioni segnalate.
+    - Premere per un'indagine indipendente e personalizzata sul caso di grave infortunio alla gamba e su eventuali accuse di uso eccessivo della forza.
+    - Dimmi cosa farà il tuo governo attraverso le sue relazioni bilaterali con l'Albania e attraverso l'OSCE o il Consiglio d'Europa.
+
+    Sarei grato per una risposta che spieghi cosa puoi fare e quando potrei aspettarmi una risposta. Ho allegato la sintesi delle prove dell'ADCN, che si collega direttamente alla segnalazione e ai post originali di seguito.
 
     Cordiali saluti,
 
-## Credits and acknowledgements
+    - Flamingo Revolution — documentazione di protesta e progetti civici.
+    - Flamingo Revolution Diaspora — aggiornamenti e sensibilizzazione sulla diaspora.
+    - Rete civica della diaspora albanese — ricerca e lavoro civico basato sull'evidenza.
+    - Illyrian Brains Network — una rete globale di professionisti albanesi.
 
-This outreach material draws on documentation, civic organizing and public information contributed by [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) and other Flamingo groups across the diaspora, the Albanian Helsinki Committee, local reporters on the ground, journalists and independent volunteers. Acknowledgement does not imply authorship, authorization or endorsement of this template by every named group.
+    ---
+
+    **Riferimenti:**
+
+    Rapporti internazionali selezionati, prima i più recenti:
+
+    - El País, 22 ottobre - rapporto da Tirana sulle continue proteste studentesche, sulla violenza tra polizia e manifestanti e sull'offerta di dialogo del governo: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 ottobre — arresti, procedimenti penali e risposta del governo: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Documentazione primaria e locale per accuse specifiche:
+
+    - Difensore civico albanese, 20 ottobre — risultati preliminari del monitoraggio sulle condizioni di detenzione e sul trattamento dei minori: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — base di prove: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n'Shesh: raccolta di video che documentano le denunce di violenza da parte della polizia: <https://hajdenshesh.com/dhuna>
+
+    L'elenco completo dei media che hanno riportato le proteste è disponibile su [Rapporti dei media ↗](https://illyrianbrains.github.io/media-coverage/).
+
+## Allegati di immagini opzionali e risorse Flamingo
+
+Scarica solo le immagini pertinenti al tuo messaggio, conserva i crediti forniti e collega alla pubblicazione originale. Non lasciare intendere che una fotografia dimostri una condotta al di fuori di ciò che è visibile nell'inquadratura. I diritti sull'immagine rimangono dell'editore; questi file vengono forniti per un utilizzo di sensibilizzazione attribuito e devono essere rimossi da un'e-mail se l'autorizzazione al riutilizzo non è sicura.
+
+<div class="email-attachment-grid">
+  <article>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
+    <strong>13 October · Tirana street scene</strong>
+    <span>Credit: Citizens.al. Context includes police vehicles, smoke, people and street damage; it does not establish responsibility for any specific act.</span>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+  <article>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
+    <strong>14 October · Student boycott and march</strong>
+    <span>Credit: Citizens.al. Use with the publisher's description and do not infer institutional endorsement from participation.</span>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+  <article>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
+    <strong>15 October · Live protest coverage</strong>
+    <span>Credit: Citizens.al. Verify the original caption and context before attaching or describing the image.</span>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+  </article>
+</div>
+
+[Cronologia e fotografie della protesta ↗](https://www.flamingorevolution.eu/protestat/){ .md-button }
+[Flamingo Dossier ↗](https://www.flamingorevolution.eu/dosjet/){ .md-button }
+[Mappa protesta Flamingo ↗](https://www.flamingorevolution.eu/harta/){ .md-button }
+
+!!! note "Didascalia suggerita per l'allegato"
+    Le fotografie allegate sono accreditate a Citizens.al e sono condivise con i collegamenti alla segnalazione originale. Forniscono solo contesto visivo; le didascalie distinguono ciò che è visibile dalle accuse che richiedono una verifica indipendente. I link di Flamingo qui sopra forniscono la cronologia e le fotografie della protesta del movimento, un dossier di fonte pubblica e una mappa della protesta.
+
+## Traduzioni
+
+Le stesse tre e-mail sono disponibili in [albanese](../linguals/sq.md), [ceco](../linguals/cs.md), [danese](../linguals/da.md), [olandese](../linguals/nl.md), [finlandese](../linguals/fi.md), [francese](../linguals/fr.md), [Tedesco](../linguals/de.md), [Italiano](../linguals/it.md), [Norvegese](../linguals/no.md), [Polacco](../linguals/pl.md), [Portoghese](../linguals/pt.md), [Spagnolo](../linguals/es.md) e [Svedese](../linguals/sv.md).
+
+## Crediti e riconoscimenti
+
+Questo materiale di sensibilizzazione si basa sulla documentazione, sull'organizzazione civica e sulle informazioni pubbliche fornite da [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) e altri gruppi Flamingo della diaspora, dal Comitato Helsinki albanese, reporter locali sul campo, giornalisti e volontari indipendenti. Il riconoscimento non implica la paternità, l'autorizzazione o l'approvazione di questo modello da parte di ogni gruppo nominato.
+
+Fonti, domande aperte e standard di verifica per ogni affermazione di cui sopra sono raccolti in [Background → Fonti e verifica](../ background/sources.md).

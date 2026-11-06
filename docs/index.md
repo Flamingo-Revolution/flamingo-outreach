@@ -4,7 +4,50 @@ hide:
   - toc
 ---
 
-# Help report violence against protesters
+# Take action 
+
+<div class="steps-grid">
+<a class="step-card" href="messages/"><span class="step-num">01</span><strong>Choose a letter →</strong><span>Pick a letter for the media, an institution, or a representative.</span></a>
+<a class="step-card" href="media-coverage/"><span class="step-num">02</span><strong>Choose who to contact →</strong><span>Find an outlet or organization that has not been contacted.</span></a>
+<a class="step-card" href="background/sources/"><span class="step-num">03</span><strong>Check the facts →</strong><span>Check the source, date, recipient, and contact details.</span></a>
+<a class="step-card" href="https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing"><span class="step-num">04</span><strong>Record what happened →</strong><span>Add the status, date, and direct link to the shared workbook.</span></a>
+</div>
+
+## Reporting on Instagram { .home-section-heading }
+
+<div class="instagram-post-grid">
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/citizens.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+    <a href="https://www.instagram.com/citizens.al/" target="_blank" rel="noopener noreferrer">View Citizens.al on Instagram →</a>
+  </blockquote>
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/faktoje.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+    <a href="https://www.instagram.com/faktoje.al/" target="_blank" rel="noopener noreferrer">View Faktoje.al on Instagram →</a>
+  </blockquote>
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/flamingo_revolution_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+    <a href="https://www.instagram.com/flamingo_revolution_/" target="_blank" rel="noopener noreferrer">View Flamingo Revolution on Instagram →</a>
+  </blockquote>
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/newspiranjat/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+    <a href="https://www.instagram.com/newspiranjat/" target="_blank" rel="noopener noreferrer">View News Piranjat on Instagram →</a>
+  </blockquote>
+</div>
+
+<script async src="https://www.instagram.com/embed.js"></script>
+
+[**Open @citizens.al →**](https://www.instagram.com/citizens.al/){ .md-button }
+[**Open @faktoje.al →**](https://www.instagram.com/faktoje.al/){ .md-button }
+[**Open @flamingo_revolution_ →**](https://www.instagram.com/flamingo_revolution_/){ .md-button }
+[**Open @newspiranjat →**](https://www.instagram.com/newspiranjat/){ .md-button }
+
+## Update the shared tracker { .home-section-heading }
+
+1. Choose a media outlet, institution, or political party in the workbook.
+2. Check its website or social media for coverage of the protests.
+3. If you find coverage, mark it `Covered` and add the direct link.
+4. If you do not, record your check, send a [letter](messages/index.md), and update the status.
+
+[**Open the shared Excel workbook →**](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing){ .md-button .md-button--primary }
+
+
+# Help report violence against protesters { .home-section-heading }
 
 Choose a letter, contact a media outlet or organization, and record what happened. This helps avoid duplicate work.
 
@@ -55,47 +98,6 @@ Choose a letter, contact a media outlet or organization, and record what happene
 
 <p class="protest-duration-note"><strong>Do not add these figures together.</strong> They come from different sources and cover different dates and groups. Reuters reported 1,067 arrests and 388 criminal cases, based on figures from the authorities. El País reported 310 injured by 19 October: 191 police officers, 88 protesters and 31 bystanders. The Ombudsman figures come from the Res Publica open letter. <a href="background/evidence-comparison/">Compare the sources and dates →</a></p>
 
-## Take action { .home-section-heading .home-section-heading--first }
-
-<div class="steps-grid">
-<a class="step-card" href="messages/"><span class="step-num">01</span><strong>Choose a letter →</strong><span>Pick a letter for the media, an institution, or a representative.</span></a>
-<a class="step-card" href="media-coverage/"><span class="step-num">02</span><strong>Choose who to contact →</strong><span>Find an outlet or organization that has not been contacted.</span></a>
-<a class="step-card" href="background/sources/"><span class="step-num">03</span><strong>Check the facts →</strong><span>Check the source, date, recipient, and contact details.</span></a>
-<a class="step-card" href="https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing"><span class="step-num">04</span><strong>Record what happened →</strong><span>Add the status, date, and direct link to the shared workbook.</span></a>
-</div>
-
-## Reporting on Instagram { .home-section-heading }
-
-<div class="instagram-post-grid">
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/citizens.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/citizens.al/" target="_blank" rel="noopener noreferrer">View Citizens.al on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/faktoje.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/faktoje.al/" target="_blank" rel="noopener noreferrer">View Faktoje.al on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/flamingo_revolution_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/flamingo_revolution_/" target="_blank" rel="noopener noreferrer">View Flamingo Revolution on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/newspiranjat/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/newspiranjat/" target="_blank" rel="noopener noreferrer">View News Piranjat on Instagram →</a>
-  </blockquote>
-</div>
-
-<script async src="https://www.instagram.com/embed.js"></script>
-
-[**Open @citizens.al →**](https://www.instagram.com/citizens.al/){ .md-button }
-[**Open @faktoje.al →**](https://www.instagram.com/faktoje.al/){ .md-button }
-[**Open @flamingo_revolution_ →**](https://www.instagram.com/flamingo_revolution_/){ .md-button }
-[**Open @newspiranjat →**](https://www.instagram.com/newspiranjat/){ .md-button }
-
-## Update the shared tracker { .home-section-heading }
-
-1. Choose a media outlet, institution, or political party in the workbook.
-2. Check its website or social media for coverage of the protests.
-3. If you find coverage, mark it `Covered` and add the direct link.
-4. If you do not, record your check, send a [letter](messages/index.md), and update the status.
-
-[**Open the shared Excel workbook →**](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing){ .md-button .md-button--primary }
 
 ## Use the material responsibly { .home-section-heading }
 

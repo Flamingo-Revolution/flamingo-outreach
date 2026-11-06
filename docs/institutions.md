@@ -32,10 +32,10 @@ See which institutions, civil-society actors, and diplomatic representations hav
   <select id="institutions-category-filter"><option value="">All categories</option></select>
   <label for="institutions-issue-filter">Issue</label>
   <select id="institutions-issue-filter"><option value="">All issues</option></select>
+  <label for="institutions-search">Find an organization</label>
+  <input id="institutions-search" type="search" placeholder="Organization or city" autocomplete="off">
 </div>
-<ol class="coverage-priority-list" id="institutions-priority-list" aria-live="polite">
-  <li class="coverage-priority-loading">Loading institutions and actors…</li>
-</ol>
+<div class="coverage-priority-list" id="institutions-priority-list" aria-live="polite"></div>
 
 ## Download the data
 

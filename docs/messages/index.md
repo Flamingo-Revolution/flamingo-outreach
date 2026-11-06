@@ -44,29 +44,29 @@ hide:
 
     Please assign a reporter, seek responses from the Albanian authorities and affected people, and press for preservation of police video, deployment orders and medical records alongside an independent inquiry into the serious leg-injury case—especially while covering the possible treatment of minors and interference with journalists. I would appreciate knowing whether and when your newsroom plans to cover this. The attached brief provides sources and verification questions.
 
+    Kind regards,
+
+    - Flamingo Revolution — protest documentation and civic projects.
+    - Flamingo Revolution Diaspora — diaspora updates and outreach.
+    - Albanian Diaspora Civic Network — research and evidence-based civic work.
+    - Illyrian Brains Network — a global network of Albanian professionals.
+
+    ---
+
+    **References:**
+
     Selected international reporting, newest first:
 
     - El País, 22 October — reporting from Tirana on the continuing student protests, police–protester violence and the government's offer of dialogue: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
-    - OCCRP / SHTEG, 20 October — the protests' second week, reported mass arrests and the Ombudsman's detention findings: <https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests>
-    - Associated Press, 20 October — eighth consecutive day of clashes, tear gas and water cannon: <https://apnews.com/article/76658d03cf1d00656c27ceabb7151b0a>
     - Reuters, 18 October — arrests, criminal proceedings and the government's response: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Al Jazeera, 18 October — sixth consecutive day of unrest and continuing demonstrations in Tirana: <https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily>
-    - Le Monde, 17 October — police-violence allegations and civic response: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
 
     Primary and local documentation for specific allegations:
 
     - Albanian Ombudsman, 20 October — preliminary monitoring findings on detention conditions and the treatment of minors: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
-    - Euronews Albania — hospital interview concerning the alleged serious leg injury: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — documented incidents affecting journalists and media workers: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    Kind regards,
-
-    - [Flamingo Revolution](https://www.flamingorevolution.eu/) — protest documentation and civic projects.
-    - [Flamingo Revolution Diaspora](https://flamingo-berlin.github.io/) — diaspora updates and outreach.
-    - [Albanian Diaspora Civic Network](https://albaniandiasporacivicnetwork.com/) — research and evidence-based civic work.
-    - [Illyrian Brains Network](https://illyrianbrains.org/) — a global network of Albanian professionals.
+    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "International institution"
 
@@ -118,29 +118,29 @@ hide:
 
     I would be grateful for a reply explaining what your institution can do and when I might expect a response. I have attached the ADCN evidence brief, which links directly to the reporting and original posts below.
 
+    Kind regards,
+
+    - Flamingo Revolution — protest documentation and civic projects.
+    - Flamingo Revolution Diaspora — diaspora updates and outreach.
+    - Albanian Diaspora Civic Network — research and evidence-based civic work.
+    - Illyrian Brains Network — a global network of Albanian professionals.
+
+    ---
+
+    **References:**
+
     Selected international reporting, newest first:
 
     - El País, 22 October — reporting from Tirana on the continuing student protests, police–protester violence and the government's offer of dialogue: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
-    - OCCRP / SHTEG, 20 October — the protests' second week, reported mass arrests and the Ombudsman's detention findings: <https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests>
-    - Associated Press, 20 October — eighth consecutive day of clashes, tear gas and water cannon: <https://apnews.com/article/76658d03cf1d00656c27ceabb7151b0a>
     - Reuters, 18 October — arrests, criminal proceedings and the government's response: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Al Jazeera, 18 October — sixth consecutive day of unrest and continuing demonstrations in Tirana: <https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily>
-    - Le Monde, 17 October — police-violence allegations and civic response: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
 
     Primary and local documentation for specific allegations:
 
     - Albanian Ombudsman, 20 October — preliminary monitoring findings on detention conditions and the treatment of minors: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
-    - Euronews Albania — hospital interview concerning the alleged serious leg injury: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — documented incidents affecting journalists and media workers: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    Kind regards,
-
-    - [Flamingo Revolution](https://www.flamingorevolution.eu/) — protest documentation and civic projects.
-    - [Flamingo Revolution Diaspora](https://flamingo-berlin.github.io/) — diaspora updates and outreach.
-    - [Albanian Diaspora Civic Network](https://albaniandiasporacivicnetwork.com/) — research and evidence-based civic work.
-    - [Illyrian Brains Network](https://illyrianbrains.org/) — a global network of Albanian professionals.
+    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
 === "International representative"
 
@@ -192,29 +192,29 @@ hide:
 
     I would be grateful for a reply explaining what you can do and when I might expect a response. I have attached the ADCN evidence brief, which links directly to the reporting and original posts below.
 
+    Kind regards,
+
+    - Flamingo Revolution — protest documentation and civic projects.
+    - Flamingo Revolution Diaspora — diaspora updates and outreach.
+    - Albanian Diaspora Civic Network — research and evidence-based civic work.
+    - Illyrian Brains Network — a global network of Albanian professionals.
+
+    ---
+
+    **References:**
+
     Selected international reporting, newest first:
 
     - El País, 22 October — reporting from Tirana on the continuing student protests, police–protester violence and the government's offer of dialogue: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
-    - OCCRP / SHTEG, 20 October — the protests' second week, reported mass arrests and the Ombudsman's detention findings: <https://www.occrp.org/en/news/albanian-pm-offers-dialogue-amid-crackdown-on-violent-protests>
-    - Associated Press, 20 October — eighth consecutive day of clashes, tear gas and water cannon: <https://apnews.com/article/76658d03cf1d00656c27ceabb7151b0a>
     - Reuters, 18 October — arrests, criminal proceedings and the government's response: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
-    - Al Jazeera, 18 October — sixth consecutive day of unrest and continuing demonstrations in Tirana: <https://www.aljazeera.com/news/2026/10/18/chaos-in-tirana-demonstrators-determined-to-not-give-up-so-easily>
-    - Le Monde, 17 October — police-violence allegations and civic response: <https://www.lemonde.fr/en/international/article/2026/10/17/in-albania-the-flamingo-revolution-radicalizes-in-response-to-the-prime-minister-s-contempt-and-indifference_6758697_4.html>
 
     Primary and local documentation for specific allegations:
 
     - Albanian Ombudsman, 20 October — preliminary monitoring findings on detention conditions and the treatment of minors: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
-    - Euronews Albania — hospital interview concerning the alleged serious leg injury: <https://euronews.al/protestuesi-i-lenduar-tek-trauma-policet-me-keputen-kemben-video/>
-    - Association of Journalists of Albania — documented incidents affecting journalists and media workers: <https://agsh.al/2026/10/14/alb-eng-agsh-dy-dite-protestash-ne-tirane-te-pakten-10-incidente-ndaj-gazetareve-dhe-punonjesve-te-medias-dhuna-dhe-pengimi-i-raportimit-jane-te-papranueshme/>
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    Kind regards,
-
-    - [Flamingo Revolution](https://www.flamingorevolution.eu/) — protest documentation and civic projects.
-    - [Flamingo Revolution Diaspora](https://flamingo-berlin.github.io/) — diaspora updates and outreach.
-    - [Albanian Diaspora Civic Network](https://albaniandiasporacivicnetwork.com/) — research and evidence-based civic work.
-    - [Illyrian Brains Network](https://illyrianbrains.org/) — a global network of Albanian professionals.
+    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
 ## Optional image attachments and Flamingo resources
 

@@ -1,4 +1,5 @@
-const timelineAssetsBase = new URL('../data/', document.currentScript.src);
+const timelineScriptSrc = document.currentScript.src;
+const timelineAssetsBase = new URL('../data/', timelineScriptSrc);
 
 function setupTimeline() {
   const root = document.getElementById('timeline-results');
@@ -9,13 +10,13 @@ function setupTimeline() {
   const filter = document.getElementById('timeline-filter');
   const count = document.getElementById('timeline-count');
 
-  fetch(new URL('protest_timeline.csv', timelineAssetsBase))
+  fetch(new URL('timeline.csv', timelineAssetsBase))
     .then(response => {
       if (!response.ok) throw Error(response.status);
       return response.text();
     })
     .then(text => {
-      const data = csvRows(text);
+      const data = csvRows(text).filter(item => item.track !== 'political');
       [...new Set(data.map(item => item.category))].sort().forEach(value => {
         const option = document.createElement('option');
         option.value = value;
@@ -62,7 +63,7 @@ function setupTimeline() {
           const source = document.createElement('a');
           source.href = item.source_url.startsWith('http')
             ? item.source_url
-            : new URL(item.source_url, new URL('../../', document.currentScript.src)).href;
+            : new URL(item.source_url, new URL('../../', timelineScriptSrc)).href;
           source.target = '_blank';
           source.rel = 'noopener noreferrer';
           source.textContent = `${item.source_name} ↗`;

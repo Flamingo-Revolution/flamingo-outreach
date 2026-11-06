@@ -33,10 +33,10 @@ See which political parties and parliamentary groups have responded and which st
   <select id="parties-priority-filter"><option value="">All priorities</option></select>
   <label for="parties-issue-filter">Issue</label>
   <select id="parties-issue-filter"><option value="">All issues</option></select>
+  <label for="parties-search">Find a party</label>
+  <input id="parties-search" type="search" placeholder="Party or country" autocomplete="off">
 </div>
-<ol class="coverage-priority-list" id="parties-priority-list" aria-live="polite">
-  <li class="coverage-priority-loading">Loading political parties…</li>
-</ol>
+<div class="coverage-priority-list" id="parties-priority-list" aria-live="polite"></div>
 
 ## Download the data
 
