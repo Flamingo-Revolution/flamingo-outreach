@@ -158,7 +158,7 @@ hide:
 
     Arvoisa vastaanottaja,
 
-    Kirjoitan [valittuneena / albanialaisen diasporan jäsenenä / huolestuneena asukkaana] pyytääkseni sinua kiinnittämään kiireellisesti huomiota raportoituihin ihmisoikeusloukkauksiin opiskelijoiden vetämien mielenosoitusten aikana, jotka alkoivat Tiranassa 13. lokakuuta 2026 ja ovat sittemmin levinneet. Raporttien katsominen on ollut pelottavaa, ja haluan kaikkien protestoivien, ohikulkevien tai uutisia raportoivien tulevan turvallisesti kotiin.
+    Kirjoitan [äänestäjänä / Albanian diasporan jäsenenä / huolestuneena asukkaana] pyytääkseni parlamentaarisia toimia Albaniassa järjestettyjen opiskelijamielenosoitusten yhteydessä raportoidun poliisiväkivallan ja alaikäisten kohteluun liittyvien huolten vuoksi.
 
     Nämä mielenosoitukset ovat osa yli 140 päivää kestäneitä Flamingo-mielenosoituksia Albaniassa. [liikkeen julkaiseman protestikronologian](https://www.flamingorevolution.eu/protestat/) mukaan mielenosoitukset alkoivat suojeltua Vjosë–Nartën rannikkomaisemaa koskevista kehityksestä ja laajenivat huoleen julkisesta vastuullisuudesta, korruptiosyytöksistä, koulutuksesta ja terveydenhuollosta, nuorten maastamuutosta, taloudellisista paineista, demokraattisesta edustuksesta ja oikeusvaltioperiaatteesta.
 
@@ -175,29 +175,32 @@ hide:
     Lähteeseen linkitetty raportointi herättää huolta seuraavista seikoista:
 
     - **Joulun hallinta-aseet:** poliisin käyttämä kyynelkaasua, vesitykkiä, patukkuja, ärsyttävää suihketta ja 17. lokakuuta julkaistun kansainvälisen raportin mukaan kumiluoteja mielenosoittajia ja sivullisia vastaan.
-    - **Fyysinen voima ja rajoitukset:** mahdollisesti liiallinen voima, mukaan lukien ihmiset, joiden kerrotaan olevan maassa.
-    - **Vakava loukkaantuminen:** sairaalan haastateltava väitti poliisin aiheuttaneen vakavan jalkavamman.
-    - **Säilöönottotakeet:** Oikeusasiamies dokumentoi puuttuvat oikeuksia koskevat tietolomakkeet, puutteelliset säilöönottorekisterit ja väitteet siitä, että henkilökohtaisia ​​puhelimia etsittiin ilman asianmukaista lupaa.
     - **Alaikäisten kohtelu:** Raportit sisältävät kuulusteluja ilman huoltajia tai psykologeja, väitetyn eristäytymisen ja mahdollisen altistumisen voimalle tai pidätykseen.
     - **Lehdistön vapaus:** toimittajiin ja mediatyöntekijöihin kohdistuvat pahoinpitelyt, uhkailut, vammat, esteet ja pakkopoistot.
 
-    Nämä raportit ja väitteet edellyttävät riippumatonta todentamista, eivät vahvistettuja oikeudellisia havaintoja. Jotkut osallistujat kuulemma heittivät kiviä ja sytyttivät tulta; Tämä ei oikeuta voimankäyttöä niitä vastaan, jotka eivät sitä tehneet. Kuten Albanian Helsinki-komitea totesi 13. lokakuuta, yksittäisten ihmisten teot eivät voi tehdä kokonaista edustajakokousta väkivaltaiseksi, ja poliisivoimien on pysyttävä laillisina, tarpeellisina ja oikeasuhteisina.
+    Nämä raportit ja väitteet edellyttävät riippumatonta todentamista, eivät vahvistettuja oikeudellisia havaintoja.
 
-    Olisin kiitollinen, jos voisit:
+    Pyydän teitä käyttämään käytettävissänne olevia keinoja:
 
-    - Edistäkää mielenosoittajien, sivullisten, toimittajien ja vankien turvallisuutta Albanian viranomaisten kanssa nyt.
-    - Pyri säilyttämään poliisin videokuvat, käyttöönottomääräykset ja lääketieteelliset tiedot, jotka liittyvät ilmoitettuihin vammoihin ja pidätyksiin.
-    - Pyydä riippumatonta, henkilökohtaista tutkimusta vakavasta jalkavamman tapauksesta ja kaikista väitteistä liiallisesta voimasta.
-    - Kerro minulle, mitä hallituksenne aikoo tehdä kahdenvälisten suhteillaan Albanian kanssa sekä Etyjin tai Euroopan neuvoston kautta.
+    - Nostakaa raportoitu väkivalta esiin parlamentaarisella kysymyksellä tai keskustelulla.
 
-    Olisin kiitollinen vastauksesta, jossa kerrotaan, mitä voit tehdä ja milloin odotan vastausta. Olen liittänyt mukaan ADCN:n todisteet, jotka linkittävät suoraan alla oleviin raportteihin ja alkuperäisiin viesteihin.
+    - Pyytäkää ulkoministeriötä ottamaan asia esiin Albanian viranomaisten kanssa ja pyytämään virallinen vastaus.
 
-    Ystävällisin terveisin
+    - Välittäkää nämä huolet Euroopan parlamentille ja Euroopan komissiolle, jotta ihmisoikeuksien kunnioittaminen saa painoarvoa Albanian EU-jäsenyysneuvotteluissa.
+
+    - Vaatikaa riippumatonta seurantaa opiskelijoita ja alaikäisiä koskevissa oikeudenkäynneissä.
+
+    Rauhanomainen mielenosoittaminen, sananvapaus ja oikeudenmukainen kohtelu ovat eurooppalaisia arvoja. Albanialaisten opiskelijoiden oikeuksia on suojeltava myös käytännössä.
+
+    Kertokaa, mihin toimiin voitte ryhtyä. Lähteet ovat alla.
+
+    Ystävällisin terveisin,
 
     - Flamingo Revolution – protestidokumentaatio ja kansalaishankkeet.
     - Flamingo Revolution Diaspora – diasporan päivitykset ja tiedotus.
     - Albanian Diaspora Civic Network – tutkimusta ja näyttöön perustuvaa kansalaistyötä.
     - Illyian Brains Network – albanialaisten ammattilaisten maailmanlaajuinen verkosto.
+
 
     ---
 

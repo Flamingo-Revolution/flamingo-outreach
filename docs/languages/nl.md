@@ -158,7 +158,7 @@ hide:
 
     Voor wie het ook aangaat,
 
-    Ik schrijf u als [kiezer / lid van de Albanese diaspora / bezorgde inwoner] om u te vragen dringend de aandacht te vestigen op gerapporteerde mensenrechtenschendingen tijdens door studenten geleide demonstraties die op 13 oktober 2026 in Tirana begonnen en zich sindsdien hebben verspreid. Het was beangstigend om naar de reportages te kijken, en ik wil dat iedereen die protesteert, langskomt of het nieuws meldt, veilig thuiskomt.
+    Ik schrijf u als [kiezer / lid van de Albanese diaspora / bezorgde inwoner] om parlementaire actie te vragen naar aanleiding van berichten over politiegeweld bij studentenprotesten in Albanië en zorgen over de behandeling van minderjarigen.
 
     Deze demonstraties maken deel uit van ruim 140 dagen Flamingo-protesten in Albanië. Volgens de [door de beweging gepubliceerde protestchronologie](https://www.flamingorevolution.eu/protestat/) begonnen de protesten over de ontwikkeling die het beschermde kustlandschap van Vjosë-Nartë aantastte en breidden zich uit tot zorgen over publieke verantwoording, beschuldigingen van corruptie, onderwijs en gezondheidszorg, emigratie van jongeren, economische druk, democratische vertegenwoordiging en de rechtsstaat.
 
@@ -175,29 +175,32 @@ hide:
     Brongerelateerde berichtgeving geeft aanleiding tot zorgen over:
 
     - **Crowd-control-wapens:** politiegebruik van traangas, waterkanon, knuppels, irriterende spray en, volgens internationale berichtgeving op 17 oktober, rubberen kogels tegen demonstranten en omstanders.
-    - **Fysieke kracht en terughoudendheid:** potentieel buitensporig geweld, inclusief mensen die naar verluidt op de grond worden vastgehouden.
-    - **Ernstig letsel:** een geïnterviewde uit het ziekenhuis beweerde dat de politie ernstig beenletsel had veroorzaakt.
-    - **Detentiewaarborgen:** de Ombudsman documenteerde ontbrekende informatieformulieren over rechten, onvolledige detentieregisters en beschuldigingen dat persoonlijke telefoons werden doorzocht zonder de juiste toestemming.
     - **Behandeling van minderjarigen:** rapporten omvatten ondervraging zonder voogden of psychologen, vermeend isolement en mogelijke blootstelling aan geweld of detentie.
     - **Persvrijheid:** aanvallen, bedreigingen, verwondingen, obstructie en gedwongen verwijdering die journalisten en mediamedewerkers treffen.
 
-    Dit zijn toegeschreven rapporten en beschuldigingen die onafhankelijke verificatie vereisen, en geen gevestigde juridische bevindingen. Sommige deelnemers gooiden naar verluidt stenen en staken vuren aan; dat rechtvaardigt niet het gebruik van geweld tegen mensen die dat niet deden. Zoals het Albanese Helsinki Comité op 13 oktober zei, kunnen de daden van individuen een hele vergadering niet gewelddadig maken, en moet het politiekorps wettig, noodzakelijk en proportioneel blijven.
+    Dit zijn toegeschreven rapporten en beschuldigingen die onafhankelijke verificatie vereisen, en geen gevestigde juridische bevindingen.
 
-    Ik zou dankbaar zijn als u:
+    Wilt u de middelen die u ter beschikking staan gebruiken om:
 
-    - Bespreek nu de veiligheid van demonstranten, omstanders, journalisten en gedetineerden bij de Albanese autoriteiten.
-    - Zorgen voor bewaring van politievideo's, inzetbevelen en medische dossiers die relevant zijn voor de gemelde verwondingen en aanhoudingen.
-    - Dring aan op een onafhankelijk, persoonsspecifiek onderzoek naar de zaak van ernstig beenletsel en eventuele beschuldigingen van buitensporig geweld.
-    - Vertel mij wat uw regering zal doen via haar bilaterale betrekkingen met Albanië en via de OVSE of de Raad van Europa.
+    - Het gemelde geweld aan te kaarten via parlementaire vragen of een debat.
 
-    Ik zou het op prijs stellen als u een antwoord ontvangt waarin wordt uitgelegd wat u kunt doen en wanneer ik een reactie mag verwachten. Ik heb de bewijsbrief van de ADCN bijgevoegd, die rechtstreeks linkt naar de onderstaande rapportage en originele berichten.
+    - Het ministerie van Buitenlandse Zaken te vragen dit bij de Albanese autoriteiten aan te kaarten en een officiële reactie te vragen.
 
-    Met vriendelijke groeten,
+    - Deze zorgen onder de aandacht te brengen van het Europees Parlement en de Europese Commissie, zodat mensenrechten meewegen in de EU-toetredingsonderhandelingen met Albanië.
+
+    - Op te roepen tot onafhankelijke waarneming van rechtszaken tegen studenten en minderjarigen.
+
+    Vreedzaam protest, vrije meningsuiting en een eerlijke behandeling zijn Europese waarden. Albanese studenten verdienen dat deze rechten ook in de praktijk worden beschermd.
+
+    Wilt u mij laten weten welke stappen u kunt zetten? De bronnen staan hieronder.
+
+    Met vriendelijke groet,
 
     - Flamingo Revolution – protestdocumentatie en burgerprojecten.
     - Flamingo Revolution Diaspora – diaspora-updates en outreach.
     - Albanian Diaspora Civic Network — onderzoek en op bewijs gebaseerd maatschappelijk werk.
     - Illyrian Brains Network — een wereldwijd netwerk van Albanese professionals.
+
 
     ---
 

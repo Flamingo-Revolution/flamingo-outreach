@@ -145,7 +145,7 @@ Cele trei modele de mai jos conțin aceleași informații ca scrisorile în engl
 
     Stimată doamnă / Stimate domn,
 
-    Vă scriu în calitate de [alegător din circumscripția dumneavoastră / membru al diasporei albaneze / locuitor preocupat] pentru a vă cere să atrageți urgent atenția asupra abuzurilor împotriva drepturilor omului semnalate în timpul manifestațiilor conduse de studenți, începute la Tirana la 13 octombrie 2026 și extinse ulterior. Relatările sunt înspăimântătoare și îmi doresc ca toți cei care protestează, trec prin zonă sau relatează știrile să se întoarcă acasă în siguranță.
+    Vă scriu în calitate de [alegător / membru al diasporei albaneze / locuitor îngrijorat] pentru a solicita acțiuni parlamentare privind relatările despre violența poliției la protestele studențești din Albania și îngrijorările legate de tratamentul minorilor.
 
     Aceste manifestații fac parte din cele peste 140 de zile de proteste Flamingo din Albania. Potrivit [cronologiei publicate de mișcare](https://www.flamingorevolution.eu/protestat/), protestele au început în legătură cu amenajări care afectau peisajul litoral protejat Vjosë–Nartë și s-au extins la responsabilitatea publică, acuzații de corupție, educație și sănătate, emigrarea tinerilor, presiunea economică, reprezentarea democratică și statul de drept.
 
@@ -162,22 +162,24 @@ Cele trei modele de mai jos conțin aceleași informații ca scrisorile în engl
     Relatările însoțite de surse ridică preocupări privind:
 
     - **Mijloacele de control al mulțimii:** folosirea de către poliție a gazelor lacrimogene, tunurilor cu apă, bastoanelor, spray-urilor iritante și, potrivit relatărilor internaționale din 17 octombrie, a gloanțelor de cauciuc împotriva protestatarilor și trecătorilor.
-    - **Forța fizică și imobilizarea:** forță posibil excesivă, inclusiv asupra unor persoane care ar fi fost ținute la pământ.
-    - **O vătămare gravă:** o persoană intervievată la spital a afirmat că poliția i-a provocat o leziune gravă la picior.
-    - **Garanțiile în detenție:** Avocatul Poporului a documentat lipsa formularelor de informare despre drepturi, registre de detenție incomplete și acuzații privind verificarea telefoanelor personale fără autorizarea corespunzătoare.
     - **Tratamentul minorilor:** relatări despre interogarea fără tutore sau psiholog, presupusa izolare și posibila expunere la forță ori detenție.
     - **Libertatea presei:** agresiuni, amenințări, răniri, obstrucționare și îndepărtare forțată a jurnaliștilor și lucrătorilor din presă.
 
-    Acestea sunt relatări atribuite unor surse și acuzații care necesită verificare independentă, nu constatări juridice definitive. Se relatează că unii participanți au aruncat pietre și au aprins focuri; aceasta nu justifică folosirea forței împotriva celor care nu au făcut-o. După cum a afirmat Comitetul Helsinki din Albania la 13 octombrie, acțiunile unor persoane nu pot transforma întreaga adunare într-una violentă, iar forța poliției trebuie să rămână legală, necesară și proporțională.
+    Acestea sunt relatări atribuite unor surse și acuzații care necesită verificare independentă, nu constatări juridice definitive.
 
-    Aș aprecia dacă ați putea:
+    Vă rog să folosiți mijloacele disponibile pentru a:
 
-    - Să ridicați acum, în discuțiile cu autoritățile albaneze, problema siguranței manifestanților, trecătorilor, jurnaliștilor și persoanelor reținute.
-    - Să solicitați păstrarea înregistrărilor video ale poliției, a ordinelor de desfășurare și a documentelor medicale relevante pentru rănirile și reținerile semnalate.
-    - Să cereți o examinare independentă, individualizată, a cazului de vătămare gravă la picior și a oricăror acuzații de folosire excesivă a forței.
-    - Să explicați ce va face guvernul dumneavoastră prin relațiile bilaterale cu Albania și prin OSCE sau Consiliul Europei.
+    - Ridica problema violențelor semnalate printr-o întrebare sau o dezbatere parlamentară.
 
-    Vă rog să răspundeți explicând ce puteți face și când pot aștepta un răspuns. Am anexat nota de probe ADCN, care trimite direct la relatările și postările originale de mai jos.
+    - Solicita Ministerului Afacerilor Externe să abordeze problema cu autoritățile albaneze și să ceară un răspuns oficial.
+
+    - Transmite aceste preocupări Parlamentului European și Comisiei Europene, astfel încât respectarea drepturilor omului să conteze în negocierile de aderare ale Albaniei.
+
+    - Cere monitorizarea independentă a proceselor care implică studenți și minori.
+
+    Protestul pașnic, libertatea de exprimare și tratamentul echitabil sunt valori europene. Studenții albanezi merită ca aceste drepturi să fie protejate în practică.
+
+    Vă rog să îmi comunicați ce măsuri puteți lua. Sursele sunt mai jos.
 
     Cu stimă,
 
@@ -185,6 +187,7 @@ Cele trei modele de mai jos conțin aceleași informații ca scrisorile în engl
     - Flamingo Revolution Diaspora — actualizări și comunicare cu diaspora.
     - Albanian Diaspora Civic Network — cercetare și activitate civică bazată pe dovezi.
     - Illyrian Brains Network — rețea globală de profesioniști albanezi.
+
 
     ---
 

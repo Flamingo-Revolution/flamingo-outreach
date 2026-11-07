@@ -7,6 +7,7 @@ import argparse
 import csv
 import datetime as dt
 import io
+import json
 import os
 import re
 import sys
@@ -188,6 +189,33 @@ def extract_contributors(rows: list[list[str]], *, merge_duplicates: bool = Fals
                     names.setdefault(name.casefold(), name)
         credits.append("; ".join(names.values()))
     return [[value for i, value in enumerate(row) if i not in indexes] for row in rows], credits
+
+
+def contributor_summary(sheets: dict[str, list[list[str]]]) -> dict:
+    """Tally how many rows each contributor is credited on, across every sheet.
+
+    Schema-agnostic: works on any sheet with a Contributor(s) column, known
+    or not, which is what lets this run over the whole workbook in one pass.
+    """
+    totals: dict[str, dict] = {}
+    unattributed_rows = 0
+    for sheet_name, rows in sheets.items():
+        if not rows:
+            continue
+        stripped, credits = extract_contributors(rows, merge_duplicates=True)
+        for row, credit in zip(stripped[1:], credits):
+            if not any(value.strip() for value in row):
+                continue
+            names = [name.strip() for name in credit.split(";") if name.strip()]
+            if not names:
+                unattributed_rows += 1
+                continue
+            for name in names:
+                entry = totals.setdefault(name.casefold(), {"name": name, "total": 0, "sheets": {}})
+                entry["total"] += 1
+                entry["sheets"][sheet_name] = entry["sheets"].get(sheet_name, 0) + 1
+    contributors = sorted(totals.values(), key=lambda entry: (-entry["total"], entry["name"].casefold()))
+    return {"contributors": contributors, "unattributed_rows": unattributed_rows}
 
 
 def column_index(reference: str) -> int:
@@ -470,6 +498,12 @@ def publish_workbook(workbook: bytes) -> list[tuple[str, int]]:
         count = publish_csv(sheet_name, sheets[sheet_name], output)
         published.append((str(output), count))
         claimed_outputs.add(filename)
+
+    summary = contributor_summary(sheets)
+    contributors_output = ASSETS_DIR / "contributors.json"
+    contributors_output.parent.mkdir(parents=True, exist_ok=True)
+    contributors_output.write_text(json.dumps(summary, indent=2) + "\n", encoding="utf-8")
+    published.append((str(contributors_output), len(summary["contributors"])))
     return published
 
 

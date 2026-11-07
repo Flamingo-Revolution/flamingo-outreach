@@ -158,7 +158,7 @@ hide:
 
     Komu se to může týkat,
 
-    Píši jako [článek / člen albánské diaspory / dotčený obyvatel], abych vás požádal, abyste naléhavě upozornili na hlášené porušování lidských práv během demonstrací vedených studenty, které začaly v Tiraně dne 13. října 2026 a od té doby se rozšířily. Sledování zpráv bylo děsivé a chci, aby se všichni, kdo protestují, procházejí kolem nebo hlásí zprávy, bezpečně vrátili domů.
+    Píšu jako [volič/ka / člen/ka albánské diaspory / znepokojený obyvatel či obyvatelka] s žádostí o parlamentní kroky v souvislosti se zprávami o policejním násilí při studentských protestech v Albánii a obavami o zacházení s nezletilými.
 
     Tyto demonstrace jsou součástí více než 140 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát.
 
@@ -175,29 +175,32 @@ hide:
     Přehledy související se zdrojem vzbuzují obavy ohledně:
 
     - **Zbraně pro kontrolu davu:** policie použila proti demonstrantům a kolemjdoucím slzný plyn, vodní dělo, obušky, dráždivé spreje a podle mezinárodních zpráv ze 17. října i gumové projektily.
-    - **Fyzická síla a omezení:** potenciálně nadměrná síla, včetně lidí údajně držených na zemi.
-    - **Vážné zranění:** Dotazovaný z nemocnice tvrdil, že policie způsobila vážné zranění nohy.
-    - **Zajištění zadržení:** Veřejný ochránce práv zdokumentoval chybějící formuláře s informacemi o právech, neúplné registry zadržení a obvinění, že osobní telefony byly prohledávány bez příslušného oprávnění.
     - **Zacházení s nezletilými:** zprávy zahrnují výslech bez opatrovníků nebo psychologů, údajnou izolaci a možné vystavení násilí nebo zadržení.
     - **Svoboda tisku:** Napadání, vyhrožování, zranění, obstrukce a nucené odsuny postihující novináře a pracovníky médií.
 
-    Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Někteří účastníci prý házeli kameny a zapalovali ohně; to neospravedlňuje použití síly proti lidem, kteří tak neučinili. Jak řekl Albánský helsinský výbor 13. října, činy jednotlivců nemohou způsobit násilí v celém shromáždění a policejní síly musí zůstat zákonné, nezbytné a přiměřené.
+    Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění.
 
-    Byl bych vám vděčný, kdybyste mohli:
+    Prosím, využijte své možnosti k těmto krokům:
 
-    - Zvyšte nyní s albánskými úřady bezpečnost demonstrantů, přihlížejících, novinářů a zadržených.
-    - Hledejte uchování policejního videozáznamu, příkazů k nasazení a lékařských záznamů týkajících se hlášených zranění a zadržení.
-    - Vyžadujte nezávislé vyšetřování případu vážného zranění nohy a případných obvinění z nadměrné síly.
-    - Řekněte mi, co vaše vláda udělá prostřednictvím svých bilaterálních vztahů s Albánií a prostřednictvím OBSE nebo Rady Evropy.
+    - Otevřete otázku hlášeného násilí parlamentní interpelací nebo debatou.
 
-    Byl bych vděčný za odpověď s vysvětlením, co můžete dělat a kdy mohu očekávat odpověď. Připojil jsem stručný přehled důkazů ADCN, který přímo odkazuje na níže uvedené zprávy a původní příspěvky.
+    - Požádejte ministerstvo zahraničí, aby věc projednalo s albánskými úřady a vyžádalo si oficiální odpověď.
 
-    s pozdravem
+    - Předejte tyto obavy Evropskému parlamentu a Evropské komisi, aby dodržování lidských práv mělo váhu v přístupových jednáních Albánie s EU.
+
+    - Vyzvěte k nezávislému sledování soudních řízení se studenty a nezletilými.
+
+    Pokojný protest, svoboda projevu a spravedlivé zacházení jsou evropské hodnoty. Albánští studenti si zaslouží ochranu těchto práv v praxi.
+
+    Prosím o sdělení, jaké kroky můžete podniknout. Zdroje jsou uvedeny níže.
+
+    S pozdravem,
 
     - Flamingo Revolution — protestní dokumentace a občanské projekty.
     - Flamingo Revolution Diaspora — aktualizace a dosah diaspory.
     - Albanian Diaspora Civic Network — výzkum a občanská práce založená na důkazech.
     - Illyrian Brains Network — globální síť albánských profesionálů.
+
 
     ---
 

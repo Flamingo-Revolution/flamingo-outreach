@@ -145,7 +145,7 @@ Aşağıdaki üç şablon, İngilizce mektuplarla aynı bilgileri içerir. Gönd
 
     Sayın Yetkili,
 
-    [Seçmeniniz / Arnavut diasporasının bir üyesi / kaygı duyan bir bölge sakini] olarak, 13 Ekim 2026’da Tiran’da başlayan ve daha sonra yayılan öğrenci öncülüğündeki gösteriler sırasında bildirilen insan hakları ihlallerine acilen dikkat çekmenizi rica ediyorum. Haberleri izlemek kaygı vericiydi; gösteriye katılan, oradan geçen veya haber yapan herkesin evine güvenle dönmesini istiyorum.
+    [Seçmen / Arnavut diasporası üyesi / kaygılı bir sakin] olarak, Arnavutluk’taki öğrenci protestolarında bildirilen polis şiddeti ve reşit olmayanlara yönelik muamele hakkındaki kaygılar konusunda parlamentonun harekete geçmesini talep ediyorum.
 
     Bu gösteriler, Arnavutluk’ta 140 günü aşan Flamingo protestolarının bir parçasıdır. [Hareketin yayımladığı protesto kronolojisine](https://www.flamingorevolution.eu/protestat/) göre protestolar, koruma altındaki Vjosë–Nartë kıyı alanını etkileyen yapılaşma nedeniyle başlamış; kamu hesap verebilirliği, yolsuzluk iddiaları, eğitim ve sağlık, gençlerin göçü, ekonomik baskı, demokratik temsil ve hukukun üstünlüğü konularını da kapsayacak şekilde genişlemiştir.
 
@@ -162,22 +162,24 @@ Aşağıdaki üç şablon, İngilizce mektuplarla aynı bilgileri içerir. Gönd
     Kaynak bağlantılı haberler şu kaygıları gündeme getirmektedir:
 
     - **Kalabalık kontrol araçları:** Polis tarafından göz yaşartıcı gaz, tazyikli su, cop ve tahriş edici sprey; 17 Ekim tarihli uluslararası haberlere göre de göstericilere ve çevrede bulunanlara karşı plastik mermi kullanımı.
-    - **Fiziksel güç ve kısıtlama:** Yerde tutulduğu bildirilen kişilere yönelik müdahaleler dahil, olası aşırı güç kullanımı.
-    - **Ciddi yaralanma:** Hastanede görüşülen bir kişi, ciddi bacak yaralanmasına polisin neden olduğunu iddia etmiştir.
-    - **Gözaltı güvenceleri:** Ombudsman, eksik hak bilgilendirme formları, tamamlanmamış gözaltı kayıtları ve kişisel telefonların uygun izin olmadan arandığı iddialarını belgelemiştir.
     - **Çocuklara yönelik muamele:** Bildirimler, veli veya psikolog olmadan sorgulama, tecrit iddiaları ve güç kullanımına ya da gözaltına maruz kalma ihtimalini içermektedir.
     - **Basın özgürlüğü:** Gazeteciler ve medya çalışanlarına yönelik saldırılar, tehditler, yaralanmalar, engelleme ve zorla uzaklaştırma.
 
-    Bunlar bağımsız doğrulama gerektiren, kaynaklara atfedilen haberler ve iddialardır; kesinleşmiş hukuki bulgular değildir. Bazı katılımcıların taş attığı ve ateş yaktığı bildirilmiştir; bu, bunu yapmayan kişilere karşı güç kullanımını haklı kılmaz. Arnavut Helsinki Komitesi’nin 13 Ekim’de belirttiği gibi, bireylerin eylemleri bütün bir toplantıyı şiddet içeren hale getiremez; polisin güç kullanımı hukuka uygun, gerekli ve orantılı olmalıdır.
+    Bunlar bağımsız doğrulama gerektiren, kaynaklara atfedilen haberler ve iddialardır; kesinleşmiş hukuki bulgular değildir.
 
-    Sizden şunları rica ediyorum:
+    Lütfen elinizdeki imkânları kullanarak:
 
-    - Göstericilerin, çevrede bulunanların, gazetecilerin ve gözaltındakilerin güvenliğini Arnavut makamlarıyla şimdi gündeme getirin.
-    - Bildirilen yaralanma ve gözaltılarla ilgili polis videoları, görevlendirme emirleri ve tıbbi kayıtların korunmasını isteyin.
-    - Ciddi bacak yaralanması vakası ve her türlü aşırı güç iddiası için bağımsız, ilgili kişiye özgü bir inceleme talep edin.
-    - Hükümetinizin Arnavutluk ile ikili ilişkileri ve AGİT veya Avrupa Konseyi aracılığıyla neler yapacağını bildirin.
+    - Bildirilen şiddeti bir parlamento sorusu veya görüşmesi yoluyla gündeme getirin.
 
-    Neler yapabileceğinizi ve ne zaman yanıt bekleyebileceğimi açıklayan bir cevap rica ediyorum. Aşağıdaki haber ve özgün paylaşımlara doğrudan bağlantılar içeren ADCN delil bilgi notunu ekledim.
+    - Dışişleri Bakanlığından konuyu Arnavut makamlarıyla görüşmesini ve resmî yanıt istemesini talep edin.
+
+    - İnsan haklarına saygının Arnavutluk’un AB üyelik müzakerelerinde ağırlık taşıması için bu kaygıları Avrupa Parlamentosuna ve Avrupa Komisyonuna iletin.
+
+    - Öğrenciler ve reşit olmayanlar hakkındaki yargılamaların bağımsız olarak izlenmesini talep edin.
+
+    Barışçıl protesto, ifade özgürlüğü ve adil muamele Avrupa değerleridir. Arnavut öğrenciler bu hakların uygulamada da korunmasını hak ediyor.
+
+    Hangi adımları atabileceğinizi lütfen bildirin. Kaynaklar aşağıdadır.
 
     Saygılarımla,
 
@@ -185,6 +187,7 @@ Aşağıdaki üç şablon, İngilizce mektuplarla aynı bilgileri içerir. Gönd
     - Flamingo Revolution Diaspora — diaspora güncellemeleri ve iletişim çalışmaları.
     - Albanian Diaspora Civic Network — araştırma ve delile dayalı sivil çalışmalar.
     - Illyrian Brains Network — Arnavut profesyonellerin küresel ağı.
+
 
     ---
 

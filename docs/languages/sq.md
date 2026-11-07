@@ -158,7 +158,7 @@ hide:
 
     Kujt mund t'i referohet,
 
-    Po shkruaj si [përbërës/anëtar i diasporës shqiptare/banor i shqetësuar] për t'ju kërkuar të tërhiqni vëmendjen urgjente ndaj abuzimeve të raportuara të të drejtave të njeriut gjatë demonstratave të udhëhequra nga studentët që filluan në Tiranë më 13 tetor 2026 dhe që atëherë janë përhapur. Shikimi i raporteve ka qenë i frikshëm dhe dua që të gjithë që protestojnë, kalojnë apo raportojnë lajmet të kthehen të sigurt në shtëpi.
+    Po ju shkruaj si [zgjedhës/e / anëtar/e i/e diasporës shqiptare / qytetar/e i/e shqetësuar] për të kërkuar veprim parlamentar lidhur me dhunën e raportuar policore gjatë protestave studentore në Shqipëri dhe shqetësimet për trajtimin e të miturve.
 
     Këto demonstrata janë pjesë e më shumë se 140 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit.
 
@@ -175,29 +175,26 @@ hide:
     Raportimi i lidhur me burimin ngre shqetësime rreth:
 
     - **Armët për kontrollin e turmës:** policia përdor gaz lotsjellës, topa uji, shkopinj, spërkatës irritues dhe, sipas raportimit ndërkombëtar më 17 tetor, plumba gome kundër protestuesve dhe kalimtarëve.
-    - **Forca fizike dhe kufizimi:** fuqi potencialisht e tepruar, duke përfshirë njerëzit që thuhet se mbahen në tokë.
-    - **Lëndim i rëndë:** një i intervistuar në spital pretendoi se policia shkaktoi një lëndim të rëndë në këmbë.
-    - **Manësitë mbrojtëse të paraburgimit:** Avokati i Popullit dokumentoi formularët e informacionit për të drejtat e munguara, regjistrat jo të plotë të paraburgimit dhe pretendimet se telefonat personalë ishin kontrolluar pa autorizimin e duhur.
     - **Trajtimi i të miturve:** raportet përfshijnë marrjen në pyetje pa kujdestarë ose psikologë, izolim të pretenduar dhe ekspozim të mundshëm ndaj forcës ose ndalimit.
     - **Liria e shtypit:** sulme, kërcënime, lëndime, pengesa dhe largime me forcë që prekin gazetarët dhe punonjësit e medias.
 
-    Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Disa pjesëmarrës thuhet se hodhën gurë dhe ndezën zjarre; që nuk justifikon përdorimin e forcës ndaj njerëzve që nuk e kanë bërë këtë. Siç tha Komiteti Shqiptar i Helsinkit më 13 tetor, aktet e individëve nuk mund ta bëjnë të dhunshëm një asamble të tërë dhe forca policore duhet të mbetet e ligjshme, e nevojshme dhe proporcionale.
+    Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara.
 
-    Unë do të isha mirënjohës nëse mund të:
+    Ju lutem, përmes mundësive që ju jep roli juaj:
 
-    - Ngritja e sigurisë së demonstruesve, kalimtarëve, gazetarëve dhe të paraburgosurve me autoritetet shqiptare tani.
-    - Kërkoni ruajtjen e videove të policisë, urdhrat e vendosjes dhe të dhënat mjekësore që lidhen me lëndimet dhe ndalimet e raportuara.
-    - Shtypni për një hetim të pavarur dhe të veçantë për rastin e lëndimit të rëndë në këmbë dhe çdo pretendim për forcë të tepruar.
-    - Më tregoni se çfarë do të bëjë qeveria juaj nëpërmjet marrëdhënieve dypalëshe me Shqipërinë dhe nëpërmjet OSBE-së ose Këshillit të Evropës.
+    - Ngrini çështjen e dhunës së raportuar përmes një pyetjeje, interpelance ose debati parlamentar.
 
-    Do të isha mirënjohës për një përgjigje që shpjegon se çfarë mund të bëni dhe kur mund të pres një përgjigje. Unë kam bashkangjitur përmbledhjen e provave të ADCN, e cila lidhet drejtpërdrejt me raportimin dhe postimet origjinale më poshtë.
+    - Kërkojini Ministrisë së Jashtme ta ngrejë çështjen me autoritetet shqiptare dhe të kërkojë përgjigje zyrtare.
 
-    Përshëndetje,
+    - Ngrijini këto shqetësime pranë Parlamentit Evropian dhe Komisionit Evropian, që respektimi i të drejtave të njeriut të ketë peshë në negociatat e anëtarësimit të Shqipërisë.
 
-    - Revolucioni Flamingo — dokumentacion proteste dhe projekte qytetare.
-    - Diaspora e Revolucionit Flamingo — përditësime dhe kontakte për diasporën.
-    - Rrjeti Qytetar i Diasporës Shqiptare — hulumtim dhe punë qytetare e bazuar në dëshmi.
-    - Illyrian Brains Network — një rrjet global profesionistësh shqiptarë.
+    - Kërkoni monitorim të pavarur të proceseve gjyqësore ndaj studentëve dhe të miturve.
+
+    Protesta paqësore, liria e shprehjes dhe trajtimi i drejtë janë vlera evropiane. Studentët shqiptarë meritojnë që këto të drejta të mbrohen në praktikë.
+
+    Ju lutem, më njoftoni për hapat që mund të ndërmerrni. Burimet janë më poshtë.
+
+    Me respekt,
 
     ---
 

@@ -159,7 +159,7 @@ hide:
 
     To whom it may concern,
 
-    I am writing as [a constituent / a member of the Albanian diaspora / a concerned resident] to ask you to draw urgent attention to reported human-rights abuses during student-led demonstrations that began in Tirana on 13 October 2026 and have since spread. Watching the reports has been frightening, and I want everyone protesting, passing by or reporting the news to come home safely.
+    I am writing as [a constituent / a member of the Albanian diaspora / a concerned resident] to ask for parliamentary action on reported police violence during student protests in Albania, including concerns about the treatment of minors.
 
     These demonstrations form part of more than 140 days of Flamingo protests in Albania. According to the [movement's published protest chronology](https://www.flamingorevolution.eu/protestat/), the protests began over development affecting the protected Vjosë–Nartë coastal landscape and broadened to concerns about public accountability, corruption allegations, education and healthcare, youth emigration, economic pressure, democratic representation and the rule of law.
 
@@ -176,22 +176,24 @@ hide:
     Source-linked reporting raises concerns about:
 
     - **Crowd-control weapons:** police use of tear gas, water cannon, batons, irritant spray and, according to international reporting on 17 October, rubber bullets against protesters and bystanders.
-    - **Physical force and restraint:** potentially excessive force, including people reportedly held on the ground.
-    - **Serious injury:** a hospital interviewee alleged that police caused a serious leg injury.
-    - **Detention safeguards:** the Ombudsman documented missing rights-information forms, incomplete detention registers and allegations that personal phones were searched without appropriate authorization.
     - **Treatment of minors:** reports include questioning without guardians or psychologists, alleged isolation and possible exposure to force or detention.
     - **Freedom of the press:** assaults, threats, injuries, obstruction and forced removal affecting journalists and media workers.
 
-    These are attributed reports and allegations requiring independent verification, not established legal findings. Some participants reportedly threw stones and lit fires; that does not justify the use of force against people who did not. As the Albanian Helsinki Committee said on 13 October, the acts of individuals cannot make an entire assembly violent, and police force must remain lawful, necessary and proportionate.
+    These are attributed reports and allegations requiring independent verification, not established legal findings.
 
-    I would be grateful if you could:
+    Please use the channels available to you to:
 
-    - Raise the safety of demonstrators, bystanders, journalists and detainees with the Albanian authorities now.
-    - Seek preservation of police video, deployment orders and medical records relevant to the reported injuries and detentions.
-    - Press for an independent, person-specific inquiry into the serious leg-injury case and any allegations of excessive force.
-    - Tell me what your government will do through its bilateral relations with Albania and through the OSCE or the Council of Europe.
+    - Raise the reported violence through a parliamentary question or debate.
 
-    I would be grateful for a reply explaining what you can do and when I might expect a response. I have attached the ADCN evidence brief, which links directly to the reporting and original posts below.
+    - Ask the foreign ministry to raise the issue with the Albanian authorities and request an official response.
+
+    - Raise these concerns with the European Parliament and European Commission so that respect for human rights carries weight in Albania’s EU accession talks.
+
+    - Call for independent monitoring of court proceedings involving students and minors.
+
+    Peaceful protest, freedom of expression and fair treatment are European values. Albanian students deserve to see those rights protected in practice.
+
+    Please let me know what steps you can take. Sources are linked below.
 
     Kind regards,
 
@@ -199,6 +201,7 @@ hide:
     - Flamingo Revolution Diaspora — diaspora updates and outreach.
     - Albanian Diaspora Civic Network — research and evidence-based civic work.
     - Illyrian Brains Network — a global network of Albanian professionals.
+
 
     ---
 

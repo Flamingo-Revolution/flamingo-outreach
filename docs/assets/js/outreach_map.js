@@ -120,6 +120,7 @@ async function setupOutreachMap() {
   let disposed = false;
   let countries = [];
   let selectedName = '';
+  let statsLimit = 10;
   const centers = new Map();
   const sidebarCleanups = [];
   const state = { root, cleanup() {
@@ -266,6 +267,7 @@ async function setupOutreachMap() {
     if (countryStats) {
       const query = (document.getElementById('outreach-stats-search')?.value || '').trim().toLowerCase();
       const rows = outreachCountryStats(countries, activeCategory).filter(stat => stat.country.toLowerCase().includes(query));
+      const visible = rows.slice(0, statsLimit);
       countryStats.replaceChildren();
       const allies = ['European Union', 'United States', 'International'];
       const makeRow = stat => {
@@ -285,7 +287,7 @@ async function setupOutreachMap() {
         return row;
       };
       [['Allies', true], ['Countries & groups', false]].forEach(([title, isAllies]) => {
-        const entries = rows.filter(stat => allies.includes(stat.country) === isAllies);
+        const entries = visible.filter(stat => allies.includes(stat.country) === isAllies);
         if (!entries.length) return;
         const group = countryElement('section', 'outreach-stats-group');
         group.append(countryElement('h2', '', title));
@@ -295,39 +297,30 @@ async function setupOutreachMap() {
         countryStats.append(group);
       });
       if (!rows.length) countryStats.append(countryElement('p', 'outreach-country-stats-empty', 'No countries found.'));
+      else if (rows.length > statsLimit) {
+        const more = countryElement('button', 'outreach-country-stats-more', `Show more (${rows.length - statsLimit})`);
+        more.type = 'button';
+        more.addEventListener('click', () => { statsLimit += 20; renderStats(); });
+        countryStats.append(more);
+      }
     }
   };
-  document.getElementById('outreach-stats-search')?.addEventListener('input', renderStats);
-
-  const sidebarTabs = [...root.querySelectorAll('.outreach-panel-tabs [role="tab"]')];
-  const selectSidebarTab = selected => {
-    sidebarTabs.forEach(tab => {
-      const active = tab === selected;
-      tab.setAttribute('aria-selected', String(active));
-      tab.tabIndex = active ? 0 : -1;
-      document.getElementById(tab.getAttribute('aria-controls')).hidden = !active;
-    });
-  };
-  sidebarTabs.forEach((tab, index) => {
-    tab.addEventListener('click', () => selectSidebarTab(tab));
-    tab.addEventListener('keydown', event => {
-      if (!['ArrowRight', 'ArrowLeft', 'Home', 'End'].includes(event.key)) return;
-      event.preventDefault();
-      const next = event.key === 'Home' ? 0 : event.key === 'End' ? sidebarTabs.length - 1 :
-        (index + (event.key === 'ArrowRight' ? 1 : -1) + sidebarTabs.length) % sidebarTabs.length;
-      selectSidebarTab(sidebarTabs[next]);
-      sidebarTabs[next].focus();
-    });
-  });
+  document.getElementById('outreach-stats-search')?.addEventListener('input', () => { statsLimit = 10; renderStats(); });
 
   const setupSidebarToggle = () => {
     const button = document.getElementById('outreach-left-toggle');
     const panel = document.getElementById('outreach-left-panel');
     const close = document.getElementById('outreach-panel-close');
     const backdrop = document.getElementById('outreach-panel-backdrop');
+    const activity = document.getElementById('outreach-activity');
     if (!button || !panel) return;
     const mq = matchMedia('(max-width: 58rem)');
-    let open = !mq.matches;
+    // Both the status panel and Activity start closed so the map isn't
+    // cluttered on first load, on any screen size; on mobile they're also
+    // full-width bottom sheets, so only one can be open at a time or they
+    // stack on top of each other.
+    let open = false;
+    if (activity) activity.open = false;
     const sync = () => {
       root.classList.toggle('is-left-open', open);
       root.classList.toggle('is-left-closed', !open);
@@ -337,6 +330,7 @@ async function setupOutreachMap() {
       panel.inert = !open;
       panel.setAttribute('aria-hidden', String(!open));
       if (backdrop) backdrop.hidden = !(open && mq.matches);
+      if (open && mq.matches && activity) activity.open = false;
     };
     const dismiss = () => { open = false; sync(); button.focus(); };
     button.addEventListener('click', () => {
@@ -352,7 +346,10 @@ async function setupOutreachMap() {
       }
     };
     root.addEventListener('keydown', escape);
-    const breakpointChanged = () => { open = !mq.matches; sync(); };
+    const activityToggle = () => { if (open && mq.matches && activity.open) dismiss(); };
+    activity?.addEventListener('toggle', activityToggle);
+    sidebarCleanups.push(() => activity?.removeEventListener('toggle', activityToggle));
+    const breakpointChanged = () => sync();
     mq.addEventListener?.('change', breakpointChanged);
     sidebarCleanups.push(() => mq.removeEventListener?.('change', breakpointChanged));
     sync();
@@ -370,6 +367,7 @@ async function setupOutreachMap() {
     renderCapitalMarkers();
   });
   category?.addEventListener('change', () => {
+    statsLimit = 10;
     renderCapitalMarkers();
     renderStats();
     closeQuickResults();

@@ -145,7 +145,7 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
 
     Poštovani,
 
-    Pišem kao [vaš birač / član albanske dijaspore / zabrinuti stanovnik] da vas zamolim da hitno skrenete pažnju na prijavljene povrede ljudskih prava tokom studentskih demonstracija koje su počele u Tirani 13. oktobra 2026. i potom se proširile. Izveštaji su zastrašujući i želim da svi koji protestuju, prolaze ili izveštavaju bezbedno dođu kući.
+    Pišem Vam kao [birač / član albanske dijaspore / zabrinuti stanovnik] i tražim parlamentarnu reakciju na izveštaje o policijskom nasilju tokom studentskih protesta u Albaniji i zabrinutost zbog postupanja prema maloletnicima.
 
     Ove demonstracije deo su više od 140 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava.
 
@@ -162,22 +162,24 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     Izveštaji povezani sa izvorima pokreću pitanja o:
 
     - **Sredstvima za kontrolu mase:** policijskoj upotrebi suzavca, vodenih topova, palica, nadražujućih sprejeva i, prema međunarodnim izveštajima od 17. oktobra, gumenih metaka protiv demonstranata i prolaznika.
-    - **Fizičkoj sili i obuzdavanju:** mogućoj prekomernoj sili, uključujući prema osobama koje su navodno držane na zemlji.
-    - **Teškoj povredi:** osoba intervjuisana u bolnici tvrdila je da je policija izazvala tešku povredu njene noge.
-    - **Pravima pri lišenju slobode:** ombudsman je dokumentovao nedostajuće obrasce o pravima, nepotpune evidencije pritvora i tvrdnje o pregledu ličnih telefona bez odgovarajućeg odobrenja.
     - **Postupanju prema maloletnicima:** navodima o ispitivanju bez staratelja ili psihologa, navodnoj izolaciji i mogućoj izloženosti sili ili pritvoru.
     - **Slobodi medija:** napadima, pretnjama, povredama, ometanju i prinudnom udaljavanju novinara i medijskih radnika.
 
-    Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Pojedini učesnici su navodno bacali kamenje i palili vatru; to ne opravdava upotrebu sile protiv ljudi koji to nisu činili. Kako je Albanski helsinški komitet naveo 13. oktobra, postupci pojedinaca ne mogu čitavo okupljanje učiniti nasilnim, a policijska sila mora ostati zakonita, neophodna i srazmerna.
+    Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi.
 
-    Bio/bila bih zahvalan/zahvalna ako biste mogli da:
+    Molim Vas da iskoristite dostupne mogućnosti da:
 
-    - Odmah pokrenete pitanje bezbednosti demonstranata, prolaznika, novinara i pritvorenika pred albanskim vlastima.
-    - Zatražite očuvanje policijskih snimaka, naredbi o raspoređivanju i medicinske dokumentacije relevantne za prijavljene povrede i pritvaranja.
-    - Insistirate na nezavisnom ispitivanju konkretne osobe i slučaja teške povrede noge, kao i svih navoda o prekomernoj sili.
-    - Objasnite šta će vaša vlada preduzeti kroz bilateralne odnose sa Albanijom i kroz OEBS ili Savet Evrope.
+    - Pokrenete pitanje prijavljenog nasilja kroz poslaničko pitanje ili parlamentarnu raspravu.
 
-    Molim za odgovor o tome šta možete učiniti i kada mogu očekivati reakciju. Priložio/priložila sam dokazni pregled ADCN-a, koji direktno povezuje izveštaje i originalne objave navedene u nastavku.
+    - Zatražite od Ministarstva spoljnih poslova da ovo pitanje pokrene pred albanskim vlastima i zatraži zvaničan odgovor.
+
+    - Prenesete ovu zabrinutost Evropskom parlamentu i Evropskoj komisiji, kako bi poštovanje ljudskih prava imalo težinu u pregovorima o pristupanju Albanije EU.
+
+    - Pozovete na nezavisno praćenje sudskih postupaka protiv studenata i maloletnika.
+
+    Miran protest, sloboda izražavanja i pravično postupanje su evropske vrednosti. Albanski studenti zaslužuju da ova prava budu zaštićena u praksi.
+
+    Molim Vas da mi javite koje korake možete preduzeti. Izvori su navedeni ispod.
 
     S poštovanjem,
 
@@ -185,6 +187,7 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - Flamingo Revolution Diaspora — informacije i komunikacija sa dijasporom.
     - Albanian Diaspora Civic Network — istraživanje i građanski rad zasnovan na dokazima.
     - Illyrian Brains Network — globalna mreža albanskih stručnjaka.
+
 
     ---
 

@@ -158,7 +158,7 @@ hide:
 
     A quien le interese,
 
-    Le escribo como [elector/miembro de la diáspora albanesa/residente preocupado] para pedirle que llame la atención urgentemente sobre las denuncias de abusos contra los derechos humanos durante las manifestaciones dirigidas por estudiantes que comenzaron en Tirana el 13 de octubre de 2026 y que desde entonces se han extendido. Ver los informes ha sido aterrador y quiero que todos los que protestan, pasan o informan las noticias regresen sanos y salvos a casa.
+    Le escribo como [elector/a / miembro de la diáspora albanesa / residente preocupado/a] para pedir una actuación parlamentaria ante las denuncias de violencia policial durante las protestas estudiantiles en Albania y las preocupaciones sobre el trato a menores.
 
     Estas manifestaciones forman parte de más de 140 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho.
 
@@ -175,22 +175,24 @@ hide:
     Los informes vinculados a fuentes plantean preocupaciones sobre:
 
     - **Armas de control de multitudes:** uso policial de gases lacrimógenos, cañones de agua, porras, aerosoles irritantes y, según informes internacionales del 17 de octubre, balas de goma contra manifestantes y transeúntes.
-    - **Fuerza física y contención:** fuerza potencialmente excesiva, incluidas las personas supuestamente retenidas en el suelo.
-    - **Lesiones graves:** un entrevistado del hospital alegó que la policía le causó una lesión grave en la pierna.
-    - **Salvaguardias de detención:** el Defensor del Pueblo documentó la falta de formularios de información sobre derechos, registros de detención incompletos y denuncias de que se registraron teléfonos personales sin la autorización adecuada.
     - **Trato a menores:** los informes incluyen interrogatorios sin tutores ni psicólogos, presunto aislamiento y posible exposición a la fuerza o detención.
     - **Libertad de prensa:** agresiones, amenazas, lesiones, obstrucción y desalojo forzado que afectan a periodistas y trabajadores de medios de comunicación.
 
-    Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Según los informes, algunos participantes arrojaron piedras y encendieron hogueras; eso no justifica el uso de la fuerza contra personas que no lo hicieron. Como dijo el Comité Albanés de Helsinki el 13 de octubre, los actos de individuos no pueden tornar violenta a una asamblea entera, y la fuerza policial debe seguir siendo legal, necesaria y proporcionada.
+    Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas.
 
-    Le agradecería si pudiera:
+    Le pido que utilice los medios a su alcance para:
 
-    - Plantee ahora a las autoridades albanesas la seguridad de los manifestantes, transeúntes, periodistas y detenidos.
-    - Buscar la preservación de videos policiales, órdenes de despliegue y registros médicos relevantes a las lesiones y detenciones reportadas.
-    - Presione para que se realice una investigación independiente y específica de cada persona sobre el caso de lesiones graves en las piernas y cualquier acusación de fuerza excesiva.
-    - Dígame qué hará su gobierno a través de sus relaciones bilaterales con Albania y a través de la OSCE o el Consejo de Europa.
+    - Plantear las denuncias de violencia mediante una pregunta o un debate parlamentario.
 
-    Le agradecería una respuesta que explique qué puede hacer y cuándo puedo esperar una respuesta. Adjunto el resumen de evidencia de ADCN, que enlaza directamente con los informes y las publicaciones originales a continuación.
+    - Pedir al Ministerio de Asuntos Exteriores que trate el asunto con las autoridades albanesas y solicite una respuesta oficial.
+
+    - Trasladar estas preocupaciones al Parlamento Europeo y a la Comisión Europea para que el respeto de los derechos humanos tenga peso en las negociaciones de adhesión de Albania.
+
+    - Pedir la observación independiente de los procesos judiciales que afecten a estudiantes y menores.
+
+    La protesta pacífica, la libertad de expresión y el trato justo son valores europeos. Los estudiantes albaneses merecen que estos derechos se protejan en la práctica.
+
+    Le agradecería que me indicara qué medidas puede tomar. Las fuentes figuran a continuación.
 
     Atentamente,
 
@@ -198,6 +200,7 @@ hide:
     - Diáspora de Flamingo Revolution — actualizaciones y divulgación de la diáspora.
     - Red Cívica de la Diáspora Albanesa — investigación y trabajo cívico basado en evidencia.
     - Illyrian Brains Network: una red global de profesionales albaneses.
+
 
     ---
 

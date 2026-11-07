@@ -61,6 +61,7 @@ async function setupOutreachActivity(root, countries) {
   const type = rail.querySelector('#outreach-activity-type');
   const search = rail.querySelector('#outreach-activity-search');
   const more = rail.querySelector('#outreach-activity-more');
+  const moreItem = rail.querySelector('#outreach-activity-more-item');
   const labels = { media: 'Media', institutions: 'Institutions', parties: 'Parties', mps: 'MPs', actors: 'Actors', actions: 'Actions' };
   let limit = 20;
   const results = await Promise.allSettled(['actions.csv', 'actors.csv'].map(async file => {
@@ -99,7 +100,7 @@ async function setupOutreachActivity(root, countries) {
     count.textContent = String(visible.length);
     status.hidden = Boolean(visible.length);
     status.textContent = unavailable ? 'Some sources could not load. Reload to try again.' : 'No activity links found.';
-    more.hidden = visible.length <= limit;
+    moreItem.hidden = visible.length <= limit;
     list.replaceChildren(...visible.slice(0, limit).map(entity => {
       const meta = [labels[entity.type], entity.country].filter(Boolean).join(' · ');
       const icon = makeIcon(entity.type);
@@ -137,7 +138,7 @@ async function setupOutreachActivity(root, countries) {
       group.append(summary, sublist);
       row.append(group);
       return row;
-    }));
+    }), moreItem);
   };
   type.addEventListener('change', () => { limit = 20; render(); });
   search.addEventListener('input', () => { limit = 20; render(); });

@@ -11,7 +11,7 @@ function recipientTemplates(text) {
 const english = recipientTemplates(fs.readFileSync(path.join(docs, 'messages/index.md'), 'utf8'));
 const urls = text => [...new Set([...text.matchAll(/https?:\/\/[^\s<>\)]+/g)].map(match => match[0]))];
 
-test('translated letters retain English recipient count, source links and reported figures', () => {
+test('translated letters retain English recipients, sources and relevant detail', () => {
   assert.equal(english.length, 3);
   for (const file of fs.readdirSync(path.join(docs, 'languages')).filter(name => name.endsWith('.md'))) {
     const translated = recipientTemplates(fs.readFileSync(path.join(docs, 'languages', file), 'utf8'));

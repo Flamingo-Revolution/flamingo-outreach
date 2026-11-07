@@ -158,7 +158,7 @@ hide:
 
     Wen es angeht,
 
-    Ich schreibe Ihnen als [Wähler/Mitglied der albanischen Diaspora/besorgter Einwohner] und bitte Sie, dringend auf gemeldete Menschenrechtsverletzungen während der von Studenten geführten Demonstrationen aufmerksam zu machen, die am 13. Oktober 2026 in Tirana begannen und sich seitdem ausgeweitet haben. Es war beängstigend, die Berichte zu sehen, und ich möchte, dass alle, die protestieren, vorbeikommen oder die Neuigkeiten melden, sicher nach Hause kommen.
+    Ich schreibe Ihnen als [Wähler/in / Mitglied der albanischen Diaspora / besorgte Person] und bitte um parlamentarisches Handeln angesichts der Berichte über Polizeigewalt bei studentischen Protesten in Albanien und die Behandlung Minderjähriger.
 
     Diese Demonstrationen sind Teil der mehr als 140 Tage dauernden Flamingo-Proteste in Albanien. Laut der [veröffentlichten Protestchronologie der Bewegung](https://www.flamingorevolution.eu/protestat/) begannen die Proteste wegen der Entwicklung, die sich auf die geschützte Küstenlandschaft Vjosë-Nartë auswirkte, und weiteten sich auf Bedenken hinsichtlich öffentlicher Rechenschaftspflicht, Korruptionsvorwürfen, Bildung und Gesundheitsversorgung, Jugendauswanderung, wirtschaftlichem Druck, demokratischer Vertretung und Rechtsstaatlichkeit aus.
 
@@ -175,29 +175,32 @@ hide:
     Quellenbezogene Berichterstattung gibt Anlass zu Bedenken hinsichtlich:
 
     - **Waffen zur Massenkontrolle:** Die Polizei setzt Tränengas, Wasserwerfer, Schlagstöcke, Reizstoffsprays und, laut internationaler Berichterstattung vom 17. Oktober, Gummigeschosse gegen Demonstranten und Umstehende ein.
-    - **Körperliche Gewalt und Zurückhaltung:** potenziell übermäßige Gewalt, auch wenn Personen Berichten zufolge am Boden festgehalten werden.
-    - **Schwere Verletzung:** Ein Befragter im Krankenhaus gab an, dass die Polizei eine schwere Beinverletzung verursacht habe.
-    - **Schutzmaßnahmen bei der Inhaftierung:** Der Ombudsmann dokumentierte fehlende Informationsformulare zu Rechten, unvollständige Inhaftierungsregister und Vorwürfe, dass persönliche Telefone ohne entsprechende Genehmigung durchsucht wurden.
     - **Behandlung von Minderjährigen:** Zu den Berichten gehören Befragungen ohne Vormund oder Psychologen, angebliche Isolation und mögliche Einwirkung von Gewalt oder Inhaftierung.
     - **Pressefreiheit:** Angriffe, Drohungen, Verletzungen, Behinderungen und Zwangsräumungen gegen Journalisten und Medienschaffende.
 
-    Hierbei handelt es sich um zugeschriebene Berichte und Behauptungen, die einer unabhängigen Überprüfung bedürfen, nicht um fundierte rechtliche Erkenntnisse. Berichten zufolge warfen einige Teilnehmer Steine ​​und zündeten Feuer an; Das rechtfertigt nicht die Anwendung von Gewalt gegen Menschen, die dies nicht getan haben. Wie das albanische Helsinki-Komitee am 13. Oktober erklärte, können die Handlungen einzelner Personen nicht dazu führen, dass eine ganze Versammlung gewalttätig wird, und die Polizei muss rechtmäßig, notwendig und verhältnismäßig bleiben.
+    Hierbei handelt es sich um zugeschriebene Berichte und Behauptungen, die einer unabhängigen Überprüfung bedürfen, nicht um fundierte rechtliche Erkenntnisse.
 
-    Ich wäre Ihnen dankbar, wenn Sie:
+    Bitte nutzen Sie die Möglichkeiten Ihres Amtes:
 
-    - Erhöhen Sie jetzt gemeinsam mit den albanischen Behörden die Sicherheit von Demonstranten, Passanten, Journalisten und Inhaftierten.
-    - Bemühen Sie sich um die Aufbewahrung von Polizeivideos, Einsatzbefehlen und Krankenakten, die für die gemeldeten Verletzungen und Festnahmen relevant sind.
-    - Fordern Sie eine unabhängige, personenspezifische Untersuchung des Falles der schweren Beinverletzung und etwaiger Vorwürfe übermäßiger Gewalt.
-    - Sagen Sie mir, was Ihre Regierung im Rahmen ihrer bilateralen Beziehungen zu Albanien und über die OSZE oder den Europarat tun wird.
+    - Bringen Sie die berichtete Gewalt durch eine parlamentarische Anfrage oder Debatte zur Sprache.
 
-    Ich wäre dankbar für eine Antwort, in der ich erläutere, was Sie tun können und wann ich mit einer Antwort rechnen kann. Ich habe den ADCN-Beweisbericht beigefügt, der direkt auf die Berichterstattung und die Originalbeiträge weiter unten verweist.
+    - Bitten Sie das Außenministerium, das Thema gegenüber den albanischen Behörden anzusprechen und eine offizielle Antwort einzufordern.
 
-    Mit freundlichen Grüße,
+    - Tragen Sie diese Anliegen an das Europäische Parlament und die Europäische Kommission heran, damit die Achtung der Menschenrechte in Albaniens EU-Beitrittsverhandlungen Gewicht hat.
+
+    - Fordern Sie eine unabhängige Beobachtung der Gerichtsverfahren gegen Studierende und Minderjährige.
+
+    Friedlicher Protest, Meinungsfreiheit und faire Behandlung sind europäische Werte. Auch für albanische Studierende müssen diese Rechte im Alltag geschützt werden.
+
+    Bitte teilen Sie mir mit, welche Schritte Sie unternehmen können. Quellen finden Sie unten.
+
+    Mit freundlichen Grüßen
 
     - Flamingo Revolution – Protestdokumentation und Bürgerprojekte.
     - Flamingo Revolution Diaspora – Diaspora-Updates und Öffentlichkeitsarbeit.
     - Albanian Diaspora Civic Network – Forschung und evidenzbasierte Bürgerarbeit.
     - Illyrian Brains Network – ein globales Netzwerk albanischer Fachkräfte.
+
 
     ---
 

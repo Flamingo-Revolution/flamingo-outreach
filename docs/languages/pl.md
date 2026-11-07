@@ -158,7 +158,7 @@ hide:
 
     Kogo to może dotyczyć,
 
-    Piszę jako [członek wyborcy / członek diaspory albańskiej / zaniepokojony mieszkaniec], aby poprosić Państwa o pilne zwrócenie uwagi na zgłoszone przypadki łamania praw człowieka podczas demonstracji pod przewodnictwem studentów, które rozpoczęły się w Tiranie 13 października 2026 r. i od tego czasu się rozprzestrzeniły. Oglądanie raportów było przerażające i chcę, aby wszyscy protestujący, przechodzący obok lub przekazujący wiadomości bezpiecznie wrócili do domu.
+    Piszę jako [wyborca / członek albańskiej diaspory / zaniepokojony mieszkaniec], prosząc o działania parlamentarne w sprawie doniesień o przemocy policyjnej podczas protestów studenckich w Albanii oraz traktowania osób niepełnoletnich.
 
     Demonstracje te stanowią część trwających ponad 140 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności.
 
@@ -175,29 +175,26 @@ hide:
     Sprawozdania powiązane ze źródłem budzą wątpliwości dotyczące:
 
     - **Broń do kontroli tłumu:** użycie przez policję gazu łzawiącego, armatek wodnych, pałek, sprayu drażniącego oraz, według międzynarodowego raportu z 17 października, gumowych kul przeciwko protestującym i przypadkowym osobom.
-    - **Siła fizyczna i ograniczenie:** potencjalnie nadmierna siła, w tym także osoby trzymane na ziemi.
-    - **Poważne obrażenia:** rozmówca w szpitalu stwierdził, że policja spowodowała poważny uraz nogi.
-    - **Zabezpieczenia w areszcie:** Rzecznik Praw Obywatelskich udokumentował brakujące formularze informacji o prawach, niekompletne rejestry osób zatrzymanych oraz zarzuty przeszukania telefonów osobistych bez odpowiedniego zezwolenia.
     - **Traktowanie nieletnich:** raporty obejmują przesłuchanie bez opiekunów i psychologów, rzekomą izolację i możliwe narażenie na użycie siły lub zatrzymanie.
     - **Wolność prasy:** napaści, groźby, obrażenia, utrudnianie i przymusowe wydalenia dotykające dziennikarzy i pracowników mediów.
 
-    Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Według doniesień niektórzy uczestnicy rzucali kamieniami i rozpalali ogniska; nie usprawiedliwia to użycia siły wobec osób, które tego nie zrobiły. Jak stwierdził 13 października Albański Komitet Helsiński, działania jednostek nie mogą spowodować, że całe zgromadzenie będzie brutalne, a siły policyjne muszą pozostać zgodne z prawem, konieczne i proporcjonalne.
+    Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne.
 
-    Byłbym wdzięczny, gdybyś mógł:
+    Proszę o wykorzystanie dostępnych możliwości, aby:
 
-    - Już teraz zwiększ bezpieczeństwo demonstrantów, przypadkowych osób, dziennikarzy i zatrzymanych wraz z władzami Albanii.
-    - Należy zwrócić się o zabezpieczenie policyjnych nagrań wideo, nakazów rozmieszczenia i dokumentacji medycznej odnoszącej się do zgłoszonych obrażeń i zatrzymań.
-    - Nalegamy na niezależne, szczegółowe dochodzenie w sprawie poważnego urazu nogi i wszelkich zarzutów użycia siły.
-    - Powiedz mi, co zrobi twój rząd w ramach dwustronnych stosunków z Albanią oraz za pośrednictwem OBWE lub Rady Europy.
+    - Poruszyć kwestię zgłaszanej przemocy poprzez pytanie parlamentarne lub debatę.
 
-    Byłbym wdzięczny za odpowiedź wyjaśniającą, co możesz zrobić i kiedy mogę się spodziewać odpowiedzi. Załączam krótki dokument dowodowy ADCN, który zawiera bezpośrednie linki do raportów i oryginalnych postów poniżej.
+    - Zwrócić się do Ministerstwa Spraw Zagranicznych o podjęcie sprawy z władzami Albanii i uzyskanie oficjalnej odpowiedzi.
 
-    Serdeczne pozdrowienia,
+    - Przekazać te obawy Parlamentowi Europejskiemu i Komisji Europejskiej, aby poszanowanie praw człowieka miało znaczenie w negocjacjach akcesyjnych Albanii.
 
-    - Rewolucja Flamingów — dokumentacja protestacyjna i projekty obywatelskie.
-    - Flamingo Revolution Diaspora — aktualizacje i kontakt z diasporą.
-    - Sieć Obywatelska Diaspory Albańskiej — badania i praca obywatelska oparta na dowodach.
-    - Illyrian Brains Network — globalna sieć albańskich profesjonalistów.
+    - Wezwać do niezależnej obserwacji procesów sądowych dotyczących studentów i osób niepełnoletnich.
+
+    Pokojowy protest, wolność słowa i sprawiedliwe traktowanie to wartości europejskie. Albańscy studenci zasługują na ochronę tych praw w praktyce.
+
+    Proszę o informację, jakie kroki mogą Państwo podjąć. Źródła znajdują się poniżej.
+
+    Z poważaniem,
 
     ---
 

@@ -158,7 +158,7 @@ hide:
 
     Per chi è coinvolto,
 
-    Scrivo in qualità di [costituente / membro della diaspora albanese / residente preoccupato] per chiedervi di attirare urgentemente attenzione sulle violazioni dei diritti umani denunciate durante le manifestazioni guidate dagli studenti iniziate a Tirana il 13 ottobre 2026 e da allora si sono diffuse. Guardare i servizi è stato spaventoso e voglio che tutti coloro che protestano, passano di lì o riportano la notizia tornino a casa sani e salvi.
+    Le scrivo come [elettore/elettrice / membro della diaspora albanese / residente preoccupato/a] per chiedere un intervento parlamentare sulle segnalazioni di violenza della polizia durante le proteste studentesche in Albania e sul trattamento dei minori.
 
     Queste manifestazioni fanno parte di oltre 140 giorni di proteste Flamingo in Albania. Secondo la [cronologia delle proteste pubblicata dal movimento](https://www.flamingorevolution.eu/protestat/), le proteste sono iniziate per lo sviluppo che ha interessato il paesaggio costiero protetto di Vjosë–Nartë e si sono ampliate alle preoccupazioni sulla responsabilità pubblica, sulle accuse di corruzione, sull'istruzione e l'assistenza sanitaria, sull'emigrazione giovanile, sulla pressione economica, sulla rappresentanza democratica e sullo stato di diritto.
 
@@ -175,22 +175,24 @@ hide:
     La segnalazione collegata alla fonte solleva preoccupazioni riguardo a:
 
     - **Armi per il controllo della folla:** uso da parte della polizia di gas lacrimogeni, idranti, manganelli, spray irritanti e, secondo un rapporto internazionale del 17 ottobre, proiettili di gomma contro manifestanti e passanti.
-    - **Forza fisica e contenzione:** forza potenzialmente eccessiva, comprese le persone presumibilmente trattenute a terra.
-    - **Lesioni gravi:** un intervistato in ospedale ha affermato che la polizia ha causato un grave infortunio alla gamba.
-    - **Tutela della detenzione:** il Difensore civico ha documentato la mancanza di moduli di informazione sui diritti, registri di detenzione incompleti e accuse secondo cui i telefoni personali sarebbero stati perquisiti senza un'adeguata autorizzazione.
     - **Trattamento di minori:** le segnalazioni includono interrogatori senza tutori o psicologi, presunto isolamento e possibile esposizione alla forza o alla detenzione.
     - **Libertà di stampa:** aggressioni, minacce, lesioni, ostruzione e allontanamento forzato nei confronti di giornalisti e operatori dei media.
 
-    Si tratta di rapporti e accuse che richiedono una verifica indipendente, non di accertamenti legali accertati. Secondo quanto riferito, alcuni partecipanti hanno lanciato pietre e acceso fuochi; ciò non giustifica l’uso della forza contro persone che non lo hanno fatto. Come ha affermato il Comitato Helsinki albanese il 13 ottobre, gli atti degli individui non possono rendere violenta un’intera assemblea e le forze di polizia devono rimanere legali, necessarie e proporzionate.
+    Si tratta di rapporti e accuse che richiedono una verifica indipendente, non di accertamenti legali accertati.
 
-    Ti sarei grato se potessi:
+    Le chiedo di utilizzare gli strumenti a Sua disposizione per:
 
-    - Aumentare ora la sicurezza dei manifestanti, degli astanti, dei giornalisti e dei detenuti presso le autorità albanesi.
-    - Chiedere la conservazione dei video della polizia, degli ordini di schieramento e delle cartelle cliniche relative alle lesioni e alle detenzioni segnalate.
-    - Premere per un'indagine indipendente e personalizzata sul caso di grave infortunio alla gamba e su eventuali accuse di uso eccessivo della forza.
-    - Dimmi cosa farà il tuo governo attraverso le sue relazioni bilaterali con l'Albania e attraverso l'OSCE o il Consiglio d'Europa.
+    - Sollevare la questione delle violenze segnalate con un’interrogazione o un dibattito parlamentare.
 
-    Sarei grato per una risposta che spieghi cosa puoi fare e quando potrei aspettarmi una risposta. Ho allegato la sintesi delle prove dell'ADCN, che si collega direttamente alla segnalazione e ai post originali di seguito.
+    - Chiedere al Ministero degli Esteri di affrontare la questione con le autorità albanesi e richiedere una risposta ufficiale.
+
+    - Portare queste preoccupazioni al Parlamento europeo e alla Commissione europea affinché il rispetto dei diritti umani abbia peso nei negoziati di adesione dell’Albania.
+
+    - Chiedere un monitoraggio indipendente dei processi che coinvolgono studenti e minori.
+
+    La protesta pacifica, la libertà di espressione e un trattamento equo sono valori europei. Gli studenti albanesi meritano che questi diritti siano tutelati nella pratica.
+
+    La prego di indicarmi quali iniziative può intraprendere. Le fonti sono riportate sotto.
 
     Cordiali saluti,
 
@@ -198,6 +200,7 @@ hide:
     - Flamingo Revolution Diaspora — aggiornamenti e sensibilizzazione sulla diaspora.
     - Rete civica della diaspora albanese — ricerca e lavoro civico basato sull'evidenza.
     - Illyrian Brains Network — una rete globale di professionisti albanesi.
+
 
     ---
 

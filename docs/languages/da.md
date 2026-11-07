@@ -158,7 +158,7 @@ hide:
 
     Hvem det måtte vedrøre,
 
-    Jeg skriver som [en vælger / medlem af den albanske diaspora / en bekymret beboer] for at bede dig om at henlede opmærksomheden på rapporterede menneskerettighedskrænkelser under studenterledede demonstrationer, der begyndte i Tirana den 13. oktober 2026 og siden har spredt sig. Det har været skræmmende at se rapporterne, og jeg ønsker, at alle, der protesterer, går forbi eller rapporterer nyhederne, kommer sikkert hjem.
+    Jeg skriver som [vælger / medlem af den albanske diaspora / bekymret borger] for at bede om parlamentarisk handling på baggrund af meldinger om politivold under studenterprotester i Albanien og bekymring for behandlingen af mindreårige.
 
     Disse demonstrationer er en del af mere end 140 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet.
 
@@ -175,29 +175,32 @@ hide:
     Kildelinket rapportering giver anledning til bekymring om:
 
     - **Crowd-control våben:** politiets brug af tåregas, vandkanoner, stafetter, irriterende spray og ifølge internationale rapporter den 17. oktober gummikugler mod demonstranter og tilskuere.
-    - **Fysisk kraft og tilbageholdenhed:** potentielt overdreven kraft, inklusive personer, der angiveligt holdes på jorden.
-    - **Alvorlig skade:** en interviewperson på hospitalet påstod, at politiet forårsagede en alvorlig benskade.
-    - **Sikkerhedsforanstaltninger til frihedsberøvelse:** Ombudsmanden dokumenterede manglende rettighedsoplysninger, ufuldstændige tilbageholdelsesregistre og påstande om, at personlige telefoner blev ransaget uden passende tilladelse.
     - **Behandling af mindreårige:** rapporter omfatter afhøring uden værger eller psykologer, påstået isolation og mulig udsættelse for magt eller tilbageholdelse.
     - **Pressefrihed:** overfald, trusler, kvæstelser, obstruktion og tvangsfjernelse, der påvirker journalister og mediearbejdere.
 
-    Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. Nogle deltagere kastede efter sigende med sten og tændte bål; det retfærdiggør ikke magtanvendelse mod folk, der ikke gjorde det. Som den albanske Helsinki-komité sagde den 13. oktober, kan enkeltpersoners handlinger ikke gøre en hel forsamling voldelig, og politistyrken skal forblive lovlig, nødvendig og forholdsmæssig.
+    Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater.
 
-    Jeg ville være taknemmelig, hvis du kunne:
+    Brug venligst de muligheder, De har, til at:
 
-    - Øg sikkerheden for demonstranter, tilskuere, journalister og fanger med de albanske myndigheder nu.
-    - Søg bevarelse af politiets video, udsendelsesordrer og lægejournaler, der er relevante for de rapporterede kvæstelser og tilbageholdelser.
-    - Tryk på for en uafhængig, personspecifik undersøgelse af sagen om alvorlig benskade og eventuelle påstande om overdreven magt.
-    - Fortæl mig, hvad Deres regering vil gøre gennem sine bilaterale forbindelser med Albanien og gennem OSCE eller Europarådet.
+    - Rejse spørgsmålet om den rapporterede vold gennem et parlamentarisk spørgsmål eller en debat.
 
-    Jeg vil være taknemmelig for et svar, der forklarer, hvad du kan gøre, og hvornår jeg kan forvente et svar. Jeg har vedhæftet ADCN-bevisbrevet, som linker direkte til rapporteringen og de originale indlæg nedenfor.
+    - Bede Udenrigsministeriet tage sagen op med de albanske myndigheder og anmode om et officielt svar.
 
-    Venlig hilsen,
+    - Forelægge bekymringerne for Europa-Parlamentet og Europa-Kommissionen, så respekten for menneskerettigheder får vægt i Albaniens EU-optagelsesforhandlinger.
+
+    - Opfordre til uafhængig observation af retssager mod studerende og mindreårige.
+
+    Fredelig protest, ytringsfrihed og retfærdig behandling er europæiske værdier. Albanske studerende fortjener, at disse rettigheder beskyttes i praksis.
+
+    Oplys venligst, hvilke skridt De kan tage. Kilderne står nedenfor.
+
+    Med venlig hilsen
 
     - Flamingo Revolution — protestdokumentation og borgerlige projekter.
     - Flamingo Revolution Diaspora — diasporaopdateringer og opsøgende.
     - Albanian Diaspora Civic Network — forskning og evidensbaseret civilt arbejde.
     - Illyrian Brains Network — et globalt netværk af albanske fagfolk.
+
 
     ---
 
