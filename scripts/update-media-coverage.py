@@ -7,7 +7,6 @@ import argparse
 import csv
 import datetime as dt
 import io
-import json
 import os
 import re
 import sys
@@ -31,6 +30,7 @@ MEDIA_HEADERS = [
     "Email",
     "Date",
     "Evidence (numbers and source)",
+    "Assigned To",
 ]
 
 OUTPUT_HEADERS = [
@@ -44,6 +44,7 @@ OUTPUT_HEADERS = [
     "contact_email",
     "dates",
     "evidence",
+    "assigned_to",
     "contributors",
 ]
 
@@ -121,7 +122,9 @@ REL_NS = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}"
 PACKAGE_REL_NS = "{http://schemas.openxmlformats.org/package/2006/relationships}"
 
 CSV_SHEETS = {
-    "Institutions & Actors": "institutions.csv",
+    "Institutions": "institutions.csv",
+    "Actors": "actors.csv",
+    "Actions": "actions.csv",
     "Embassies by Country": "embassies.csv",
     "Political Parties": "political_parties.csv",
     "MPs": "mps.csv",
@@ -136,7 +139,9 @@ CSV_SHEETS = {
 }
 
 CSV_HEADERS = {
-    "institutions.csv": ["country", "city", "eu_member", "organization", "category", "office_in_albania", "issues", "request_issues", "requested_action", "website", "email", "response_date", "response_type", "response_link", "contact_route", "contribution"],
+    "institutions.csv": ["institution_id", "organization", "category", "country", "city", "website", "email", "issues", "requested_action", "response_date", "response_type", "response_link", "contact_route", "contribution", "evidence_url", "assigned_to"],
+    "actors.csv": ["actor_id", "organization", "category", "part_of", "city", "country", "website", "instagram_url", "evidence_url", "email", "issues", "requested_action", "response_date", "response_type", "response_link", "contact_route", "contribution", "assigned_to"],
+    "actions.csv": ["action_id", "action", "actor_ids", "evidence_urls", "response_to", "notes", "institution_ids"],
     "embassies.csv": ["country", "representation", "category", "official_website", "instagram_url", "verification"],
     "political_parties.csv": ["country", "party", "website", "priority", "issues", "status", "response_link", "instagram_evidence"],
     "mps.csv": ["country", "name", "party", "role", "website", "email", "response_date", "response_type", "response_link", "notes"],
@@ -175,32 +180,6 @@ def extract_contributors(rows: list[list[str]]) -> tuple[list[list[str]], list[s
     index = indexes[0]
     credits = [row[index].strip() if index < len(row) else "" for row in rows[1:]]
     return [[value for i, value in enumerate(row) if i != index] for row in rows], credits
-
-
-def contributor_summary(sheets: dict[str, list[list[str]]]) -> dict:
-    """Count attributed data rows, deduplicating names within each row."""
-    people: dict[str, dict] = {}
-    sheet_names = []
-    unattributed = 0
-    for sheet, rows in sheets.items():
-        stripped, credits = extract_contributors(rows)
-        sheet_names.append(sheet)
-        for row, credit in zip(stripped[1:], credits):
-            if not any(value.strip() for value in row):
-                continue
-            names = {}
-            for raw in credit.split(";"):
-                name = " ".join(raw.split())
-                if name:
-                    names.setdefault(name.casefold(), name)
-            if not names:
-                unattributed += 1
-            for key, name in names.items():
-                person = people.setdefault(key, {"name": name, "sheets": {}, "total": 0})
-                person["sheets"][sheet] = person["sheets"].get(sheet, 0) + 1
-                person["total"] += 1
-    return {"sheets": sheet_names, "unattributed_rows": unattributed,
-            "contributors": sorted(people.values(), key=lambda p: (-p["total"], p["name"].casefold()))}
 
 
 def column_index(reference: str) -> int:
@@ -311,6 +290,7 @@ def normalize_media_coverage(rows: list[list[str]]) -> list[dict[str, str]]:
                 "contact_email": source["Email"],
                 "dates": normalize_dates(source["Date"]),
                 "evidence": source["Evidence (numbers and source)"],
+                "assigned_to": source["Assigned To"],
                 "contributors": credits[spreadsheet_row - 2],
             }
         )
@@ -358,7 +338,11 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
         source_headers.pop()
     expected = CSV_HEADERS[output.name]
     workbook_headers = {
-        "Institutions & Actors": ["Country", "City", "EU Member", "Organization", "Category", "Office in Albania", "Issues", "Request Issues", "Requested Action", "Website", "Email", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution"],
+        "Institutions": ["Institution ID", "Institution", "Level", "Country", "City", "Website", "Email", "Issues", "Requested Action", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution", "Evidence URL", "Assigned To"],
+        # The trailing "Assigned To" column's heading is not validated by name: the
+        # workbook has briefly shipped it blank, so it's accepted by position instead.
+        "Actors": ["Contributor ID", "Organization / Group", "Category", "PartOf (ID)", "HQ City", "HQ Country", "Website", "Instagram", "Evidence URL", "Email", "Issues", "Requested Action", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution"],
+        "Actions": ["Action ID", "Action", "Contributor IDs", "Evidence URLs", "Response To", "Notes", "Institution IDs"],
         "Embassies by Country": ["Country", "Representation", "Category", "Official Website", "Instagram URL", "Verification"],
         "Political Parties": ["Country", "Party", "Website", "Priority", "Issues", "Status", "Response Link", "Instagram Evidence"],
         "MPs": ["Country", "Name", "Party", "Role", "Website", "Email", "Response Date", "Response Type", "Response Link", "Notes"],
@@ -399,8 +383,53 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
     return count
 
 
+def backfill_actor_activity(sheets: dict[str, list[list[str]]]) -> None:
+    """An actor named on a joint action is already evidenced by that action.
+
+    Give actors with no Evidence URL of their own the first evidence link
+    from an action they are named in, so being part of a recorded action is
+    enough on its own — contributors do not need to also cite a separate
+    link for the actor just to show it is active.
+    """
+    actions_rows = sheets.get("Actions")
+    actors_rows = sheets.get("Actors")
+    if not actions_rows or not actors_rows:
+        return
+
+    actions_header = actions_rows[0]
+    try:
+        actors_col = actions_header.index("Contributor IDs")
+        evidence_col = actions_header.index("Evidence URLs")
+    except ValueError:
+        return
+    activity_evidence: dict[str, str] = {}
+    for row in actions_rows[1:]:
+        actor_ids = row[actors_col] if actors_col < len(row) else ""
+        evidence_urls = row[evidence_col] if evidence_col < len(row) else ""
+        first_url = next((url.strip() for url in evidence_urls.split(";") if url.strip()), "")
+        if not first_url:
+            continue
+        for actor_id in (value.strip() for value in actor_ids.split(";")):
+            if actor_id and actor_id not in activity_evidence:
+                activity_evidence[actor_id] = first_url
+
+    actors_header = actors_rows[0]
+    try:
+        id_col = actors_header.index("Contributor ID")
+        actor_evidence_col = actors_header.index("Evidence URL")
+    except ValueError:
+        return
+    for row in actors_rows[1:]:
+        while len(row) <= actor_evidence_col:
+            row.append("")
+        actor_id = row[id_col] if id_col < len(row) else ""
+        if not row[actor_evidence_col].strip() and actor_id in activity_evidence:
+            row[actor_evidence_col] = activity_evidence[actor_id]
+
+
 def publish_workbook(workbook: bytes) -> list[tuple[str, int]]:
     sheets = read_workbook(workbook)
+    backfill_actor_activity(sheets)
     published: list[tuple[str, int]] = []
 
     media_rows = sheets.get("Media Coverage")
@@ -423,12 +452,6 @@ def publish_workbook(workbook: bytes) -> list[tuple[str, int]]:
         count = publish_csv(sheet_name, sheets[sheet_name], output)
         published.append((str(output), count))
         claimed_outputs.add(filename)
-    summary_output = ASSETS_DIR / "contributors.json"
-    summary_output.write_text(
-        json.dumps(contributor_summary(sheets), ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    published.append((str(summary_output), len(sheets)))
     return published
 
 

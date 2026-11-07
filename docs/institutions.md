@@ -3,19 +3,20 @@ hide:
   - toc
 ---
 
-# Institutions and actors
+# Institutions
 
 <nav class="status-page-nav" aria-label="Status pages">
   <a href="../">Country map</a>
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/" aria-current="page">Institutions</a>
   <a href="../parties/">Parties & groups</a>
+  <a href="../actors/">Actors</a>
+  <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>
-  <a href="../contributors/">Contributors</a>
 </nav>
 
-See which institutions, civil-society actors, and diplomatic representations have responded and which have no response link recorded. Select a country on the map to inspect its organizations.
+See which institutions and diplomatic representations have responded and which have no response link recorded. Select a country on the map to inspect its organizations. Civil-society organizations are tracked separately on the [Actors](actors.md) page.
 
 <div class="coverage-chart-card coverage-chart-card--map">
   <div class="status-map-stats" id="institutions-map-stats" aria-label="Institution outreach statistics" aria-live="polite">
@@ -24,7 +25,7 @@ See which institutions, civil-society actors, and diplomatic representations hav
     <article class="status-map-stat--positive"><strong id="institutions-stat-responded">—</strong><span>with response links</span></article>
     <article class="status-map-stat--attention"><strong id="institutions-stat-pending">—</strong><span>without a response link</span></article>
   </div>
-  <div id="institutions-map" aria-label="Map of institutions and actors by country"></div>
+  <div id="institutions-map" aria-label="Map of institutions by country"></div>
   <div class="coverage-map-legend" id="institutions-map-legend"></div>
 </div>
 

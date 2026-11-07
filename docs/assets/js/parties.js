@@ -35,6 +35,7 @@ function renderParties(data, sortMode, filterSummary) {
     countryIdPrefix: 'parties',
     entrySort: (a, b) => Number(!isPartyResponded(a)) - Number(!isPartyResponded(b)) || a.party.localeCompare(b.party),
     summaryNoun: 'parties',
+    reportSectionKey: 'parties',
     mapOptions: {
       state: partiesMapState,
       assetsBase: partiesAssetsBase,

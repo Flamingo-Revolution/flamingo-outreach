@@ -10,9 +10,10 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>
+  <a href="../actors/">Actors</a>
+  <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/" aria-current="page">Momentum</a>
-  <a href="../contributors/">Contributors</a>
 </nav>
 
 Compare recorded protest events with political and institutional actions over time. Counts show activity in this dataset, not the size of a protest or proof that one event caused another.

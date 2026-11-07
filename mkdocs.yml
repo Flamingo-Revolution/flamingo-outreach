@@ -45,6 +45,7 @@ extra_javascript:
   - assets/js/outreach_map.js
   - assets/js/institutions.js
   - assets/js/parties.js
+  - assets/js/actors.js
   - assets/js/remaining_treemaps.js
   - assets/js/outreach_directory.js
   - assets/js/education_map.js
@@ -52,7 +53,7 @@ extra_javascript:
   - assets/js/evidence_comparison.js
   - assets/js/momentum.js
   - https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.4/cytoscape.min.js
-  - assets/js/contributors.js
+  - assets/js/network.js
 plugins:
   - search
 nav:
@@ -86,10 +87,11 @@ nav:
           - Media: media-coverage.md
           - Institutions: institutions.md
           - Parties: parties.md
+          - Actors: actors.md
       - Additional:
+          - Network: network.md
           - Remaining: remaining.md
           - Momentum: momentum.md
-          - Contributors: contributors.md
   - Background:
       - Overview: background/index.md
       - Movement: background/context.md

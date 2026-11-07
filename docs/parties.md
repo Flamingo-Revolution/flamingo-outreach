@@ -10,9 +10,10 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/" aria-current="page">Parties & groups</a>
+  <a href="../actors/">Actors</a>
+  <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>
-  <a href="../contributors/">Contributors</a>
 </nav>
 
 See which political parties and parliamentary groups have responded and which have no response link recorded. Inclusion indicates possible relevance; it does not imply support for the protests.

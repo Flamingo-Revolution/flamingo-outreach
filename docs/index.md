@@ -26,7 +26,7 @@ hide:
     <section id="outreach-pane-view" class="outreach-panel-section outreach-panel-pane" role="tabpanel" aria-labelledby="outreach-tab-view" tabindex="0">
       <p class="outreach-pane-caption">Choose what the markers show.</p>
       <label for="outreach-layer">Category</label>
-      <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option></select>
+      <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option><option value="actors">Actors / civil society</option></select>
       <label for="outreach-display">Marker display</label>
       <select id="outreach-display" aria-describedby="outreach-marker-description"><option value="percentage">Percentage</option><option value="numbers">Numbers (done / total)</option><option value="done-todo" selected>Done + todo</option></select>
       <button id="outreach-reset" type="button">Back to Europe</button>

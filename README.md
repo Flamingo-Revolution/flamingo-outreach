@@ -91,12 +91,9 @@ or handle and separate multiple contributors with semicolons (`Alex; Sam`).
 This credits the people entering or maintaining data, independently of the
 institutional `Contribution` field.
 
-The importer accepts sheets with or without this new column, publishes it as
-`contributors` in each managed CSV, and generates
-`docs/assets/data/contributors.json` from all workbook sheets. Status →
-Contributors ranks people by attributed rows, with a worksheet filter and a
-Cytoscape network connecting people to sheets. A shared row gives each named
-person one credit; duplicate names in a cell count once. Case and whitespace
+The importer accepts sheets with or without this new column and publishes it
+as `contributors` in each managed CSV. A shared row gives each named person
+one credit; duplicate names in a cell count once. Case and whitespace
 variations are merged. Blank attribution stays blank; existing contributions
 are never assigned automatically. Repeated edits to a row do not add credits.
 

@@ -144,7 +144,7 @@ function renderStatusDirectory(options) {
   const {
     data, sortMode, filterSummary, listId, summaryId, mapStatsIds, groupKey,
     nameField, isResponded, levels, countryIdPrefix, entrySort,
-    summaryNoun, mapOptions
+    summaryNoun, mapOptions, reportSectionKey
   } = options;
 
   const root = document.getElementById(listId);
@@ -188,7 +188,7 @@ function renderStatusDirectory(options) {
 
     const list = document.createElement('div');
     list.className = 'status-entry-list';
-    const section = COUNTRY_SECTIONS.find(item => item.key === (nameField === 'party' ? 'parties' : 'institutions'));
+    const section = COUNTRY_SECTIONS.find(item => item.key === reportSectionKey);
     const blocks = [...entries].sort(entrySort).map(entry => countryEntryDisclosure(entry, section));
     list.replaceChildren(...blocks);
     countryDisclosureAccordion(blocks);

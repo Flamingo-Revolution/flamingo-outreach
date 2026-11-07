@@ -39,6 +39,7 @@ function renderInstitutions(data, sortMode, filterSummary) {
     countryIdPrefix: 'institutions',
     entrySort: (a, b) => Number(!isInstitutionResponded(a)) - Number(!isInstitutionResponded(b)) || a.organization.localeCompare(b.organization),
     summaryNoun: 'organizations',
+    reportSectionKey: 'institutions',
     mapOptions: {
       state: institutionsMapState,
       assetsBase: institutionsAssetsBase,

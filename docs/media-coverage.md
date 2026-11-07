@@ -10,9 +10,10 @@ hide:
   <a href="../media-coverage/" aria-current="page">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>
+  <a href="../actors/">Actors</a>
+  <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>
-  <a href="../contributors/">Contributors</a>
 </nav>
 
 Explore recorded media coverage by country. The map includes all listed outlets; the directory below shows outlets with article or post links. Use the country map to find outlets without recorded coverage.

@@ -10,12 +10,13 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>
+  <a href="../actors/">Actors</a>
+  <a href="../network/">Network</a>
   <a href="../remaining/" aria-current="page">Remaining</a>
   <a href="../momentum/">Momentum</a>
-  <a href="../contributors/">Contributors</a>
 </nav>
 
-Listed institutions, MPs, parties, parliamentary groups, and media outlets, grouped by country, including Albania. Each tile is one entry: green means a coverage or response link is recorded; red means there is no source link in this tracker. Use Table view for a readable list on mobile. Missing links do not establish inactivity or contact status.
+Listed institutions, MPs, parties, parliamentary groups, media outlets, and civil-society actors, grouped by country, including Albania. Each tile is one entry: green means a coverage, response, or (for actors) evidence link is recorded; red means there is no source link in this tracker. Use Table view for a readable list on mobile. Missing links do not establish inactivity or contact status.
 
 <div class="coverage-chart-card">
   <h3>Institutions — by country</h3>
@@ -59,4 +60,18 @@ Listed institutions, MPs, parties, parliamentary groups, and media outlets, grou
   </details>
 </div>
 
-[Open the country map](index.md) to inspect sources and contact routes. Download the [institutions](assets/data/institutions.csv), [parties and groups](assets/data/political_parties.csv), [MPs](assets/data/mps.csv), or [media](assets/data/media_coverage.csv) data.
+<div class="coverage-chart-card">
+  <h3>Actors — by country</h3>
+  <p id="actors-treemap-summary" class="status-page-note" role="status">Loading totals…</p>
+  <div class="treemap-chart" id="actors-treemap" aria-label="Treemap of actors by country, green for an evidence link, red for no evidence link"></div>
+  <div class="coverage-map-legend" id="actors-treemap-legend"></div>
+  <details class="status-disclosure treemap-table">
+    <summary class="status-disclosure-summary">Table view</summary>
+    <table>
+      <thead><tr><th>Country</th><th>Actor</th><th>Status</th></tr></thead>
+      <tbody id="actors-treemap-table"></tbody>
+    </table>
+  </details>
+</div>
+
+[Open the country map](index.md) to inspect sources and contact routes. Download the [institutions](assets/data/institutions.csv), [parties and groups](assets/data/political_parties.csv), [MPs](assets/data/mps.csv), [media](assets/data/media_coverage.csv), or [actors](assets/data/actors.csv) data.
