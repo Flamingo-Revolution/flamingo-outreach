@@ -222,35 +222,37 @@ Ladda endast ner de bilder som är relevanta för ditt meddelande, behåll den a
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
+    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
     <strong>13 October · Tirana street scene</strong>
     <span>Credit: Citizens.al. Context includes police vehicles, smoke, people and street damage; it does not establish responsibility for any specific act.</span>
-    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
+    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
     <strong>14 October · Student boycott and march</strong>
     <span>Credit: Citizens.al. Use with the publisher's description and do not infer institutional endorsement from participation.</span>
-    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
+    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
     <strong>15 October · Live protest coverage</strong>
     <span>Credit: Citizens.al. Verify the original caption and context before attaching or describing the image.</span>
-    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
 </div>
 
-[Protestkronologi och fotografier ↗](https://www.flamingorevolution.eu/protestat/){ .md-button }
-[Flamingo-dossier ↗](https://www.flamingorevolution.eu/dosjet/){ .md-button }
-[Flamingos protestkarta ↗](https://www.flamingorevolution.eu/harta/){ .md-button }
+<nav class="communication-resources" aria-label="Flamingo resources">
+  <a class="md-button" href="https://www.flamingorevolution.eu/protestat/" target="_blank" rel="noopener noreferrer">Protestkronologi och fotografier ↗</a>
+  <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Flamingo-dossier ↗</a>
+  <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Flamingos protestkarta ↗</a>
+</nav>
 
 !!! note "Föreslagen bildtext för bilaga"
     De bifogade fotografierna krediteras Citizens.al och delas med länkar till den ursprungliga rapporteringen. De ger endast visuell kontext; bildtexterna skiljer mellan vad som är synligt och anklagelser som kräver oberoende verifiering. Flamingo-länkarna ovan ger tillgång till rörelsens protestkronologi och fotografier, den offentliga källsammanställningen samt protestkartan.
 
 ## Översättningar
 
-Samma tre mejl finns tillgängliga på [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
+Samma tre mejl finns tillgängliga på [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Erkännanden och tack
 

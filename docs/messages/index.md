@@ -11,6 +11,7 @@ hide:
 
 # Flamingo Protests in Albania — English awareness emails
 
+
 === "Media"
 
     **Subject:** Flamingo Protests in Albania: reported police abuses during Tirana student demonstrations
@@ -250,7 +251,7 @@ Download only the images relevant to your message, keep the supplied credit, and
 
 ## Translations
 
-The same three emails are available in [Albanian](../languages/sq.md), [Czech](../languages/cs.md), [Danish](../languages/da.md), [Dutch](../languages/nl.md), [Finnish](../languages/fi.md), [French](../languages/fr.md), [German](../languages/de.md), [Italian](../languages/it.md), [Norwegian](../languages/no.md), [Polish](../languages/pl.md), [Portuguese](../languages/pt.md), [Spanish](../languages/es.md) and [Swedish](../languages/sv.md).
+The three recipient templates are available in [Albanian](../languages/sq.md) · [Bulgarian](../languages/bg.md) · [Czech](../languages/cs.md) · [Danish](../languages/da.md) · [Dutch](../languages/nl.md) · [Finnish](../languages/fi.md) · [French](../languages/fr.md) · [German](../languages/de.md) · [Greek](../languages/el.md) · [Italian](../languages/it.md) · [Norwegian](../languages/no.md) · [Polish](../languages/pl.md) · [Portuguese](../languages/pt.md) · [Romanian](../languages/ro.md) · [Serbian](../languages/sr.md) · [Spanish](../languages/es.md) · [Swedish](../languages/sv.md) · [Turkish](../languages/tr.md) · [Ukrainian](../languages/uk.md).
 
 ## Credits and acknowledgements
 

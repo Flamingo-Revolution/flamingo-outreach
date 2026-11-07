@@ -4,7 +4,8 @@ on:
   workflow_dispatch:
 
   schedule:
-    - cron: "17 */6 * * *"
+    # Every other calendar day at 00:17 UTC (resets at the start of each month).
+    - cron: "17 0 */2 * *"
 
 permissions:
   contents: write

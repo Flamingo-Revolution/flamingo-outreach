@@ -19,7 +19,7 @@ hide:
 
     Je demande à votre rédaction d'examiner de toute urgence les violations des droits de l'homme signalées lors des manifestations étudiantes qui ont débuté à Tirana le 13 octobre 2026 et se sont depuis propagées. Les manifestations impliquent des étudiants, notamment des lycéens, et les allégations méritent une plus grande attention du public.
 
-    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement] (https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
+    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement](https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
 
     Les principaux chiffres rapportés comprennent :
 
@@ -86,7 +86,7 @@ hide:
 
     Je vous écris pour alerter votre établissement des graves préoccupations en matière de droits humains signalées lors des manifestations dirigées par les étudiants qui ont débuté à Tirana le 13 octobre 2026 et se sont depuis propagées. Les étudiants, les journalistes, les passants et les détenus peuvent être touchés, et la fréquentation des écoles secondaires soulève des préoccupations particulières en matière de protection des enfants.
 
-    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement] (https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
+    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement](https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
 
     Les principaux chiffres rapportés comprennent :
 
@@ -160,7 +160,7 @@ hide:
 
     Je vous écris en tant que [électeur / membre de la diaspora albanaise / résident concerné] pour vous demander d'attirer de toute urgence l'attention sur les violations des droits de l'homme signalées lors des manifestations étudiantes qui ont commencé à Tirana le 13 octobre 2026 et se sont depuis propagées. Regarder les reportages a été effrayant, et je veux que tous ceux qui protestent, passent par là ou rapportent la nouvelle rentrent chez eux sains et saufs.
 
-    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement] (https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
+    Ces manifestations font partie des plus de 140 jours de manifestations Flamingo en Albanie. Selon la [chronologie des manifestations publiée par le mouvement](https://www.flamingorevolution.eu/protestat/), les manifestations ont commencé à cause du développement affectant le paysage côtier protégé de Vjosë-Nartë et se sont élargies aux préoccupations concernant la responsabilité publique, les allégations de corruption, l'éducation et les soins de santé, l'émigration des jeunes, la pression économique, la représentation démocratique et l'État de droit.
 
     Les principaux chiffres rapportés comprennent :
 
@@ -222,38 +222,40 @@ Téléchargez uniquement les images pertinentes pour votre message, conservez le
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
+    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
     <strong>13 October · Tirana street scene</strong>
     <span>Credit: Citizens.al. Context includes police vehicles, smoke, people and street damage; it does not establish responsibility for any specific act.</span>
-    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
+    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
     <strong>14 October · Student boycott and march</strong>
     <span>Credit: Citizens.al. Use with the publisher's description and do not infer institutional endorsement from participation.</span>
-    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
+    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
     <strong>15 October · Live protest coverage</strong>
     <span>Credit: Citizens.al. Verify the original caption and context before attaching or describing the image.</span>
-    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
 </div>
 
-[Chronologie et photographies des manifestations ↗] (https://www.flamingorevolution.eu/protestat/){ .md-button }
-[Dossier Flamingo ↗] (https://www.flamingorevolution.eu/dosjet/){ .md-button }
-[Carte de protestation Flamingo ↗] (https://www.flamingorevolution.eu/harta/){ .md-button }
+<nav class="communication-resources" aria-label="Flamingo resources">
+  <a class="md-button" href="https://www.flamingorevolution.eu/protestat/" target="_blank" rel="noopener noreferrer">Chronologie et photographies des manifestations ↗</a>
+  <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Dossier Flamingo ↗</a>
+  <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Carte de protestation Flamingo ↗</a>
+</nav>
 
 !!! note "Légende de pièce jointe suggérée"
     Les photographies jointes sont créditées à Citizens.al et sont partagées avec des liens vers le rapport original. Ils fournissent uniquement un contexte visuel ; les légendes distinguent ce qui est visible des allégations qui nécessitent une vérification indépendante. Les liens Flamingo ci-dessus fournissent la chronologie et les photographies des manifestations du mouvement, un dossier de source publique et une carte des manifestations.
 
 ## Traductions
 
-Les trois mêmes e-mails sont disponibles en [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
+Les trois mêmes e-mails sont disponibles en [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Crédits et remerciements
 
-Ce matériel de sensibilisation s'appuie sur la documentation, l'organisation civique et l'information publique fournies par [ADCN] (https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution] (https://www.flamingorevolution.eu/), [Flamingo Berlin] (https://flamingo-berlin.github.io/) et d'autres groupes Flamingo de la diaspora, le Comité albanais d'Helsinki, des reporters locaux sur le terrain, des journalistes et des bénévoles indépendants. La reconnaissance n'implique pas la paternité, l'autorisation ou l'approbation de ce modèle par chaque groupe nommé.
+Ce matériel de sensibilisation s'appuie sur la documentation, l'organisation civique et l'information publique fournies par [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) et d'autres groupes Flamingo de la diaspora, le Comité albanais d'Helsinki, des reporters locaux sur le terrain, des journalistes et des bénévoles indépendants. La reconnaissance n'implique pas la paternité, l'autorisation ou l'approbation de ce modèle par chaque groupe nommé.
 
 Les sources, les questions ouvertes et les normes de vérification pour chaque affirmation ci-dessus sont collectées dans [Contexte → Sources et vérification](../background/sources.md).

@@ -46,11 +46,19 @@ Run it manually with:
 python scripts/update-media-coverage.py
 ```
 
-The `Update outreach data` GitHub Actions workflow runs every six hours
+The `Update outreach data` GitHub Actions workflow runs every other calendar day
+at 00:17 UTC (odd-numbered dates, resetting each month)
 and commits the generated CSV when it changes. It can also be run manually from
 the Actions tab.
 
 ## Run
+
+GitHub Actions runs the **Check outreach site** workflow on pull requests,
+pushes to `main`, and manual dispatch. It runs the workbook importer tests,
+JavaScript tests, and a strict MkDocs build. **Publish docs** deploys the site
+to GitHub Pages on pushes to `main` and after successful scheduled or manual
+data updates. Set the repository's Pages source to **GitHub Actions** to enable
+deployment.
 
 ```bash
 pip install -r requirements.txt
