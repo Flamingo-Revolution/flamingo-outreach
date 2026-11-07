@@ -42,6 +42,13 @@ function countryReportEntry(row, section) {
   const tags = row.issues || row.tags;
   if (tags) card.append(countryElement('p', 'country-entry-meta', tags));
   [row.status, row.evidence, row.contribution, row.notes].filter(Boolean).forEach(note => card.append(countryReportNote(note)));
+  [
+    ['response_verification', 'Response verification'], ['evidence_notes', 'Evidence notes'],
+    ['verification_status', 'Verification status'], ['verification_notes', 'Verification notes'],
+    ['follow_up_assessment', 'Follow-up assessment'], ['follow_up_research_action', 'Follow-up action'],
+    ['latest_evidence_scope', 'Latest evidence scope'], ['latest_verification_result', 'Latest verification result']
+  ].forEach(([key, label]) => { if (row[key]) card.append(countryReportNote(label + ': ' + row[key])); });
+  if (row.checked_on) card.append(countryElement('p', 'country-entry-meta', 'Checked: ' + countryReportDate(row.checked_on)));
   if (row.requested_action) card.append(countryElement('p', 'country-entry-note', `Suggested action: ${row.requested_action}`));
   const links = countryElement('div', 'country-entry-links');
   const dates = (section.key === 'media' ? row.dates || '' : row.response_date || '').split(';').map(date => countryReportDate(date.trim()));
@@ -49,6 +56,8 @@ function countryReportEntry(row, section) {
   outreachUrls(row[section.evidence]).forEach((url, index) => {
     countryReportLink(links, url, [section.key === 'media' ? `Coverage ${index + 1}` : types[index] || `Response ${index + 1}`, dates[index]].filter(Boolean).join(' · '));
   });
+  countryReportLink(links, row.follow_up_evidence_url, ['Follow-up evidence', countryReportDate(row.follow_up_evidence_date)].filter(Boolean).join(' · '));
+  countryReportLink(links, row.latest_source_url, ['Latest source', countryReportDate(row.latest_source_date)].filter(Boolean).join(' · '));
   countryReportLink(links, row.website || row.outlet_url, 'Website');
   countryReportLink(links, row.instagram_url, 'Instagram');
   countryReportLink(links, row.email || row.contact_email, 'Email', true);
@@ -106,7 +115,7 @@ async function setupCountryReport() {
     const context = countryElement('nav', 'country-report-context');
     context.setAttribute('aria-label', 'Country report navigation');
     const back = countryElement('a', '', '← Country map');
-    back.href = new URL('outreach/', countrySiteBase).href;
+    back.href = new URL('./', countrySiteBase).href;
     context.append(back, countryElement('strong', '', item.country));
     COUNTRY_SECTIONS.forEach(section => {
       const link = countryElement('a', '', section.key === 'parties' ? 'Parties' : section.title);

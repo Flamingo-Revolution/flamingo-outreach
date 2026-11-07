@@ -6,7 +6,7 @@ hide:
 # Contributors
 
 <nav class="status-page-nav" aria-label="Status pages">
-  <a href="../outreach/">Country map</a>
+  <a href="../">Country map</a>
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>

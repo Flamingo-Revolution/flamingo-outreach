@@ -77,7 +77,7 @@ reuse are welcome.
 
 ## Contributor attribution
 
-Add a **Contributors** column to every workbook sheet. It can appear anywhere;
+Add a **Contributors** column (the singular **Contributor** is also accepted) to every workbook sheet. It can appear anywhere;
 keep the other headings in their existing order. Use a consistent public name
 or handle and separate multiple contributors with semicolons (`Alex; Sam`).
 This credits the people entering or maintaining data, independently of the
@@ -115,3 +115,5 @@ The optional **MPs** (or **Members of Parliament**) workbook sheet uses:
 `Response Type`, `Response Link`, and `Notes`, plus the optional `Contributors`
 column. It is published as `docs/assets/data/mps.csv`. That CSV starts empty;
 individual MPs are never inferred from political-party records.
+
+The importer preserves extra named verification and follow-up columns after the required columns in institutions and parties sheets. It skips country-only media placeholder rows and converts spreadsheet dates for display.

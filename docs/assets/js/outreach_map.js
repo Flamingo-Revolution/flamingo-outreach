@@ -1,6 +1,8 @@
 let outreachMapState = null;
 
 const outreachCapitalCenters = {
+  Argentina: [-34.6037, -58.3816],
+  Chile: [-33.4489, -70.6693],
   Albania: [41.3275, 19.8187],
   Andorra: [42.5063, 1.5218],
   Armenia: [40.1872, 44.5152],

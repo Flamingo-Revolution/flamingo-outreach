@@ -24,6 +24,14 @@ class WorkbookContributorsTests(unittest.TestCase):
             values.insert(index, 'Alex; Sam')
             self.assertEqual(updater.normalize_media_coverage([headers, values])[0]['contributors'], 'Alex; Sam')
 
+    def test_singular_contributor_heading_is_supported(self):
+        rows = [['Country', 'Contributor'], ['Albania', 'Alex']]
+        stripped, credits = updater.extract_contributors(rows)
+        self.assertEqual(stripped, [['Country'], ['Albania']])
+        self.assertEqual(credits, ['Alex'])
+        with self.assertRaises(ValueError):
+            updater.extract_contributors([['Contributor', 'Contributors']])
+
     def test_shared_rows_and_duplicate_names_are_counted_once(self):
         sheets = {
             'Media Coverage': [['value', 'Contributors'], ['entry', 'Alex; Sam; alex']],
@@ -54,6 +62,26 @@ class WorkbookContributorsTests(unittest.TestCase):
                 totals = json.loads((output / 'contributors.json').read_text())
                 self.assertEqual(totals['contributors'][0]['total'], 1)
                 self.assertEqual(totals['contributors'][0]['sheets'], {sheet_name: 1})
+
+    def test_country_only_media_placeholders_are_skipped(self):
+        rows = [updater.MEDIA_HEADERS, ['Sweden'], ['Argentina', 'Outlet', '', '', '', '', '', '', '']]
+        records = updater.normalize_media_coverage(rows)
+        self.assertEqual(len(records), 1)
+        self.assertEqual(records[0]['country_code'], 'AR')
+
+    def test_verification_columns_are_preserved_and_dates_normalized(self):
+        rows = [
+            ['Country', 'Party', 'Website', 'Priority', 'Issues', 'Status', 'Response Link', 'Instagram Evidence', 'Verification Notes', 'Checked On'],
+            ['Chile', 'Group', '', '', '', '', '', '', 'Needs source review', '46310.0'],
+        ]
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder) / 'political_parties.csv'
+            updater.publish_csv('Political Parties', rows, output)
+            with output.open(newline='') as handle:
+                record = next(csv.DictReader(handle))
+            self.assertEqual(record['verification_notes'], 'Needs source review')
+            self.assertEqual(record['checked_on'], updater.normalize_dates('46310.0'))
+
 
 
 if __name__ == '__main__':

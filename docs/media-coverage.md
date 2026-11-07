@@ -6,7 +6,7 @@ hide:
 # Media coverage
 
 <nav class="status-page-nav" aria-label="Status pages">
-  <a href="../outreach/">Country map</a>
+  <a href="../">Country map</a>
   <a href="../media-coverage/" aria-current="page">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>

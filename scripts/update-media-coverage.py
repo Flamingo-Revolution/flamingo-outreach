@@ -48,6 +48,8 @@ OUTPUT_HEADERS = [
 ]
 
 COUNTRY_CODES = {
+    "Argentina": "AR",
+    "Chile": "CL",
     "Albania": "AL",
     "Andorra": "AD",
     "Armenia": "AM",
@@ -165,7 +167,7 @@ def extract_contributors(rows: list[list[str]]) -> tuple[list[list[str]], list[s
     if not rows:
         return rows, []
     indexes = [i for i, value in enumerate(rows[0])
-               if value.lstrip("\ufeff").strip().casefold() == "contributors"]
+               if value.lstrip("\ufeff").strip().casefold() in {"contributor", "contributors"}]
     if len(indexes) > 1:
         raise ValueError("Only one Contributors column is allowed per worksheet.")
     if not indexes:
@@ -289,7 +291,7 @@ def normalize_media_coverage(rows: list[list[str]]) -> list[dict[str, str]]:
         source = dict(zip(workbook_headers, padded, strict=False))
         country = source["Country"]
         outlet = source["Media Outlet"] or infer_outlet_name(source["Website"])
-        if not any(source.values()):
+        if not any(value.strip() for key, value in source.items() if key != "Country"):
             continue
 
         if not country or not outlet:
@@ -364,25 +366,37 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
         "Issues Gallery": ["Date", "Category", "Issue", "Location", "Source URL", "Status", "Tags"],
     }
     required_headers = workbook_headers.get(name, expected)
-    if source_headers != required_headers:
+    if source_headers[:len(required_headers)] != required_headers:
         raise ValueError(
             f'The "{name}" sheet headings do not match {output.name}. Expected: '
             + ", ".join(required_headers)
         )
 
+    extra_headers = [re.sub(r"[^a-z0-9]+", "_", value.casefold()).strip("_")
+                     for value in source_headers[len(required_headers):]]
+    fields = [*expected, *extra_headers]
+    if any(not field for field in fields) or len(set([*fields, "contributors"])) != len(fields) + 1:
+        raise ValueError(f'The "{name}" sheet has blank or duplicate headings.')
     output.parent.mkdir(parents=True, exist_ok=True)
+    count = 0
     with output.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, lineterminator="\n")
-        writer.writerow([*expected, "contributors"])
+        writer.writerow([*fields, "contributors"])
         for values, credit in zip(rows[1:], credits):
-            padded = values + [""] * (len(expected) - len(values))
-            if len(padded) > len(expected) and any(padded[len(expected) :]):
+            padded = values + [""] * (len(fields) - len(values))
+            if any(padded[len(fields):]):
                 raise ValueError(f'The "{name}" sheet has data beyond its headings.')
-            output_values = padded[: len(expected)]
-            if name == "Institutions & Actors":
-                output_values[9] = normalize_dates(output_values[9])
+            output_values = padded[:len(fields)]
+            if not any(value.strip() for value in output_values):
+                continue
+            for index, field in enumerate(fields):
+                if field.endswith("_date") or field in {"date", "checked_on"}:
+                    output_values[index] = normalize_dates(output_values[index])
+                if field in {"eu_member", "office_in_albania"} and output_values[index] in {"0.0", "1.0"}:
+                    output_values[index] = output_values[index][0]
             writer.writerow([*output_values, credit])
-    return len(rows) - 1
+            count += 1
+    return count
 
 
 def publish_workbook(workbook: bytes) -> list[tuple[str, int]]:

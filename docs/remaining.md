@@ -6,7 +6,7 @@ hide:
 # Remaining outreach
 
 <nav class="status-page-nav" aria-label="Status pages">
-  <a href="../outreach/">Country map</a>
+  <a href="../">Country map</a>
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>
@@ -59,4 +59,4 @@ Listed institutions, MPs, parties, parliamentary groups, and media outlets, grou
   </details>
 </div>
 
-[Open the country map](outreach.md) to inspect sources and contact routes. Download the [institutions](assets/data/institutions.csv), [parties and groups](assets/data/political_parties.csv), [MPs](assets/data/mps.csv), or [media](assets/data/media_coverage.csv) data.
+[Open the country map](index.md) to inspect sources and contact routes. Download the [institutions](assets/data/institutions.csv), [parties and groups](assets/data/political_parties.csv), [MPs](assets/data/mps.csv), or [media](assets/data/media_coverage.csv) data.
