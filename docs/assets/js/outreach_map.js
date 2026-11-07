@@ -90,6 +90,17 @@ function outreachMarkerLabel({ total, recorded }, mode) {
   return String(recorded);
 }
 
+function outreachCountryStats(countries, category = 'all') {
+  const pinned = ['European Union', 'United States', 'International'];
+  const rank = country => pinned.includes(country) ? pinned.indexOf(country) : pinned.length;
+  return countries.map(item => {
+    const stat = category === 'all' ? item : item.stats[category];
+    const total = stat?.total || 0;
+    const recorded = stat?.recorded || 0;
+    return { country: item.country, total, recorded, missing: total - recorded, percent: total ? Math.round(recorded / total * 100) : null };
+  }).sort((a, b) => rank(a.country) - rank(b.country) || a.country.localeCompare(b.country));
+}
+
 async function setupOutreachMap() {
   const root = document.getElementById('outreach-overview');
   if (outreachMapState && outreachMapState.root !== root) {
@@ -166,7 +177,7 @@ async function setupOutreachMap() {
     selectedName = name;
     if (pan && map && centers.has(name)) map.setView(centers.get(name), Math.max(map.getZoom(), 5));
     renderCapitalMarkers();
-    popup.open(item, section, trigger?.isConnected && trigger !== document.body ? trigger : quickSearch || shell);
+    popup.open(item, section, trigger?.isConnected && trigger !== document.body ? trigger : quickSearch || shell, new URL(location.href).searchParams.get('view') !== 'detailed');
   };
 
   const renderQuickResults = () => {
@@ -233,6 +244,9 @@ async function setupOutreachMap() {
   quickSearch?.addEventListener('blur', closeQuickResults);
 
   const renderStats = () => {
+    const activeCategory = category?.value || 'all';
+    const categoryLabel = document.getElementById('outreach-stats-category');
+    if (categoryLabel) categoryLabel.textContent = category?.selectedOptions?.[0]?.textContent || 'All categories';
     const total = countries.reduce((sum, item) => sum + markerData(item).total, 0);
     const recorded = countries.reduce((sum, item) => sum + markerData(item).recorded, 0);
     const setText = (id, value) => {
@@ -247,9 +261,43 @@ async function setupOutreachMap() {
     const progress = document.getElementById('outreach-completion');
     if (progress) progress.value = percent;
     const completionLabel = document.getElementById('outreach-completion-label');
-    if (completionLabel) completionLabel.textContent = `${percent}%`;
-
+    if (completionLabel) completionLabel.textContent = `${recorded} / ${total}`;
+    const countryStats = document.getElementById('outreach-country-stats-body');
+    if (countryStats) {
+      const query = (document.getElementById('outreach-stats-search')?.value || '').trim().toLowerCase();
+      const rows = outreachCountryStats(countries, activeCategory).filter(stat => stat.country.toLowerCase().includes(query));
+      countryStats.replaceChildren();
+      const allies = ['European Union', 'United States', 'International'];
+      const makeRow = stat => {
+        const row = countryElement('li', 'outreach-country-stat');
+        const link = countryElement('a', '', stat.country);
+        link.title = stat.country;
+        link.href = outreachCountryPopupUrl(stat.country);
+        link.addEventListener('click', event => {
+          event.preventDefault();
+          choose(stat.country, true, activeCategory === 'all' ? '' : activeCategory, link);
+        });
+        const level = stat.percent === null ? 'empty' : stat.percent > 75 ? 'high' : stat.percent > 50 ? 'medium' : stat.percent > 25 ? 'low' : 'start';
+        const count = countryElement('strong', `outreach-country-stat-ratio outreach-country-stat-ratio--${level}`, `${stat.recorded} / ${stat.total}`);
+        count.setAttribute('aria-label', `${stat.recorded} of ${stat.total} done`);
+        if (!stat.total) count.title = 'No entries yet';
+        row.append(link, count);
+        return row;
+      };
+      [['Allies', true], ['Countries & groups', false]].forEach(([title, isAllies]) => {
+        const entries = rows.filter(stat => allies.includes(stat.country) === isAllies);
+        if (!entries.length) return;
+        const group = countryElement('section', 'outreach-stats-group');
+        group.append(countryElement('h2', '', title));
+        const list = countryElement('ul', 'outreach-country-stats-list');
+        list.append(...entries.map(makeRow));
+        group.append(list);
+        countryStats.append(group);
+      });
+      if (!rows.length) countryStats.append(countryElement('p', 'outreach-country-stats-empty', 'No countries found.'));
+    }
   };
+  document.getElementById('outreach-stats-search')?.addEventListener('input', renderStats);
 
   const sidebarTabs = [...root.querySelectorAll('.outreach-panel-tabs [role="tab"]')];
   const selectSidebarTab = selected => {
@@ -313,12 +361,12 @@ async function setupOutreachMap() {
 
   display?.addEventListener('change', () => {
     const descriptions = {
-      percentage: 'Percentage: 60% means 6 of 10 listed entries have a source link.',
-      numbers: 'Numbers: 6/10 means 6 done out of 10 listed entries.',
-      'done-todo': 'Done + todo: 6⁺⁴ means 6 entries with source links and 4 still without. Larger circles mean more listed entries.'
+      percentage: '60% means 6 of 10 entries are done.',
+      numbers: '6/10 means 6 done out of 10 entries.',
+      'done-todo': '6⁺⁴ means 6 done and 4 to do. Bigger markers mean more entries.'
     };
     const description = document.getElementById('outreach-marker-description');
-    if (description) description.textContent = descriptions[display.value] + ' Select a marker to see the records.';
+    if (description) description.textContent = descriptions[display.value];
     renderCapitalMarkers();
   });
   category?.addEventListener('change', () => {
@@ -343,13 +391,25 @@ async function setupOutreachMap() {
     });
     renderStats();
     const requested = new URL(location.href).searchParams.get('country');
+    if (typeof setupOutreachActivity === 'function') {
+      setupOutreachActivity(root, countries).catch(() => {
+        const status = root.querySelector('#outreach-activity-status');
+        if (status) status.textContent = 'Activity could not load. Reload to try again.';
+      });
+    }
     if (typeof L === 'undefined') {
       document.getElementById('outreach-map').textContent = 'The map could not load. Use the country search to open details.';
       if (requested) choose(outreachCountryName(requested), false);
       return;
     }
     map = L.map('outreach-map', { center: [49, 12], zoom: 4, minZoom: 2, maxZoom: 10, zoomControl: false, scrollWheelZoom: true, worldCopyJump: true });
-    L.control.zoom({ position: 'bottomright' }).addTo(map);
+    L.control.zoom({ position: 'bottomleft' }).addTo(map);
+    map.attributionControl.setPosition('bottomleft');
+    // On mobile this collapses to a small "i" button (see CSS); tapping it
+    // reveals the attribution text instead of it taking up space by default.
+    const attribution = map.attributionControl.getContainer();
+    attribution?.classList.add('outreach-attribution');
+    attribution?.addEventListener('click', () => attribution.classList.toggle('is-open'));
     const tiles = L.tileLayer(statusTileUrl(), { attribution: 'Esri, HERE, Garmin, © OpenStreetMap contributors', maxZoom: 16 }).addTo(map);
     capitalLayer = L.layerGroup().addTo(map);
     resizeObserver = new ResizeObserver(() => map.invalidateSize());

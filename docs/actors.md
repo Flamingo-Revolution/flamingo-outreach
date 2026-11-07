@@ -16,7 +16,7 @@ hide:
   <a href="../momentum/">Momentum</a>
 </nav>
 
-Civil-society actors — NGOs, diaspora groups, student and press-freedom organizations, and other non-institutional, non-party groups — already part of the Flamingo Revolution movement, not outreach targets being evaluated for a response. Every actor listed here is included because they are participating; the **evidence link** below is a citation for that participation, not a test of it. Actors are also the people and groups who research and complete the other outreach records on this site: an institution, party or media entry can be marked **Assigned To** an actor who is following up on it, and credited to a **Contributor** who entered or last updated it. Both fields are optional and may be blank until someone takes on that entry. See the [network](network.md) of actors, actions and parent groups, or select a country on the map to inspect its actors.
+Civil-society actors — NGOs, diaspora groups, student and press-freedom organizations, and other non-institutional, non-party groups — already part of the Flamingo Revolution movement, not outreach targets being evaluated for a response. Every actor listed here is included because they are participating; the **evidence link** below is a citation for that participation, not a test of it. Actors are also the people and groups who research and complete the other outreach records on this site: an institution, party or media entry can be marked **Assigned To** an actor who is following up on it, and credited to a **Contributor** who entered or last updated it. Both fields are optional and may be blank until someone takes on that entry. An actor can also set a **country of interest** — the institutions recorded there are listed on the actor's own entry below as suggested outreach targets. See the [network](network.md) of actors, actions and parent groups, or select a country on the map to inspect its actors.
 
 <div class="coverage-chart-card coverage-chart-card--map">
   <div class="status-map-stats" id="actors-map-stats" aria-label="Actor outreach statistics" aria-live="polite">
@@ -29,6 +29,8 @@ Civil-society actors — NGOs, diaspora groups, student and press-freedom organi
   <div class="coverage-map-legend" id="actors-map-legend"></div>
   <p class="coverage-map-note">Actors without a recorded HQ country are included in the directory below, but not on the map.</p>
 </div>
+
+Each actor’s country of interest links to the country popup in simple view: names and relevant links, grouped by type. Use **Show details** for the full records or **Show simple** to return to the list. Country links can be shared using `?country=Germany&view=simple`.
 
 ## Countries
 
@@ -45,8 +47,8 @@ Civil-society actors — NGOs, diaspora groups, student and press-freedom organi
   <select id="actors-category-filter"><option value="">All categories</option></select>
   <label for="actors-issue-filter">Issue</label>
   <select id="actors-issue-filter"><option value="">All issues</option></select>
-  <label for="actors-assigned-filter">Assigned to</label>
-  <select id="actors-assigned-filter"><option value="">Everyone</option></select>
+  <label for="actors-interest-filter">Country of interest</label>
+  <select id="actors-interest-filter"><option value="">Any</option></select>
   <label for="actors-status-filter">Evidence link status</label>
   <select id="actors-status-filter"><option value="">All entries</option><option value="recorded">Has a citable evidence link</option><option value="missing">No evidence link on file yet</option></select>
   <label for="actors-search">Find an actor</label>

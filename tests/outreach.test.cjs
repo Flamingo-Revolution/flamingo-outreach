@@ -53,6 +53,22 @@ test('map colors distinguish no entries from zero recorded activity', () => {
   assert.equal(evaluate(`outreachMapColor({stats:{media:{total:4,recorded:0}}}, 'media')`), '#c45b64');
 });
 
+test('sidebar country stats follow the category and distinguish empty countries from zero completion', () => {
+  context.statsCountries = [
+    { country: 'Germany', total: 8, recorded: 3, stats: { media: { total: 3, recorded: 2 } } },
+    { country: 'Albania', total: 2, recorded: 0, stats: { media: { total: 0, recorded: 0 } } }
+  ];
+  const all = evaluate('outreachCountryStats(statsCountries)');
+  assert.equal(all[0].country, 'Albania');
+  assert.equal(all[0].percent, 0);
+  assert.equal(all[1].missing, 5);
+  const media = evaluate('outreachCountryStats(statsCountries, "media")');
+  assert.equal(media[0].percent, null);
+  assert.equal(media[1].total, 3);
+  assert.equal(media[1].missing, 1);
+  assert.equal(media[1].percent, 67);
+});
+
 test('live data produces consistent report totals without inventing MPs', () => {
   const files = { media: 'media_coverage', institutions: 'institutions', mps: 'mps', parties: 'political_parties' };
   context.live = Object.fromEntries(Object.entries(files).map(([key, file]) => {
@@ -122,7 +138,7 @@ test('popup combines MPs and groups without changing original country entries', 
     mps: [{ name: 'Zeta MP', party: 'Alpha group', response_link: 'https://example.test/mp' }],
     parties: [{ party: 'Alpha group', response_link: '' }]
   } };
-  assert.equal(evaluate(`countryPopupSections().map(section => section.key).join(',')`), 'media,institutions,parliament');
+  assert.equal(evaluate(`countryPopupSections().map(section => section.key).join(',')`), 'media,institutions,parliament,actors');
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').length`), 2);
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').sort((a,b) => compareCountryEntries(a,b,countryPopupSections()[2],'name')).map(row => row.popupName).join(',')`), 'Alpha group,Zeta MP');
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').filter(row => outreachUrls(row.response_link).length).length`), 1);

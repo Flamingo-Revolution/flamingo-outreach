@@ -140,7 +140,7 @@ CSV_SHEETS = {
 
 CSV_HEADERS = {
     "institutions.csv": ["institution_id", "organization", "category", "country", "city", "website", "email", "issues", "requested_action", "response_date", "response_type", "response_link", "contact_route", "contribution", "evidence_url", "assigned_to"],
-    "actors.csv": ["actor_id", "organization", "category", "part_of", "city", "country", "website", "instagram_url", "evidence_url", "email", "issues", "requested_action", "response_date", "response_type", "response_link", "contact_route", "contribution", "assigned_to"],
+    "actors.csv": ["actor_id", "organization", "category", "part_of", "city", "country", "website", "instagram_url", "evidence_url", "email", "issues", "requested_action", "response_date", "response_type", "response_link", "contact_route", "contribution", "country_of_interest"],
     "actions.csv": ["action_id", "action", "actor_ids", "evidence_urls", "response_to", "notes", "institution_ids"],
     "embassies.csv": ["country", "representation", "category", "official_website", "instagram_url", "verification"],
     "political_parties.csv": ["country", "party", "website", "priority", "issues", "status", "response_link", "instagram_evidence"],
@@ -167,19 +167,27 @@ CSV_HEADERS = {
 }
 
 
-def extract_contributors(rows: list[list[str]]) -> tuple[list[list[str]], list[str]]:
+def extract_contributors(rows: list[list[str]], *, merge_duplicates: bool = False) -> tuple[list[list[str]], list[str]]:
     """Remove the optional attribution column while retaining legacy schema validation."""
     if not rows:
         return rows, []
     indexes = [i for i, value in enumerate(rows[0])
                if value.lstrip("\ufeff").strip().casefold() in {"contributor", "contributors"}]
-    if len(indexes) > 1:
+    if len(indexes) > 1 and not merge_duplicates:
         raise ValueError("Only one Contributors column is allowed per worksheet.")
     if not indexes:
         return rows, [""] * (len(rows) - 1)
-    index = indexes[0]
-    credits = [row[index].strip() if index < len(row) else "" for row in rows[1:]]
-    return [[value for i, value in enumerate(row) if i != index] for row in rows], credits
+    credits = []
+    for row in rows[1:]:
+        names: dict[str, str] = {}
+        for index in indexes:
+            value = row[index] if index < len(row) else ""
+            for name in value.split(";"):
+                name = name.strip()
+                if name:
+                    names.setdefault(name.casefold(), name)
+        credits.append("; ".join(names.values()))
+    return [[value for i, value in enumerate(row) if i not in indexes] for row in rows], credits
 
 
 def column_index(reference: str) -> int:
@@ -254,8 +262,12 @@ def normalize_media_coverage(rows: list[list[str]]) -> list[dict[str, str]]:
     if not rows:
         raise ValueError("The workbook contains no rows.")
 
-    rows, credits = extract_contributors(rows)
+    rows, credits = extract_contributors(rows, merge_duplicates=True)
     workbook_headers = [header.lstrip("\ufeff") for header in rows[0]]
+    while workbook_headers and not workbook_headers[-1].strip():
+        workbook_headers.pop()
+    if any(any(value.strip() for value in row[len(workbook_headers):]) for row in rows[1:]):
+        raise ValueError("The Media Coverage sheet has data in an unnamed trailing column.")
     if workbook_headers != MEDIA_HEADERS:
         raise ValueError(
             "Unexpected workbook columns. Expected: "
@@ -337,11 +349,13 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
     while source_headers and not source_headers[-1]:
         source_headers.pop()
     expected = CSV_HEADERS[output.name]
+    # A None entry matches any heading text at that position (including blank) -
+    # the workbook has shipped a blank heading there before, so it is accepted
+    # by position rather than by name, while every other column is still
+    # validated by name.
     workbook_headers = {
         "Institutions": ["Institution ID", "Institution", "Level", "Country", "City", "Website", "Email", "Issues", "Requested Action", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution", "Evidence URL", "Assigned To"],
-        # The trailing "Assigned To" column's heading is not validated by name: the
-        # workbook has briefly shipped it blank, so it's accepted by position instead.
-        "Actors": ["Contributor ID", "Organization / Group", "Category", "PartOf (ID)", "HQ City", "HQ Country", "Website", "Instagram", "Evidence URL", "Email", "Issues", "Requested Action", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution"],
+        "Actors": ["Contributor ID", "Organization / Group", "Category", "PartOf (ID)", "HQ City", "HQ Country", "Website", "Instagram", "Evidence URL", "Email", "Issues", "Requested Action", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution", "Country of Interest"],
         "Actions": ["Action ID", "Action", "Contributor IDs", "Evidence URLs", "Response To", "Notes", "Institution IDs"],
         "Embassies by Country": ["Country", "Representation", "Category", "Official Website", "Instagram URL", "Verification"],
         "Political Parties": ["Country", "Party", "Website", "Priority", "Issues", "Status", "Response Link", "Instagram Evidence"],
@@ -350,10 +364,14 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
         "Issues Gallery": ["Date", "Category", "Issue", "Location", "Source URL", "Status", "Tags"],
     }
     required_headers = workbook_headers.get(name, expected)
-    if source_headers[:len(required_headers)] != required_headers:
+    actual_prefix = source_headers[:len(required_headers)]
+    if len(actual_prefix) != len(required_headers) or any(
+        required is not None and required != actual
+        for required, actual in zip(required_headers, actual_prefix)
+    ):
         raise ValueError(
             f'The "{name}" sheet headings do not match {output.name}. Expected: '
-            + ", ".join(required_headers)
+            + ", ".join(header or "<any>" for header in required_headers)
         )
 
     extra_headers = [re.sub(r"[^a-z0-9]+", "_", value.casefold()).strip("_")

@@ -33,7 +33,8 @@ const COUNTRY_ENTRY_STATUS_LABELS = {
   actors: ['Evidence linked', 'No evidence link recorded']
 };
 
-function countryReportEntry(row, section) {
+function countryReportEntry(row, section, detailed = false) {
+  if (!detailed && section.key !== 'actors') return countryEntryLinkList(row, section);
   const hasRecord = outreachUrls(row[section.evidence]).length > 0;
   const card = countryElement('article', 'country-entry');
   const header = countryElement('div', 'country-entry-header');
@@ -43,7 +44,7 @@ function countryReportEntry(row, section) {
     hasRecord ? recordedLabel : missingLabel);
   header.append(title, status);
   card.append(header);
-  const meta = [row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${row.part_of}` : ''].filter(Boolean);
+  const meta = [row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
   if (meta.length) card.append(countryElement('p', 'country-entry-meta', meta.join(' · ')));
   const tags = row.issues || row.tags;
   if (tags) card.append(countryElement('p', 'country-entry-meta', tags));
@@ -84,8 +85,51 @@ function countryReportEntry(row, section) {
   }
   if (row.assigned_to) card.append(countryElement('p', 'country-entry-meta', `Assigned to: ${row.assigned_to}`));
   if (row.contributors) card.append(countryElement('p', 'country-entry-meta', `Data contributors: ${row.contributors}`));
+  if (section.key === 'actors' && row.country_of_interest && typeof actorAssignedInstitutionsNote === 'function') {
+    card.append(actorAssignedInstitutionsNote(row));
+  }
   card.append(links);
   return card;
+}
+
+function countryEntryLinkList(row, section, tag = 'article') {
+  const entry = countryElement(tag, 'country-link-item');
+  const done = outreachUrls(row[section.evidence]).length > 0;
+  const status = countryElement('span', `country-link-status${done ? ' country-link-status--done' : ''}`);
+  status.setAttribute('role', 'img');
+  status.setAttribute('aria-label', done ? 'Done: source link recorded' : 'Not done: no source link recorded');
+  status.title = done ? 'Done: source link recorded' : 'Not done: no source link recorded';
+  entry.append(status);
+  entry.append(countryElement('strong', '', row[section.name]));
+  const links = countryElement('span', 'country-link-item-links');
+  const seen = new Set();
+  const add = (value, label, email = false) => {
+    const holder = countryElement('span');
+    countryReportLink(holder, value, label, email);
+    [...holder.childNodes].forEach(link => {
+      if (seen.has(link.href)) return;
+      seen.add(link.href);
+      links.append(link);
+    });
+  };
+  add(row.website || row.outlet_url, 'Website');
+  add(row.instagram_url, 'Instagram');
+  add(row.email || row.contact_email, 'Email', true);
+  if (row.contact_route) {
+    add((row.contact_route.match(/https?:\/\/[^\s;<>]+/g) || []).map(url => url.replace(/[.,)]+$/, '')).join(';'), 'Contact');
+    add((row.contact_route.match(/[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/g) || []).join(';'), 'Email', true);
+  }
+  add(row[section.evidence], section.key === 'media' ? 'Coverage' : section.key === 'actors' ? 'Evidence' : 'Response');
+  add(row.follow_up_evidence_url, 'Evidence');
+  add(row.latest_source_url, 'Source');
+  add((row.instagram_evidence || '').match(/https?:\/\/[^\s;<>]+/)?.[0], 'Instagram evidence');
+  if (section.key === 'actors') {
+    [...new Set((row.country_of_interest || '').split(';').map(outreachCountryName).filter(Boolean))].forEach(country => {
+      add(outreachCountryPopupUrl(country, true), country);
+    });
+  }
+  entry.append(links);
+  return entry;
 }
 
 async function setupCountryReport() {
@@ -204,17 +248,23 @@ async function setupCountryReport() {
 document.addEventListener('DOMContentLoaded', setupCountryReport);
 if (typeof document$ !== 'undefined') document$.subscribe(setupCountryReport);
 
-function countryEntryDisclosure(row, section) {
+function countryEntryDisclosure(row, section, extra, detailed = false) {
   if (row.popupSection) section = COUNTRY_SECTIONS.find(item => item.key === row.popupSection);
+  if (!detailed && section.key !== 'actors') {
+    const entry = countryReportEntry(row, section);
+    if (extra) entry.append(extra);
+    return entry;
+  }
   const hasRecord = outreachUrls(row[section.evidence]).length > 0;
 
   const heading = countryElement('span', 'country-popup-entry-title', row[section.name]);
   const status = countryElement('span', `country-entry-status${hasRecord ? ' country-entry-status--recorded' : ''}`,
     hasRecord ? (COUNTRY_ENTRY_STATUS_LABELS[section.key] || ['Response linked'])[0] : 'Todo');
-  const meta = [row.popupSection ? (row.popupSection === 'mps' ? 'MP' : 'Party / parliamentary group') : '', row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${row.part_of}` : ''].filter(Boolean);
+  const meta = [row.popupSection ? (row.popupSection === 'mps' ? 'MP' : 'Party / parliamentary group') : '', row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
   const summaryNodes = [heading, status];
   if (meta.length) summaryNodes.push(countryElement('small', 'country-popup-entry-meta', meta.join(' · ')));
-  const content = countryReportEntry(row, section);
+  const content = countryReportEntry(row, section, true);
+  if (extra) content.append(extra);
   const details = countryDisclosure(summaryNodes, content, 'country-popup-entry');
   details.querySelector('summary').classList.add('country-popup-entry-summary');
   return details;

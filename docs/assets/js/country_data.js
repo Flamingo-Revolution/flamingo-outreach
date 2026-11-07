@@ -32,7 +32,24 @@ function outreachCountryUrl(country, section = '') {
   return url.href;
 }
 
+function outreachCountryPopupUrl(country, simple = false) {
+  const url = new URL('./', countrySiteBase);
+  url.searchParams.set('country', outreachCountryName(country));
+  if (simple) url.searchParams.set('view', 'simple');
+  return url.href;
+}
+
+let actorNamesById = new Map();
+
+function resolveActorName(id) {
+  return (id || '').split(';').map(part => part.trim()).filter(Boolean)
+    .map(part => actorNamesById.get(part) || part).join('; ');
+}
+
 function buildOutreachCountries(datasets) {
+  actorNamesById = new Map(
+    (datasets.actors || []).filter(row => row.actor_id).map(row => [row.actor_id, row.organization])
+  );
   const countries = new Map();
   COUNTRY_SECTIONS.forEach(section => {
     const merged = new Map();

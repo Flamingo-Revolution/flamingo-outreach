@@ -144,7 +144,7 @@ function renderStatusDirectory(options) {
   const {
     data, sortMode, filterSummary, listId, summaryId, mapStatsIds, groupKey,
     nameField, isResponded, levels, countryIdPrefix, entrySort,
-    summaryNoun, mapOptions, reportSectionKey
+    summaryNoun, mapOptions, reportSectionKey, entryExtra
   } = options;
 
   const root = document.getElementById(listId);
@@ -189,7 +189,7 @@ function renderStatusDirectory(options) {
     const list = document.createElement('div');
     list.className = 'status-entry-list';
     const section = COUNTRY_SECTIONS.find(item => item.key === reportSectionKey);
-    const blocks = [...entries].sort(entrySort).map(entry => countryEntryDisclosure(entry, section));
+    const blocks = [...entries].sort(entrySort).map(entry => countryEntryDisclosure(entry, section, entryExtra?.(entry)));
     list.replaceChildren(...blocks);
     countryDisclosureAccordion(blocks);
 
@@ -213,7 +213,7 @@ function renderStatusDirectory(options) {
 function setupStatusPage(options) {
   const {
     csvFile, assetsBase, listId, sortId, searchId, filters = [],
-    searchMatch, buildFilterSummary, render
+    searchMatch, buildFilterSummary, render, onData
   } = options;
 
   const root = document.getElementById(listId);
@@ -230,6 +230,7 @@ function setupStatusPage(options) {
     })
     .then(text => {
       const data = csvRows(text);
+      onData?.(data);
 
       filterSelects.forEach(filter => {
         filter.options(data).forEach(value => {

@@ -19,6 +19,24 @@ function actorIssues(actor) {
 
 const isActorResponded = actor => outreachUrls(actor.evidence_url).length > 0;
 
+function actorCountryKey(country) {
+  return outreachCountryName(country).toLowerCase();
+}
+
+function actorAssignedInstitutionsNote(actor) {
+  const countries = [...new Map(actorValues(actor.country_of_interest).map(country => [actorCountryKey(country), outreachCountryName(country)])).values()];
+  if (!countries.length) return null;
+  const note = countryElement('div', 'country-entry-links');
+  note.append(countryElement('strong', '', 'Country of interest:'));
+  countries.forEach(country => {
+    const link = countryElement('a', '', country);
+    link.href = outreachCountryPopupUrl(country, true);
+    link.dataset.countryKey = actorCountryKey(country);
+    note.append(link);
+  });
+  return note;
+}
+
 function renderActors(data, sortMode, filterSummary) {
   renderStatusDirectory({
     data,
@@ -75,13 +93,14 @@ function setupActors() {
         options: data => [...new Set(data.flatMap(actorIssues))].sort()
       },
       {
-        selectId: 'actors-assigned-filter',
-        match: (item, value) => actorValues(item.assigned_to).includes(value),
-        options: data => [...new Set(data.flatMap(item => actorValues(item.assigned_to)))].sort()
+        selectId: 'actors-interest-filter',
+        match: (item, value) => actorValues(item.country_of_interest).includes(value),
+        options: data => [...new Set(data.flatMap(item => actorValues(item.country_of_interest)))].sort()
       }
     ],
     searchMatch: (item, query) => item.organization.toLowerCase().includes(query) || (item.city || '').toLowerCase().includes(query),
-    buildFilterSummary: ([status, category, issue, assigned], query) => [status === 'recorded' ? 'Done' : status === 'missing' ? 'Todo' : '', category, issue, assigned ? `assigned: ${assigned}` : '', query ? `search: ${query}` : ''].filter(Boolean).join(' · '),
+    buildFilterSummary: ([status, category, issue, interest], query) => [status === 'recorded' ? 'Done' : status === 'missing' ? 'Todo' : '', category, issue, interest ? `interested in: ${interest}` : '', query ? `search: ${query}` : ''].filter(Boolean).join(' · '),
+    onData: data => { actorNamesById = new Map(data.filter(row => row.actor_id).map(row => [row.actor_id, row.organization])); },
     render: renderActors
   });
 }

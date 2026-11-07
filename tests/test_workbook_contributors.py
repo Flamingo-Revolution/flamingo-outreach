@@ -32,6 +32,26 @@ class WorkbookContributorsTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             updater.extract_contributors([['Contributor', 'Contributors']])
 
+    def test_media_combines_both_online_contributor_columns(self):
+        headers = updater.MEDIA_HEADERS.copy()
+        headers.insert(9, 'Contributor')
+        headers.append('Contributor')
+        row = ['Albania', 'Outlet', 'https://example.test', '', '', '', '', '', '', 'Alex; Sam', 'Assigned actor', 'sam; Jo']
+        sparse = ['Germany', 'Other outlet']
+        records = updater.normalize_media_coverage([headers, row, sparse])
+        self.assertEqual(records[0]['contributors'], 'Alex; Sam; Jo')
+        self.assertEqual(records[0]['assigned_to'], 'Assigned actor')
+        self.assertEqual(records[0]['outlet_url'], 'https://example.test')
+        self.assertEqual(records[1]['contributors'], '')
+
+    def test_media_ignores_empty_trailing_columns_without_losing_data(self):
+        headers = [*updater.MEDIA_HEADERS, 'Contributor', '']
+        row = ['Albania', 'Outlet', '', '', '', '', '', '', '', '', 'Alex', '']
+        self.assertEqual(updater.normalize_media_coverage([headers, row])[0]['contributors'], 'Alex')
+        row[-1] = 'Unexpected data'
+        with self.assertRaisesRegex(ValueError, 'unnamed trailing column'):
+            updater.normalize_media_coverage([headers, row])
+
     def test_shared_rows_and_duplicate_names_are_counted_once(self):
         sheets = {
             'Media Coverage': [['value', 'Contributors'], ['entry', 'Alex; Sam; alex']],

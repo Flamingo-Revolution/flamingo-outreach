@@ -25,9 +25,9 @@ function countryPopupSections() {
 }
 
 function countryPopupEntries(country, key) {
-  if (key !== 'parliament') return country.entries[key];
+  if (key !== 'parliament') return country.entries[key] || [];
   return COUNTRY_SECTIONS.filter(section => ['mps', 'parties'].includes(section.key)).flatMap(section =>
-    country.entries[section.key].map(row => ({ ...row, popupName: row[section.name], popupSection: section.key }))
+    (country.entries[section.key] || []).map(row => ({ ...row, popupName: row[section.name], popupSection: section.key }))
   );
 }
 
@@ -48,9 +48,6 @@ function createCountryPopup(host) {
   close.setAttribute('aria-label', 'Close country details');
   header.append(heading, close);
   const summary = countryElement('p', 'outreach-summary');
-  const tabs = countryElement('div', 'country-metrics country-popup-tabs');
-  tabs.setAttribute('role', 'tablist');
-  tabs.setAttribute('aria-label', 'Country information');
   const filterDisclosure = countryElement('details', 'status-disclosure country-popup-filter-disclosure');
   const filterSummary = countryElement('summary', 'status-disclosure-summary country-popup-filter-summary');
   const filterState = countryElement('span', 'status-disclosure-state country-popup-filter-state', 'All entries');
@@ -94,52 +91,77 @@ function createCountryPopup(host) {
   reset.type = 'button';
   const resultsRow = countryElement('div', 'country-popup-results-row');
   const results = countryElement('p', 'outreach-summary country-popup-results');
+  const viewToggle = countryElement('button', 'country-popup-view-toggle', 'Show simple');
+  viewToggle.type = 'button';
+  viewToggle.setAttribute('aria-controls', 'country-popup-body');
+  const headerActions = countryElement('div', 'country-popup-header-actions');
+  headerActions.append(viewToggle, close);
+  header.append(headerActions);
   resultsRow.append(results, reset);
   results.setAttribute('role', 'status');
   const body = countryElement('div', 'country-popup-body');
   body.id = 'country-popup-body';
-  body.setAttribute('role', 'tabpanel');
+  body.setAttribute('role', 'region');
+  body.setAttribute('aria-label', 'Outreach groups');
   body.tabIndex = 0;
   const footer = countryElement('p', 'outreach-note country-popup-footer', 'Done = a source link is recorded. Todo = no link in this tracker. Responses do not imply support.');
-  panel.append(header, summary, tabs, filterDisclosure, resultsRow, body, footer);
+  panel.append(header, summary, filterDisclosure, resultsRow, body, footer);
   dialog.append(panel);
   host.append(dialog);
   const sections = countryPopupSections();
-  let current, activeSection = 'media', trigger = null;
+  let current, trigger = null, simple = false;
+  const openGroups = new Map();
 
   const render = () => {
-    const section = sections.find(item => item.key === activeSection);
-    const entries = countryPopupEntries(current, activeSection);
-    const query = search.value.trim().toLowerCase();
-    const visible = entries.filter(row => {
-      const recorded = outreachUrls(row[section.evidence]).length > 0;
-      return (!statusFilter || (statusFilter === 'recorded' ? recorded : !recorded)) &&
-        (!query || Object.values(row).some(value => String(value).toLowerCase().includes(query)));
-    }).sort((a, b) => compareCountryEntries(a, b, section, sort.value));
-    tabs.querySelectorAll('button').forEach(button => {
-      const active = button.dataset.section === activeSection;
-      button.setAttribute('aria-selected', String(active));
-      button.tabIndex = active ? 0 : -1;
+    [...body.childNodes].forEach(group => {
+      if (group.dataset?.groupKey) openGroups.set(group.dataset.groupKey, group.open);
     });
-    const done = entries.filter(row => outreachUrls(row[section.evidence]).length > 0).length;
+    viewToggle.textContent = simple ? 'Show details' : 'Show simple';
+    viewToggle.setAttribute('aria-pressed', String(simple));
+    footer.hidden = simple;
+    const query = search.value.trim().toLowerCase();
+    const allEntries = sections.flatMap(section => countryPopupEntries(current, section.key).map(row => ({ row, section })));
+    const done = allEntries.filter(({ row, section }) => outreachUrls(row[section.evidence]).length > 0).length;
     statusOptions.forEach(({ input, count, value }) => {
       input.checked = value === statusFilter;
-      count.textContent = value === 'recorded' ? done : value === 'missing' ? entries.length - done : entries.length;
+      count.textContent = value === 'recorded' ? done : value === 'missing' ? allEntries.length - done : allEntries.length;
     });
     reset.disabled = !query && !statusFilter && sort.value === 'name';
     filterState.textContent = [query ? 'Search active' : '', statusFilter === 'recorded' ? 'Done' : statusFilter === 'missing' ? 'Todo' : '', sort.value !== 'name' ? 'Sorted' : ''].filter(Boolean).join(' · ') || 'All entries';
-    body.setAttribute('aria-labelledby', `country-popup-tab-${activeSection}`);
-    results.textContent = `${section.title} · ${visible.length} of ${entries.length} entries`;
     body.replaceChildren();
-    if (!entries.length) {
-      body.append(countryElement('p', 'country-empty', `No ${section.title.toLowerCase()} are recorded for ${current.country} yet.`));
-    } else if (!visible.length) body.append(countryElement('p', 'country-empty', 'No matches. Try another name, choose All, or reset the filters.'));
-    else {
-      const blocks = visible.map(row => countryEntryDisclosure(row, section));
-      body.replaceChildren(...blocks);
-      countryDisclosureAccordion(blocks);
-    }
-    body.scrollTop = 0;
+    let matched = 0;
+    sections.forEach(section => {
+      const entries = countryPopupEntries(current, section.key);
+      const visible = entries.filter(row => {
+        const recorded = outreachUrls(row[section.evidence]).length > 0;
+        return (!statusFilter || (statusFilter === 'recorded' ? recorded : !recorded)) &&
+          (!query || Object.values(row).some(value => String(value).toLowerCase().includes(query)));
+      }).sort((a, b) => compareCountryEntries(a, b, section, sort.value));
+      matched += visible.length;
+      const content = countryElement('div', 'country-popup-group-content');
+      if (!visible.length) {
+        content.append(countryElement('p', 'country-empty', entries.length ? 'No entries match your filters.' : 'No entries recorded yet.'));
+      } else if (simple) {
+        const list = countryElement('ul', 'country-link-list');
+        visible.forEach(row => {
+          const type = row.popupSection ? COUNTRY_SECTIONS.find(item => item.key === row.popupSection) : section;
+          list.append(countryEntryLinkList(row, type, 'li'));
+        });
+        content.append(list);
+      } else {
+        const blocks = visible.map(row => countryEntryDisclosure(row, section, null, true));
+        content.append(...blocks);
+        countryDisclosureAccordion(blocks);
+      }
+      const group = countryDisclosure([
+        countryElement('strong', '', section.title),
+        countryElement('span', 'country-popup-group-count', String(visible.length))
+      ], content, 'country-popup-group');
+      group.dataset.groupKey = section.key;
+      group.open = query || statusFilter ? visible.length > 0 : Boolean(openGroups.get(section.key));
+      body.append(group);
+    });
+    results.textContent = matched + ' of ' + allEntries.length + ' entries';
   };
 
   const onClose = () => {
@@ -162,41 +184,25 @@ function createCountryPopup(host) {
     search.focus({ preventScroll: true });
   });
   sort.addEventListener('change', render);
-  tabs.addEventListener('keydown', event => {
-    const buttons = [...tabs.querySelectorAll('button')];
-    const index = buttons.indexOf(document.activeElement);
-    if (index < 0 || !['ArrowRight', 'ArrowLeft', 'Home', 'End'].includes(event.key)) return;
-    event.preventDefault();
-    const next = event.key === 'Home' ? 0 : event.key === 'End' ? buttons.length - 1 : (index + (event.key === 'ArrowRight' ? 1 : -1) + buttons.length) % buttons.length;
-    buttons[next].click();
-    buttons[next].focus();
+  viewToggle.addEventListener('click', () => {
+    simple = !simple;
+    render();
   });
 
+
   return {
-    open(item, section = 'media', opener = document.activeElement) {
+    open(item, section = 'media', opener = document.activeElement, simpleView = true) {
       current = item;
+      simple = simpleView;
       const requestedSection = ['mps', 'parties'].includes(section) ? 'parliament' : section;
-      activeSection = sections.some(value => value.key === requestedSection) ? requestedSection : 'media';
+      openGroups.clear();
+      openGroups.set(requestedSection, true);
+      body.replaceChildren();
       trigger = opener;
       title.textContent = item.country;
       summary.textContent = `${item.total} listed entries · ${item.recorded} with linked coverage or responses`;
       search.value = ''; statusFilter = '';
       filterDisclosure.open = false;
-      tabs.replaceChildren();
-      sections.forEach(config => {
-        const entries = countryPopupEntries(item, config.key);
-        const stat = { total: entries.length, recorded: entries.filter(row => outreachUrls(row[config.evidence]).length > 0).length };
-        const button = countryElement('button', 'country-metric');
-        button.type = 'button';
-        button.id = `country-popup-tab-${config.key}`;
-        button.dataset.section = config.key;
-        button.setAttribute('role', 'tab');
-        button.setAttribute('aria-controls', body.id);
-        button.append(countryElement('span', '', config.title), countryElement('strong', '', String(stat.total)));
-        button.setAttribute('aria-label', `${config.title}: ${stat.total} entries, ${stat.recorded} with source links`);
-        button.addEventListener('click', () => { activeSection = config.key; render(); });
-        tabs.append(button);
-      });
       render();
       if (!dialog.open) dialog.showModal();
       document.body.classList.add('country-popup-open');

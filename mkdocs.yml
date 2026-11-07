@@ -42,6 +42,7 @@ extra_javascript:
   - assets/js/country_data.js
   - assets/js/country_report.js
   - assets/js/country_popup.js
+  - assets/js/outreach_activity.js
   - assets/js/outreach_map.js
   - assets/js/institutions.js
   - assets/js/parties.js

@@ -1589,6 +1589,7 @@ body:has(.outreach-overview--map-only) .md-footer { display: none; }
 .outreach-side-panel .country-metric { padding: .35rem .45rem; font-size: .6rem; }
 .outreach-overview--map-only .leaflet-top.leaflet-right { right: .75rem; }
 .outreach-sidebar-handle { position: absolute; z-index: 421; top: 50%; display: grid; width: 34px; height: 68px; place-items: center; padding: 0; border: 1px solid var(--md-default-fg-color--lightest); background: color-mix(in srgb, var(--md-default-bg-color) 96%, transparent); color: var(--md-default-fg-color); box-shadow: 0 8px 24px #0002; font: 1.6rem/1 var(--md-text-font-family); cursor: pointer; transform: translateY(-50%); transition: left .24s ease, right .24s ease, transform .24s ease; }
+.outreach-sidebar-handle svg { width: 19px; height: 19px; flex-shrink: 0; fill: none; stroke: currentColor; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
 @media (max-width: 76.1875rem) {
   .outreach-overview--map-only { height: calc(100dvh - 2.4rem); }
 }
@@ -1653,16 +1654,14 @@ body.country-popup-open { overflow: hidden; }
 @media (prefers-reduced-motion: reduce) {
   .outreach-side-panel, .outreach-sidebar-handle { transition: none; }
 }
-.outreach-country-search { position: absolute; z-index: 430; top: .75rem; left: 50%; transform: translateX(-50%); width: min(320px, calc(100% - 7rem)); }
-.outreach-country-search-box { display: flex; align-items: center; gap: .5rem; padding: .6rem .8rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .7rem; background: var(--md-default-bg-color); box-shadow: 0 4px 18px #0002; }
+/* A right-side widget, same column and margin as the Activity rail below it — just search, nothing else. */
+.outreach-country-search { position: absolute; z-index: 430; top: .75rem; right: .75rem; left: auto; transform: none; width: min(300px, calc(100vw - 1.5rem)); }
+.outreach-country-search-box { display: flex; align-items: center; gap: .5rem; padding: .6rem .8rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 1.1rem; background: color-mix(in srgb, var(--md-default-bg-color) 96%, transparent); backdrop-filter: blur(18px); -webkit-backdrop-filter: blur(18px); box-shadow: 0 12px 40px #0002, 0 1px 3px #0001; }
 .outreach-country-search input { width: 100%; min-width: 0; border: 0; background: transparent; color: var(--md-default-fg-color); font: inherit; font-size: .75rem; }
 .outreach-country-search-results { max-height: 50vh; overflow-y: auto; margin: .4rem 0 0 !important; padding: .3rem !important; list-style: none; border-radius: .7rem; background: var(--md-default-bg-color); box-shadow: 0 8px 24px #0003; }
 .outreach-country-search-result { display: grid; gap: .15rem; margin: 0 !important; padding: .55rem; border-radius: .4rem; cursor: pointer; font-size: .75rem; }
 .outreach-country-search-result:hover { background: var(--md-default-fg-color--lightest); }
 .outreach-country-search-result-meta { color: var(--md-default-fg-color--light); font-size: .6rem; }
-@media (min-width: 58.001rem) {
-  .outreach-country-search { left: auto; right: 4rem; transform: none; }
-}
 
 /* Floating map control deck. */
 .outreach-overview--map-only { --panel-width: min(344px, calc(100vw - 2rem)); }
@@ -1712,15 +1711,125 @@ body.country-popup-open { overflow: hidden; }
 .outreach-side-panel :focus-visible, .outreach-sidebar-handle:focus-visible { outline: 2px solid var(--md-accent-fg-color); outline-offset: 3px; }
 @media (max-width: 58rem) {
   .outreach-overview--map-only { --panel-width: min(344px, calc(100vw - 4.5rem)); }
-  .outreach-country-search { top: 3.8rem; }
 }
 @media (prefers-reduced-motion: reduce) {
   .outreach-overview--map-only .outreach-side-panel, .outreach-overview--map-only .outreach-sidebar-handle { transition: none; }
 }
 
+/* Bottom-right rail: linked activity across media, institutions, parties & actors. */
+.outreach-overview--map-only .outreach-activity {
+  position: absolute; z-index: 425; right: .75rem; bottom: .25rem;
+  width: min(360px, calc(100vw - 1.5rem));
+  max-height: calc(100% - 1.5rem);
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 1.1rem;
+  background: color-mix(in srgb, var(--md-default-bg-color) 96%, transparent);
+  box-shadow: 0 12px 40px #0002, 0 1px 3px #0001;
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  overflow: hidden;
+  transition: transform .24s ease, opacity .18s ease;
+}
+.outreach-activity > summary {
+  display: flex; flex-shrink: 0; align-items: center; justify-content: space-between; gap: .5rem;
+  padding: .85rem 1rem; border-bottom: 1px solid transparent;
+  list-style: none; cursor: pointer; font-size: .82rem; font-weight: 800;
+}
+.outreach-activity[open] > summary { border-bottom-color: var(--md-default-fg-color--lightest); }
+.outreach-activity > summary::-webkit-details-marker { display: none; }
+#outreach-activity-count {
+  display: inline-flex; min-width: 1.5rem; height: 1.5rem; align-items: center; justify-content: center;
+  padding: 0 .4rem; margin-left: auto; border-radius: 999px;
+  background: var(--md-accent-fg-color); color: #fff; font-size: .64rem; font-weight: 800; font-variant-numeric: tabular-nums;
+}
+.outreach-activity > summary::after {
+  content: '⌄'; display: grid; width: 1.6rem; height: 1.6rem; flex: 0 0 auto; place-items: center;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 50%;
+  background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color--light);
+  font-size: .85rem; transition: transform .18s ease;
+}
+.outreach-activity[open] > summary::after { transform: rotate(180deg); }
+.outreach-activity-content { padding: 0 1rem 1rem; }
+.outreach-activity-controls {
+  grid-template-columns: auto 1fr; align-items: center; gap: .4rem .6rem; margin-block: .8rem .6rem;
+}
+.outreach-activity-controls label { margin: 0; font-size: .62rem; }
+.outreach-activity-controls select, .outreach-activity-controls input { min-height: 1.95rem; padding: .3rem .5rem; font-size: .68rem; }
+.outreach-activity #outreach-activity-status { margin: 0 0 .6rem; }
+/* The list owns its own scroll height so it works regardless of how the
+   browser renders the <details> disclosure's internal content box. */
+.outreach-activity-list {
+  display: flex; flex-direction: column; gap: .5rem;
+  max-height: min(48vh, 420px); overflow-y: auto; overscroll-behavior: contain;
+  margin: 0 !important; padding: .1rem .4rem .1rem 0 !important;
+  list-style: none; scrollbar-width: thin; scrollbar-color: var(--md-default-fg-color--lighter) transparent;
+}
+/* Every entry is one line: icon, name (ellipsis, never wraps), date.
+   Type/country live in the title tooltip instead of a second line. */
+.outreach-activity-item {
+  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; margin: 0 !important; padding: .4rem .6rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; background: var(--md-default-bg-color);
+}
+.outreach-activity-icon {
+  position: relative; display: inline-flex; flex: 0 0 auto; width: 18px; height: 18px;
+  align-items: center; justify-content: center; overflow: hidden; border-radius: 5px;
+  background: var(--md-accent-fg-color); color: #fff; font-size: .58rem; font-weight: 800; text-transform: uppercase;
+}
+.outreach-activity-icon img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; background: var(--md-default-bg-color); }
+.outreach-activity-icon--institutions { background: #277f73; }
+.outreach-activity-icon--parties { background: #ca8c36; }
+.outreach-activity-icon--mps { background: #5a6ac4; }
+.outreach-activity-icon--actors { background: #8e1539; }
+.outreach-activity-icon--actions { background: #556; }
+.outreach-activity-name {
+  flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+  font-size: .72rem; font-weight: 700;
+}
+.outreach-activity-item time {
+  flex: 0 0 auto; color: var(--md-default-fg-color--light); font-size: .6rem; font-variant-numeric: tabular-nums;
+}
+/* The link count stands in for the single row's date — same slot, but
+   bold and full-contrast so it reads as a strong number, not a label. */
+.outreach-activity-count { flex: 0 0 auto; color: var(--md-default-fg-color); font-size: .7rem; font-weight: 800; font-variant-numeric: tabular-nums; }
+/* An entity with several links collapses into one disclosure instead of
+   repeating its name once per link or hiding links behind a count. The
+   summary row matches a plain entry's look exactly — no extra chrome —
+   and the whole row opens the disclosure on click, same as a native summary. */
+.outreach-activity-item--group { padding: 0; border: 0; background: transparent; min-height: 0; }
+.outreach-activity-group { width: 100%; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; background: var(--md-default-bg-color); overflow: hidden; }
+.outreach-activity-group > summary {
+  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; padding: .4rem .6rem; cursor: pointer; list-style: none;
+}
+.outreach-activity-group > summary::-webkit-details-marker { display: none; }
+.outreach-activity-group[open] > summary { border-bottom: 1px solid var(--md-default-fg-color--lightest); }
+.outreach-activity-sublist {
+  display: flex; flex-direction: column; gap: .2rem; margin: 0 !important; padding: .3rem .6rem .4rem 2.1rem !important; list-style: none;
+}
+.outreach-activity-sublist li { display: flex; align-items: center; gap: .5rem; min-height: 1.8rem; }
+.outreach-activity-sublist a { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: .64rem; color: var(--md-typeset-a-color); }
+.outreach-activity-sublist time { flex: 0 0 auto; color: var(--md-default-fg-color--light); font-size: .58rem; font-variant-numeric: tabular-nums; }
+#outreach-activity-more {
+  flex-shrink: 0; margin-top: .6rem; min-height: 2.1rem; padding: .42rem .6rem; border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .5rem; background: var(--md-default-fg-color--lightest); color: inherit; font: 700 .7rem var(--md-text-font-family); cursor: pointer;
+}
+#outreach-activity-more:hover { border-color: var(--md-accent-fg-color); }
+#outreach-activity-more[hidden] { display: none; }
+@media (max-width: 58rem) {
+  .outreach-overview--map-only .outreach-activity {
+    width: min(320px, calc(100vw - 1rem)); right: .5rem; bottom: max(.25rem, env(safe-area-inset-bottom));
+    max-height: calc(100% - 4.5rem);
+  }
+  .outreach-activity-list { max-height: min(38vh, 360px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .outreach-activity, .outreach-activity > summary::after { transition: none; }
+}
+
 /* Custom disclosures use their own chevrons instead of the theme's pen icon. */
 .md-typeset .country-popup-entry > summary::before,
-.md-typeset .outreach-panel-details > summary::before {
+.md-typeset .outreach-panel-details > summary::before,
+.md-typeset .outreach-activity > summary::before,
+.md-typeset .outreach-activity-group > summary::before {
   display: none;
 }
 
@@ -1740,9 +1849,8 @@ body.country-popup-open { overflow: hidden; }
 .outreach-panel-pane[hidden] { display: none; }
 
 /* Touch layouts keep country information readable above the map. */
-.outreach-mobile-guide, .outreach-touch-hint { display: none; }
+.outreach-touch-hint { display: none; }
 @media (max-width: 58rem) {
-  .outreach-mobile-guide { display: block; margin: 0 0 .8rem !important; padding-left: 1rem; font-size: .72rem; line-height: 1.5; }
   .outreach-desktop-hint { display: none; }
   .outreach-touch-hint { display: inline; }
   .outreach-overview--map-only .outreach-side-panel--left {
@@ -1754,7 +1862,7 @@ body.country-popup-open { overflow: hidden; }
   .outreach-overview--map-only.is-left-open .outreach-side-panel--left { transform: none; opacity: 1; pointer-events: auto; }
   .outreach-panel-backdrop { z-index: 435; }
   .outreach-overview--map-only.is-left-open .outreach-sidebar-handle--left { visibility: hidden; }
-  .outreach-country-search { top: 3.8rem; left: .75rem; right: .75rem; width: auto; transform: none; }
+  .outreach-country-search { left: .75rem; right: .75rem; width: auto; transform: none; }
   .outreach-country-search-box { min-height: 48px; }
   .outreach-country-search input, .outreach-panel-section select { font-size: 16px; }
   .outreach-country-search-result { min-height: 48px; padding: .65rem; }
@@ -1785,7 +1893,29 @@ body.country-popup-open { overflow: hidden; }
 .outreach-side-panel .outreach-pane-caption { margin: .1rem 0 .7rem; color: var(--md-default-fg-color--light); font-size: .7rem; line-height: 1.5; }
 @media (prefers-reduced-motion: reduce) { .outreach-panel-tabs button { transition: none; } }
 
-.outreach-overview--map-only .leaflet-bottom.leaflet-right { right: .5rem; bottom: max(.75rem, env(safe-area-inset-bottom)); }
+/* Force explicit stacking: zoom buttons above, attribution ("info") text
+   below, with no overlap — Leaflet's own float-based corner layout can
+   collapse the two into the same spot once both share one corner. */
+.outreach-overview--map-only .leaflet-bottom.leaflet-left {
+  left: .5rem; bottom: max(.75rem, env(safe-area-inset-bottom));
+  display: flex; flex-direction: column; align-items: flex-start; gap: .4rem;
+}
+.outreach-overview--map-only .leaflet-bottom.leaflet-left .leaflet-control-zoom { order: 1; margin: 0 !important; }
+.outreach-overview--map-only .leaflet-bottom.leaflet-left .leaflet-control-attribution { order: 2; margin: 0 !important; }
+/* On mobile, the attribution text collapses to a small "i" button; tap to
+   reveal the map data sources instead of it always taking up space. */
+@media (max-width: 58rem) {
+  #outreach-map .outreach-attribution {
+    display: grid; place-items: center; width: 22px; height: 22px; padding: 0; overflow: hidden;
+    border: 1px solid var(--md-default-fg-color--lightest); border-radius: 50%;
+    background: color-mix(in srgb, var(--md-default-bg-color) 92%, transparent); font-size: 0; cursor: pointer;
+  }
+  #outreach-map .outreach-attribution::before { content: 'ⓘ'; font-size: 13px; line-height: 1; color: var(--md-default-fg-color--light); }
+  #outreach-map .outreach-attribution.is-open {
+    display: block; width: auto; height: auto; max-width: 70vw; padding: .3rem .5rem; border-radius: .5rem; font-size: 9px; line-height: 1.4;
+  }
+  #outreach-map .outreach-attribution.is-open::before { content: none; }
+}
 
 @media (max-width: 58rem) {
   .outreach-country-search { top: .75rem; }
@@ -1914,3 +2044,49 @@ body.momentum-dialog-open { overflow: hidden; }
 .communication-resources { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }
 .communication-resources .md-button { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; margin: 0; text-align: center; }
 @media (max-width: 700px) { .communication-resources .md-button { width: 100%; } }
+
+/* Compact name-and-links lists for outreach targets. */
+.country-link-item { display: list-item; margin: .4rem 0 .4rem 1.2rem; padding-left: .15rem; font-size: .75rem; line-height: 1.7; overflow-wrap: anywhere; }
+.country-link-item-links { display: inline; margin-left: .6rem; }
+.country-link-item-links a { display: inline-block; margin-right: .65rem; }
+.country-link-item { list-style: none; }
+.country-link-status { display: inline-flex; position: relative; box-sizing: border-box; width: 1.1rem; height: 1.1rem; margin-right: .55rem; border: 2px solid #7b8794; border-radius: .25rem; background: transparent; vertical-align: -.23rem; flex-shrink: 0; }
+.country-link-status--done { border-color: #18724b; background: #18724b; box-shadow: 0 1px 3px #123c2926; }
+.country-link-status--done::after { content: ''; position: absolute; left: 29%; top: 10%; width: 34%; height: 60%; border: solid #fff; border-width: 0 3px 3px 0; transform: rotate(45deg); }
+[data-md-color-scheme="slate"] .country-link-status { border-color: #9aa8b8; }
+[data-md-color-scheme="slate"] .country-link-status--done { border-color: #238557; background: #238557; }
+
+.country-popup-header-actions { display: flex; align-items: center; gap: .5rem; flex-shrink: 0; }
+.country-popup-view-toggle { min-height: 44px; padding: .5rem .75rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .55rem; background: var(--md-default-fg-color--lightest); color: var(--md-default-fg-color); font: 600 .7rem var(--md-text-font-family); cursor: pointer; }
+.country-popup-view-toggle:hover, .country-popup-view-toggle:focus-visible { border-color: var(--md-accent-fg-color); color: var(--md-typeset-a-color); }
+.country-popup-tabs button[hidden] { display: none !important; }
+@media (max-width: 480px) { .country-popup-header { gap: .5rem; } .country-popup-header-actions { gap: .25rem; } .country-popup-view-toggle { padding: .4rem .5rem; font-size: .65rem; } }
+
+.country-popup-group { margin: 0 0 .5rem; }
+.country-popup-group-count { color: var(--md-default-fg-color--light); font-size: .7rem; font-variant-numeric: tabular-nums; }
+.country-popup-group-content { padding: 0 .75rem .6rem; }
+.country-popup-group-content > .country-link-list { margin-top: .25rem; margin-bottom: .25rem; }
+.country-popup-group-content > .country-empty { margin: .25rem 0; }
+
+
+/* Country progress fits the narrow Stats sidebar without a table. */
+.outreach-country-stats { margin-top: 1.1rem; }
+.md-typeset .outreach-country-stats h2 { margin: 0 0 .25rem; font-size: .85rem; font-weight: 700; }
+.outreach-country-stats-search-label { display: block; margin-bottom: .3rem; font-size: .65rem; }
+#outreach-stats-search { box-sizing: border-box; width: 100%; min-width: 0; min-height: 44px; margin-bottom: .5rem; padding: .5rem .65rem; border: 1px solid var(--md-default-fg-color--light); border-radius: .5rem; background: var(--md-default-bg-color); color: var(--md-default-fg-color); font: inherit; font-size: .7rem; }
+.md-typeset .outreach-country-stats-list { list-style: none; margin: 0; padding: 0; }
+.md-typeset .outreach-country-stats-list > li { display: flex; align-items: center; justify-content: space-between; gap: .65rem; min-height: 44px; margin: 0; padding: .25rem 0; border-bottom: 1px solid var(--md-default-fg-color--lightest); font-size: .72rem; }
+.outreach-country-stat > a { min-width: 0; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-weight: 550; }
+.outreach-country-stat-ratio { flex-shrink: 0; padding: .2rem .45rem; border-radius: .35rem; font-size: .7rem; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.outreach-country-stat-ratio--high { color: #216747; background: #27865318; }
+.outreach-country-stat-ratio--medium { color: #38694f; background: #73a78722; }
+.outreach-country-stat-ratio--low { color: #87530c; background: #ca8c361c; }
+.outreach-country-stat-ratio--start { color: #a43c49; background: #c45b6418; }
+.outreach-country-stat-ratio--empty { color: var(--md-default-fg-color--light); background: var(--md-default-fg-color--lightest); }
+.outreach-stats-group { margin-top: .8rem; }
+.outreach-stats-group + .outreach-stats-group { padding-top: .8rem; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.outreach-country-stats-empty { color: var(--md-default-fg-color--light); font-size: .7rem; }
+[data-md-color-scheme="slate"] .outreach-country-stat-ratio--high { color: #85d9bd; }
+[data-md-color-scheme="slate"] .outreach-country-stat-ratio--medium { color: #a4ccb3; }
+[data-md-color-scheme="slate"] .outreach-country-stat-ratio--low { color: #eac080; }
+[data-md-color-scheme="slate"] .outreach-country-stat-ratio--start { color: #efa1ab; }

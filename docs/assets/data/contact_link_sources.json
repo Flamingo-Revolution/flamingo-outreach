@@ -1,0 +1,275 @@
+[
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "A2 CNN",
+    "website": "https://a2news.com/",
+    "source": "https://a2news.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "Albanian Daily News",
+    "website": "https://albaniandailynews.com/",
+    "source": "https://albaniandailynews.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "BalkanWeb",
+    "website": "https://www.balkanweb.com/",
+    "source": "https://www.balkanweb.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "MCN TV",
+    "website": "https://mcntv.al/",
+    "source": "https://mcntv.al/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "News24",
+    "website": "https://www.news24.al/",
+    "source": "https://www.news24.al/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "Tirana Times",
+    "website": "https://www.tiranatimes.com/",
+    "source": "https://www.tiranatimes.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "Vizion Plus",
+    "website": "https://www.vizionplus.tv/",
+    "source": "https://www.vizionplus.tv/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "SCiDEV",
+    "website": "https://scidevcenter.org/",
+    "source": "https://scidevcenter.org/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "United Nations in Albania",
+    "website": "https://albania.un.org/en",
+    "source": "https://albania.un.org/en",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "Associated Press",
+    "website": "https://apnews.com/",
+    "source": "https://apnews.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "International Federation of Journalists",
+    "website": "https://www.ifj.org/",
+    "source": "https://www.ifj.org/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "European Digital Media Observatory (EDMO)",
+    "website": "https://edmo.eu/",
+    "source": "https://edmo.eu/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "Radio Free Europe / Radio Liberty",
+    "website": "https://www.rferl.org/",
+    "source": "https://www.rferl.org/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Belgium",
+    "name": "Pressenza (French edition)",
+    "website": "https://www.pressenza.com/fr/",
+    "source": "https://www.pressenza.com/fr/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "United States",
+    "name": "Committee to Protect Journalists",
+    "website": "https://cpj.org/",
+    "source": "https://cpj.org/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "United States",
+    "name": "Los Angeles Times",
+    "website": "https://www.latimes.com/",
+    "source": "https://www.latimes.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Kosovo",
+    "name": "KOHA.net",
+    "website": "https://www.koha.net/",
+    "source": "https://www.koha.net/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "North Macedonia",
+    "name": "Trn.mk",
+    "website": "https://trn.mk/",
+    "source": "https://trn.mk/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Turkey",
+    "name": "Euronews Türkçe",
+    "website": "https://tr.euronews.com/",
+    "source": "https://tr.euronews.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Argentina",
+    "name": "Infobae",
+    "website": "https://www.infobae.com/",
+    "source": "https://www.infobae.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Chile",
+    "name": "La Tercera",
+    "website": "https://www.latercera.com/",
+    "source": "https://www.latercera.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Georgia",
+    "name": "1TV",
+    "website": "https://1tv.ge/",
+    "source": "https://1tv.ge/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "Albania",
+    "name": "BalkanWeb",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/balkanweb_official/",
+    "source": "https://www.balkanweb.com/en/balkanweb-permbush-kriteret-behet-verified-nga-instagram/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "Associated Press",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/apnews/",
+    "source": "https://apnews.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "International",
+    "name": "International Federation of Journalists",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/ifj_journalists/",
+    "source": "https://www.ifj.org/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "media_coverage",
+    "country": "United States",
+    "name": "Los Angeles Times",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/latimes/",
+    "source": "https://www.latimes.com/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "institutions",
+    "country": "Albania",
+    "name": "Albanian Ministry for Europe and Foreign Affairs",
+    "website": "https://punetejashtme.gov.al/",
+    "source": "https://punetejashtme.gov.al/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "institutions",
+    "country": "Germany",
+    "name": "Federal Foreign Office",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/auswaertigesamt/",
+    "source": "https://www.auswaertiges-amt.de/en/newsroom/news/160603-instagram-281062",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "political_parties",
+    "country": "Albania",
+    "name": "Partia Lëvizja Bashkë",
+    "website": "https://levizjabashke.al/",
+    "source": "https://levizjabashke.al/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "political_parties",
+    "country": "Germany",
+    "name": "CDU",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/cdu/",
+    "source": "https://www.cdu.de/",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "political_parties",
+    "country": "Germany",
+    "name": "SPD",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/spdde/",
+    "source": "https://meine.spd.de/fileadmin/kampagne/Dokumente/Gestaltung/SPD_CD_Manual_040621.pdf",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "political_parties",
+    "country": "Germany",
+    "name": "Alliance 90/The Greens",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/die_gruenen/",
+    "source": "https://www.gruene.de/artikel/die-gruenen-auf-social-media",
+    "checked_on": "2026-11-07"
+  },
+  {
+    "dataset": "political_parties",
+    "country": "Germany",
+    "name": "Die Linke",
+    "website": null,
+    "instagram_url": "https://www.instagram.com/dielinke/",
+    "source": "https://www.die-linke.de/fileadmin/1_Partei/grundsatzdokumente/programm_formate/programm_der_partei_die_linke_erfurt2011_druckfassung2020.pdf",
+    "checked_on": "2026-11-07"
+  }
+]
