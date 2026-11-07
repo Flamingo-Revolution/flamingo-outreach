@@ -1,111 +1,68 @@
 ---
 hide:
-  - navigation
   - toc
+  - navigation
 ---
 
-# Take action 
-
-<div class="steps-grid">
-<a class="step-card" href="messages/"><span class="step-num">01</span><strong>Choose a letter →</strong><span>Pick a letter for the media, an institution, or a representative.</span></a>
-<a class="step-card" href="outreach/"><span class="step-num">02</span><strong>Choose your country →</strong><span>Find media, institutions, MPs, and parties in one country report.</span></a>
-<a class="step-card" href="background/sources/"><span class="step-num">03</span><strong>Check the facts →</strong><span>Check the source, date, recipient, and contact details.</span></a>
-<a class="step-card" href="https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing"><span class="step-num">04</span><strong>Record what happened →</strong><span>Add the status, date, and direct link to the shared workbook.</span></a>
-</div>
-
-## Reporting on Instagram { .home-section-heading }
-
-<div class="instagram-post-grid">
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/citizens.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/citizens.al/" target="_blank" rel="noopener noreferrer">View Citizens.al on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/faktoje.al/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/faktoje.al/" target="_blank" rel="noopener noreferrer">View Faktoje.al on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/flamingo_revolution_/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/flamingo_revolution_/" target="_blank" rel="noopener noreferrer">View Flamingo Revolution on Instagram →</a>
-  </blockquote>
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/newspiranjat/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
-    <a href="https://www.instagram.com/newspiranjat/" target="_blank" rel="noopener noreferrer">View News Piranjat on Instagram →</a>
-  </blockquote>
-</div>
-
-<script async src="https://www.instagram.com/embed.js"></script>
-
-[**Open @citizens.al →**](https://www.instagram.com/citizens.al/){ .md-button }
-[**Open @faktoje.al →**](https://www.instagram.com/faktoje.al/){ .md-button }
-[**Open @flamingo_revolution_ →**](https://www.instagram.com/flamingo_revolution_/){ .md-button }
-[**Open @newspiranjat →**](https://www.instagram.com/newspiranjat/){ .md-button }
-
-## Update the shared tracker { .home-section-heading }
-
-1. Choose a media outlet, institution, or political party in the workbook.
-2. Check its website or social media for coverage of the protests.
-3. If you find coverage, mark it `Covered` and add the direct link.
-4. If you do not, record your check, send a [letter](messages/index.md), and update the status.
-
-[**Open the shared Excel workbook →**](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing){ .md-button .md-button--primary }
-
-
-# Help report violence against protesters { .home-section-heading }
-
-Choose a letter, contact a media outlet or organization, and record what happened. This helps avoid duplicate work.
-
-<div class="protest-duration" aria-label="Duration of the Albanian protest movement">
-  <div class="protest-duration__row">
-    <article>
-      <strong>140+</strong>
-      <span>days of protests in Albania</span>
-    </article>
-    <article>
-      <strong>480+</strong>
-      <span>days of protests with the diaspora</span>
-    </article>
-    <article>
-      <strong>8+</strong>
-      <span>protest days with reported violence</span>
-    </article>
+<div id="outreach-overview" class="outreach-overview outreach-overview--map-only">
+  <div class="outreach-country-search" role="search">
+    <div class="outreach-country-search-box">
+      <span class="outreach-country-search-icon" aria-hidden="true">⌕</span>
+      <input id="outreach-country-search" type="text" placeholder="Go to a country…" autocomplete="off" role="combobox" aria-expanded="false" aria-haspopup="listbox" aria-controls="outreach-country-search-results" aria-autocomplete="list" aria-label="Search and open a country">
+    </div>
+    <ul id="outreach-country-search-results" class="outreach-country-search-results" role="listbox" hidden></ul>
   </div>
-  <div class="protest-duration__row" aria-label="Reported cumulative arrest, prosecution and injury figures">
-    <article>
-      <strong>1,067</strong>
-      <span>reported arrests</span>
-    </article>
-    <article>
-      <strong>388</strong>
-      <span>reported criminal cases</span>
-    </article>
-    <article>
-      <strong>310</strong>
-      <span>people reported injured by 19 October</span>
-    </article>
+
+  <aside id="outreach-left-panel" class="outreach-side-panel outreach-side-panel--left" aria-label="Map status controls">
+    <header class="outreach-panel-header">
+      <button id="outreach-panel-close" class="outreach-panel-close" type="button" aria-label="Close map controls">×</button>
+      <h1>Status map</h1>
+    </header>
+    <div class="outreach-panel-tabs" role="tablist" aria-label="Map controls">
+      <button id="outreach-tab-view" type="button" role="tab" aria-controls="outreach-pane-view" aria-selected="true" tabindex="0"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h16M4 17h16"/><circle cx="9" cy="7" r="3"/><circle cx="15" cy="17" r="3"/></svg><span>Map view</span></button>
+      <button id="outreach-tab-stats" type="button" role="tab" aria-controls="outreach-pane-stats" aria-selected="false" tabindex="-1"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M5 20V12M12 20V4M19 20v-9"/></svg><span>Totals</span></button>
+      <button id="outreach-tab-help" type="button" role="tab" aria-controls="outreach-pane-help" aria-selected="false" tabindex="-1"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9"/><path d="M9.5 9a2.5 2.5 0 0 1 5 .5c0 1.5-2.5 2-2.5 3.5M12 17h.01"/></svg><span>Guide</span></button>
+    </div>
+    <section id="outreach-pane-view" class="outreach-panel-section outreach-panel-pane" role="tabpanel" aria-labelledby="outreach-tab-view" tabindex="0">
+      <p class="outreach-pane-caption">Choose what the markers show.</p>
+      <label for="outreach-layer">Category</label>
+      <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option></select>
+      <label for="outreach-display">Marker display</label>
+      <select id="outreach-display" aria-describedby="outreach-marker-description"><option value="percentage">Percentage</option><option value="numbers">Numbers (done / total)</option><option value="done-todo" selected>Done + todo</option></select>
+      <button id="outreach-reset" type="button">Back to Europe</button>
+    </section>
+    <section id="outreach-pane-stats" class="outreach-panel-section outreach-panel-pane" role="tabpanel" aria-labelledby="outreach-tab-stats" tabindex="0" hidden>
+      <p class="outreach-pane-caption">Totals for the selected category, across all countries and groups.</p>
+      <div class="outreach-completion"><div><span>Source links recorded</span><strong id="outreach-completion-label">—</strong></div><progress id="outreach-completion" max="100" value="0" aria-label="Share of entries with source links"></progress></div>
+      <div class="outreach-stats-list" aria-label="Outreach statistics">
+        <div class="outreach-stat-row"><span>Countries & groups</span><strong id="outreach-stat-countries">—</strong></div>
+        <div class="outreach-stat-row"><span>Total entries</span><strong id="outreach-stat-total">—</strong></div>
+        <div class="outreach-stat-row outreach-stat-row--positive"><span>With a source link</span><strong id="outreach-stat-recorded">—</strong></div>
+        <div class="outreach-stat-row outreach-stat-row--attention"><span>Without a source link</span><strong id="outreach-stat-missing">—</strong></div>
+      </div>
+    </section>
+    <section id="outreach-pane-help" class="outreach-panel-section outreach-panel-pane" role="tabpanel" aria-labelledby="outreach-tab-help" tabindex="0" hidden>
+      <p class="outreach-pane-caption">Understand the markers and find your next step.</p>
+      <ol class="outreach-mobile-guide">
+        <li>Search for a country, or tap a marker to open its entries.</li>
+        <li>Use Map controls to change the category or marker display.</li>
+        <li>In country details, choose a category, then search, filter or sort the entries. Tap an entry to see its links.</li>
+      </ol>
+      <p id="outreach-marker-description" class="outreach-note" aria-live="polite">Done + todo: 6⁺⁴ means 6 entries with source links and 4 still without. Larger circles mean more listed entries. Select a marker to see the records.</p>
+      <p class="outreach-note">Done means an entry has a link to coverage or a response. Todo means it has no source link in this tracker; coverage or a response may exist elsewhere. Colors always show the percentage done.</p>
+      <div class="outreach-legend" aria-label="Capital marker color by share of linked coverage or responses">
+        <span style="--country-color:#c45b64">0–25% linked</span><span style="--country-color:#ca8c36">>25–50% linked</span><span style="--country-color:#73a787">>50–75% linked</span><span style="--country-color:#277f73">>75–100% linked</span><span style="--country-color:#a3abb4">No entries</span>
+      </div>
+    </section>
+    <p class="outreach-note">Workbook checked 7 November 2026. Source links are recorded by contributors; each entry may cover an earlier date.</p>
+    <p id="outreach-summary" class="outreach-note" role="status">Loading country data…</p>
+  </aside>
+  <button id="outreach-panel-backdrop" class="outreach-panel-backdrop" type="button" aria-label="Close map controls" tabindex="-1" hidden></button>
+  <button id="outreach-left-toggle" class="outreach-sidebar-handle outreach-sidebar-handle--left" type="button" aria-controls="outreach-left-panel" aria-expanded="true" aria-label="Toggle status controls"><span aria-hidden="true">☷</span><span class="outreach-toggle-label">Map controls</span></button>
+
+  <div class="outreach-map-shell">
+    <div id="outreach-map" aria-label="Country outreach map. Select a marker to open country information."></div>
+    <div class="outreach-map-hint"><span class="outreach-desktop-hint">Select a marker for country details</span><span class="outreach-touch-hint">Tap a marker · Pinch to zoom</span></div>
   </div>
-  <div class="protest-duration__row" aria-label="Earlier Ombudsman monitoring figures cited in the police open letter">
-    <article>
-      <strong>214</strong>
-      <span>detained people visited by Ombudsman monitors</span>
-    </article>
-    <article>
-      <strong>26</strong>
-      <span>records of visible injuries or alleged mistreatment</span>
-    </article>
-    <article>
-      <strong>~12</strong>
-      <span>minors reportedly held alone</span>
-    </article>
-  </div>
+
 </div>
-
-<p class="protest-duration-note"><strong>Do not add these figures together.</strong> They come from different sources and cover different dates and groups. Reuters reported 1,067 arrests and 388 criminal cases, based on figures from the authorities. El País reported 310 injured by 19 October: 191 police officers, 88 protesters and 31 bystanders. The Ombudsman figures come from the Res Publica open letter. <a href="background/evidence-comparison/">Compare the sources and dates →</a></p>
-
-
-## Use the material responsibly { .home-section-heading }
-
-- Add a direct link for every item marked as covered.
-- Say clearly when something is an allegation, not a proven fact.
-- Check dates and context. Protect minors and vulnerable people.
-- Personalize each letter and use a verified contact address.
-
-[Evidence documents and figures](background/evidence.md) · [Background](background/index.md) · [Sources and verification](background/sources.md) · [Protest safety guide](background/safety.md)
-
-This is an independent outreach resource. It does not speak for the Flamingo Revolution or ADCN, support any political party, or decide who is responsible for an incident.

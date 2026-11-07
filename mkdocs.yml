@@ -57,8 +57,8 @@ plugins:
   - search
 nav:
 
-  - Home: outreach.md
-  - Start: index.md
+  - Home: index.md
+  - Start: start.md
   - Letters:
       - Overview: messages/index.md
       - Languages:
