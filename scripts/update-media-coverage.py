@@ -7,6 +7,7 @@ import argparse
 import csv
 import datetime as dt
 import io
+import json
 import os
 import re
 import sys
@@ -43,6 +44,7 @@ OUTPUT_HEADERS = [
     "contact_email",
     "dates",
     "evidence",
+    "contributors",
 ]
 
 COUNTRY_CODES = {
@@ -120,6 +122,8 @@ CSV_SHEETS = {
     "Institutions & Actors": "institutions.csv",
     "Embassies by Country": "embassies.csv",
     "Political Parties": "political_parties.csv",
+    "MPs": "mps.csv",
+    "Members of Parliament": "mps.csv",
     "Issues Gallery": "issues_gallery.csv",
     "Sources": "../examples/sources-example.csv",
     "Incidents": "../examples/incidents-example.csv",
@@ -133,6 +137,7 @@ CSV_HEADERS = {
     "institutions.csv": ["country", "city", "eu_member", "organization", "category", "office_in_albania", "issues", "request_issues", "requested_action", "website", "email", "response_date", "response_type", "response_link", "contact_route", "contribution"],
     "embassies.csv": ["country", "representation", "category", "official_website", "instagram_url", "verification"],
     "political_parties.csv": ["country", "party", "website", "priority", "issues", "status", "response_link", "instagram_evidence"],
+    "mps.csv": ["country", "name", "party", "role", "website", "email", "response_date", "response_type", "response_link", "notes"],
     "issues_gallery.csv": ["date", "category", "issue", "location", "source_url", "status", "tags"],
     "sources-example.csv": [
         "source_id", "published_date", "event_date", "publisher", "title", "url",
@@ -153,6 +158,47 @@ CSV_HEADERS = {
         "source_name", "source_url", "source_status",
     ],
 }
+
+
+def extract_contributors(rows: list[list[str]]) -> tuple[list[list[str]], list[str]]:
+    """Remove the optional attribution column while retaining legacy schema validation."""
+    if not rows:
+        return rows, []
+    indexes = [i for i, value in enumerate(rows[0])
+               if value.lstrip("\ufeff").strip().casefold() == "contributors"]
+    if len(indexes) > 1:
+        raise ValueError("Only one Contributors column is allowed per worksheet.")
+    if not indexes:
+        return rows, [""] * (len(rows) - 1)
+    index = indexes[0]
+    credits = [row[index].strip() if index < len(row) else "" for row in rows[1:]]
+    return [[value for i, value in enumerate(row) if i != index] for row in rows], credits
+
+
+def contributor_summary(sheets: dict[str, list[list[str]]]) -> dict:
+    """Count attributed data rows, deduplicating names within each row."""
+    people: dict[str, dict] = {}
+    sheet_names = []
+    unattributed = 0
+    for sheet, rows in sheets.items():
+        stripped, credits = extract_contributors(rows)
+        sheet_names.append(sheet)
+        for row, credit in zip(stripped[1:], credits):
+            if not any(value.strip() for value in row):
+                continue
+            names = {}
+            for raw in credit.split(";"):
+                name = " ".join(raw.split())
+                if name:
+                    names.setdefault(name.casefold(), name)
+            if not names:
+                unattributed += 1
+            for key, name in names.items():
+                person = people.setdefault(key, {"name": name, "sheets": {}, "total": 0})
+                person["sheets"][sheet] = person["sheets"].get(sheet, 0) + 1
+                person["total"] += 1
+    return {"sheets": sheet_names, "unattributed_rows": unattributed,
+            "contributors": sorted(people.values(), key=lambda p: (-p["total"], p["name"].casefold()))}
 
 
 def column_index(reference: str) -> int:
@@ -227,6 +273,7 @@ def normalize_media_coverage(rows: list[list[str]]) -> list[dict[str, str]]:
     if not rows:
         raise ValueError("The workbook contains no rows.")
 
+    rows, credits = extract_contributors(rows)
     workbook_headers = [header.lstrip("\ufeff") for header in rows[0]]
     if workbook_headers != MEDIA_HEADERS:
         raise ValueError(
@@ -262,6 +309,7 @@ def normalize_media_coverage(rows: list[list[str]]) -> list[dict[str, str]]:
                 "contact_email": source["Email"],
                 "dates": normalize_dates(source["Date"]),
                 "evidence": source["Evidence (numbers and source)"],
+                "contributors": credits[spreadsheet_row - 2],
             }
         )
     return output
@@ -302,6 +350,7 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
     """Publish a sheet whose headings are already the site's CSV headings."""
     if not rows:
         raise ValueError(f'The "{name}" sheet contains no rows.')
+    rows, credits = extract_contributors(rows)
     source_headers = [value.lstrip("\ufeff") for value in rows[0]]
     while source_headers and not source_headers[-1]:
         source_headers.pop()
@@ -310,6 +359,8 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
         "Institutions & Actors": ["Country", "City", "EU Member", "Organization", "Category", "Office in Albania", "Issues", "Request Issues", "Requested Action", "Website", "Email", "Response Date", "Response Type", "Response Link", "Contact Route", "Contribution"],
         "Embassies by Country": ["Country", "Representation", "Category", "Official Website", "Instagram URL", "Verification"],
         "Political Parties": ["Country", "Party", "Website", "Priority", "Issues", "Status", "Response Link", "Instagram Evidence"],
+        "MPs": ["Country", "Name", "Party", "Role", "Website", "Email", "Response Date", "Response Type", "Response Link", "Notes"],
+        "Members of Parliament": ["Country", "Name", "Party", "Role", "Website", "Email", "Response Date", "Response Type", "Response Link", "Notes"],
         "Issues Gallery": ["Date", "Category", "Issue", "Location", "Source URL", "Status", "Tags"],
     }
     required_headers = workbook_headers.get(name, expected)
@@ -322,15 +373,15 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, lineterminator="\n")
-        writer.writerow(expected)
-        for values in rows[1:]:
+        writer.writerow([*expected, "contributors"])
+        for values, credit in zip(rows[1:], credits):
             padded = values + [""] * (len(expected) - len(values))
             if len(padded) > len(expected) and any(padded[len(expected) :]):
                 raise ValueError(f'The "{name}" sheet has data beyond its headings.')
             output_values = padded[: len(expected)]
             if name == "Institutions & Actors":
                 output_values[9] = normalize_dates(output_values[9])
-            writer.writerow(output_values)
+            writer.writerow([*output_values, credit])
     return len(rows) - 1
 
 
@@ -358,6 +409,12 @@ def publish_workbook(workbook: bytes) -> list[tuple[str, int]]:
         count = publish_csv(sheet_name, sheets[sheet_name], output)
         published.append((str(output), count))
         claimed_outputs.add(filename)
+    summary_output = ASSETS_DIR / "contributors.json"
+    summary_output.write_text(
+        json.dumps(contributor_summary(sheets), ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    published.append((str(summary_output), len(sheets)))
     return published
 
 

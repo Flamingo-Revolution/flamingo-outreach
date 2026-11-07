@@ -5,20 +5,31 @@ hide:
 
 # Media coverage
 
-See where the protests are being reported. Select a country on the map to see which outlets have posts and which do not.
+<nav class="status-page-nav" aria-label="Status pages">
+  <a href="../outreach/">Country map</a>
+  <a href="../media-coverage/" aria-current="page">Media</a>
+  <a href="../institutions/">Institutions</a>
+  <a href="../parties/">Parties & groups</a>
+  <a href="../remaining/">Remaining</a>
+  <a href="../momentum/">Momentum</a>
+  <a href="../contributors/">Contributors</a>
+</nav>
+
+Explore recorded media coverage by country. The map includes all listed outlets; the directory below shows outlets with article or post links. Use the country map to find outlets without recorded coverage.
 
 <div class="coverage-chart-card coverage-chart-card--map">
   <div class="status-map-stats" id="coverage-map-stats" aria-label="Media coverage statistics" aria-live="polite">
     <article><strong id="coverage-stat-countries">—</strong><span>countries tracked</span></article>
     <article><strong id="coverage-stat-outlets">—</strong><span>media outlets</span></article>
-    <article class="status-map-stat--positive"><strong id="coverage-stat-published">—</strong><span>outlets with coverage</span></article>
-    <article class="status-map-stat--attention"><strong id="coverage-stat-uncovered">—</strong><span>outlets to check</span></article>
+    <article class="status-map-stat--positive"><strong id="coverage-stat-published">—</strong><span>with coverage links</span></article>
+    <article class="status-map-stat--attention"><strong id="coverage-stat-uncovered">—</strong><span>without coverage links</span></article>
   </div>
   <div id="coverage-map" aria-label="Map of international media coverage by country"></div>
   <div class="coverage-map-legend" id="coverage-map-legend"></div>
 </div>
 
 
+<details class="status-disclosure status-page-filters"><summary class="status-disclosure-summary"><span>Search & filters</span></summary>
 <div class="coverage-sort-control">
   <label for="mentions-country-filter">Country</label>
   <select id="mentions-country-filter">
@@ -26,7 +37,10 @@ See where the protests are being reported. Select a country on the map to see wh
   </select>
   <label for="mentions-search">Find an outlet</label>
   <input id="mentions-search" type="search" placeholder="Outlet name" autocomplete="off">
+
+  <button type="button" data-status-reset>Reset filters</button>
 </div>
+</details>
 
 <p class="coverage-priority-summary" id="mentions-summary" role="status">Loading published coverage…</p>
 

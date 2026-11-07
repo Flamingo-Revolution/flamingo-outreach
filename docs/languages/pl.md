@@ -250,7 +250,7 @@ Pobierz tylko obrazy istotne dla Twojej wiadomości, zachowaj podane informacje 
 
 ## Tłumaczenia
 
-Te same trzy e-maile są dostępne w językach: [albańskim](../languages/sq.md), [czeskim](../languages/cs.md), [duńskim](../languages/da.md), [holenderskim](../languages/nl.md), [fińskim](../languages/fi.md), [francuski](../languages/fr.md), [niemiecki](../languages/de.md), [włoski](../languages/it.md), [norweski](../languages/no.md), [polski](../languages/pl.md), [portugalski](../languages/pt.md), [hiszpański](../languages/es.md) i [szwedzki](../languages/sv.md).
+Te same trzy e-maile są dostępne w językach: [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Uznania i podziękowania
 

@@ -250,7 +250,7 @@ Lataa vain viestiisi liittyvät kuvat, säilytä toimitettu saldo ja linkki alku
 
 ## Käännökset
 
-Samat kolme sähköpostia ovat saatavilla kielillä [albania](../languages/sq.md), [tšekki](../languages/cs.md), [tanska](../languages/da.md), [hollanti](../languages/nl.md), [suomi](../language). [ranska](../languages/fr.md), [saksa](../languages/de.md), [italia](../languages/it.md), [norja] (../languages/no.md), [puola](../languages/pl.languages](d.s.), [/. [espanja](../languages/es.md) ja [ruotsi](../languages/sv.md).
+Samat kolme sähköpostia ovat saatavilla kielillä [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Kiitokset ja tunnustukset
 

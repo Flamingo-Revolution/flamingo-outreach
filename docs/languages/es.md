@@ -250,10 +250,10 @@ Descargue solo las imágenes relevantes para su mensaje, conserve el crédito pr
 
 ## Traducciones
 
-Los mismos tres correos electrónicos están disponibles en [albanés](../languages/sq.md), [checo](../languages/cs.md), [danés](../languages/da.md), [holandés](../languages/nl.md), [finlandés](../languages/fi.md), [francés](../languages/fr.md), [alemán](../languages/de.md), [italiano](../languages/it.md), [noruego](../languages/no.md), [polaco](../languages/pl.md), [portugués](../languages/pt.md), [español](../languages/es.md) y [Sueco](../languages/sv.md).
+Los mismos tres correos electrónicos están disponibles en [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Créditos y reconocimientos
 
 Este material de divulgación se basa en documentación, organización cívica e información pública aportada por [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) y otros grupos de flamencos de la diáspora, el Comité Helsinki de Albania, reporteros locales sobre el terreno, periodistas y voluntarios independientes. El reconocimiento no implica autoría, autorización o respaldo de esta plantilla por parte de cada grupo nombrado.
 
-Las fuentes, las preguntas abiertas y los estándares de verificación para cada afirmación anterior se recopilan en [Antecedentes → Fuentes y verificación](../antecedentes/sources.md).
+Las fuentes, las preguntas abiertas y los estándares de verificación para cada afirmación anterior se recopilan en [Antecedentes → Fuentes y verificación](../background/sources.md).

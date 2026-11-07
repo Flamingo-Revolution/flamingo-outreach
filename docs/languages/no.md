@@ -250,7 +250,7 @@ Last kun ned bildene som er relevante for meldingen din, behold den oppgitte kre
 
 ## Oversettelser
 
-De samme tre e-postene er tilgjengelig på [albansk](../languages/sq.md), [tsjekkisk](../languages/cs.md), [dansk](../languages/da.md), [nederlandsk](../languages/nl.md), [finsk](../languages/fi.mdages(), [fr.mdu] [tysk](../languages/de.md), [italiensk](../languages/it.md), [norsk](../languages/no.md), [polsk](../languages/pl.md), [portugisisk](../languages/pt.md), [spansk](../languages) og/ [Svensk](../languages/sv.md).
+De samme tre e-postene er tilgjengelig på [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Kreditter og anerkjennelser
 

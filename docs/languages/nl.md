@@ -250,7 +250,7 @@ Download alleen de afbeeldingen die relevant zijn voor uw bericht, behoud de opg
 
 ## Vertalingen
 
-Dezelfde drie e-mails zijn beschikbaar in [Albanees](../talen/sq.md), [Tsjechisch](../talen/cs.md), [Deens](../talen/da.md), [Nederlands](../talen/nl.md), [Fins](../talen/fi.md), [Frans](../talen/fr.md), [Duits](../talen/de.md), [Italiaans](../talen/it.md), [Noors](../talen/no.md), [Pools](../talen/pl.md), [Portugees](../talen/pt.md), [Spaans](../talen/es.md) en [Zweeds](../talen/sv.md).
+Dezelfde drie e-mails zijn beschikbaar in [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Credits en dankbetuigingen
 

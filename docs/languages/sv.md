@@ -250,7 +250,7 @@ Ladda endast ner de bilder som är relevanta för ditt meddelande, behåll den a
 
 ## Översättningar
 
-Samma tre mejl finns tillgängliga på [albanska](../languages/sq.md), [tjeckiska](../languages/cs.md), [danska](../languages/da.md), [nederländska](../languages/nl.md), [finska](../languages/fi.md), [franska](../languages/fr.md), [tyska](../languages/de.md), [italienska](../languages/it.md), [norska](../languages/no.md), [polska](../languages/pl.md), [portugisiska](../languages/pt.md), [spanska](../languages/es.md) och [svenska](../languages/sv.md).
+Samma tre mejl finns tillgängliga på [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Erkännanden och tack
 

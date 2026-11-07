@@ -250,10 +250,10 @@ Scarica solo le immagini pertinenti al tuo messaggio, conserva i crediti forniti
 
 ## Traduzioni
 
-Le stesse tre e-mail sono disponibili in [albanese](../linguals/sq.md), [ceco](../linguals/cs.md), [danese](../linguals/da.md), [olandese](../linguals/nl.md), [finlandese](../linguals/fi.md), [francese](../linguals/fr.md), [Tedesco](../linguals/de.md), [Italiano](../linguals/it.md), [Norvegese](../linguals/no.md), [Polacco](../linguals/pl.md), [Portoghese](../linguals/pt.md), [Spagnolo](../linguals/es.md) e [Svedese](../linguals/sv.md).
+Le stesse tre e-mail sono disponibili in [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Crediti e riconoscimenti
 
 Questo materiale di sensibilizzazione si basa sulla documentazione, sull'organizzazione civica e sulle informazioni pubbliche fornite da [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) e altri gruppi Flamingo della diaspora, dal Comitato Helsinki albanese, reporter locali sul campo, giornalisti e volontari indipendenti. Il riconoscimento non implica la paternità, l'autorizzazione o l'approvazione di questo modello da parte di ogni gruppo nominato.
 
-Fonti, domande aperte e standard di verifica per ogni affermazione di cui sopra sono raccolti in [Background → Fonti e verifica](../ background/sources.md).
+Fonti, domande aperte e standard di verifica per ogni affermazione di cui sopra sono raccolti in [Background → Fonti e verifica](../background/sources.md).

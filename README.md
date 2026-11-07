@@ -74,3 +74,44 @@ This is a community-maintained, dual-licensed project:
 See [the licensing overview](LICENSE.md) for the exact scope and third-party
 material exceptions. Contributions, corrections, and responsible community
 reuse are welcome.
+
+## Contributor attribution
+
+Add a **Contributors** column to every workbook sheet. It can appear anywhere;
+keep the other headings in their existing order. Use a consistent public name
+or handle and separate multiple contributors with semicolons (`Alex; Sam`).
+This credits the people entering or maintaining data, independently of the
+institutional `Contribution` field.
+
+The importer accepts sheets with or without this new column, publishes it as
+`contributors` in each managed CSV, and generates
+`docs/assets/data/contributors.json` from all workbook sheets. Status →
+Contributors ranks people by attributed rows, with a worksheet filter and a
+Cytoscape network connecting people to sheets. A shared row gives each named
+person one credit; duplicate names in a cell count once. Case and whitespace
+variations are merged. Blank attribution stays blank; existing contributions
+are never assigned automatically. Repeated edits to a row do not add credits.
+
+Run the normal data update after adding names. The scheduled workflow also
+publishes the totals. Editing the public Google workbook requires access to
+that workbook; changes to this repository alone do not edit the live sheet.
+
+## Country map and reports
+
+Status → Country map combines media, institutions, MPs, and parties into one
+overview. Selecting a country or category opens its information in a modal over
+the map, with category tabs, source links, contact routes, and filters. The modal
+is centered on desktop and becomes a bottom sheet on mobile. Close it with the
+close button, Escape, or a backdrop click. International groups remain available
+in the country list. Standalone `country/?country=Germany#institutions` links
+remain available when opened in a new tab.
+
+Map colors measure the share of listed entries with linked coverage or responses,
+not support or whether someone has been contacted. Empty categories are shown as
+having no recorded entries. Existing category directories are under Directories.
+
+The optional **MPs** (or **Members of Parliament**) workbook sheet uses:
+`Country`, `Name`, `Party`, `Role`, `Website`, `Email`, `Response Date`,
+`Response Type`, `Response Link`, and `Notes`, plus the optional `Contributors`
+column. It is published as `docs/assets/data/mps.csv`. That CSV starts empty;
+individual MPs are never inferred from political-party records.

@@ -8,7 +8,7 @@ hide:
 
 <div class="steps-grid">
 <a class="step-card" href="messages/"><span class="step-num">01</span><strong>Choose a letter →</strong><span>Pick a letter for the media, an institution, or a representative.</span></a>
-<a class="step-card" href="media-coverage/"><span class="step-num">02</span><strong>Choose who to contact →</strong><span>Find an outlet or organization that has not been contacted.</span></a>
+<a class="step-card" href="outreach/"><span class="step-num">02</span><strong>Choose your country →</strong><span>Find media, institutions, MPs, and parties in one country report.</span></a>
 <a class="step-card" href="background/sources/"><span class="step-num">03</span><strong>Check the facts →</strong><span>Check the source, date, recipient, and contact details.</span></a>
 <a class="step-card" href="https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing"><span class="step-num">04</span><strong>Record what happened →</strong><span>Add the status, date, and direct link to the shared workbook.</span></a>
 </div>

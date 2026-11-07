@@ -3,9 +3,35 @@ hide:
   - toc
 ---
 
-# Momentum: protests and political impact
+# Momentum
 
-How street mobilization (left) compares week by week with legal, electoral and institutional action (right). The right side is colored by whether that action favored or pushed back against the protesters' demands — it is a judgment call made for this page, not a quote from the source, and you should check the linked source before relying on it.
+<nav class="status-page-nav" aria-label="Status pages">
+  <a href="../outreach/">Country map</a>
+  <a href="../media-coverage/">Media</a>
+  <a href="../institutions/">Institutions</a>
+  <a href="../parties/">Parties & groups</a>
+  <a href="../remaining/">Remaining</a>
+  <a href="../momentum/" aria-current="page">Momentum</a>
+  <a href="../contributors/">Contributors</a>
+</nav>
+
+Compare recorded protest events with political and institutional actions over time. Counts show activity in this dataset, not the size of a protest or proof that one event caused another.
+
+<div class="momentum-stats" aria-label="Events in the selected view">
+  <article><strong id="momentum-stat-protest">—</strong><span>protest events</span></article>
+  <article><strong id="momentum-stat-political">—</strong><span>political &amp; institutional actions</span></article>
+  <article><strong id="momentum-stat-weeks">—</strong><span>weeks with recorded activity</span></article>
+</div>
+
+<details class="status-disclosure status-page-filters"><summary class="status-disclosure-summary"><span>Search &amp; filters</span></summary>
+<div class="coverage-sort-control momentum-filters">
+  <label for="momentum-search">Search events</label><input id="momentum-search" type="search" placeholder="Event, location or source">
+  <label for="momentum-from">From</label><input id="momentum-from" type="date">
+  <label for="momentum-to">To</label><input id="momentum-to" type="date">
+  <button type="button" data-status-reset>Reset filters</button>
+</div>
+</details>
+<p id="momentum-summary" class="status-page-note" role="status">Loading timeline totals…</p>
 
 <div class="momentum-chart-card">
 <div class="momentum-chart-head"><span>Protest events</span><span>Political &amp; institutional action</span></div>
@@ -18,18 +44,25 @@ How street mobilization (left) compares week by week with legal, electoral and i
 </div>
 </div>
 
-Both sides share one scale, so a longer bar always means more events, on either side. A leading "Before the protests" row groups legal action that predates the movement. Click or press Enter on any bar for the full list of entries behind it.
+Both sides share one scale. Weeks without recorded activity are omitted; this does not establish that nothing happened. “Before the protests” groups actions recorded before the first protest week in this dataset. Select a bar for its sources, or browse the events below.
 
-<div id="momentum-popup-overlay" class="momentum-popup-overlay" hidden role="dialog" aria-modal="true" aria-labelledby="momentum-popup-title">
-  <div class="momentum-popup">
-    <div class="momentum-popup-head">
-      <h3 id="momentum-popup-title"></h3>
-      <button id="momentum-popup-close" type="button" class="momentum-popup-close" aria-label="Close">&times;</button>
-    </div>
-    <div id="momentum-popup-body" class="timeline-list"></div>
-  </div>
-</div>
+## Browse events
+
+<p class="status-page-note">Newest first. Open an event for its summary, source and evidence status.</p>
+<div id="momentum-events" class="momentum-events" aria-label="Recorded events">Loading events…</div>
+
+<dialog id="momentum-popup-overlay" class="country-popup momentum-dialog" aria-labelledby="momentum-popup-title">
+  <section class="country-popup-panel">
+    <header class="country-popup-header">
+      <h2 id="momentum-popup-title"></h2>
+      <button id="momentum-popup-close" type="button" class="country-popup-close" aria-label="Close event details">×</button>
+    </header>
+    <div id="momentum-popup-body" class="country-popup-body momentum-events"></div>
+  </section>
+</dialog>
 
 ## About the sources
 
-Both sides are drawn from [one combined timeline CSV](assets/data/timeline.csv), split by its `track` column (`protest` vs `political`). The protest rows are the same ones listed on the [full protest timeline](timeline.md); the political rows are hand-curated from sources already cited on this site's action and status pages and are not an independently audited record. A legal filing, referendum step or statement listed here does not establish wrongdoing or predict an outcome, and the `stance` column reflects this page's own reading of each entry's effect on the protesters' demands, not the source's own framing.
+**Stance colors are editorial classifications**, not statements made by the cited sources. Check the source before drawing conclusions.
+
+Both sides are drawn from [one combined timeline CSV](assets/data/timeline.csv), split by its `track` column (`protest` vs `political`). The [full timeline](timeline.md) also includes rights-monitoring entries (`rights`), which are not counted as protest events or political actions in this chart; the political rows are hand-curated from sources already cited on this site's action and status pages and are not an independently audited record. A legal filing, referendum step or statement listed here does not establish wrongdoing or predict an outcome, and the `stance` column reflects this page's own reading of each entry's effect on the protesters' demands, not the source's own framing.

@@ -19,4 +19,4 @@ This timeline combines the Flamingo Revolution's published chronology with indep
 
 Entries link to the source used for that milestone. The movement's own archive is useful for its chronology, while AP, Citizens.al, Euronews, Tagesschau and ORF provide outside reporting. Crowd estimates remain attributed to their publishers.
 
-The downloadable CSV also carries the legal, electoral and institutional milestones used on the [momentum page](momentum.md), marked by a `track` column (`protest` vs `political`); this page only lists the `protest` rows.
+The downloadable CSV also carries the legal, electoral and institutional milestones used on the [momentum page](momentum.md), marked by a `track` column (`protest` vs `political`); this page lists the `protest` and `rights` monitoring rows.

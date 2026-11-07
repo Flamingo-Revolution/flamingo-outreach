@@ -138,6 +138,12 @@ function renderTreemapCard(options) {
   const tableBody = document.getElementById(tableBodyId);
   if (!container) return;
 
+  const summary = document.getElementById(containerId + '-summary');
+  if (summary) {
+    const total = data.reduce((sum, group) => sum + group.value, 0);
+    const done = data.reduce((sum, group) => sum + group.done, 0);
+    summary.textContent = total + ' entries · ' + done + ' done · ' + (total - done) + ' todo';
+  }
   container.style.position = 'relative';
   container.replaceChildren();
   const tooltip = renderTreemapTooltip(container);
@@ -288,47 +294,46 @@ function setupRemainingTreemaps() {
 
   const cards = [];
 
-  Promise.all([
-    fetch(new URL('institutions.csv', remainingAssetsBase)).then(r => r.text()),
-    fetch(new URL('political_parties.csv', remainingAssetsBase)).then(r => r.text()),
-    fetch(new URL('media_coverage.csv', remainingAssetsBase)).then(r => r.text())
-  ]).then(([institutionsText, partiesText, mediaText]) => {
+  Promise.all(['institutions.csv', 'political_parties.csv', 'media_coverage.csv', 'mps.csv'].map(file =>
+      fetch(new URL(file, remainingAssetsBase)).then(response => {
+        if (!response.ok) throw Error(response.status);
+        return response.text();
+      })
+  )).then(([institutionsText, partiesText, mediaText, mpsText]) => {
+    if (!institutionsRoot.isConnected) return;
     const institutions = remainingGroupBy(csvRows(institutionsText), {
       nameField: 'organization',
-      isDone: row => Boolean((row.response_link || '').trim()),
-      exclude: ['Albania']
+      isDone: row => outreachUrls(row.response_link).length > 0
     });
-    const parties = remainingGroupBy(csvRows(partiesText), {
+    const parties = remainingGroupBy([...csvRows(partiesText), ...csvRows(mpsText).map(row => ({ ...row, party: `${row.name} (MP)` }))], {
       nameField: 'party',
-      isDone: row => Boolean((row.response_link || '').trim()),
-      exclude: ['Albania']
+      isDone: row => outreachUrls(row.response_link).length > 0
     });
     const media = remainingGroupBy(csvRows(mediaText), {
       nameField: 'outlet',
-      isDone: row => Boolean((row.article_urls || '').trim()),
-      exclude: ['Albania']
+      isDone: row => outreachUrls(row.article_urls).length > 0
     });
 
     cards.push({
       data: institutions,
-      doneLabel: 'Responded',
-      pendingLabel: 'No response yet',
+      doneLabel: 'Response linked',
+      pendingLabel: 'No response link',
       containerId: 'institutions-treemap',
       legendId: 'institutions-treemap-legend',
       tableBodyId: 'institutions-treemap-table'
     });
     cards.push({
       data: parties,
-      doneLabel: 'Responded',
-      pendingLabel: 'No response yet',
+      doneLabel: 'Response linked',
+      pendingLabel: 'No response link',
       containerId: 'parties-treemap',
       legendId: 'parties-treemap-legend',
       tableBodyId: 'parties-treemap-table'
     });
     cards.push({
       data: media,
-      doneLabel: 'Posted',
-      pendingLabel: 'Not posted',
+      doneLabel: 'Coverage linked',
+      pendingLabel: 'No coverage link',
       containerId: 'media-treemap',
       legendId: 'media-treemap-legend',
       tableBodyId: 'media-treemap-table'
@@ -338,7 +343,7 @@ function setupRemainingTreemaps() {
     renderAll();
     window.addEventListener('resize', debounce(renderAll, 200));
   }).catch(() => {
-    institutionsRoot.innerHTML = '<p class="coverage-priority-loading">Unable to load the outreach CSVs. Use <code>mkdocs serve</code>.</p>';
+    institutionsRoot.innerHTML = '<p class="coverage-priority-loading">Unable to load outreach data. Reload to try again or use the country map.</p>';
   });
 }
 

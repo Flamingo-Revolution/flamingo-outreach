@@ -1,3 +1,3 @@
-source_id,published_date,event_date,publisher,title,url,category,format,topic,verification,origin,notes
-SRC-EXAMPLE-001,2026-01-15,2026-01-14,Example Newsroom,Illustrative report about a public gathering,https://example.org/report-001,Media,Article,Public assembly,Example only; not verified,Example dataset,Replace every field before publishing
-SRC-EXAMPLE-002,2026-01-16,2026-01-14,Example Monitor,Illustrative observer statement,https://example.org/statement-002,Civil society,Statement,Monitoring,Example only; not verified,Example dataset,Placeholder URL and organization
+source_id,published_date,event_date,publisher,title,url,category,format,topic,verification,origin,notes,contributors
+SRC-EXAMPLE-001,2026-01-15,2026-01-14,Example Newsroom,Illustrative report about a public gathering,https://example.org/report-001,Media,Article,Public assembly,Example only; not verified,Example dataset,Replace every field before publishing,
+SRC-EXAMPLE-002,2026-01-16,2026-01-14,Example Monitor,Illustrative observer statement,https://example.org/statement-002,Civil society,Statement,Monitoring,Example only; not verified,Example dataset,Placeholder URL and organization,

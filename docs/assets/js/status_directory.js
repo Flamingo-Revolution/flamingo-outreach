@@ -81,7 +81,7 @@ function renderStatusMap(options) {
           const item = byCountry.get(name);
           const total = item ? item[groupKey].length : 0;
           layer.bindTooltip(
-            item ? `${name}: ${item.responded} of ${total} responded (${item.percent}%)` : `${name}: no listed ${unitLabel}`,
+            item ? `${name}: ${item.responded} of ${total} with response links (${item.percent}%)` : `${name}: no listed ${unitLabel}`,
             { sticky: true }
           );
           if (!item) return;
@@ -104,7 +104,7 @@ function renderStatusMap(options) {
           title.textContent = name;
           const ratio = document.createElement('span');
           ratio.className = 'coverage-map-popup__ratio';
-          ratio.textContent = `${item.responded}/${total} ${unitLabel} responded (${item.percent}%)`;
+          ratio.textContent = `${item.responded}/${total} ${unitLabel} with response links (${item.percent}%)`;
           popup.append(title, ratio);
 
           const open = document.createElement('a');
@@ -144,7 +144,7 @@ function renderStatusDirectory(options) {
   const {
     data, sortMode, filterSummary, listId, summaryId, mapStatsIds, groupKey,
     nameField, isResponded, levels, countryIdPrefix, entrySort,
-    renderEntry, summaryNoun, mapOptions
+    summaryNoun, mapOptions
   } = options;
 
   const root = document.getElementById(listId);
@@ -167,11 +167,11 @@ function renderStatusDirectory(options) {
     const entries = item[groupKey];
 
     const details = document.createElement('details');
-    details.className = 'coverage-country-details';
+    details.className = 'status-disclosure';
     details.id = statusCountryId(countryIdPrefix, item.country);
 
     const heading = document.createElement('summary');
-    heading.className = 'coverage-country-summary';
+    heading.className = 'status-disclosure-summary';
     const content = document.createElement('div');
     content.className = 'coverage-priority-content';
     const titleRow = document.createElement('div');
@@ -181,34 +181,29 @@ function renderStatusDirectory(options) {
     title.textContent = item.country;
     const count = document.createElement('span');
     count.className = 'coverage-priority-percentage';
-    count.textContent = `${entries.length} ${entries.length === 1 ? 'entry' : 'entries'} · ${item.responded} responded`;
+    count.textContent = `${entries.length} ${entries.length === 1 ? 'entry' : 'entries'} · ${item.responded} with response links`;
     titleRow.append(title, count);
     content.append(titleRow);
     heading.append(content);
 
-    const list = document.createElement('ul');
-    list.className = 'coverage-outlet-list';
-    [...entries].sort(entrySort).forEach(entry => {
-      const li = document.createElement('li');
-      li.className = 'coverage-outlet-item';
-      if (isResponded(entry)) li.classList.add('coverage-outlet-item--covered');
-      const info = document.createElement('div');
-      const links = document.createElement('div');
-      links.className = 'coverage-outlet-links';
-      renderEntry(entry, info, links);
-      if (!links.childElementCount) {
-        const missing = document.createElement('span');
-        missing.textContent = 'No link listed';
-        links.append(missing);
-      }
-      li.append(info, links);
-      list.append(li);
-    });
+    const list = document.createElement('div');
+    list.className = 'status-entry-list';
+    const section = COUNTRY_SECTIONS.find(item => item.key === (nameField === 'party' ? 'parties' : 'institutions'));
+    const blocks = [...entries].sort(entrySort).map(entry => countryEntryDisclosure(entry, section));
+    list.replaceChildren(...blocks);
+    countryDisclosureAccordion(blocks);
 
     details.append(heading, list);
     root.append(details);
   });
 
+  countryDisclosureAccordion([...root.children]);
+  if (!countries.length) {
+    const empty = document.createElement('p');
+    empty.className = 'coverage-priority-loading';
+    empty.textContent = 'No entries match. Change your search or reset the filters.';
+    root.append(empty);
+  }
   if (summary) {
     summary.textContent = `${countries.length} countries · ${data.length} ${summaryNoun}${filterSummary ? ` · ${filterSummary}` : ''}`;
   }
@@ -262,6 +257,6 @@ function setupStatusPage(options) {
       filterSelects.forEach(filter => filter.select?.addEventListener('change', update));
     })
     .catch(() => {
-      root.innerHTML = `<p class="coverage-priority-loading">Unable to load the ${csvFile} CSV. Use <code>mkdocs serve</code>.</p>`;
+      root.innerHTML = `<p class="coverage-priority-loading">Unable to load this directory. Reload to try again, or open the country map.</p>`;
     });
 }

@@ -250,7 +250,7 @@ Download kun de billeder, der er relevante for din besked, behold den medfølgen
 
 ## Oversættelser
 
-De samme tre e-mails er tilgængelige på [albansk](../languages/sq.md), [tjekkisk](../languages/cs.md), [dansk](../languages/da.md), [hollandsk](../languages/nl.md), [finsk](../languages/fi.mdages(), [fr.mdu] [tysk](../languages/de.md), [italiensk](../languages/it.md), [norsk](../languages/no.md), [polsk](../languages/pl.md), [portugisisk](../languages/pt.md), [spansk](.../languages) og/ [svensk](../languages/sv.md).
+De samme tre e-mails er tilgængelige på [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Credits og anerkendelser
 

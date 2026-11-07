@@ -37,7 +37,12 @@ extra_javascript:
   - assets/js/timeline.js
   - assets/js/media_coverage.js
   - assets/js/media_reports.js
+  - assets/js/status_pages.js
   - assets/js/status_directory.js
+  - assets/js/country_data.js
+  - assets/js/country_report.js
+  - assets/js/country_popup.js
+  - assets/js/outreach_map.js
   - assets/js/institutions.js
   - assets/js/parties.js
   - assets/js/remaining_treemaps.js
@@ -46,10 +51,14 @@ extra_javascript:
   - assets/js/email_templates.js
   - assets/js/evidence_comparison.js
   - assets/js/momentum.js
+  - https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.4/cytoscape.min.js
+  - assets/js/contributors.js
 plugins:
   - search
 nav:
-  - Home: index.md
+
+  - Home: outreach.md
+  - Start: index.md
   - Letters:
       - Overview: messages/index.md
       - Languages:
@@ -67,11 +76,14 @@ nav:
           - Swedish: languages/sv.md
           - Polish: languages/pl.md
   - Status:
-      - Media: media-coverage.md
-      - Institutions: institutions.md
-      - Parties: parties.md
-      - Remaining: remaining.md
-      - Momentum: momentum.md
+      - Directories:
+          - Media: media-coverage.md
+          - Institutions: institutions.md
+          - Parties: parties.md
+      - Additional:
+          - Remaining: remaining.md
+          - Momentum: momentum.md
+          - Contributors: contributors.md
   - Background:
       - Overview: background/index.md
       - Movement: background/context.md
@@ -95,6 +107,7 @@ nav:
           - Flamingo Revolution protests ↗: https://flamingorevolution.eu/protestat/
           - Violence archive ↗: https://hajdenshesh.com/dhuna
   - About: about.md
+
 markdown_extensions:
   - admonition
   - md_in_html

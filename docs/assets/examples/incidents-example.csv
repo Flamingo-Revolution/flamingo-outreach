@@ -1,3 +1,3 @@
-incident_id,event_date,location,affected_group,alleged_actor,incident_type,summary,evidence_status,source_ids,adcn_reference,reported_count,limitations
-INC-EXAMPLE-001,2026-01-14,Example Square,Demonstrators,Undetermined,Crowd-control measure,An example source reports that a crowd-control measure was used.,Illustrative; not a real incident,SRC-EXAMPLE-001,,Unknown,Example record only; replace with sourced facts
-INC-EXAMPLE-002,2026-01-14,Example Square,Media workers,Undetermined,Access restriction,An example observer statement reports restricted access for media workers.,Illustrative; not a real incident,SRC-EXAMPLE-002,,Unknown,No person or real event is represented
+incident_id,event_date,location,affected_group,alleged_actor,incident_type,summary,evidence_status,source_ids,adcn_reference,reported_count,limitations,contributors
+INC-EXAMPLE-001,2026-01-14,Example Square,Demonstrators,Undetermined,Crowd-control measure,An example source reports that a crowd-control measure was used.,Illustrative; not a real incident,SRC-EXAMPLE-001,,Unknown,Example record only; replace with sourced facts,
+INC-EXAMPLE-002,2026-01-14,Example Square,Media workers,Undetermined,Access restriction,An example observer statement reports restricted access for media workers.,Illustrative; not a real incident,SRC-EXAMPLE-002,,Unknown,No person or real event is represented,

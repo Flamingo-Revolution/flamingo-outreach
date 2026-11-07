@@ -1,12 +1,12 @@
-country,representation,category,official_website,instagram_url,verification
-United States,U.S. Embassy Tirana,Embassy,https://al.usembassy.gov/,https://www.instagram.com/usembassytirana/,Official State Department directory
-Germany,German Embassy Tirana,Embassy,https://tirana.diplo.de/,https://www.instagram.com/ambasadagjermanetirana/,German Foreign Office lists Instagram; handle cross-reference
-Italy,Italian Embassy Tirana,Embassy,https://ambtirana.esteri.it/,https://www.instagram.com/italyinalbania/,Wikidata embassy listing
-France,French Embassy Tirana,Embassy,https://al.ambafrance.org/,,Instagram not confirmed
-United Kingdom,British Embassy Tirana,Embassy,https://www.gov.uk/world/organisations/british-embassy-tirana,,Instagram not confirmed
-Switzerland,Swiss Embassy Tirana,Embassy,https://www.eda.admin.ch/tirana,,Instagram not confirmed
-Netherlands,Dutch Embassy Albania,Embassy,https://www.netherlandsandyou.nl/web/albania,,Instagram not confirmed
-Sweden,Swedish Embassy Tirana,Embassy,https://www.swedenabroad.se/en/embassies/albania-tirana/,,Instagram not confirmed
-Austria,Austrian Embassy Tirana,Embassy,https://www.bmeia.gv.at/oeb-tirana/,,Instagram not confirmed
-Norway,Norwegian diplomatic coverage,Diplomatic mission,https://www.norway.no/,,Confirm accredited mission
-Canada,Canadian diplomatic coverage,Diplomatic mission,https://www.international.gc.ca/,,Confirm accredited mission
+country,representation,category,official_website,instagram_url,verification,contributors
+United States,U.S. Embassy Tirana,Embassy,https://al.usembassy.gov/,https://www.instagram.com/usembassytirana/,Official State Department directory,
+Germany,German Embassy Tirana,Embassy,https://tirana.diplo.de/,https://www.instagram.com/ambasadagjermanetirana/,German Foreign Office lists Instagram; handle cross-reference,
+Italy,Italian Embassy Tirana,Embassy,https://ambtirana.esteri.it/,https://www.instagram.com/italyinalbania/,Wikidata embassy listing,
+France,French Embassy Tirana,Embassy,https://al.ambafrance.org/,,Instagram not confirmed,
+United Kingdom,British Embassy Tirana,Embassy,https://www.gov.uk/world/organisations/british-embassy-tirana,,Instagram not confirmed,
+Switzerland,Swiss Embassy Tirana,Embassy,https://www.eda.admin.ch/tirana,,Instagram not confirmed,
+Netherlands,Dutch Embassy Albania,Embassy,https://www.netherlandsandyou.nl/web/albania,,Instagram not confirmed,
+Sweden,Swedish Embassy Tirana,Embassy,https://www.swedenabroad.se/en/embassies/albania-tirana/,,Instagram not confirmed,
+Austria,Austrian Embassy Tirana,Embassy,https://www.bmeia.gv.at/oeb-tirana/,,Instagram not confirmed,
+Norway,Norwegian diplomatic coverage,Diplomatic mission,https://www.norway.no/,,Confirm accredited mission,
+Canada,Canadian diplomatic coverage,Diplomatic mission,https://www.international.gc.ca/,,Confirm accredited mission,

@@ -250,7 +250,7 @@ Shkarkoni vetëm imazhet që lidhen me mesazhin tuaj, mbani kreditin e dhënë d
 
 ## Përkthime
 
-Të njëjtat tre email janë në dispozicion në [shqip] (../languages/sq.md), [çeke](../languages/cs.md), [danisht](../languages/da.md), [holandisht](../languages/nl.md), [finlandisht](../md),/ [Frëngjisht](../languages/fr.md), [gjermanisht](../languages/de.md), [italisht](../languages/it.md), [norvegjez](../languages/no.md), [polonisht](../languages/pl.md), [portug. [Spanjisht](../languages/es.md) dhe [suedisht](../languages/sv.md).
+Të njëjtat tre email janë në dispozicion në [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Kredite dhe mirënjohje
 

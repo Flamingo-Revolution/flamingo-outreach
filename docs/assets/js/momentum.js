@@ -30,12 +30,12 @@ function momentumWeekLabel(start) {
   const end = new Date(start);
   end.setUTCDate(start.getUTCDate() + 6);
   const fmt = dt => dt.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', timeZone: 'UTC' });
-  return `${fmt(start)}–${fmt(end)}`;
+  return `${fmt(start)}–${fmt(end)} ${end.getUTCFullYear()}`;
 }
 
-function buildMomentumRows(protestData, politicalData) {
+function buildMomentumRows(protestData, politicalData, movementStart = '') {
   const protestDates = protestData.map(item => momentumParseDate(item.date_iso));
-  const firstWeek = momentumWeekStart(protestDates.reduce((a, b) => (a < b ? a : b)));
+  const firstWeek = movementStart ? momentumWeekStart(momentumParseDate(movementStart)) : protestDates.length ? momentumWeekStart(protestDates.reduce((a, b) => (a < b ? a : b))) : new Date(0);
 
   const rows = new Map();
   const beforeItems = [];
@@ -117,78 +117,50 @@ function momentumResolveUrl(sourceUrl) {
 let momentumPopupTrigger = null;
 
 function closeMomentumPopup() {
-  const overlay = document.getElementById('momentum-popup-overlay');
-  if (!overlay || overlay.hidden) return;
-  overlay.hidden = true;
-  document.removeEventListener('keydown', momentumPopupKeydown);
-  if (momentumPopupTrigger) momentumPopupTrigger.focus();
-  momentumPopupTrigger = null;
+  document.getElementById('momentum-popup-overlay')?.close();
 }
 
-function momentumPopupKeydown(event) {
-  if (event.key === 'Escape') closeMomentumPopup();
+function momentumEventDisclosure(item) {
+  const heading = countryElement('span', 'momentum-event-heading', item.title);
+  const date = countryElement('time', 'momentum-event-date', item.date_label || item.date_iso);
+  date.dateTime = item.date_iso;
+  const content = countryElement('article', 'momentum-event-content');
+  content.append(countryElement('p', 'status-page-note', [item.category, item.location].filter(Boolean).join(' · ')));
+  content.append(countryElement('p', '', item.summary));
+  const source = countryElement('a', '', (item.source_name || 'Read source') + ' ↗');
+  source.href = momentumResolveUrl(item.source_url);
+  source.target = '_blank'; source.rel = 'noopener noreferrer';
+  if (item.source_url) content.append(source);
+  if (item.source_status) content.append(countryElement('p', 'status-page-note', item.source_status));
+  if (item.track === 'political') content.append(countryElement('p', 'status-page-note', 'Editorial classification: ' + (MOMENTUM_STANCE_LABEL[item.stance] || MOMENTUM_STANCE_LABEL.mixed)));
+  const type = countryElement('span', 'momentum-event-type', item.track === 'protest' ? 'Protest' : 'Political action');
+  return countryDisclosure([date, heading, type], content, 'momentum-event');
+}
+
+function renderMomentumEvents(root, items) {
+  const blocks = [...items].sort((a, b) => b.date_iso.localeCompare(a.date_iso) || a.title.localeCompare(b.title)).map(momentumEventDisclosure);
+  root.replaceChildren(...blocks);
+  if (!blocks.length) root.append(countryElement('p', 'country-empty', 'No events match. Change the dates or reset the filters.'));
+  countryDisclosureAccordion(blocks);
+}
+
+function filterMomentumEvents(data, { query = '', from = '', to = '' } = {}) {
+  const term = query.trim().toLowerCase();
+  return data.filter(item => ['protest', 'political'].includes(item.track) &&
+    (!from || item.date_iso >= from) && (!to || item.date_iso <= to) &&
+    (!term || [item.title, item.summary, item.location, item.category, item.source_name].join(' ').toLowerCase().includes(term)));
 }
 
 function openMomentumPopup(heading, items, trigger) {
-  const overlay = document.getElementById('momentum-popup-overlay');
-  const titleEl = document.getElementById('momentum-popup-title');
-  const bodyEl = document.getElementById('momentum-popup-body');
-  if (!overlay || !titleEl || !bodyEl) return;
-
+  const dialog = document.getElementById('momentum-popup-overlay');
   momentumPopupTrigger = trigger;
-  titleEl.textContent = heading;
-  bodyEl.replaceChildren();
-
-  items.forEach(item => {
-    const card = document.createElement('article');
-    card.className = 'timeline-card';
-
-    const marker = document.createElement('span');
-    marker.className = 'timeline-marker';
-    marker.setAttribute('aria-hidden', 'true');
-
-    const date = document.createElement('time');
-    date.dateTime = item.date_iso;
-    date.textContent = item.date_label;
-
-    const tag = document.createElement('span');
-    tag.className = 'timeline-tag';
-    tag.textContent = item.category;
-
-    const title = document.createElement('h2');
-    title.textContent = item.title;
-
-    const place = document.createElement('strong');
-    place.className = 'timeline-place';
-    place.textContent = item.location;
-
-    const summary = document.createElement('p');
-    summary.textContent = item.summary;
-
-    const source = document.createElement('a');
-    source.href = momentumResolveUrl(item.source_url);
-    source.target = '_blank';
-    source.rel = 'noopener noreferrer';
-    source.textContent = `${item.source_name} ↗`;
-
-    const status = document.createElement('small');
-    status.textContent = item.source_status;
-
-    card.append(marker, date, tag, title, place, summary, source, status);
-
-    if (item.stance) {
-      const stanceTag = document.createElement('span');
-      stanceTag.className = `momentum-stance-tag momentum-stance-${item.stance}`;
-      stanceTag.textContent = MOMENTUM_STANCE_LABEL[item.stance] || item.stance;
-      card.append(stanceTag);
-    }
-
-    bodyEl.append(card);
-  });
-
-  overlay.hidden = false;
+  document.getElementById('momentum-popup-title').textContent = heading;
+  const body = document.getElementById('momentum-popup-body');
+  renderMomentumEvents(body, items);
+  if (items.length === 1) body.querySelector('details').open = true;
+  if (!dialog.open) dialog.showModal();
+  document.body.classList.add('momentum-dialog-open');
   document.getElementById('momentum-popup-close').focus();
-  document.addEventListener('keydown', momentumPopupKeydown);
 }
 
 function momentumMakeBarInteractive(shape, label, items) {
@@ -208,15 +180,16 @@ function renderMomentumChart(rows) {
   const root = document.getElementById('momentum-chart');
   if (!root) return;
   root.replaceChildren();
+  if (!rows.length) { root.append(countryElement('p', 'country-empty', 'No chart data for these filters.')); return; }
 
-  const rowHeight = 30;
-  const barThickness = 18;
+  const rowHeight = 38;
+  const barThickness = 24;
   const halfWidth = 210;
   const labelColWidth = 130;
   const paddingTop = 12;
   const tipGutter = 36;
   const barMax = halfWidth - tipGutter;
-  const gap = 2;
+  const gap = 0;
   const radius = 4;
 
   const maxProtest = Math.max(1, ...rows.map(row => row.protest));
@@ -230,7 +203,7 @@ function renderMomentumChart(rows) {
 
   const svg = momentumSvgEl('svg', {
     viewBox: `0 0 ${totalWidth} ${totalHeight}`,
-    role: 'img',
+    role: 'group',
     'aria-label': 'Weekly counts of protest events (left) and political or institutional actions (right), the right side colored by whether the action favored or opposed the protesters’ demands. Activate a bar for the full list behind it.',
     class: 'momentum-chart-svg'
   });
@@ -310,13 +283,39 @@ function setupMomentum() {
       return response.text();
     })
     .then(text => {
+      if (!chartRoot.isConnected) return;
       const data = csvRows(text);
-      const protestData = data.filter(item => item.track === 'protest');
-      const politicalData = data.filter(item => item.track === 'political');
-      renderMomentumChart(buildMomentumRows(protestData, politicalData));
+      const movementStart = data.filter(item => item.track === 'protest').map(item => item.date_iso).sort()[0] || '';
+      const search = document.getElementById('momentum-search');
+      const from = document.getElementById('momentum-from');
+      const to = document.getElementById('momentum-to');
+      const render = () => {
+        const visible = filterMomentumEvents(data, { query: search.value, from: from.value, to: to.value });
+        const protests = visible.filter(item => item.track === 'protest');
+        const political = visible.filter(item => item.track === 'political');
+        const rows = buildMomentumRows(protests, political, movementStart);
+        const weeks = new Set(visible.map(item => momentumWeekStart(momentumParseDate(item.date_iso)).toISOString()));
+        document.getElementById('momentum-stat-protest').textContent = protests.length;
+        document.getElementById('momentum-stat-political').textContent = political.length;
+        document.getElementById('momentum-stat-weeks').textContent = weeks.size;
+        const dates = visible.map(item => item.date_iso).sort();
+        document.getElementById('momentum-summary').textContent = from.value && to.value && from.value > to.value
+          ? 'The start date must be before the end date.'
+          : visible.length + ' matching events' + (dates.length ? ' · ' + dates[0] + ' to ' + dates[dates.length - 1] : '');
+        renderMomentumChart(rows);
+        renderMomentumEvents(document.getElementById('momentum-events'), visible);
+      };
+      search.addEventListener('input', render);
+      from.addEventListener('change', render);
+      to.addEventListener('change', render);
+      render();
     })
     .catch(() => {
-      chartRoot.textContent = 'Unable to load the momentum chart data. Use mkdocs serve.';
+      if (!chartRoot.isConnected) return;
+      const message = 'Unable to load events. Reload to try again or open the full timeline below.';
+      chartRoot.textContent = message;
+      document.getElementById('momentum-events').textContent = message;
+      document.getElementById('momentum-summary').textContent = 'Timeline data unavailable.';
     });
 
   const overlay = document.getElementById('momentum-popup-overlay');
@@ -326,6 +325,11 @@ function setupMomentum() {
       if (event.target === overlay) closeMomentumPopup();
     });
     document.getElementById('momentum-popup-close').addEventListener('click', closeMomentumPopup);
+    overlay.addEventListener('close', () => {
+      document.body.classList.remove('momentum-dialog-open');
+      if (momentumPopupTrigger?.isConnected) momentumPopupTrigger.focus();
+      momentumPopupTrigger = null;
+    });
   }
 }
 

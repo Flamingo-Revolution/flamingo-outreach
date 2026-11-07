@@ -1,10 +1,10 @@
 const partiesAssetsBase = new URL('../data/', document.currentScript.src);
 
 const PARTY_LEVELS = {
-  green: { label: '76–100% responded', color: '#2e7d32' },
-  lightgreen: { label: '51–75% responded', color: '#7cb342' },
-  orange: { label: '26–50% responded', color: '#f57c00' },
-  red: { label: '0–25% responded', color: '#c62828' }
+  green: { label: '76–100% with response links', color: '#2e7d32' },
+  lightgreen: { label: '51–75% with response links', color: '#7cb342' },
+  orange: { label: '26–50% with response links', color: '#f57c00' },
+  red: { label: '0–25% with response links', color: '#c62828' }
 };
 
 const partiesMapState = {};
@@ -13,67 +13,7 @@ function partyValues(value) {
   return (value || '').split(';').map(part => part.trim()).filter(Boolean);
 }
 
-function addPartyLink(root, url, label) {
-  if (!url) return;
-  const link = document.createElement('a');
-  link.href = url;
-  link.target = '_blank';
-  link.rel = 'noopener noreferrer';
-  link.textContent = label;
-  root.append(link);
-}
-
-function addPartyResponseLinks(root, party) {
-  const urls = partyValues(party.response_link);
-  urls.forEach((url, index) => addPartyLink(root, url, urls.length > 1 ? `Response ${index + 1}` : 'Response'));
-}
-
-function addPartyInstagramEvidence(root, value) {
-  if (!value) return;
-  const url = value.match(/https?:\/\/[^\s)]+/)?.[0];
-  if (!url) return;
-  const link = document.createElement('a');
-  link.href = url;
-  link.target = '_blank';
-  link.rel = 'noopener noreferrer';
-  link.textContent = 'Instagram evidence';
-  link.title = value;
-  root.append(link);
-}
-
-function renderPartyEntry(party, info, links) {
-  const name = document.createElement('strong');
-  name.textContent = party.party;
-  const meta = document.createElement('span');
-  meta.className = 'coverage-outlet-status';
-  meta.textContent = [party.priority ? `${party.priority} priority` : '', party.response_link ? 'Responded' : 'No response'].filter(Boolean).join(' · ');
-  info.append(name, meta);
-
-  if (party.status) {
-    const status = document.createElement('span');
-    status.className = 'coverage-outlet-headline';
-    status.textContent = party.status;
-    info.append(status);
-  }
-
-  if (party.issues) {
-    const tags = document.createElement('span');
-    tags.className = 'coverage-outlet-tags';
-    partyValues(party.issues).forEach(issue => {
-      const tag = document.createElement('span');
-      tag.className = 'institution-issue-tag';
-      tag.textContent = issue;
-      tags.append(tag);
-    });
-    info.append(tags);
-  }
-
-  addPartyResponseLinks(links, party);
-  addPartyLink(links, party.website, 'Website');
-  addPartyInstagramEvidence(links, party.instagram_evidence);
-}
-
-const isPartyResponded = party => Boolean((party.response_link || '').trim());
+const isPartyResponded = party => outreachUrls(party.response_link).length > 0;
 
 function renderParties(data, sortMode, filterSummary) {
   renderStatusDirectory({
@@ -94,7 +34,6 @@ function renderParties(data, sortMode, filterSummary) {
     levels: PARTY_LEVELS,
     countryIdPrefix: 'parties',
     entrySort: (a, b) => Number(!isPartyResponded(a)) - Number(!isPartyResponded(b)) || a.party.localeCompare(b.party),
-    renderEntry: renderPartyEntry,
     summaryNoun: 'parties',
     mapOptions: {
       state: partiesMapState,
@@ -117,6 +56,11 @@ function setupParties() {
     searchId: 'parties-search',
     filters: [
       {
+        selectId: 'parties-status-filter',
+        match: (item, value) => (outreachUrls(item.response_link).length > 0) === (value === 'recorded'),
+        options: () => []
+      },
+      {
         selectId: 'parties-priority-filter',
         match: (item, value) => item.priority === value,
         options: data => [...new Set(data.map(item => item.priority).filter(Boolean))].sort()
@@ -128,7 +72,7 @@ function setupParties() {
       }
     ],
     searchMatch: (item, query) => item.party.toLowerCase().includes(query) || (item.country || '').toLowerCase().includes(query),
-    buildFilterSummary: ([priority, issue], query) => [priority, issue, query ? `search: ${query}` : ''].filter(Boolean).join(' · '),
+    buildFilterSummary: ([status, priority, issue], query) => [status === 'recorded' ? 'Done' : status === 'missing' ? 'Todo' : '', priority, issue, query ? `search: ${query}` : ''].filter(Boolean).join(' · '),
     render: renderParties
   });
 }

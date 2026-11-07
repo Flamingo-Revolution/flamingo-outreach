@@ -31,12 +31,12 @@ function renderMediaReports(rows, countryFilter = '', searchValue = '') {
     .sort(([countryA], [countryB]) => countryA.localeCompare(countryB))
     .forEach(([country, outlets]) => {
       const details = document.createElement('details');
-      details.className = 'coverage-country-details';
+      details.className = 'status-disclosure';
       details.id = mentionCountryId(country);
       details.open = Boolean(countryFilter || query);
 
       const countrySummary = document.createElement('summary');
-      countrySummary.className = 'coverage-country-summary';
+      countrySummary.className = 'status-disclosure-summary';
       const content = document.createElement('div');
       content.className = 'coverage-priority-content';
       const heading = document.createElement('div');
@@ -52,50 +52,17 @@ function renderMediaReports(rows, countryFilter = '', searchValue = '') {
       content.append(heading);
       countrySummary.append(content);
 
-      const list = document.createElement('ul');
-      list.className = 'coverage-outlet-list';
-      outlets.sort((a, b) => a.outlet.localeCompare(b.outlet)).forEach(outlet => {
-        const item = document.createElement('li');
-        item.className = 'coverage-outlet-item coverage-outlet-item--covered';
-        const info = document.createElement('div');
-        const outletName = document.createElement('strong');
-        outletName.textContent = outlet.outlet;
-        const status = document.createElement('span');
-        status.className = 'coverage-outlet-status';
-        const urls = mentionUrls(outlet.article_urls);
-        status.textContent = `${urls.length} ${urls.length === 1 ? 'item' : 'items'}`;
-        info.append(outletName, status);
-
-        if (outlet.tags) {
-          const tags = document.createElement('span');
-          tags.className = 'coverage-outlet-tags';
-          outlet.tags.split(';').map(tag => tag.trim()).filter(Boolean).forEach(tag => {
-            const label = document.createElement('span');
-            label.textContent = tag;
-            tags.append(label);
-          });
-          info.append(tags);
-        }
-
-        const links = document.createElement('div');
-        links.className = 'coverage-outlet-links';
-        const dates = mentionUrls(outlet.dates);
-        urls.forEach((url, index) => {
-          const link = document.createElement('a');
-          link.href = url;
-          link.target = '_blank';
-          link.rel = 'noopener noreferrer';
-          link.textContent = dates[index] ? `Coverage ${index + 1} · ${dates[index]}` : `Coverage ${index + 1}`;
-          links.append(link);
-        });
-        item.append(info, links);
-        list.append(item);
-      });
+      const list = document.createElement('div');
+      list.className = 'status-entry-list';
+      const blocks = outlets.sort((a, b) => a.outlet.localeCompare(b.outlet)).map(outlet => countryEntryDisclosure(outlet, COUNTRY_SECTIONS.find(section => section.key === 'media')));
+      list.replaceChildren(...blocks);
+      countryDisclosureAccordion(blocks);
 
       details.append(countrySummary, list);
       root.append(details);
     });
 
+  countryDisclosureAccordion([...root.children]);
   if (!groups.size) {
     const empty = document.createElement('p');
     empty.className = 'coverage-priority-loading';

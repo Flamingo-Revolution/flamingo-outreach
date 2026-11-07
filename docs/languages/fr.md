@@ -250,7 +250,7 @@ Téléchargez uniquement les images pertinentes pour votre message, conservez le
 
 ## Traductions
 
-Les trois mêmes e-mails sont disponibles en [albanais](../langues/sq.md), [tchèque](../langues/cs.md), [danois](../langues/da.md), [néerlandais](../langues/nl.md), [finnois](../langues/fi.md), [français](../langues/fr.md), [Allemand](../langues/de.md), [Italien](../langues/it.md), [Norvégien](../langues/no.md), [Polonais](../langues/pl.md), [Portugais](../langues/pt.md), [Espagnol](../langues/es.md) et [Suédois](../langues/sv.md).
+Les trois mêmes e-mails sont disponibles en [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Crédits et remerciements
 

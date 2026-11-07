@@ -42,8 +42,10 @@ jobs:
           git add docs/assets/data/media_coverage.csv \
             docs/assets/data/institutions.csv \
             docs/assets/data/political_parties.csv \
+            docs/assets/data/mps.csv \
             docs/assets/data/issues_gallery.csv \
             docs/assets/data/embassies.csv \
+            docs/assets/data/contributors.json \
             docs/assets/examples/sources-example.csv \
             docs/assets/examples/incidents-example.csv \
             docs/assets/examples/incident-evidence-example.csv \

@@ -250,7 +250,7 @@ Stáhněte si pouze obrázky relevantní pro vaši zprávu, ponechte si dodaný 
 
 ## Překlady
 
-Stejné tři e-maily jsou dostupné v [albánštině](../languages/sq.md), [češtině](../languages/cs.md), [dánštině](../languages/da.md), [holandštině](../languages/nl.md), [finštině](../jazyky),/fi [francouzština](../languages/fr.md), [němčina](../languages/de.md), [italština](../languages/it.md), [norština] (../languages/no.md), [polština] (../languages/pl.md), [portugalština] (portugalština) [španělština](../languages/es.md) a [švédština](../languages/sv.md).
+Stejné tři e-maily jsou dostupné v [Shqip](sq.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Español](es.md) · [Svenska](sv.md).
 
 ## Kredity a poděkování
 
