@@ -7,7 +7,7 @@ hide:
 # Take action 
 
 <div class="steps-grid">
-<a class="step-card" href="../messages/"><span class="step-num">01</span><strong>Choose a letter →</strong><span>Pick a letter for the media, an institution, or a representative.</span></a>
+<a class="step-card" href="../contact/"><span class="step-num">01</span><strong>Choose a message →</strong><span>Pick a message for the media, an institution, or a representative.</span></a>
 <a class="step-card" href="../"><span class="step-num">02</span><strong>Choose your country →</strong><span>Find media, institutions, MPs, and parties in one country report.</span></a>
 <a class="step-card" href="../background/sources/"><span class="step-num">03</span><strong>Check the facts →</strong><span>Check the source, date, recipient, and contact details.</span></a>
 <a class="step-card" href="https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing"><span class="step-num">04</span><strong>Record what happened →</strong><span>Add the status, date, and direct link to the shared workbook.</span></a>
@@ -42,7 +42,7 @@ hide:
 1. Choose a media outlet, institution, or political party in the workbook.
 2. Check its website or social media for coverage of the protests.
 3. If you find coverage, mark it `Covered` and add the direct link.
-4. If you do not, record your check, send a [letter](messages/index.md), and update the status.
+4. If you do not, record your check, send a [message](contact/index.md), and update the status.
 
 [**Open the shared Excel workbook →**](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing){ .md-button .md-button--primary }
 

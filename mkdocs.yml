@@ -26,6 +26,7 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.tabs.link
 copyright: >
   Published by this project's volunteer contributors.
 extra_css:
@@ -54,6 +55,7 @@ extra_javascript:
   - assets/js/social_templates.js
   - assets/js/evidence_comparison.js
   - assets/js/momentum.js
+  - assets/js/goal_select.js
   - https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.4/cytoscape.min.js
   - assets/js/network.js
 plugins:
@@ -62,58 +64,33 @@ nav:
 
   - Home: index.md
   - Start: start.md
-  - Letters:
-      - Overview: messages/index.md
+  - Contact:
+      - Overview: contact/index.md
+      - Editions:
+          - English (EU): contact/eu.md
+          - English (USA): contact/us.md
+          - English (UK): contact/gb.md
       - Main languages:
-          - English (EU): messages/eu.md
-          - English (USA): messages/us.md
-          - English (UK): messages/gb.md
-          - German: languages/de.md
-          - French: languages/fr.md
-          - Italian: languages/it.md
-          - Spanish: languages/es.md
-          - Polish: languages/pl.md
-      - More languages:
-          - Albanian: languages/sq.md
-          - Bulgarian: languages/bg.md
-          - Czech: languages/cs.md
-          - Danish: languages/da.md
-          - Dutch: languages/nl.md
-          - Finnish: languages/fi.md
-          - Greek: languages/el.md
-          - Norwegian: languages/no.md
-          - Portuguese: languages/pt.md
-          - Romanian: languages/ro.md
-          - Serbian: languages/sr.md
-          - Swedish: languages/sv.md
-          - Turkish: languages/tr.md
-          - Ukrainian: languages/uk.md
-  - Social Media:
-      - Overview: social-media/index.md
-      - Main languages:
-          - English (EU): social-media/eu.md
-          - English (USA): social-media/us.md
-          - English (UK): social-media/gb.md
-          - German: social-media/de.md
-          - French: social-media/fr.md
-          - Italian: social-media/it.md
-          - Spanish: social-media/es.md
-          - Polish: social-media/pl.md
-      - More languages:
-          - Albanian: social-media/sq.md
-          - Bulgarian: social-media/bg.md
-          - Czech: social-media/cs.md
-          - Danish: social-media/da.md
-          - Dutch: social-media/nl.md
-          - Finnish: social-media/fi.md
-          - Greek: social-media/el.md
-          - Norwegian: social-media/no.md
-          - Portuguese: social-media/pt.md
-          - Romanian: social-media/ro.md
-          - Serbian: social-media/sr.md
-          - Swedish: social-media/sv.md
-          - Turkish: social-media/tr.md
-          - Ukrainian: social-media/uk.md
+          - German: contact/de.md
+          - French: contact/fr.md
+          - Italian: contact/it.md
+          - Spanish: contact/es.md
+          - Polish: contact/pl.md
+      - Other languages:
+          - Albanian: contact/sq.md
+          - Bulgarian: contact/bg.md
+          - Czech: contact/cs.md
+          - Danish: contact/da.md
+          - Dutch: contact/nl.md
+          - Finnish: contact/fi.md
+          - Greek: contact/el.md
+          - Norwegian: contact/no.md
+          - Portuguese: contact/pt.md
+          - Romanian: contact/ro.md
+          - Slovenian: contact/sl.md
+          - Swedish: contact/sv.md
+          - Turkish: contact/tr.md
+          - Ukrainian: contact/uk.md
   - Status:
       - Directories:
           - Media: media-coverage.md

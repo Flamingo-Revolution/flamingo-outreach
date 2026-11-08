@@ -1627,6 +1627,8 @@ body.country-popup-open { overflow: hidden; }
 .country-popup-entry > .country-entry .country-entry-header { display: none; }
 .country-popup-entry > .country-entry .country-entry-links:empty { display: none; }
 .country-popup-footer { flex-shrink: 0; margin: .6rem 0 0 !important; font-size: .6rem; }
+.country-popup-actions { flex-shrink: 0; margin: .65rem 0 0; }
+.country-popup-edit-link { margin: 0; }
 @keyframes country-popup-enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
 @media (max-width: 700px) {
   .country-popup[open] { align-items: flex-end; padding: 0; }
@@ -1637,6 +1639,7 @@ body.country-popup-open { overflow: hidden; }
   .country-popup-controls input { width: calc(100% - 5rem); }
   .country-popup-controls select { min-width: 0; }
   .country-popup-header h2 { font-size: 1.2rem; }
+  .country-popup-edit-link { display: block; width: 100%; text-align: center; }
 }
 @media (prefers-reduced-motion: reduce) { .country-popup-panel { animation: none; } }
 
@@ -2107,3 +2110,14 @@ body.momentum-dialog-open { overflow: hidden; }
 [data-md-color-scheme="slate"] .outreach-country-stat-ratio--medium { color: #a4ccb3; }
 [data-md-color-scheme="slate"] .outreach-country-stat-ratio--low { color: #eac080; }
 [data-md-color-scheme="slate"] .outreach-country-stat-ratio--start { color: #efa1ab; }
+
+/* Topic selector dropdown (Contact pages) */
+.topic-select-wrap { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin: 1rem 0 1.4rem; }
+.topic-select-wrap label { font-weight: 700; }
+.topic-select-wrap select.topic-select { padding: .5rem .75rem; border-radius: .5rem; border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-default-bg-color); color: inherit; font-size: .95rem; min-width: 230px; max-width: 100%; cursor: pointer; }
+.topic-select-wrap select.topic-select:focus { outline: 2px solid var(--md-accent-fg-color); outline-offset: 1px; }
+.topic-panel[hidden] { display: none; }
+@media (max-width: 480px) {
+  .topic-select-wrap { flex-direction: column; align-items: stretch; gap: .35rem; margin: .85rem 0 1.1rem; }
+  .topic-select-wrap select.topic-select { width: 100%; min-width: 0; min-height: 2.75rem; font-size: 1rem; }
+}

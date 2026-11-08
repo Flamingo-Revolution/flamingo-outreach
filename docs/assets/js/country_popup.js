@@ -105,7 +105,13 @@ function createCountryPopup(host) {
   body.setAttribute('aria-label', 'Outreach groups');
   body.tabIndex = 0;
   const footer = countryElement('p', 'outreach-note country-popup-footer', 'Done = a source link is recorded. Todo = no link in this tracker. Responses do not imply support.');
-  panel.append(header, summary, filterDisclosure, resultsRow, body, footer);
+  const actions = countryElement('div', 'country-popup-actions');
+  const editLink = countryElement('a', 'md-button country-popup-edit-link', 'Edit the shared Excel workbook ↗');
+  editLink.href = 'https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing';
+  editLink.target = '_blank';
+  editLink.rel = 'noopener noreferrer';
+  actions.append(editLink);
+  panel.append(header, summary, filterDisclosure, resultsRow, body, footer, actions);
   dialog.append(panel);
   host.append(dialog);
   const sections = countryPopupSections();
