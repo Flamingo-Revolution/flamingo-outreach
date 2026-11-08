@@ -7,22 +7,30 @@ hide:
 
 <div class="communication-templates" lang="sr" markdown="1">
 
-Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja proverite primaoca, potpis, izvore i priloge.
+Četiri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja proverite primaoca, potpis, izvore i priloge.
 
 !!! warning "Pre slanja"
     Izaberite odgovarajućeg primaoca. Prilagodite naslov, zahtev i potpis. Proverite datume izvora i kontakt adresu. Pišite u svoje ime i ne navodite da predstavljate organizaciju ako za to nemate ovlašćenje.
 
-=== "Mediji"
+Ova pisma možete poslati sami. Izaberite verziju za svog primaoca, dodajte nekoliko ličnih reči i pošaljite u svoje ime. Svaka lična poruka pomaže da protesti dobiju više pažnje. Posle završnog pozdrava dodajte svoje ime ili naziv svoje organizacije.
+
+=== "Lokalni mediji"
 
     **Predmet:** Protesti Flamingo u Albaniji: prijavljene policijske zloupotrebe tokom studentskih demonstracija u Tirani
 
     Poštovani,
 
+    **Šta tražim**
+
     Molim vašu redakciju da hitno ispita prijavljene povrede ljudskih prava tokom demonstracija predvođenih studentima, koje su počele u Tirani 13. oktobra 2026. i potom se proširile. U protestima učestvuju i srednjoškolci, a navodi zaslužuju širu pažnju javnosti.
 
-    Ove demonstracije deo su više od 140 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava.
+    - Istražite izveštaje razgovorima sa pogođenima i proverom snimaka i dokumenata.
+    - Zatražite zvaničan odgovor o upotrebi sile i postupanju prema maloletnicima.
+    - Objavite nalaze i pratite postupanje po pritužbama.
 
-    Ključni prijavljeni podaci uključuju:
+    **Zašto je potrebno delovati**
+
+    Ove demonstracije deo su više od 150 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava. Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj. Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Ključni prijavljeni podaci uključuju:
 
     - **1.067 hapšenja i 388 krivičnih postupaka:** navodi Reutersa, pripisani albanskim vlastima u trenutku objavljivanja.
     - **310 povređenih do 19. oktobra:** 191 policajac, 88 demonstranata i 31 prolaznik, prema listu *El País*, koji se poziva na podatke Ministarstva zdravlja.
@@ -30,27 +38,18 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - **32 prijavljena slučaja policijskog nasilja:** popisana u prilogu otvorenog pisma Res Publica za period 13–17. oktobra; to su prijavljeni slučajevi, a ne konačni pravni nalazi.
     - **124 pregledana dokazna materijala:** opisana u propratnom pismu advokata organizaciji Amnesty International, uključujući 31 novopodneti zapis za period 18–20. oktobra; osnovna poverljiva evidencija nije javna u ovom repozitorijumu.
 
-    Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj.
+    **Šta rade evropski predstavnici**
 
-    Izveštaji povezani sa izvorima pokreću pitanja o:
+    Predstavnici više evropskih političkih grupa podržali su mirne proteste i pozvali na odgovornost:
 
-    - **Sredstvima za kontrolu mase:** policijskoj upotrebi suzavca, vodenih topova, palica, nadražujućih sprejeva i, prema međunarodnim izveštajima od 17. oktobra, gumenih metaka protiv demonstranata i prolaznika.
-    - **Fizičkoj sili i obuzdavanju:** mogućoj prekomernoj sili, uključujući prema osobama koje su navodno držane na zemlji.
-    - **Teškoj povredi:** osoba intervjuisana u bolnici tvrdila je da je policija izazvala tešku povredu njene noge.
-    - **Pravima pri lišenju slobode:** ombudsman je dokumentovao nedostajuće obrasce o pravima, nepotpune evidencije pritvora i tvrdnje o pregledu ličnih telefona bez odgovarajućeg odobrenja.
-    - **Postupanju prema maloletnicima:** navodima o ispitivanju bez staratelja ili psihologa, navodnoj izolaciji i mogućoj izloženosti sili ili pritvoru.
-    - **Slobodi medija:** napadima, pretnjama, povredama, ometanju i prinudnom udaljavanju novinara i medijskih radnika.
-
-    Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Pojedini učesnici su navodno bacali kamenje i palili vatru; to ne opravdava upotrebu sile protiv ljudi koji to nisu činili. Kako je Albanski helsinški komitet naveo 13. oktobra, postupci pojedinaca ne mogu čitavo okupljanje učiniti nasilnim, a policijska sila mora ostati zakonita, neophodna i srazmerna.
-
-    Molim vas da zadužite novinara, zatražite odgovore od albanskih vlasti i pogođenih osoba i insistirate na očuvanju policijskih snimaka, naredbi o raspoređivanju i medicinske dokumentacije, kao i na nezavisnom ispitivanju slučaja teške povrede noge. Posebno obradite moguće postupanje prema maloletnicima i ometanje novinara. Bio/bila bih zahvalan/zahvalna da saznam da li i kada redakcija planira da izveštava o ovome. Priloženi pregled sadrži izvore i pitanja za proveru.
+    - **Renew Europe (član):** Sandro Gozi, generalni sekretar Evropske demokratske partije, pozvao je na nezavisnu istragu navodnih policijskih zloupotreba i zaštitu mirnih protesta i slobode štampe. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (članovi):** Marco Tarquinio i Andreas Schieder su u svojim ulogama za Albaniju u Evropskom parlamentu zatražili zaštitu mirnog okupljanja i odgovornost za prekomernu silu, osuđujući i nasilje demonstranata (RTSH, 19. oktobar). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zeleni/EFA i Evropska zelena partija — jun 2026:** Delegacija se pridružila mirnim protestima u Tirani 29. juna. Evroposlanica Tineke Strik obećala je da će preneti zabrinutost u Brisel; kopredsednica Vula Tsetsi podržala je odbranu prirode, demokratije i vladavine prava. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropska narodna partija — 29–30. jun 2026:** Politička skupština izrazila je solidarnost sa mirnim demonstrantima i zatražila povezivanje napretka ka EU sa demokratijom, osnovnim pravima i zaštitom životne sredine. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     S poštovanjem,
 
-    - Flamingo Revolution — dokumentovanje protesta i građanski projekti.
-    - Flamingo Revolution Diaspora — informacije i komunikacija sa dijasporom.
-    - Albanian Diaspora Civic Network — istraživanje i građanski rad zasnovan na dokazima.
-    - Illyrian Brains Network — globalna mreža albanskih stručnjaka.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -67,22 +66,25 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - ADCN — dokazna baza. <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video-zbirka koja dokumentuje prijavljeno policijsko nasilje. <https://hajdenshesh.com/dhuna>
 
-    Potpun spisak medija koji su izveštavali o protestima: [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Međunarodna institucija"
 
-    !!! warning "Ko je najpogodniji da pošalje poruku?"
-        Predloženi pošiljaoci po prioritetu: zajednice Flamingo; građanske organizacije; stručnjaci u mrežama; član dijaspore. Koristite najjaču stvarnu povezanost i opišite je tačno.
+=== "Lokalna institucija"
 
     **Predmet:** Protesti Flamingo u Albaniji: hitno upozorenje o prijavljenim povredama prava
 
     Poštovani,
 
+    **Šta tražim**
+
     Pišem da upozorim vašu instituciju na ozbiljne prijavljene probleme sa ljudskim pravima tokom demonstracija predvođenih studentima, koje su počele u Tirani 13. oktobra 2026. i potom se proširile. Studenti, novinari, prolaznici i pritvorenici mogu biti pogođeni, a učešće srednjoškolaca otvara posebna pitanja zaštite dece.
 
-    Ove demonstracije deo su više od 140 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava.
+    - Razmotrite dokaze i iznesite zabrinutost direktno albanskim vlastima.
+    - Tražite pristup advokatu i zdravstvenoj zaštiti, posebno za pritvorene maloletnike.
+    - Podržite nezavisno praćenje pritvora i suđenja i čuvanje dokaza.
 
-    Ključni prijavljeni podaci uključuju:
+    **Zašto je potrebno delovati**
+
+    Ove demonstracije deo su više od 150 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava. Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj. Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Ključni prijavljeni podaci uključuju:
 
     - **1.067 hapšenja i 388 krivičnih postupaka:** navodi Reutersa, pripisani albanskim vlastima u trenutku objavljivanja.
     - **310 povređenih do 19. oktobra:** 191 policajac, 88 demonstranata i 31 prolaznik, prema listu *El País*, koji se poziva na podatke Ministarstva zdravlja.
@@ -90,34 +92,18 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - **32 prijavljena slučaja policijskog nasilja:** popisana u prilogu otvorenog pisma Res Publica za period 13–17. oktobra; to su prijavljeni slučajevi, a ne konačni pravni nalazi.
     - **124 pregledana dokazna materijala:** opisana u propratnom pismu advokata organizaciji Amnesty International, uključujući 31 novopodneti zapis za period 18–20. oktobra; osnovna poverljiva evidencija nije javna u ovom repozitorijumu.
 
-    Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj.
+    **Šta rade evropski predstavnici**
 
-    Izveštaji povezani sa izvorima pokreću pitanja o:
+    Predstavnici više evropskih političkih grupa podržali su mirne proteste i pozvali na odgovornost:
 
-    - **Sredstvima za kontrolu mase:** policijskoj upotrebi suzavca, vodenih topova, palica, nadražujućih sprejeva i, prema međunarodnim izveštajima od 17. oktobra, gumenih metaka protiv demonstranata i prolaznika.
-    - **Fizičkoj sili i obuzdavanju:** mogućoj prekomernoj sili, uključujući prema osobama koje su navodno držane na zemlji.
-    - **Teškoj povredi:** osoba intervjuisana u bolnici tvrdila je da je policija izazvala tešku povredu njene noge.
-    - **Pravima pri lišenju slobode:** ombudsman je dokumentovao nedostajuće obrasce o pravima, nepotpune evidencije pritvora i tvrdnje o pregledu ličnih telefona bez odgovarajućeg odobrenja.
-    - **Postupanju prema maloletnicima:** navodima o ispitivanju bez staratelja ili psihologa, navodnoj izolaciji i mogućoj izloženosti sili ili pritvoru.
-    - **Slobodi medija:** napadima, pretnjama, povredama, ometanju i prinudnom udaljavanju novinara i medijskih radnika.
-
-    Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Pojedini učesnici su navodno bacali kamenje i palili vatru; to ne opravdava upotrebu sile protiv ljudi koji to nisu činili. Kako je Albanski helsinški komitet naveo 13. oktobra, postupci pojedinaca ne mogu čitavo okupljanje učiniti nasilnim, a policijska sila mora ostati zakonita, neophodna i srazmerna.
-
-    Bio/bila bih zahvalan/zahvalna ako bi vaša institucija mogla da:
-
-    - Uvrsti situaciju u hitno praćenje i odmah kontaktira nadležne albanske organe.
-    - Zatraži očuvanje policijskih snimaka, naredbi o raspoređivanju i medicinske dokumentacije relevantne za prijavljene povrede i pritvaranja.
-    - Insistira na nezavisnom ispitivanju konkretne osobe i slučaja teške povrede noge, kao i svih navoda o prekomernoj sili.
-    - Objasni šta može preduzeti bilateralnim ili multilateralnim kanalima, uključujući OEBS i Savet Evrope, gde je to relevantno.
-
-    Molim za odgovor o tome šta vaša institucija može učiniti i kada mogu očekivati reakciju. Priložio/priložila sam dokazni pregled ADCN-a, koji direktno povezuje izveštaje i originalne objave navedene u nastavku.
+    - **Renew Europe (član):** Sandro Gozi, generalni sekretar Evropske demokratske partije, pozvao je na nezavisnu istragu navodnih policijskih zloupotreba i zaštitu mirnih protesta i slobode štampe. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (članovi):** Marco Tarquinio i Andreas Schieder su u svojim ulogama za Albaniju u Evropskom parlamentu zatražili zaštitu mirnog okupljanja i odgovornost za prekomernu silu, osuđujući i nasilje demonstranata (RTSH, 19. oktobar). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zeleni/EFA i Evropska zelena partija — jun 2026:** Delegacija se pridružila mirnim protestima u Tirani 29. juna. Evroposlanica Tineke Strik obećala je da će preneti zabrinutost u Brisel; kopredsednica Vula Tsetsi podržala je odbranu prirode, demokratije i vladavine prava. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropska narodna partija — 29–30. jun 2026:** Politička skupština izrazila je solidarnost sa mirnim demonstrantima i zatražila povezivanje napretka ka EU sa demokratijom, osnovnim pravima i zaštitom životne sredine. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     S poštovanjem,
 
-    - Flamingo Revolution — dokumentovanje protesta i građanski projekti.
-    - Flamingo Revolution Diaspora — informacije i komunikacija sa dijasporom.
-    - Albanian Diaspora Civic Network — istraživanje i građanski rad zasnovan na dokazima.
-    - Illyrian Brains Network — globalna mreža albanskih stručnjaka.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -134,22 +120,25 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - ADCN — dokazna baza. <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video-zbirka koja dokumentuje prijavljeno policijsko nasilje. <https://hajdenshesh.com/dhuna>
 
-    Potpun spisak medija koji su izveštavali o protestima: [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Predstavnik"
 
-    !!! warning "Ko je najpogodniji da pošalje poruku?"
-        Predloženi pošiljaoci po prioritetu: zajednice Flamingo; građanske organizacije; stručnjaci u mrežama; član dijaspore. Koristite najjaču stvarnu povezanost i opišite je tačno.
+=== "Nacionalni poslanik"
 
     **Predmet:** Protesti Flamingo u Albaniji: molba da pokrenete pitanje prijavljenih povreda ljudskih prava
 
     Poštovani,
 
+    **Šta tražim**
+
     Pišem Vam kao [birač / član albanske dijaspore / zabrinuti stanovnik] i tražim parlamentarnu reakciju na izveštaje o policijskom nasilju tokom studentskih protesta u Albaniji i zabrinutost zbog postupanja prema maloletnicima.
 
-    Ove demonstracije deo su više od 140 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava.
+    - Postavite poslaničko pitanje o merama vlade i odgovoru zatraženom od Albanije.
+    - Zatražite da nadležni odbor sasluša pogođene osobe i nezavisne posmatrače.
+    - Zatražite od ministarstva spoljnih poslova javno obaveštenje o kontaktima s Albanijom, traženim garancijama i narednim koracima.
 
-    Ključni prijavljeni podaci uključuju:
+    **Zašto je potrebno delovati**
+
+    Ove demonstracije deo su više od 150 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava. Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj. Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Ključni prijavljeni podaci uključuju:
 
     - **1.067 hapšenja i 388 krivičnih postupaka:** navodi Reutersa, pripisani albanskim vlastima u trenutku objavljivanja.
     - **310 povređenih do 19. oktobra:** 191 policajac, 88 demonstranata i 31 prolaznik, prema listu *El País*, koji se poziva na podatke Ministarstva zdravlja.
@@ -157,37 +146,18 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - **32 prijavljena slučaja policijskog nasilja:** popisana u prilogu otvorenog pisma Res Publica za period 13–17. oktobra; to su prijavljeni slučajevi, a ne konačni pravni nalazi.
     - **124 pregledana dokazna materijala:** opisana u propratnom pismu advokata organizaciji Amnesty International, uključujući 31 novopodneti zapis za period 18–20. oktobra; osnovna poverljiva evidencija nije javna u ovom repozitorijumu.
 
-    Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj.
+    **Šta rade evropski predstavnici**
 
-    Izveštaji povezani sa izvorima pokreću pitanja o:
+    Predstavnici više evropskih političkih grupa podržali su mirne proteste i pozvali na odgovornost:
 
-    - **Sredstvima za kontrolu mase:** policijskoj upotrebi suzavca, vodenih topova, palica, nadražujućih sprejeva i, prema međunarodnim izveštajima od 17. oktobra, gumenih metaka protiv demonstranata i prolaznika.
-    - **Postupanju prema maloletnicima:** navodima o ispitivanju bez staratelja ili psihologa, navodnoj izolaciji i mogućoj izloženosti sili ili pritvoru.
-    - **Slobodi medija:** napadima, pretnjama, povredama, ometanju i prinudnom udaljavanju novinara i medijskih radnika.
-
-    Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi.
-
-    Molim Vas da iskoristite dostupne mogućnosti da:
-
-    - Pokrenete pitanje prijavljenog nasilja kroz poslaničko pitanje ili parlamentarnu raspravu.
-
-    - Zatražite od Ministarstva spoljnih poslova da ovo pitanje pokrene pred albanskim vlastima i zatraži zvaničan odgovor.
-
-    - Prenesete ovu zabrinutost Evropskom parlamentu i Evropskoj komisiji, kako bi poštovanje ljudskih prava imalo težinu u pregovorima o pristupanju Albanije EU.
-
-    - Pozovete na nezavisno praćenje sudskih postupaka protiv studenata i maloletnika.
-
-    Miran protest, sloboda izražavanja i pravično postupanje su evropske vrednosti. Albanski studenti zaslužuju da ova prava budu zaštićena u praksi.
-
-    Molim Vas da mi javite koje korake možete preduzeti. Izvori su navedeni ispod.
+    - **Renew Europe (član):** Sandro Gozi, generalni sekretar Evropske demokratske partije, pozvao je na nezavisnu istragu navodnih policijskih zloupotreba i zaštitu mirnih protesta i slobode štampe. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (članovi):** Marco Tarquinio i Andreas Schieder su u svojim ulogama za Albaniju u Evropskom parlamentu zatražili zaštitu mirnog okupljanja i odgovornost za prekomernu silu, osuđujući i nasilje demonstranata (RTSH, 19. oktobar). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zeleni/EFA i Evropska zelena partija — jun 2026:** Delegacija se pridružila mirnim protestima u Tirani 29. juna. Evroposlanica Tineke Strik obećala je da će preneti zabrinutost u Brisel; kopredsednica Vula Tsetsi podržala je odbranu prirode, demokratije i vladavine prava. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropska narodna partija — 29–30. jun 2026:** Politička skupština izrazila je solidarnost sa mirnim demonstrantima i zatražila povezivanje napretka ka EU sa demokratijom, osnovnim pravima i zaštitom životne sredine. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     S poštovanjem,
 
-    - Flamingo Revolution — dokumentovanje protesta i građanski projekti.
-    - Flamingo Revolution Diaspora — informacije i komunikacija sa dijasporom.
-    - Albanian Diaspora Civic Network — istraživanje i građanski rad zasnovan na dokazima.
-    - Illyrian Brains Network — globalna mreža albanskih stručnjaka.
-
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -204,13 +174,74 @@ Tri predloška sadrže iste informacije kao pisma na engleskom. Pre slanja prove
     - ADCN — dokazna baza. <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video-zbirka koja dokumentuje prijavljeno policijsko nasilje. <https://hajdenshesh.com/dhuna>
 
-    Potpun spisak medija koji su izveštavali o protestima: [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
 </div>
 
 Slike i prilozi: koristite odeljak o opcionim prilozima na engleskoj stranici. Sačuvajte podatke o autorstvu i vezu ka originalnoj publikaciji. Nemojte navoditi da slika dokazuje postupke koji nisu vidljivi u kadru.
 
 [English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Pogledajte izvore i napomene o proveri](../background/sources.md)
+
+
+=== "Evroposlanik"
+
+    **Predmet:** Protesti Flamingo u Albaniji: molba da pokrenete pitanje prijavljenih povreda ljudskih prava
+
+    Poštovani,
+
+    **Šta tražim**
+
+    Molim Vas kao evroposlanika da pokrenete pitanje prijavljenih zloupotreba na studentskim protestima u Albaniji kroz nadzor EU i pristupni proces. Navedite koje korake možete preduzeti.
+
+    - Postavite Komisiji pisano pitanje o zloupotrebama i zaštiti studenata, maloletnika i novinara.
+    - Zatražite da nadležni odbor ili delegacija za Albaniju sasluša nezavisne posmatrače i pogođene osobe.
+    - Tražite razmatranje izveštaja u ocenama pristupanja i podršku delegacije EU nezavisnom praćenju suđenja u Albaniji.
+
+    **Zašto je potrebno delovati**
+
+    Ove demonstracije deo su više od 150 dana protesta Flamingo u Albaniji. Prema [objavljenoj hronologiji pokreta](https://www.flamingorevolution.eu/protestat/), protesti su počeli zbog razvoja koji je uticao na zaštićeni priobalni predeo Vjosë–Nartë i proširili se na javnu odgovornost, navode o korupciji, obrazovanje i zdravstvo, iseljavanje mladih, ekonomski pritisak, demokratsko predstavljanje i vladavinu prava. Podaci se odnose na različite periode, grupe ljudi i definicije. Preklapaju se i ne treba ih sabirati u jedinstven ukupan broj. Ovo su izveštaji pripisani izvorima i navodi koji zahtevaju nezavisnu proveru, a ne konačni pravni nalazi. Ključni prijavljeni podaci uključuju:
+
+    - **1.067 hapšenja i 388 krivičnih postupaka:** navodi Reutersa, pripisani albanskim vlastima u trenutku objavljivanja.
+    - **310 povređenih do 19. oktobra:** 191 policajac, 88 demonstranata i 31 prolaznik, prema listu *El País*, koji se poziva na podatke Ministarstva zdravlja.
+    - **214 pritvorenih osoba sa kojima su obavljeni razgovori tokom ranijeg praćenja:** preliminarna evidencija ombudsmana, citirana u pismu Res Publica, navodi vidljive tragove nasilja ili tvrdnje o zlostavljanju za 26 osoba, kao i izveštaje o približno 12 maloletnika koji su navodno držani u izolaciji.
+    - **32 prijavljena slučaja policijskog nasilja:** popisana u prilogu otvorenog pisma Res Publica za period 13–17. oktobra; to su prijavljeni slučajevi, a ne konačni pravni nalazi.
+    - **124 pregledana dokazna materijala:** opisana u propratnom pismu advokata organizaciji Amnesty International, uključujući 31 novopodneti zapis za period 18–20. oktobra; osnovna poverljiva evidencija nije javna u ovom repozitorijumu.
+
+    **Šta rade evropski predstavnici**
+
+    Predstavnici više evropskih političkih grupa podržali su mirne proteste i pozvali na odgovornost:
+
+    - **Renew Europe (član):** Sandro Gozi, generalni sekretar Evropske demokratske partije, pozvao je na nezavisnu istragu navodnih policijskih zloupotreba i zaštitu mirnih protesta i slobode štampe. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (članovi):** Marco Tarquinio i Andreas Schieder su u svojim ulogama za Albaniju u Evropskom parlamentu zatražili zaštitu mirnog okupljanja i odgovornost za prekomernu silu, osuđujući i nasilje demonstranata (RTSH, 19. oktobar). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zeleni/EFA i Evropska zelena partija — jun 2026:** Delegacija se pridružila mirnim protestima u Tirani 29. juna. Evroposlanica Tineke Strik obećala je da će preneti zabrinutost u Brisel; kopredsednica Vula Tsetsi podržala je odbranu prirode, demokratije i vladavine prava. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropska narodna partija — 29–30. jun 2026:** Politička skupština izrazila je solidarnost sa mirnim demonstrantima i zatražila povezivanje napretka ka EU sa demokratijom, osnovnim pravima i zaštitom životne sredine. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    S poštovanjem,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Reference:**
+
+    Odabrani međunarodni izveštaji, najnoviji prvi:
+
+    - El País, 22. oktobar — izveštaj iz Tirane o nastavku studentskih protesta, nasilju između policije i demonstranata i vladinoj ponudi dijaloga. <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. oktobar — hapšenja, krivični postupci i odgovor vlade. <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Primarna i lokalna dokumentacija za konkretne navode:
+
+    - Ombudsman Albanije, 20. oktobar — preliminarni nalazi praćenja uslova pritvora i postupanja prema maloletnicima. <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — dokazna baza. <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — video-zbirka koja dokumentuje prijavljeno policijsko nasilje. <https://hajdenshesh.com/dhuna>
+
+
+</div>
+
+Slike i prilozi: koristite odeljak o opcionim prilozima na engleskoj stranici. Sačuvajte podatke o autorstvu i vezu ka originalnoj publikaciji. Nemojte navoditi da slika dokazuje postupke koji nisu vidljivi u kadru.
+
+[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Pogledajte izvore i napomene o proveri](../background/sources.md)
+
+
 
 ## Opcioni prilozi sa slikama
 

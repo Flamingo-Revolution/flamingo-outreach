@@ -11,17 +11,25 @@ hide:
 
 # Protestat e Flamingos në Shqipëri — email sensibilizues në anglisht
 
-=== "Media"
+Këto letra mund t’i dërgoni vetë. Zgjidhni versionin për marrësin tuaj, shtoni disa fjalë personale dhe dërgojeni në emrin tuaj. Çdo mesazh personal ndihmon që protestat të marrin më shumë vëmendje. Pas përshëndetjes përmbyllëse, shtoni emrin tuaj ose emrin e organizatës suaj.
+
+=== "Media vendore"
 
     **Tema:** Protestat e Flamingove në Shqipëri: raportime për abuzime policore gjatë demonstratave studentore në Tiranë
 
-    Kujt mund t'i referohet,
+    Redaksi e nderuar,
 
-    Po i kërkoj redaksisë suaj që të shqyrtojë urgjentisht abuzimet e raportuara të të drejtave të njeriut gjatë demonstratave të udhëhequra nga studentët që filluan në Tiranë më 13 tetor 2026 dhe që atëherë janë përhapur. Protestat përfshijnë studentë, përfshirë nxënës të shkollave të mesme, dhe akuzat meritojnë vëmendje më të gjerë të publikut.
+    **Si mund të ndihmojë redaksia juaj**
 
-    Këto demonstrata janë pjesë e më shumë se 140 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit.
+    Po ju shkruaj për t’i kërkuar redaksisë suaj të hetojë raportimet për abuzime policore gjatë demonstratave studentore në Shqipëri, që nisën në Tiranë më 13 tetor 2026 dhe përfshijnë edhe nxënës të shkollave të mesme. Ju lutem, më njoftoni nëse redaksia juaj mund ta ndjekë këtë çështje. Shifrat dhe burimet më poshtë ofrojnë një pikënisje.
 
-    Shifrat kryesore të raportuara përfshijnë:
+    - Hulumtoni raportimet përmes intervistave me studentë, familjarë, avokatë e gazetarë dhe verifikimit të pamjeve e dokumenteve.
+    - Kërkoni përgjigje zyrtare nga autoritetet shqiptare për përdorimin e forcës dhe trajtimin e të miturve në ndalim.
+    - Publikoni gjetjet dhe ndiqni nëse ankesat çojnë në hetime të pavarura dhe përgjegjësi.
+
+    **Pse nevojitet veprim**
+
+    Këto demonstrata janë pjesë e më shumë se 150 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit. Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm. Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Shifrat kryesore të raportuara përfshijnë:
 
     - **1,067 arrestime dhe 388 procedime penale:** raportuar nga Reuters dhe atribuar autoriteteve shqiptare në kohën e publikimit.
     - **310 të plagosur deri më 19 tetor:** 191 oficerë policie, 88 protestues dhe 31 kalimtarë të rastit, raportuar nga *El País* duke cituar shifrat e Ministrisë së Shëndetësisë.
@@ -29,27 +37,18 @@ hide:
     - **32 raste të raportuara të dhunës policore:** të kataloguar në aneksin e letrës së hapur Res Publica që mbulon 13–17 tetor; këto janë raste të raportuara, jo gjetje përfundimtare ligjore.
     - **124 prova të shqyrtuara:** të përshkruara në letrën përcjellëse të avokatëve drejtuar Amnesty International, duke përfshirë 31 regjistrime të reja të dorëzuara në regjistër që mbulojnë datat 18–20 tetor; regjistri themelor konfidencial nuk është publik në këtë depo.
 
-    Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm.
+    **Çfarë po bëjnë përfaqësuesit evropianë**
 
-    Raportimi i lidhur me burimin ngre shqetësime rreth:
+    Përfaqësues nga disa grupe politike evropiane kanë ngritur zërin për protestën paqësore dhe llogaridhënien:
 
-    - **Armët për kontrollin e turmës:** policia përdor gaz lotsjellës, topa uji, shkopinj, spërkatës irritues dhe, sipas raportimit ndërkombëtar më 17 tetor, plumba gome kundër protestuesve dhe kalimtarëve.
-    - **Forca fizike dhe kufizimi:** fuqi potencialisht e tepruar, duke përfshirë njerëzit që thuhet se mbahen në tokë.
-    - **Lëndim i rëndë:** një i intervistuar në spital pretendoi se policia shkaktoi një lëndim të rëndë në këmbë.
-    - **Manësitë mbrojtëse të paraburgimit:** Avokati i Popullit dokumentoi formularët e informacionit për të drejtat e munguara, regjistrat jo të plotë të paraburgimit dhe pretendimet se telefonat personalë ishin kontrolluar pa autorizimin e duhur.
-    - **Trajtimi i të miturve:** raportet përfshijnë marrjen në pyetje pa kujdestarë ose psikologë, izolim të pretenduar dhe ekspozim të mundshëm ndaj forcës ose ndalimit.
-    - **Liria e shtypit:** sulme, kërcënime, lëndime, pengesa dhe largime me forcë që prekin gazetarët dhe punonjësit e medias.
-
-    Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Disa pjesëmarrës thuhet se hodhën gurë dhe ndezën zjarre; që nuk justifikon përdorimin e forcës ndaj njerëzve që nuk e kanë bërë këtë. Siç tha Komiteti Shqiptar i Helsinkit më 13 tetor, aktet e individëve nuk mund ta bëjnë të dhunshëm një asamble të tërë dhe forca policore duhet të mbetet e ligjshme, e nevojshme dhe proporcionale.
-
-    Ju lutemi caktoni një reporter, kërkoni përgjigje nga autoritetet shqiptare dhe njerëzit e prekur dhe bëni presion për ruajtjen e videove të policisë, urdhrave të shpërndarjes dhe dosjeve mjekësore së bashku me një hetim të pavarur për rastin e lëndimit të rëndë në këmbë – veçanërisht kur mbuloni trajtimin e mundshëm të të miturve dhe ndërhyrjen me gazetarët. Do të vlerësoja nëse dhe kur redaksia juaj planifikon ta mbulojë këtë. Përmbledhja e bashkangjitur ofron burime dhe pyetje verifikimi.
+    - **Renew Europe (anëtar):** Sandro Gozi, sekretar i përgjithshëm i Partisë Demokratike Evropiane, kërkoi hetim të pavarur për abuzimet e dyshuara policore dhe mbrojtjen e protestës paqësore e të lirisë së shtypit. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (anëtarë):** Marco Tarquinio dhe Andreas Schieder, në rolet e tyre në Parlamentin Evropian për Shqipërinë, kërkuan mbrojtjen e tubimit paqësor dhe përgjegjësi për forcën e tepruar, duke dënuar edhe dhunën nga protestuesit (RTSH, 19 tetor). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA dhe Partia e Gjelbër Evropiane — qershor 2026:** Një delegacion iu bashkua protestave paqësore në Tiranë më 29 qershor. Eurodeputetja Tineke Strik premtoi t’i çonte shqetësimet e protestuesve në Bruksel; bashkëkryetarja Vula Tsetsi mbështeti mbrojtjen e natyrës, demokracisë dhe shtetit të së drejtës. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partia Popullore Evropiane — 29–30 qershor 2026:** Asambleja Politike shprehu solidaritet me protestuesit paqësorë dhe kërkoi që përparimi drejt BE-së të lidhet me demokracinë, të drejtat themelore dhe mbrojtjen e mjedisit. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Përshëndetje,
 
-    - Revolucioni Flamingo — dokumentacion proteste dhe projekte qytetare.
-    - Diaspora e Revolucionit Flamingo — përditësime dhe kontakte për diasporën.
-    - Rrjeti Qytetar i Diasporës Shqiptare — hulumtim dhe punë qytetare e bazuar në dëshmi.
-    - Illyrian Brains Network — një rrjet global profesionistësh shqiptarë.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -66,29 +65,25 @@ hide:
     - ADCN — baza e provave: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — koleksion video që dokumenton dhunën e raportuar policore: <https://hajdenshesh.com/dhuna>
 
-    Për listën e plotë të mediave që kanë raportuar për protestat, shihni [Raportimet mediatike ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Institucion ndërkombëtar"
 
-    !!! warning "Kush është më i miri për ta dërguar këtë?"
-        Dërguesit e sugjeruar, sipas rendit prioritar:
-
-        - **Komunitetet e Flamingos**
-        - **Organizatat qytetare**
-        - **Profesionistët në rrjete**
-        - **Anëtar i diasporës**
-
-        Përdorni lidhjen më të fortë të vërtetë dhe përshkruani atë me saktësi.
+=== "Institucion vendor"
 
     **Subjekti:** Protestat e Flamingos në Shqipëri: alarm urgjent për abuzimet e raportuara të të drejtave
 
-    Kujt mund t'i referohet,
+    Të nderuar përfaqësues të [institucionit],
 
-    Po shkruaj për të njoftuar institucionin tuaj për shqetësime serioze të raportuara për të drejtat e njeriut gjatë demonstratave të udhëhequra nga studentët që filluan në Tiranë më 13 tetor 2026 dhe që atëherë janë përhapur. Studentët, gazetarët, kalimtarët dhe të burgosurit mund të preken dhe pjesëmarrja në shkollën e mesme ngre shqetësime të veçanta për mbrojtjen e fëmijëve.
+    **Hapat që mund të ndërmarrë institucioni juaj**
 
-    Këto demonstrata janë pjesë e më shumë se 140 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit.
+    Po ju shkruaj për t’i kërkuar institucionit tuaj të shqyrtojë trajtimin e raportuar të protestuesve dhe të ndaluarve në Shqipëri dhe të ndërmarrë masa mbrojtëse brenda mandatit të tij. Ju lutem, më njoftoni cilët hapa përfshihen në mandatin tuaj dhe nëse mund të jepni një përditësim për veprimet pasuese.
 
-    Shifrat kryesore të raportuara përfshijnë:
+    - Shqyrtoni provat e disponueshme dhe ngrini shqetësimet drejtpërdrejt me autoritetet shqiptare përmes kanaleve të institucionit tuaj.
+    - Kërkoni garanci për të ndaluarit, veçanërisht të miturit, përfshirë qasjen te avokati dhe kujdesi mjekësor.
+    - Mbështetni monitorimin e pavarur të kushteve të ndalimit dhe proceseve gjyqësore dhe kërkoni ruajtjen e provave përkatëse.
+
+    **Pse nevojitet veprim**
+
+    Këto demonstrata janë pjesë e më shumë se 150 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit. Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm. Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Shifrat kryesore të raportuara përfshijnë:
 
     - **1,067 arrestime dhe 388 procedime penale:** raportuar nga Reuters dhe atribuar autoriteteve shqiptare në kohën e publikimit.
     - **310 të plagosur deri më 19 tetor:** 191 oficerë policie, 88 protestues dhe 31 kalimtarë të rastit, raportuar nga *El País* duke cituar shifrat e Ministrisë së Shëndetësisë.
@@ -96,34 +91,18 @@ hide:
     - **32 raste të raportuara të dhunës policore:** të kataloguar në aneksin e letrës së hapur Res Publica që mbulon 13–17 tetor; këto janë raste të raportuara, jo gjetje përfundimtare ligjore.
     - **124 prova të shqyrtuara:** të përshkruara në letrën përcjellëse të avokatëve drejtuar Amnesty International, duke përfshirë 31 regjistrime të reja të dorëzuara në regjistër që mbulojnë datat 18–20 tetor; regjistri themelor konfidencial nuk është publik në këtë depo.
 
-    Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm.
+    **Çfarë po bëjnë përfaqësuesit evropianë**
 
-    Raportimi i lidhur me burimin ngre shqetësime rreth:
+    Përfaqësues nga disa grupe politike evropiane kanë ngritur zërin për protestën paqësore dhe llogaridhënien:
 
-    - **Armët për kontrollin e turmës:** policia përdor gaz lotsjellës, topa uji, shkopinj, spërkatës irritues dhe, sipas raportimit ndërkombëtar më 17 tetor, plumba gome kundër protestuesve dhe kalimtarëve.
-    - **Forca fizike dhe kufizimi:** fuqi potencialisht e tepruar, duke përfshirë njerëzit që thuhet se mbahen në tokë.
-    - **Lëndim i rëndë:** një i intervistuar në spital pretendoi se policia shkaktoi një lëndim të rëndë në këmbë.
-    - **Manësitë mbrojtëse të paraburgimit:** Avokati i Popullit dokumentoi formularët e informacionit për të drejtat e munguara, regjistrat jo të plotë të paraburgimit dhe pretendimet se telefonat personalë ishin kontrolluar pa autorizimin e duhur.
-    - **Trajtimi i të miturve:** raportet përfshijnë marrjen në pyetje pa kujdestarë ose psikologë, izolim të pretenduar dhe ekspozim të mundshëm ndaj forcës ose ndalimit.
-    - **Liria e shtypit:** sulme, kërcënime, lëndime, pengesa dhe largime me forcë që prekin gazetarët dhe punonjësit e medias.
-
-    Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Disa pjesëmarrës thuhet se hodhën gurë dhe ndezën zjarre; që nuk justifikon përdorimin e forcës ndaj njerëzve që nuk e kanë bërë këtë. Siç tha Komiteti Shqiptar i Helsinkit më 13 tetor, aktet e individëve nuk mund ta bëjnë të dhunshëm një asamble të tërë dhe forca policore duhet të mbetet e ligjshme, e nevojshme dhe proporcionale.
-
-    Do të isha mirënjohës nëse institucioni juaj mund të:
-
-    - Vendoseni këtë situatë në axhendën tuaj urgjente të monitorimit dhe kontaktoni tani autoritetet përkatëse shqiptare.
-    - Kërkoni ruajtjen e videove të policisë, urdhrat e vendosjes dhe të dhënat mjekësore që lidhen me lëndimet dhe ndalimet e raportuara.
-    - Shtypni për një hetim të pavarur dhe të veçantë për rastin e lëndimit të rëndë në këmbë dhe çdo pretendim për forcë të tepruar.
-    - Sqaroni se çfarë veprimi mund të ndërmerrni përmes kanaleve dypalëshe ose shumëpalëshe, duke përfshirë OSBE-në dhe Këshillin e Evropës, aty ku është e nevojshme.
-
-    Do të isha mirënjohës për një përgjigje që shpjegon se çfarë mund të bëjë institucioni juaj dhe kur mund të pres një përgjigje. Unë kam bashkangjitur përmbledhjen e provave të ADCN, e cila lidhet drejtpërdrejt me raportimin dhe postimet origjinale më poshtë.
+    - **Renew Europe (anëtar):** Sandro Gozi, sekretar i përgjithshëm i Partisë Demokratike Evropiane, kërkoi hetim të pavarur për abuzimet e dyshuara policore dhe mbrojtjen e protestës paqësore e të lirisë së shtypit. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (anëtarë):** Marco Tarquinio dhe Andreas Schieder, në rolet e tyre në Parlamentin Evropian për Shqipërinë, kërkuan mbrojtjen e tubimit paqësor dhe përgjegjësi për forcën e tepruar, duke dënuar edhe dhunën nga protestuesit (RTSH, 19 tetor). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA dhe Partia e Gjelbër Evropiane — qershor 2026:** Një delegacion iu bashkua protestave paqësore në Tiranë më 29 qershor. Eurodeputetja Tineke Strik premtoi t’i çonte shqetësimet e protestuesve në Bruksel; bashkëkryetarja Vula Tsetsi mbështeti mbrojtjen e natyrës, demokracisë dhe shtetit të së drejtës. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partia Popullore Evropiane — 29–30 qershor 2026:** Asambleja Politike shprehu solidaritet me protestuesit paqësorë dhe kërkoi që përparimi drejt BE-së të lidhet me demokracinë, të drejtat themelore dhe mbrojtjen e mjedisit. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Përshëndetje,
 
-    - Revolucioni Flamingo — dokumentacion proteste dhe projekte qytetare.
-    - Diaspora e Revolucionit Flamingo — përditësime dhe kontakte për diasporën.
-    - Rrjeti Qytetar i Diasporës Shqiptare — hulumtim dhe punë qytetare e bazuar në dëshmi.
-    - Illyrian Brains Network — një rrjet global profesionistësh shqiptarë.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -140,29 +119,25 @@ hide:
     - ADCN — baza e provave: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — koleksion video që dokumenton dhunën e raportuar policore: <https://hajdenshesh.com/dhuna>
 
-    Për listën e plotë të mediave që kanë raportuar për protestat, shihni [Raportimet mediatike ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Përfaqësues ndërkombëtar"
 
-    !!! warning "Kush është më i miri për ta dërguar këtë?"
-        Dërguesit e sugjeruar, sipas rendit prioritar:
-
-        - **Komunitetet e Flamingos**
-        - **Organizatat qytetare**
-        - **Profesionistët në rrjete**
-        - **Anëtar i diasporës**
-
-        Përdorni lidhjen më të fortë të vërtetë dhe përshkruani atë me saktësi.
+=== "Deputet vendor"
 
     **Subjekti:** Protestat e Flamingos në Shqipëri: ju lutemi ngrini shkeljet e raportuara të të drejtave të njeriut
 
-    Kujt mund t'i referohet,
+    I/E nderuar [titulli dhe mbiemri],
 
-    Po ju shkruaj si [zgjedhës/e / anëtar/e i/e diasporës shqiptare / qytetar/e i/e shqetësuar] për të kërkuar veprim parlamentar lidhur me dhunën e raportuar policore gjatë protestave studentore në Shqipëri dhe shqetësimet për trajtimin e të miturve.
+    **Veprimet parlamentare që kërkoj**
 
-    Këto demonstrata janë pjesë e më shumë se 140 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit.
+    Po ju shkruaj si [zgjedhës/e / anëtar/e i/e diasporës shqiptare / qytetar/e i/e shqetësuar] për t’ju kërkuar të ngrini në parlament çështjen e abuzimeve të raportuara policore gjatë protestave studentore në Shqipëri. Do ta vlerësoja një përgjigje mbi hapat parlamentarë që mund të ndërmerrni dhe afatin e tyre.
 
-    Shifrat kryesore të raportuara përfshijnë:
+    - Paraqitni një pyetje ose interpelancë parlamentare për veprimet e qeverisë suaj ndaj abuzimeve të raportuara dhe përgjigjen që i ka kërkuar Shqipërisë.
+    - Kërkojini komisionit për punët e jashtme ose të drejtat e njeriut të shqyrtojë raportimet dhe të dëgjojë personat e prekur e monitoruesit e pavarur.
+    - Kërkoni përditësim publik nga Ministria e Jashtme mbi kontaktet me Shqipërinë, garancitë e kërkuara dhe hapat pasues.
+
+    **Pse nevojitet veprim**
+
+    Këto demonstrata janë pjesë e më shumë se 150 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit. Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm. Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Shifrat kryesore të raportuara përfshijnë:
 
     - **1,067 arrestime dhe 388 procedime penale:** raportuar nga Reuters dhe atribuar autoriteteve shqiptare në kohën e publikimit.
     - **310 të plagosur deri më 19 tetor:** 191 oficerë policie, 88 protestues dhe 31 kalimtarë të rastit, raportuar nga *El País* duke cituar shifrat e Ministrisë së Shëndetësisë.
@@ -170,31 +145,18 @@ hide:
     - **32 raste të raportuara të dhunës policore:** të kataloguar në aneksin e letrës së hapur Res Publica që mbulon 13–17 tetor; këto janë raste të raportuara, jo gjetje përfundimtare ligjore.
     - **124 prova të shqyrtuara:** të përshkruara në letrën përcjellëse të avokatëve drejtuar Amnesty International, duke përfshirë 31 regjistrime të reja të dorëzuara në regjistër që mbulojnë datat 18–20 tetor; regjistri themelor konfidencial nuk është publik në këtë depo.
 
-    Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm.
+    **Çfarë po bëjnë përfaqësuesit evropianë**
 
-    Raportimi i lidhur me burimin ngre shqetësime rreth:
+    Përfaqësues nga disa grupe politike evropiane kanë ngritur zërin për protestën paqësore dhe llogaridhënien:
 
-    - **Armët për kontrollin e turmës:** policia përdor gaz lotsjellës, topa uji, shkopinj, spërkatës irritues dhe, sipas raportimit ndërkombëtar më 17 tetor, plumba gome kundër protestuesve dhe kalimtarëve.
-    - **Trajtimi i të miturve:** raportet përfshijnë marrjen në pyetje pa kujdestarë ose psikologë, izolim të pretenduar dhe ekspozim të mundshëm ndaj forcës ose ndalimit.
-    - **Liria e shtypit:** sulme, kërcënime, lëndime, pengesa dhe largime me forcë që prekin gazetarët dhe punonjësit e medias.
-
-    Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara.
-
-    Ju lutem, përmes mundësive që ju jep roli juaj:
-
-    - Ngrini çështjen e dhunës së raportuar përmes një pyetjeje, interpelance ose debati parlamentar.
-
-    - Kërkojini Ministrisë së Jashtme ta ngrejë çështjen me autoritetet shqiptare dhe të kërkojë përgjigje zyrtare.
-
-    - Ngrijini këto shqetësime pranë Parlamentit Evropian dhe Komisionit Evropian, që respektimi i të drejtave të njeriut të ketë peshë në negociatat e anëtarësimit të Shqipërisë.
-
-    - Kërkoni monitorim të pavarur të proceseve gjyqësore ndaj studentëve dhe të miturve.
-
-    Protesta paqësore, liria e shprehjes dhe trajtimi i drejtë janë vlera evropiane. Studentët shqiptarë meritojnë që këto të drejta të mbrohen në praktikë.
-
-    Ju lutem, më njoftoni për hapat që mund të ndërmerrni. Burimet janë më poshtë.
+    - **Renew Europe (anëtar):** Sandro Gozi, sekretar i përgjithshëm i Partisë Demokratike Evropiane, kërkoi hetim të pavarur për abuzimet e dyshuara policore dhe mbrojtjen e protestës paqësore e të lirisë së shtypit. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (anëtarë):** Marco Tarquinio dhe Andreas Schieder, në rolet e tyre në Parlamentin Evropian për Shqipërinë, kërkuan mbrojtjen e tubimit paqësor dhe përgjegjësi për forcën e tepruar, duke dënuar edhe dhunën nga protestuesit (RTSH, 19 tetor). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA dhe Partia e Gjelbër Evropiane — qershor 2026:** Një delegacion iu bashkua protestave paqësore në Tiranë më 29 qershor. Eurodeputetja Tineke Strik premtoi t’i çonte shqetësimet e protestuesve në Bruksel; bashkëkryetarja Vula Tsetsi mbështeti mbrojtjen e natyrës, demokracisë dhe shtetit të së drejtës. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partia Popullore Evropiane — 29–30 qershor 2026:** Asambleja Politike shprehu solidaritet me protestuesit paqësorë dhe kërkoi që përparimi drejt BE-së të lidhet me demokracinë, të drejtat themelore dhe mbrojtjen e mjedisit. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Me respekt,
+
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -211,7 +173,62 @@ hide:
     - ADCN — baza e provave: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — koleksion video që dokumenton dhunën e raportuar policore: <https://hajdenshesh.com/dhuna>
 
-    Për listën e plotë të mediave që kanë raportuar për protestat, shihni [Raportimet mediatike ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "Eurodeputet"
+
+    **Subjekti:** Protestat e Flamingos në Shqipëri: ju lutemi ngrini shkeljet e raportuara të të drejtave të njeriut
+
+    I/E nderuar [titulli dhe mbiemri],
+
+    **Veprimet parlamentare që kërkoj**
+
+    Po ju shkruaj si [banor/e i/e BE-së / anëtar/e i/e diasporës shqiptare / qytetar/e i/e shqetësuar] për t’ju kërkuar, si eurodeputet/e, të ngrini raportimet për abuzime gjatë protestave studentore në Shqipëri përmes mbikëqyrjes së BE-së dhe shqyrtimit të procesit të anëtarësimit. Ju lutem, më njoftoni cilët hapa mund të ndërmerrni.
+
+    - Paraqitni një pyetje me shkrim për Komisionin Evropian mbi vlerësimin e abuzimeve të raportuara dhe garancitë për studentët, të miturit dhe gazetarët.
+    - Kërkojini komisionit përkatës parlamentar ose delegacionit për Shqipërinë të dëgjojë monitorues të pavarur e persona të prekur dhe të shqyrtojë gjetjet.
+    - Kërkoni që raportimet të trajtohen në vlerësimet e anëtarësimit dhe që Delegacioni i BE-së në Shqipëri të mbështesë monitorimin e pavarur të proceseve gjyqësore dhe ndjekjen e përgjegjësisë.
+
+    **Pse nevojitet veprim**
+
+    Këto demonstrata janë pjesë e më shumë se 150 ditëve të protestave të Flamingove në Shqipëri. Sipas [kronologjisë së protestës së publikuar të lëvizjes](https://www.flamingorevolution.eu/protestat/), protestat filluan për shkak të zhvillimit që prek peizazhin e mbrojtur bregdetar Vjosë–Nartë dhe u zgjeruan në shqetësime për llogaridhënien publike, akuzat për korrupsion, arsimin dhe kujdesin shëndetësor, emigracionin e të rinjve, presionin ekonomik, përfaqësimin demokratik dhe sundimin e ligjit. Këto shifra kanë periudha, popullsi dhe përkufizime të ndryshme. Ato mbivendosen dhe nuk duhet të shtohen së bashku si një total i vetëm. Këto janë raporte dhe pretendime që kërkojnë verifikim të pavarur, jo gjetje ligjore të përcaktuara. Shifrat kryesore të raportuara përfshijnë:
+
+    - **1,067 arrestime dhe 388 procedime penale:** raportuar nga Reuters dhe atribuar autoriteteve shqiptare në kohën e publikimit.
+    - **310 të plagosur deri më 19 tetor:** 191 oficerë policie, 88 protestues dhe 31 kalimtarë të rastit, raportuar nga *El País* duke cituar shifrat e Ministrisë së Shëndetësisë.
+    - **214 persona të ndaluar u takuan gjatë monitorimit të mëparshëm:** Procesverbali paraprak i Avokatit të Popullit, siç citohet në letrën e Res Publica, vuri në dukje shenja të dukshme dhune ose pretendime për keqtrajtim për 26 persona dhe raporte në lidhje me rreth 12 të mitur që dyshohet se mbaheshin të izoluar.
+    - **32 raste të raportuara të dhunës policore:** të kataloguar në aneksin e letrës së hapur Res Publica që mbulon 13–17 tetor; këto janë raste të raportuara, jo gjetje përfundimtare ligjore.
+    - **124 prova të shqyrtuara:** të përshkruara në letrën përcjellëse të avokatëve drejtuar Amnesty International, duke përfshirë 31 regjistrime të reja të dorëzuara në regjistër që mbulojnë datat 18–20 tetor; regjistri themelor konfidencial nuk është publik në këtë depo.
+
+    **Çfarë po bëjnë përfaqësuesit evropianë**
+
+    Përfaqësues nga disa grupe politike evropiane kanë ngritur zërin për protestën paqësore dhe llogaridhënien:
+
+    - **Renew Europe (anëtar):** Sandro Gozi, sekretar i përgjithshëm i Partisë Demokratike Evropiane, kërkoi hetim të pavarur për abuzimet e dyshuara policore dhe mbrojtjen e protestës paqësore e të lirisë së shtypit. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (anëtarë):** Marco Tarquinio dhe Andreas Schieder, në rolet e tyre në Parlamentin Evropian për Shqipërinë, kërkuan mbrojtjen e tubimit paqësor dhe përgjegjësi për forcën e tepruar, duke dënuar edhe dhunën nga protestuesit (RTSH, 19 tetor). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA dhe Partia e Gjelbër Evropiane — qershor 2026:** Një delegacion iu bashkua protestave paqësore në Tiranë më 29 qershor. Eurodeputetja Tineke Strik premtoi t’i çonte shqetësimet e protestuesve në Bruksel; bashkëkryetarja Vula Tsetsi mbështeti mbrojtjen e natyrës, demokracisë dhe shtetit të së drejtës. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partia Popullore Evropiane — 29–30 qershor 2026:** Asambleja Politike shprehu solidaritet me protestuesit paqësorë dhe kërkoi që përparimi drejt BE-së të lidhet me demokracinë, të drejtat themelore dhe mbrojtjen e mjedisit. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    Me respekt,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Referencat:**
+
+    Raportimi i zgjedhur ndërkombëtar, më i riu i pari:
+
+    - El País, 22 tetor — raportim nga Tirana mbi protestat e vazhdueshme të studentëve, dhunën polici-protestues dhe ofertën e qeverisë për dialog: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 tetor — arrestime, procedime penale dhe përgjigja e qeverisë: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Dokumentacioni parësor dhe lokal për pretendime specifike:
+
+    - Avokati i Popullit Shqiptar, 20 tetor — gjetjet paraprake të monitorimit për kushtet e paraburgimit dhe trajtimin e të miturve: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — baza e provave: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — koleksion video që dokumenton dhunën e raportuar policore: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Bashkëngjitje opsionale të imazhit dhe burime Flamingo
 
@@ -249,7 +266,7 @@ Shkarkoni vetëm imazhet që lidhen me mesazhin tuaj, mbani kreditin e dhënë d
 
 ## Përkthime
 
-Të njëjtat tre email janë në dispozicion në [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+Të njëjtat katër email janë në dispozicion në [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Kredite dhe mirënjohje
 

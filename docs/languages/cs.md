@@ -11,17 +11,25 @@ hide:
 
 # Protesty plameňáků v Albánii — e-maily o informovanosti v angličtině
 
-=== "média"
+Tyto dopisy můžete poslat sami. Vyberte verzi pro svého příjemce, přidejte pár vlastních slov a odešlete ji svým jménem. Každá osobní zpráva pomáhá upozornit na protesty. Za závěrečný pozdrav doplňte své jméno nebo název své organizace.
+
+=== "Místní média"
 
     **Předmět:** Protesty plameňáků v Albánii: nahlášené policejní týrání během studentských demonstrací v Tiraně
 
     Komu se to může týkat,
 
+    **O co žádám**
+
     Žádám vaši redakci, aby urychleně prozkoumala hlášená porušování lidských práv během studentských demonstrací, které začaly v Tiraně 13. října 2026 a od té doby se rozšířily. Protestů se účastní studenti, včetně středoškoláků, a obvinění si zaslouží širší pozornost veřejnosti.
 
-    Tyto demonstrace jsou součástí více než 140 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát.
+    - Prověřte zprávy rozhovory s dotčenými lidmi a ověřením záznamů a dokumentů.
+    - Vyžádejte si oficiální odpověď k použití síly a zacházení s nezletilými.
+    - Zveřejněte zjištění a sledujte vyřizování stížností.
 
-    Mezi hlavní hlášené údaje patří:
+    **Proč je třeba jednat**
+
+    Tyto demonstrace jsou součástí více než 150 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát. Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet. Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Mezi hlavní hlášené údaje patří:
 
     - **1 067 zatčení a 388 trestních řízení:** hlášeno agenturou Reuters a připisováno albánským úřadům v době zveřejnění.
     - **310 zraněných do 19. října:** 191 policistů, 88 demonstrantů a 31 přihlížejících, uvedl *El País* s odvoláním na údaje ministerstva zdravotnictví.
@@ -29,27 +37,18 @@ hide:
     - **32 hlášených případů policejního násilí:** katalogizováno v příloze Res Publica s otevřeným dopisem pokrývajícím 13.–17. října; jedná se o nahlášené případy, nikoli o konečná právní zjištění.
     - **124 zkontrolovaných důkazních položek:** popsaných v průvodním dopise právníků Amnesty International, včetně 31 nově zaslaných záznamů v protokolu pokrývajících 18.–20. října; podkladový důvěrný protokol není v tomto úložišti veřejný.
 
-    Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet.
+    **Co dělají evropští představitelé**
 
-    Přehledy související se zdrojem vzbuzují obavy ohledně:
+    Zástupci několika evropských politických skupin podpořili pokojné protesty a vyvození odpovědnosti:
 
-    - **Zbraně pro kontrolu davu:** policie použila proti demonstrantům a kolemjdoucím slzný plyn, vodní dělo, obušky, dráždivé spreje a podle mezinárodních zpráv ze 17. října i gumové projektily.
-    - **Fyzická síla a omezení:** potenciálně nadměrná síla, včetně lidí údajně držených na zemi.
-    - **Vážné zranění:** Dotazovaný z nemocnice tvrdil, že policie způsobila vážné zranění nohy.
-    - **Zajištění zadržení:** Veřejný ochránce práv zdokumentoval chybějící formuláře s informacemi o právech, neúplné registry zadržení a obvinění, že osobní telefony byly prohledávány bez příslušného oprávnění.
-    - **Zacházení s nezletilými:** zprávy zahrnují výslech bez opatrovníků nebo psychologů, údajnou izolaci a možné vystavení násilí nebo zadržení.
-    - **Svoboda tisku:** Napadání, vyhrožování, zranění, obstrukce a nucené odsuny postihující novináře a pracovníky médií.
-
-    Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Někteří účastníci prý házeli kameny a zapalovali ohně; to neospravedlňuje použití síly proti lidem, kteří tak neučinili. Jak řekl Albánský helsinský výbor 13. října, činy jednotlivců nemohou způsobit násilí v celém shromáždění a policejní síly musí zůstat zákonné, nezbytné a přiměřené.
-
-    Přidělte prosím reportéra, požádejte o odpovědi od albánských úřadů a dotčených osob a snažte se o uchování policejního videozáznamu, příkazů k nasazení a lékařských záznamů spolu s nezávislým vyšetřováním případu vážného zranění nohou – zejména při pokrytí možného zacházení s nezletilými a zásahů do novinářů. Ocenil bych, kdyby jste věděli, zda a kdy má vaše redakce v plánu se tomuto tématu věnovat. Připojený brief poskytuje zdroje a ověřovací otázky.
+    - **Renew Europe (člen):** Sandro Gozi, generální tajemník Evropské demokratické strany, vyzval k nezávislému vyšetření údajného policejního násilí a ochraně pokojných protestů a svobody tisku. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (členové):** Marco Tarquinio a Andreas Schieder ve svých funkcích pro Albánii v Evropském parlamentu požadovali ochranu pokojného shromažďování a odpovědnost za nepřiměřenou sílu a zároveň odsoudili násilí demonstrantů (RTSH, 19. října). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zelení/ESA a Evropská strana zelených — červen 2026:** Delegace se 29. června připojila k pokojným protestům v Tiraně. Europoslankyně Tineke Strik slíbila předat obavy do Bruselu; spolupředsedkyně Vula Tsetsi podpořila obranu přírody, demokracie a právního státu. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropská lidová strana — 29.–30. června 2026:** Politické shromáždění vyjádřilo solidaritu s pokojnými demonstranty a požadovalo propojení přístupového pokroku s demokracií, základními právy a ochranou životního prostředí. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     s pozdravem
 
-    - Flamingo Revolution — protestní dokumentace a občanské projekty.
-    - Flamingo Revolution Diaspora — aktualizace a dosah diaspory.
-    - Albanian Diaspora Civic Network — výzkum a občanská práce založená na důkazech.
-    - Illyrian Brains Network — globální síť albánských profesionálů.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -66,29 +65,25 @@ hide:
     - ADCN — důkazní základna: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — sbírka videí dokumentující nahlášené policejní násilí: <https://hajdenshesh.com/dhuna>
 
-    Úplný seznam médií, která o protestech informovala, najdete na stránce [Zprávy médií ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Mezinárodní instituce"
 
-    !!! warning "Kdo je v nejlepší pozici, aby to poslal?"
-        Doporučení odesílatelé v pořadí podle priority:
-
-        - **Komunity Flamingo**
-        - **Občanské organizace**
-        - **Profesionálové v sítích**
-        - **Člen diaspory**
-
-        Použijte nejsilnější originální spojení a přesně ho popište.
+=== "Místní instituce"
 
     **Předmět:** Protesty plameňáků v Albánii: naléhavé upozornění na hlášené porušování práv
 
     Komu se to může týkat,
 
+    **O co žádám**
+
     Píši, abych upozornil vaši instituci na vážné hlášené obavy o lidská práva během demonstrací vedených studenty, které začaly v Tiraně dne 13. října 2026 a od té doby se rozšířily. Mohou být ovlivněni studenti, novináři, přihlížející a zadržené osoby a účast na střední škole vyvolává zvláštní obavy týkající se ochrany dětí.
 
-    Tyto demonstrace jsou součástí více než 140 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát.
+    - Posuďte důkazy a projednejte obavy přímo s albánskými úřady.
+    - Žádejte přístup k právní pomoci a zdravotní péči, zejména pro zadržené nezletilé.
+    - Podpořte nezávislé sledování zadržování a soudů a uchování důkazů.
 
-    Mezi hlavní hlášené údaje patří:
+    **Proč je třeba jednat**
+
+    Tyto demonstrace jsou součástí více než 150 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát. Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet. Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Mezi hlavní hlášené údaje patří:
 
     - **1 067 zatčení a 388 trestních řízení:** hlášeno agenturou Reuters a připisováno albánským úřadům v době zveřejnění.
     - **310 zraněných do 19. října:** 191 policistů, 88 demonstrantů a 31 přihlížejících, uvedl *El País* s odvoláním na údaje ministerstva zdravotnictví.
@@ -96,34 +91,18 @@ hide:
     - **32 hlášených případů policejního násilí:** katalogizováno v příloze Res Publica s otevřeným dopisem pokrývajícím 13.–17. října; jedná se o nahlášené případy, nikoli o konečná právní zjištění.
     - **124 zkontrolovaných důkazních položek:** popsaných v průvodním dopise právníků Amnesty International, včetně 31 nově zaslaných záznamů v protokolu pokrývajících 18.–20. října; podkladový důvěrný protokol není v tomto úložišti veřejný.
 
-    Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet.
+    **Co dělají evropští představitelé**
 
-    Přehledy související se zdrojem vzbuzují obavy ohledně:
+    Zástupci několika evropských politických skupin podpořili pokojné protesty a vyvození odpovědnosti:
 
-    - **Zbraně pro kontrolu davu:** policie použila proti demonstrantům a kolemjdoucím slzný plyn, vodní dělo, obušky, dráždivé spreje a podle mezinárodních zpráv ze 17. října i gumové projektily.
-    - **Fyzická síla a omezení:** potenciálně nadměrná síla, včetně lidí údajně držených na zemi.
-    - **Vážné zranění:** Dotazovaný z nemocnice tvrdil, že policie způsobila vážné zranění nohy.
-    - **Zajištění zadržení:** Veřejný ochránce práv zdokumentoval chybějící formuláře s informacemi o právech, neúplné registry zadržení a obvinění, že osobní telefony byly prohledávány bez příslušného oprávnění.
-    - **Zacházení s nezletilými:** zprávy zahrnují výslech bez opatrovníků nebo psychologů, údajnou izolaci a možné vystavení násilí nebo zadržení.
-    - **Svoboda tisku:** Napadání, vyhrožování, zranění, obstrukce a nucené odsuny postihující novináře a pracovníky médií.
-
-    Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Někteří účastníci prý házeli kameny a zapalovali ohně; to neospravedlňuje použití síly proti lidem, kteří tak neučinili. Jak řekl Albánský helsinský výbor 13. října, činy jednotlivců nemohou způsobit násilí v celém shromáždění a policejní síly musí zůstat zákonné, nezbytné a přiměřené.
-
-    Byl bych vděčný, kdyby vaše instituce mohla:
-
-    - Zařaďte tuto situaci do své naléhavé monitorovací agendy a ihned kontaktujte příslušné albánské úřady.
-    - Hledejte uchování policejního videozáznamu, příkazů k nasazení a lékařských záznamů týkajících se hlášených zranění a zadržení.
-    - Vyžadujte nezávislé vyšetřování případu vážného zranění nohy a případných obvinění z nadměrné síly.
-    - Vyjasněte, jaké kroky můžete podniknout prostřednictvím dvoustranných nebo mnohostranných kanálů, včetně OBSE a Rady Evropy, je-li to relevantní.
-
-    Byl bych vděčný za odpověď vysvětlující, co může vaše instituce dělat a kdy mohu očekávat odpověď. Připojil jsem stručný přehled důkazů ADCN, který přímo odkazuje na níže uvedené zprávy a původní příspěvky.
+    - **Renew Europe (člen):** Sandro Gozi, generální tajemník Evropské demokratické strany, vyzval k nezávislému vyšetření údajného policejního násilí a ochraně pokojných protestů a svobody tisku. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (členové):** Marco Tarquinio a Andreas Schieder ve svých funkcích pro Albánii v Evropském parlamentu požadovali ochranu pokojného shromažďování a odpovědnost za nepřiměřenou sílu a zároveň odsoudili násilí demonstrantů (RTSH, 19. října). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zelení/ESA a Evropská strana zelených — červen 2026:** Delegace se 29. června připojila k pokojným protestům v Tiraně. Europoslankyně Tineke Strik slíbila předat obavy do Bruselu; spolupředsedkyně Vula Tsetsi podpořila obranu přírody, demokracie a právního státu. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropská lidová strana — 29.–30. června 2026:** Politické shromáždění vyjádřilo solidaritu s pokojnými demonstranty a požadovalo propojení přístupového pokroku s demokracií, základními právy a ochranou životního prostředí. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     s pozdravem
 
-    - Flamingo Revolution — protestní dokumentace a občanské projekty.
-    - Flamingo Revolution Diaspora — aktualizace a dosah diaspory.
-    - Albanian Diaspora Civic Network — výzkum a občanská práce založená na důkazech.
-    - Illyrian Brains Network — globální síť albánských profesionálů.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -140,29 +119,25 @@ hide:
     - ADCN — důkazní základna: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — sbírka videí dokumentující nahlášené policejní násilí: <https://hajdenshesh.com/dhuna>
 
-    Úplný seznam médií, která o protestech informovala, najdete na stránce [Zprávy médií ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Mezinárodní zástupce"
 
-    !!! warning "Kdo je v nejlepší pozici, aby to poslal?"
-        Doporučení odesílatelé v pořadí podle priority:
-
-        - **Komunity Flamingo**
-        - **Občanské organizace**
-        - **Profesionálové v sítích**
-        - **Člen diaspory**
-
-        Použijte nejsilnější originální spojení a přesně ho popište.
+=== "Národní poslanec"
 
     **Předmět:** Protesty plameňáků v Albánii: upozorněte prosím na nahlášené porušování lidských práv
 
     Komu se to může týkat,
 
+    **O co žádám**
+
     Píšu jako [volič/ka / člen/ka albánské diaspory / znepokojený obyvatel či obyvatelka] s žádostí o parlamentní kroky v souvislosti se zprávami o policejním násilí při studentských protestech v Albánii a obavami o zacházení s nezletilými.
 
-    Tyto demonstrace jsou součástí více než 140 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát.
+    - Podejte parlamentní interpelaci k opatřením vlády a odpovědi vyžádané od Albánie.
+    - Požádejte příslušný výbor o slyšení dotčených osob a nezávislých pozorovatelů.
+    - Požádejte ministerstvo zahraničí o veřejnou zprávu o kontaktech s Albánií, požadovaných zárukách a dalších krocích.
 
-    Mezi hlavní hlášené údaje patří:
+    **Proč je třeba jednat**
+
+    Tyto demonstrace jsou součástí více než 150 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát. Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet. Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Mezi hlavní hlášené údaje patří:
 
     - **1 067 zatčení a 388 trestních řízení:** hlášeno agenturou Reuters a připisováno albánským úřadům v době zveřejnění.
     - **310 zraněných do 19. října:** 191 policistů, 88 demonstrantů a 31 přihlížejících, uvedl *El País* s odvoláním na údaje ministerstva zdravotnictví.
@@ -170,37 +145,18 @@ hide:
     - **32 hlášených případů policejního násilí:** katalogizováno v příloze Res Publica s otevřeným dopisem pokrývajícím 13.–17. října; jedná se o nahlášené případy, nikoli o konečná právní zjištění.
     - **124 zkontrolovaných důkazních položek:** popsaných v průvodním dopise právníků Amnesty International, včetně 31 nově zaslaných záznamů v protokolu pokrývajících 18.–20. října; podkladový důvěrný protokol není v tomto úložišti veřejný.
 
-    Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet.
+    **Co dělají evropští představitelé**
 
-    Přehledy související se zdrojem vzbuzují obavy ohledně:
+    Zástupci několika evropských politických skupin podpořili pokojné protesty a vyvození odpovědnosti:
 
-    - **Zbraně pro kontrolu davu:** policie použila proti demonstrantům a kolemjdoucím slzný plyn, vodní dělo, obušky, dráždivé spreje a podle mezinárodních zpráv ze 17. října i gumové projektily.
-    - **Zacházení s nezletilými:** zprávy zahrnují výslech bez opatrovníků nebo psychologů, údajnou izolaci a možné vystavení násilí nebo zadržení.
-    - **Svoboda tisku:** Napadání, vyhrožování, zranění, obstrukce a nucené odsuny postihující novináře a pracovníky médií.
-
-    Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění.
-
-    Prosím, využijte své možnosti k těmto krokům:
-
-    - Otevřete otázku hlášeného násilí parlamentní interpelací nebo debatou.
-
-    - Požádejte ministerstvo zahraničí, aby věc projednalo s albánskými úřady a vyžádalo si oficiální odpověď.
-
-    - Předejte tyto obavy Evropskému parlamentu a Evropské komisi, aby dodržování lidských práv mělo váhu v přístupových jednáních Albánie s EU.
-
-    - Vyzvěte k nezávislému sledování soudních řízení se studenty a nezletilými.
-
-    Pokojný protest, svoboda projevu a spravedlivé zacházení jsou evropské hodnoty. Albánští studenti si zaslouží ochranu těchto práv v praxi.
-
-    Prosím o sdělení, jaké kroky můžete podniknout. Zdroje jsou uvedeny níže.
+    - **Renew Europe (člen):** Sandro Gozi, generální tajemník Evropské demokratické strany, vyzval k nezávislému vyšetření údajného policejního násilí a ochraně pokojných protestů a svobody tisku. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (členové):** Marco Tarquinio a Andreas Schieder ve svých funkcích pro Albánii v Evropském parlamentu požadovali ochranu pokojného shromažďování a odpovědnost za nepřiměřenou sílu a zároveň odsoudili násilí demonstrantů (RTSH, 19. října). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zelení/ESA a Evropská strana zelených — červen 2026:** Delegace se 29. června připojila k pokojným protestům v Tiraně. Europoslankyně Tineke Strik slíbila předat obavy do Bruselu; spolupředsedkyně Vula Tsetsi podpořila obranu přírody, demokracie a právního státu. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropská lidová strana — 29.–30. června 2026:** Politické shromáždění vyjádřilo solidaritu s pokojnými demonstranty a požadovalo propojení přístupového pokroku s demokracií, základními právy a ochranou životního prostředí. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     S pozdravem,
 
-    - Flamingo Revolution — protestní dokumentace a občanské projekty.
-    - Flamingo Revolution Diaspora — aktualizace a dosah diaspory.
-    - Albanian Diaspora Civic Network — výzkum a občanská práce založená na důkazech.
-    - Illyrian Brains Network — globální síť albánských profesionálů.
-
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -217,7 +173,62 @@ hide:
     - ADCN — důkazní základna: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — sbírka videí dokumentující nahlášené policejní násilí: <https://hajdenshesh.com/dhuna>
 
-    Úplný seznam médií, která o protestech informovala, najdete na stránce [Zprávy médií ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "Europoslanec"
+
+    **Předmět:** Protesty plameňáků v Albánii: upozorněte prosím na nahlášené porušování lidských práv
+
+    Komu se to může týkat,
+
+    **O co žádám**
+
+    Žádám Vás jako europoslance o otevření otázky hlášených zásahů proti studentům v Albánii prostřednictvím kontroly EU a přístupového procesu. Prosím o sdělení možných kroků.
+
+    - Podejte Komisi písemný dotaz k hlášeným zásahům a ochraně studentů, nezletilých a novinářů.
+    - Požádejte příslušný výbor nebo delegaci pro Albánii o slyšení nezávislých pozorovatelů a dotčených osob.
+    - Žádejte zohlednění zpráv v přístupových hodnoceních a podporu nezávislého sledování soudů ze strany delegace EU v Albánii.
+
+    **Proč je třeba jednat**
+
+    Tyto demonstrace jsou součástí více než 150 dnů protestů Flamingo v Albánii. Podle [chronologie protestů zveřejněné hnutím](https://www.flamingorevolution.eu/protestat/) protesty začaly kvůli vývoji ovlivňujícímu chráněnou pobřežní krajinu Vjosë–Nartë a rozšířily se na obavy o veřejnou odpovědnost, obvinění z korupce, vzdělávání a zdravotnictví, emigraci mládeže, ekonomický tlak, demokratické zastoupení a právní stát. Tato čísla mají různá období, populace a definice. Překrývají se a neměly by se sčítat jako jeden součet. Jedná se o přisuzované zprávy a obvinění vyžadující nezávislé ověření, nikoli o zjištěná právní zjištění. Mezi hlavní hlášené údaje patří:
+
+    - **1 067 zatčení a 388 trestních řízení:** hlášeno agenturou Reuters a připisováno albánským úřadům v době zveřejnění.
+    - **310 zraněných do 19. října:** 191 policistů, 88 demonstrantů a 31 přihlížejících, uvedl *El País* s odvoláním na údaje ministerstva zdravotnictví.
+    - **214 zadržených osob se setkalo během dřívějšího monitorování:** Předběžný záznam veřejného ochránce práv, jak je citován v dopise Res Publica, zaznamenal viditelné známky obvinění z násilí nebo špatného zacházení u 26 osob a zprávy týkající se asi 12 nezletilých údajně držených v izolaci.
+    - **32 hlášených případů policejního násilí:** katalogizováno v příloze Res Publica s otevřeným dopisem pokrývajícím 13.–17. října; jedná se o nahlášené případy, nikoli o konečná právní zjištění.
+    - **124 zkontrolovaných důkazních položek:** popsaných v průvodním dopise právníků Amnesty International, včetně 31 nově zaslaných záznamů v protokolu pokrývajících 18.–20. října; podkladový důvěrný protokol není v tomto úložišti veřejný.
+
+    **Co dělají evropští představitelé**
+
+    Zástupci několika evropských politických skupin podpořili pokojné protesty a vyvození odpovědnosti:
+
+    - **Renew Europe (člen):** Sandro Gozi, generální tajemník Evropské demokratické strany, vyzval k nezávislému vyšetření údajného policejního násilí a ochraně pokojných protestů a svobody tisku. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (členové):** Marco Tarquinio a Andreas Schieder ve svých funkcích pro Albánii v Evropském parlamentu požadovali ochranu pokojného shromažďování a odpovědnost za nepřiměřenou sílu a zároveň odsoudili násilí demonstrantů (RTSH, 19. října). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zelení/ESA a Evropská strana zelených — červen 2026:** Delegace se 29. června připojila k pokojným protestům v Tiraně. Europoslankyně Tineke Strik slíbila předat obavy do Bruselu; spolupředsedkyně Vula Tsetsi podpořila obranu přírody, demokracie a právního státu. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Evropská lidová strana — 29.–30. června 2026:** Politické shromáždění vyjádřilo solidaritu s pokojnými demonstranty a požadovalo propojení přístupového pokroku s demokracií, základními právy a ochranou životního prostředí. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    S pozdravem,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Reference:**
+
+    Vybrané mezinárodní zprávy, nejnovější:
+
+    - El País, 22. října – reportáž z Tirany o pokračujících studentských protestech, násilí mezi policií a demonstranty a vládní nabídce dialogu: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. října – zatčení, trestní řízení a reakce vlády: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Primární a místní dokumentace pro konkrétní obvinění:
+
+    - Albánský ombudsman, 20. října – předběžná zjištění týkající se podmínek ve vazbě a zacházení s nezletilými: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — důkazní základna: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — sbírka videí dokumentující nahlášené policejní násilí: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Volitelné obrazové přílohy a zdroje Flamingo
 
@@ -255,7 +266,7 @@ Stáhněte si pouze obrázky relevantní pro vaši zprávu, ponechte si dodaný 
 
 ## Překlady
 
-Stejné tři e-maily jsou dostupné v [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+Stejné čtyři e-maily jsou dostupné v [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Kredity a poděkování
 

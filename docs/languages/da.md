@@ -11,17 +11,25 @@ hide:
 
 # Flamingo-protester i Albanien — engelske e-mails
 
-=== "Medier"
+Du kan selv sende disse breve. Vælg den version, der passer til modtageren, tilføj nogle personlige ord, og send i dit eget navn. Hver personlig henvendelse hjælper med at skabe opmærksomhed om protesterne. Tilføj dit navn eller din organisations navn efter den afsluttende hilsen.
+
+=== "Lokale medier"
 
     **Emne:** Flamingo-protester i Albanien: rapporterede politiovergreb under studenterdemonstrationer i Tirana
 
     Hvem det måtte vedrøre,
 
+    **Hvad jeg beder om**
+
     Jeg beder dit nyhedsrum om hurtigst muligt at undersøge rapporterede menneskerettighedskrænkelser under de studenterledede demonstrationer, der begyndte i Tirana den 13. oktober 2026 og siden har spredt sig. Protesterne involverer studerende, herunder gymnasieelever, og påstandene fortjener større offentlig opmærksomhed.
 
-    Disse demonstrationer er en del af mere end 140 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet.
+    - Undersøg beretningerne gennem samtaler med berørte og kontrol af billeder og dokumenter.
+    - Bed om et officielt svar om magtanvendelse og behandlingen af mindreårige.
+    - Offentliggør resultaterne og følg behandlingen af klager.
 
-    De rapporterede nøgletal inkluderer:
+    **Hvorfor handling er nødvendig**
+
+    Disse demonstrationer er en del af mere end 150 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet. Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total. Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. De rapporterede nøgletal inkluderer:
 
     - **1.067 anholdelser og 388 straffesager:** rapporteret af Reuters og tilskrevet de albanske myndigheder på tidspunktet for offentliggørelsen.
     - **310 såret indtil 19. oktober:** 191 politibetjente, 88 demonstranter og 31 tilskuere, rapporteret af *El País* med henvisning til tal fra sundhedsministeriet.
@@ -29,27 +37,18 @@ hide:
     - **32 rapporterede politivoldssager:** katalogiseret i Res Publica-bilaget med åbent brev, der dækker 13.-17. oktober; disse er indberettede sager, ikke endelige juridiske resultater.
     - **124 beviselementer gennemgået:** beskrevet i advokaternes følgebrev til Amnesty International, inklusive 31 nyligt indsendte logposter, der dækker 18.-20. oktober; den underliggende fortrolige log er ikke offentlig i dette lager.
 
-    Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total.
+    **Hvad europæiske repræsentanter gør**
 
-    Kildelinket rapportering giver anledning til bekymring om:
+    Repræsentanter fra flere europæiske politiske grupper har støttet fredelige protester og ansvarlighed:
 
-    - **Crowd-control våben:** politiets brug af tåregas, vandkanoner, stafetter, irriterende spray og ifølge internationale rapporter den 17. oktober gummikugler mod demonstranter og tilskuere.
-    - **Fysisk kraft og tilbageholdenhed:** potentielt overdreven kraft, inklusive personer, der angiveligt holdes på jorden.
-    - **Alvorlig skade:** en interviewperson på hospitalet påstod, at politiet forårsagede en alvorlig benskade.
-    - **Sikkerhedsforanstaltninger til frihedsberøvelse:** Ombudsmanden dokumenterede manglende rettighedsoplysninger, ufuldstændige tilbageholdelsesregistre og påstande om, at personlige telefoner blev ransaget uden passende tilladelse.
-    - **Behandling af mindreårige:** rapporter omfatter afhøring uden værger eller psykologer, påstået isolation og mulig udsættelse for magt eller tilbageholdelse.
-    - **Pressefrihed:** overfald, trusler, kvæstelser, obstruktion og tvangsfjernelse, der påvirker journalister og mediearbejdere.
-
-    Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. Nogle deltagere kastede efter sigende med sten og tændte bål; det retfærdiggør ikke magtanvendelse mod folk, der ikke gjorde det. Som den albanske Helsinki-komité sagde den 13. oktober, kan enkeltpersoners handlinger ikke gøre en hel forsamling voldelig, og politistyrken skal forblive lovlig, nødvendig og forholdsmæssig.
-
-    Tildel venligst en reporter, søg svar fra de albanske myndigheder og berørte personer, og tryk på for at bevare politiets video, udsendelsesordrer og lægejournaler sammen med en uafhængig undersøgelse af sagen om alvorlig benskade – især mens du dækker mulig behandling af mindreårige og indblanding i journalister. Jeg ville sætte pris på at vide, om og hvornår din redaktion planlægger at dække dette. Den vedhæftede brief indeholder kilder og verifikationsspørgsmål.
+    - **Renew Europe (medlem):** Sandro Gozi, generalsekretær for Det Europæiske Demokratiske Parti, krævede en uafhængig undersøgelse af påståede politiovergreb og beskyttelse af fredelige protester og pressefrihed. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (medlemmer):** Marco Tarquinio og Andreas Schieder opfordrede i deres Albanien-roller i Europa-Parlamentet til beskyttelse af fredelige forsamlinger og ansvar for overdreven magtanvendelse, samtidig med at de fordømte vold fra demonstranter (RTSH, 19. oktober). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **De Grønne/EFA og Det Europæiske Grønne Parti — juni 2026:** En delegation deltog i de fredelige protester i Tirana den 29. juni. MEP Tineke Strik lovede at bringe bekymringerne til Bruxelles; medformand Vula Tsetsi støttede forsvaret af natur, demokrati og retsstat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Det Europæiske Folkeparti — 29.–30. juni 2026:** Den Politiske Forsamling udtrykte solidaritet med fredelige demonstranter og krævede, at fremskridt mod EU-medlemskab knyttes til demokrati, grundrettigheder og miljøbeskyttelse. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Venlig hilsen,
 
-    - Flamingo Revolution — protestdokumentation og borgerlige projekter.
-    - Flamingo Revolution Diaspora — diasporaopdateringer og opsøgende.
-    - Albanian Diaspora Civic Network — forskning og evidensbaseret civilt arbejde.
-    - Illyrian Brains Network — et globalt netværk af albanske fagfolk.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -66,29 +65,25 @@ hide:
     - ADCN — bevisgrundlag: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — videosamling, der dokumenterer rapporteret politivold: <https://hajdenshesh.com/dhuna>
 
-    Se den fulde liste over medier, der har rapporteret om protesterne, på siden [Medierapporter ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "International institution"
 
-    !!! warning "Hvem er bedst placeret til at sende dette?"
-        Foreslåede afsendere i prioriteret rækkefølge:
-
-        - **Flamingosamfundene**
-        - **Borgerlige organisationer**
-        - **Fagfolk i netværkene**
-        - **Et diasporamedlem**
-
-        Brug den stærkeste ægte forbindelse og beskriv den nøjagtigt.
+=== "Lokal institution"
 
     **Emne:** Flamingoprotester i Albanien: presserende alarm om rapporterede rettighedskrænkelser
 
     Hvem det måtte vedrøre,
 
+    **Hvad jeg beder om**
+
     Jeg skriver for at advare din institution om alvorlige indberettede menneskerettighedsproblemer under studenterledede demonstrationer, der begyndte i Tirana den 13. oktober 2026 og siden har spredt sig. Studerende, journalister, tilskuere og tilbageholdte kan blive berørt, og deltagelse i gymnasiet giver anledning til særlige bekymringer om beskyttelse af børn.
 
-    Disse demonstrationer er en del af mere end 140 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet.
+    - Gennemgå materialet og rejs bekymringerne direkte over for de albanske myndigheder.
+    - Bed om adgang til advokat og lægehjælp, især for mindreårige tilbageholdte.
+    - Støt uafhængig observation af frihedsberøvelse og retssager samt sikring af beviser.
 
-    De rapporterede nøgletal inkluderer:
+    **Hvorfor handling er nødvendig**
+
+    Disse demonstrationer er en del af mere end 150 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet. Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total. Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. De rapporterede nøgletal inkluderer:
 
     - **1.067 anholdelser og 388 straffesager:** rapporteret af Reuters og tilskrevet de albanske myndigheder på tidspunktet for offentliggørelsen.
     - **310 såret indtil 19. oktober:** 191 politibetjente, 88 demonstranter og 31 tilskuere, rapporteret af *El País* med henvisning til tal fra sundhedsministeriet.
@@ -96,34 +91,18 @@ hide:
     - **32 rapporterede politivoldssager:** katalogiseret i Res Publica-bilaget med åbent brev, der dækker 13.-17. oktober; disse er indberettede sager, ikke endelige juridiske resultater.
     - **124 beviselementer gennemgået:** beskrevet i advokaternes følgebrev til Amnesty International, inklusive 31 nyligt indsendte logposter, der dækker 18.-20. oktober; den underliggende fortrolige log er ikke offentlig i dette lager.
 
-    Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total.
+    **Hvad europæiske repræsentanter gør**
 
-    Kildelinket rapportering giver anledning til bekymring om:
+    Repræsentanter fra flere europæiske politiske grupper har støttet fredelige protester og ansvarlighed:
 
-    - **Crowd-control våben:** politiets brug af tåregas, vandkanoner, stafetter, irriterende spray og ifølge internationale rapporter den 17. oktober gummikugler mod demonstranter og tilskuere.
-    - **Fysisk kraft og tilbageholdenhed:** potentielt overdreven kraft, inklusive personer, der angiveligt holdes på jorden.
-    - **Alvorlig skade:** en interviewperson på hospitalet påstod, at politiet forårsagede en alvorlig benskade.
-    - **Sikkerhedsforanstaltninger til frihedsberøvelse:** Ombudsmanden dokumenterede manglende rettighedsoplysninger, ufuldstændige tilbageholdelsesregistre og påstande om, at personlige telefoner blev ransaget uden passende tilladelse.
-    - **Behandling af mindreårige:** rapporter omfatter afhøring uden værger eller psykologer, påstået isolation og mulig udsættelse for magt eller tilbageholdelse.
-    - **Pressefrihed:** overfald, trusler, kvæstelser, obstruktion og tvangsfjernelse, der påvirker journalister og mediearbejdere.
-
-    Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. Nogle deltagere kastede efter sigende med sten og tændte bål; det retfærdiggør ikke magtanvendelse mod folk, der ikke gjorde det. Som den albanske Helsinki-komité sagde den 13. oktober, kan enkeltpersoners handlinger ikke gøre en hel forsamling voldelig, og politistyrken skal forblive lovlig, nødvendig og forholdsmæssig.
-
-    Jeg ville være taknemmelig, hvis din institution kunne:
-
-    - Sæt denne situation på din presserende overvågningsdagsorden og kontakt de relevante albanske myndigheder nu.
-    - Søg bevarelse af politiets video, udsendelsesordrer og lægejournaler, der er relevante for de rapporterede kvæstelser og tilbageholdelser.
-    - Tryk på for en uafhængig, personspecifik undersøgelse af sagen om alvorlig benskade og eventuelle påstande om overdreven magt.
-    - Afklar, hvilke handlinger du kan tage gennem bilaterale eller multilaterale kanaler, herunder OSCE og Europarådet, hvor det er relevant.
-
-    Jeg vil være taknemmelig for et svar, der forklarer, hvad din institution kan gøre, og hvornår jeg kan forvente et svar. Jeg har vedhæftet ADCN-bevisbrevet, som linker direkte til rapporteringen og de originale indlæg nedenfor.
+    - **Renew Europe (medlem):** Sandro Gozi, generalsekretær for Det Europæiske Demokratiske Parti, krævede en uafhængig undersøgelse af påståede politiovergreb og beskyttelse af fredelige protester og pressefrihed. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (medlemmer):** Marco Tarquinio og Andreas Schieder opfordrede i deres Albanien-roller i Europa-Parlamentet til beskyttelse af fredelige forsamlinger og ansvar for overdreven magtanvendelse, samtidig med at de fordømte vold fra demonstranter (RTSH, 19. oktober). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **De Grønne/EFA og Det Europæiske Grønne Parti — juni 2026:** En delegation deltog i de fredelige protester i Tirana den 29. juni. MEP Tineke Strik lovede at bringe bekymringerne til Bruxelles; medformand Vula Tsetsi støttede forsvaret af natur, demokrati og retsstat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Det Europæiske Folkeparti — 29.–30. juni 2026:** Den Politiske Forsamling udtrykte solidaritet med fredelige demonstranter og krævede, at fremskridt mod EU-medlemskab knyttes til demokrati, grundrettigheder og miljøbeskyttelse. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Venlig hilsen,
 
-    - Flamingo Revolution — protestdokumentation og borgerlige projekter.
-    - Flamingo Revolution Diaspora — diasporaopdateringer og opsøgende.
-    - Albanian Diaspora Civic Network — forskning og evidensbaseret civilt arbejde.
-    - Illyrian Brains Network — et globalt netværk af albanske fagfolk.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -140,29 +119,25 @@ hide:
     - ADCN — bevisgrundlag: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — videosamling, der dokumenterer rapporteret politivold: <https://hajdenshesh.com/dhuna>
 
-    Se den fulde liste over medier, der har rapporteret om protesterne, på siden [Medierapporter ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "International repræsentant"
 
-    !!! warning "Hvem er bedst placeret til at sende dette?"
-        Foreslåede afsendere i prioriteret rækkefølge:
-
-        - **Flamingosamfundene**
-        - **Borgerlige organisationer**
-        - **Fagfolk i netværkene**
-        - **Et diasporamedlem**
-
-        Brug den stærkeste ægte forbindelse og beskriv den nøjagtigt.
+=== "Nationalt parlamentsmedlem"
 
     **Emne:** Flamingoprotester i Albanien: rejs venligst rapporterede menneskerettighedskrænkelser
 
     Hvem det måtte vedrøre,
 
+    **Hvad jeg beder om**
+
     Jeg skriver som [vælger / medlem af den albanske diaspora / bekymret borger] for at bede om parlamentarisk handling på baggrund af meldinger om politivold under studenterprotester i Albanien og bekymring for behandlingen af mindreårige.
 
-    Disse demonstrationer er en del af mere end 140 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet.
+    - Stil et parlamentarisk spørgsmål om regeringens tiltag og det svar, den har bedt Albanien om.
+    - Bed det relevante udvalg høre berørte personer og uafhængige observatører.
+    - Bed Udenrigsministeriet om en offentlig opdatering om kontakter med Albanien, ønskede garantier og næste skridt.
 
-    De rapporterede nøgletal inkluderer:
+    **Hvorfor handling er nødvendig**
+
+    Disse demonstrationer er en del af mere end 150 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet. Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total. Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. De rapporterede nøgletal inkluderer:
 
     - **1.067 anholdelser og 388 straffesager:** rapporteret af Reuters og tilskrevet de albanske myndigheder på tidspunktet for offentliggørelsen.
     - **310 såret indtil 19. oktober:** 191 politibetjente, 88 demonstranter og 31 tilskuere, rapporteret af *El País* med henvisning til tal fra sundhedsministeriet.
@@ -170,37 +145,18 @@ hide:
     - **32 rapporterede politivoldssager:** katalogiseret i Res Publica-bilaget med åbent brev, der dækker 13.-17. oktober; disse er indberettede sager, ikke endelige juridiske resultater.
     - **124 beviselementer gennemgået:** beskrevet i advokaternes følgebrev til Amnesty International, inklusive 31 nyligt indsendte logposter, der dækker 18.-20. oktober; den underliggende fortrolige log er ikke offentlig i dette lager.
 
-    Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total.
+    **Hvad europæiske repræsentanter gør**
 
-    Kildelinket rapportering giver anledning til bekymring om:
+    Repræsentanter fra flere europæiske politiske grupper har støttet fredelige protester og ansvarlighed:
 
-    - **Crowd-control våben:** politiets brug af tåregas, vandkanoner, stafetter, irriterende spray og ifølge internationale rapporter den 17. oktober gummikugler mod demonstranter og tilskuere.
-    - **Behandling af mindreårige:** rapporter omfatter afhøring uden værger eller psykologer, påstået isolation og mulig udsættelse for magt eller tilbageholdelse.
-    - **Pressefrihed:** overfald, trusler, kvæstelser, obstruktion og tvangsfjernelse, der påvirker journalister og mediearbejdere.
-
-    Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater.
-
-    Brug venligst de muligheder, De har, til at:
-
-    - Rejse spørgsmålet om den rapporterede vold gennem et parlamentarisk spørgsmål eller en debat.
-
-    - Bede Udenrigsministeriet tage sagen op med de albanske myndigheder og anmode om et officielt svar.
-
-    - Forelægge bekymringerne for Europa-Parlamentet og Europa-Kommissionen, så respekten for menneskerettigheder får vægt i Albaniens EU-optagelsesforhandlinger.
-
-    - Opfordre til uafhængig observation af retssager mod studerende og mindreårige.
-
-    Fredelig protest, ytringsfrihed og retfærdig behandling er europæiske værdier. Albanske studerende fortjener, at disse rettigheder beskyttes i praksis.
-
-    Oplys venligst, hvilke skridt De kan tage. Kilderne står nedenfor.
+    - **Renew Europe (medlem):** Sandro Gozi, generalsekretær for Det Europæiske Demokratiske Parti, krævede en uafhængig undersøgelse af påståede politiovergreb og beskyttelse af fredelige protester og pressefrihed. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (medlemmer):** Marco Tarquinio og Andreas Schieder opfordrede i deres Albanien-roller i Europa-Parlamentet til beskyttelse af fredelige forsamlinger og ansvar for overdreven magtanvendelse, samtidig med at de fordømte vold fra demonstranter (RTSH, 19. oktober). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **De Grønne/EFA og Det Europæiske Grønne Parti — juni 2026:** En delegation deltog i de fredelige protester i Tirana den 29. juni. MEP Tineke Strik lovede at bringe bekymringerne til Bruxelles; medformand Vula Tsetsi støttede forsvaret af natur, demokrati og retsstat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Det Europæiske Folkeparti — 29.–30. juni 2026:** Den Politiske Forsamling udtrykte solidaritet med fredelige demonstranter og krævede, at fremskridt mod EU-medlemskab knyttes til demokrati, grundrettigheder og miljøbeskyttelse. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Med venlig hilsen
 
-    - Flamingo Revolution — protestdokumentation og borgerlige projekter.
-    - Flamingo Revolution Diaspora — diasporaopdateringer og opsøgende.
-    - Albanian Diaspora Civic Network — forskning og evidensbaseret civilt arbejde.
-    - Illyrian Brains Network — et globalt netværk af albanske fagfolk.
-
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -217,7 +173,62 @@ hide:
     - ADCN — bevisgrundlag: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — videosamling, der dokumenterer rapporteret politivold: <https://hajdenshesh.com/dhuna>
 
-    Se den fulde liste over medier, der har rapporteret om protesterne, på siden [Medierapporter ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "EU-parlamentariker"
+
+    **Emne:** Flamingoprotester i Albanien: rejs venligst rapporterede menneskerettighedskrænkelser
+
+    Hvem det måtte vedrøre,
+
+    **Hvad jeg beder om**
+
+    Jeg beder Dem som EU-parlamentariker tage de rapporterede overgreb ved Albaniens studenterprotester op gennem EU-kontrol og optagelsesprocessen. Oplys gerne, hvilke skridt De kan tage.
+
+    - Stil Kommissionen et skriftligt spørgsmål om overgrebene og beskyttelsen af studerende, mindreårige og journalister.
+    - Bed det relevante udvalg eller Albanien-delegationen høre uafhængige observatører og berørte personer.
+    - Bed om, at rapporterne behandles i optagelsesvurderinger, og at EU-delegationen støtter uafhængig retssagsobservation i Albanien.
+
+    **Hvorfor handling er nødvendig**
+
+    Disse demonstrationer er en del af mere end 150 dages Flamingo-protester i Albanien. Ifølge [bevægelsens offentliggjorte protestkronologi](https://www.flamingorevolution.eu/protestat/) begyndte protesterne over udvikling, der påvirkede det beskyttede Vjosë-Nartë kystlandskab og udvidede til bekymringer om offentlig ansvarlighed, korruptionsbeskyldninger, uddannelse og sundhedspleje, ungdomsudvandring, økonomisk pres, demokratisk repræsentation og retsstatsprincippet. Disse tal har forskellige perioder, populationer og definitioner. De overlapper hinanden og bør ikke lægges sammen som en samlet total. Disse er tilskrevet rapporter og påstande, der kræver uafhængig verifikation, ikke etablerede juridiske resultater. De rapporterede nøgletal inkluderer:
+
+    - **1.067 anholdelser og 388 straffesager:** rapporteret af Reuters og tilskrevet de albanske myndigheder på tidspunktet for offentliggørelsen.
+    - **310 såret indtil 19. oktober:** 191 politibetjente, 88 demonstranter og 31 tilskuere, rapporteret af *El País* med henvisning til tal fra sundhedsministeriet.
+    - **214 tilbageholdte mennesker mødtes under tidligere overvågning:** Ombudsmandens foreløbige optegnelse, som citeret i Res Publica-brevet, bemærkede synlige tegn på vold eller mishandling af beskyldninger for 26 personer og rapporter vedrørende omkring 12 mindreårige, der angiveligt blev holdt i isolation.
+    - **32 rapporterede politivoldssager:** katalogiseret i Res Publica-bilaget med åbent brev, der dækker 13.-17. oktober; disse er indberettede sager, ikke endelige juridiske resultater.
+    - **124 beviselementer gennemgået:** beskrevet i advokaternes følgebrev til Amnesty International, inklusive 31 nyligt indsendte logposter, der dækker 18.-20. oktober; den underliggende fortrolige log er ikke offentlig i dette lager.
+
+    **Hvad europæiske repræsentanter gør**
+
+    Repræsentanter fra flere europæiske politiske grupper har støttet fredelige protester og ansvarlighed:
+
+    - **Renew Europe (medlem):** Sandro Gozi, generalsekretær for Det Europæiske Demokratiske Parti, krævede en uafhængig undersøgelse af påståede politiovergreb og beskyttelse af fredelige protester og pressefrihed. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (medlemmer):** Marco Tarquinio og Andreas Schieder opfordrede i deres Albanien-roller i Europa-Parlamentet til beskyttelse af fredelige forsamlinger og ansvar for overdreven magtanvendelse, samtidig med at de fordømte vold fra demonstranter (RTSH, 19. oktober). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **De Grønne/EFA og Det Europæiske Grønne Parti — juni 2026:** En delegation deltog i de fredelige protester i Tirana den 29. juni. MEP Tineke Strik lovede at bringe bekymringerne til Bruxelles; medformand Vula Tsetsi støttede forsvaret af natur, demokrati og retsstat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Det Europæiske Folkeparti — 29.–30. juni 2026:** Den Politiske Forsamling udtrykte solidaritet med fredelige demonstranter og krævede, at fremskridt mod EU-medlemskab knyttes til demokrati, grundrettigheder og miljøbeskyttelse. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    Med venlig hilsen
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Referencer:**
+
+    Udvalgt international rapportering, nyeste først:
+
+    - El País, 22. oktober — rapportering fra Tirana om de fortsatte studenterprotester, politi-demonstrationsvold og regeringens tilbud om dialog: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18. oktober — arrestationer, straffesager og regeringens svar: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Primær og lokal dokumentation for specifikke påstande:
+
+    - Albansk ombudsmand, 20. oktober — foreløbige overvågningsresultater om tilbageholdelsesforhold og behandling af mindreårige: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — bevisgrundlag: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — videosamling, der dokumenterer rapporteret politivold: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Valgfri billedvedhæftning og Flamingo-ressourcer
 
@@ -255,7 +266,7 @@ Download kun de billeder, der er relevante for din besked, behold den medfølgen
 
 ## Oversættelser
 
-De samme tre e-mails er tilgængelige på [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+De samme fire e-mails er tilgængelige på [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Credits og anerkendelser
 

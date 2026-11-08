@@ -12,7 +12,7 @@ const english = recipientTemplates(fs.readFileSync(path.join(docs, 'messages/ind
 const urls = text => [...new Set([...text.matchAll(/https?:\/\/[^\s<>\)]+/g)].map(match => match[0]))];
 
 test('translated letters retain English recipients, sources and relevant detail', () => {
-  assert.equal(english.length, 3);
+  assert.equal(english.length, 4);
   for (const file of fs.readdirSync(path.join(docs, 'languages')).filter(name => name.endsWith('.md'))) {
     const translated = recipientTemplates(fs.readFileSync(path.join(docs, 'languages', file), 'utf8'));
     assert.equal(translated.length, english.length, file);
@@ -20,7 +20,7 @@ test('translated letters retain English recipients, sources and relevant detail'
       const label = `${file}, recipient ${index + 1}`;
       for (const url of urls(english[index])) assert.ok(letter.includes(url), `${label}: missing source ${url}`);
       assert.match(letter, /1[.,\s\u00a0\u202f]?067/, `${label}: arrests figure`);
-      for (const number of ['140', '388', '310', '191', '88', '31', '214', '26', '12', '32', '124']) {
+      for (const number of ['150', '388', '310', '191', '88', '31', '214', '26', '12', '32', '124']) {
         assert.match(letter, new RegExp(`\\b${number}\\b`), `${label}: missing figure ${number}`);
       }
     });

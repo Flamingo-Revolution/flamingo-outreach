@@ -23,10 +23,8 @@ hide:
       <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option><option value="actors">Actors / civil society</option></select>
       <label for="outreach-display">Marker display</label>
       <select id="outreach-display"><option value="percentage">Percentage</option><option value="numbers">Numbers (done / total)</option><option value="done-todo" selected>Done + todo</option></select>
-      <button id="outreach-reset" type="button">Back to Europe</button>
     </section>
     <section id="outreach-pane-stats" class="outreach-panel-section">
-      <div class="outreach-completion"><div><span>Done</span><strong id="outreach-completion-label">—</strong></div><progress id="outreach-completion" max="100" value="0" aria-label="Share done"></progress></div>
       <div class="outreach-stats-list" aria-label="Outreach statistics">
         <div class="outreach-stat-row"><span>Countries & groups</span><strong id="outreach-stat-countries">—</strong></div>
         <div class="outreach-stat-row"><span>Entries</span><strong id="outreach-stat-total">—</strong></div>
@@ -34,7 +32,6 @@ hide:
         <div class="outreach-stat-row outreach-stat-row--attention"><span>To do</span><strong id="outreach-stat-missing">—</strong></div>
       </div>
       <div class="outreach-country-stats">
-        <input id="outreach-stats-search" type="search" placeholder="Find a country" aria-label="Find a country" autocomplete="off">
         <div id="outreach-country-stats-body" aria-label="Country progress"></div>
       </div>
     </section>
@@ -42,6 +39,7 @@ hide:
       <div class="outreach-legend" aria-label="Capital marker color by share of linked coverage or responses">
         <span style="--country-color:#c45b64">0–25% linked</span><span style="--country-color:#ca8c36">>25–50% linked</span><span style="--country-color:#73a787">>50–75% linked</span><span style="--country-color:#277f73">>75–100% linked</span><span style="--country-color:#a3abb4">No entries</span>
       </div>
+      <button id="outreach-reset" type="button">Back to Europe</button>
     </section>
   </aside>
   <button id="outreach-panel-backdrop" class="outreach-panel-backdrop" type="button" aria-label="Close map controls" tabindex="-1" hidden></button>

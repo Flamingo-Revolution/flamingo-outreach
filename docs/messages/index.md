@@ -11,46 +11,44 @@ hide:
 
 # Flamingo Protests in Albania — English awareness emails
 
+You can send these letters yourself. Choose the version that fits your recipient, add a few words of your own, and send it in your name. Every personal message helps bring attention to the protests. After “Kind regards”, add your name or your organisation’s name.
 
-=== "Media"
+=== "Local Media"
 
-    **Subject:** Flamingo Protests in Albania: reported police abuses during Tirana student demonstrations
+    **Subject:** Albania’s student protests: request for local reporting and verification
 
-    To whom it may concern,
+    Dear editorial team,
 
-    I am asking your newsroom to urgently examine reported human-rights abuses during the student-led demonstrations that began in Tirana on 13 October 2026 and have since spread. The protests involve students, including high school pupils, and the allegations deserve wider public attention.
+    **How your newsroom can help**
 
-    These demonstrations form part of more than 140 days of Flamingo protests in Albania. According to the [movement's published protest chronology](https://www.flamingorevolution.eu/protestat/), the protests began over development affecting the protected Vjosë–Nartë coastal landscape and broadened to concerns about public accountability, corruption allegations, education and healthcare, youth emigration, economic pressure, democratic representation and the rule of law.
+    I am writing to ask your newsroom to investigate reports of police abuses during Albania’s student-led demonstrations, which began in Tirana on 13 October 2026 and include high school pupils. Please let me know whether your newsroom can pursue this story. The figures, source links and further resources below provide a starting point.
 
-    Key reported figures include:
+    - Investigate the reports by speaking with students, families, lawyers and journalists, and checking the available footage and records.
+    - Seek an on-record response from the Albanian authorities about the use of force and the treatment of minors in custody.
+    - Cover the findings and follow up on whether complaints lead to independent investigations and accountability.
 
-    - **1,067 arrests and 388 criminal proceedings:** reported by Reuters and attributed to the Albanian authorities at the time of publication.
-    - **310 injured through 19 October:** 191 police officers, 88 protesters and 31 bystanders, reported by *El País* citing Ministry of Health figures.
-    - **214 detained people met during earlier monitoring:** the Ombudsman's preliminary record, as cited in the Res Publica letter, noted visible signs of violence or mistreatment allegations for 26 people and reports concerning about 12 minors allegedly held in isolation.
-    - **32 reported police-violence cases:** catalogued in the Res Publica open-letter annex covering 13–17 October; these are reported cases, not final legal findings.
-    - **124 evidence items reviewed:** described in the lawyers' cover letter to Amnesty International, including 31 newly submitted log entries covering 18–20 October; the underlying confidential log is not public in this repository.
+    **Why action is needed**
 
-    These figures have different periods, populations and definitions. They overlap and should not be added together as a single total.
+    The demonstrations follow more than 150 days of Flamingo protests, which began over development in the protected Vjosë–Nartë landscape and expanded to public services, accountability and the rule of law ([protest chronology](https://www.flamingorevolution.eu/protestat/)). These figures cover different periods and groups, overlap, and must not be added together. These are attributed reports and allegations requiring independent verification, not established legal findings. Key reported figures include:
 
-    Source-linked reporting raises concerns about:
+    - **1,067 arrests; 388 criminal proceedings:** Reuters, citing Albanian authorities.
+    - **310 injured through 19 October:** 191 police, 88 protesters and 31 bystanders (*El País*, citing the Health Ministry).
+    - **214 detainees met:** earlier Ombudsman monitoring, cited by Res Publica, recorded visible signs of violence or mistreatment allegations for 26 people and reports of about 12 minors allegedly held in isolation.
+    - **32 reported police-violence cases:** Res Publica’s annex covering 13–17 October; not final legal findings.
+    - **124 evidence items reviewed:** lawyers’ letter to Amnesty International, including 31 new log entries for 18–20 October. The confidential log is not public.
 
-    - **Crowd-control weapons:** police use of tear gas, water cannon, batons, irritant spray and, according to international reporting on 17 October, rubber bullets against protesters and bystanders.
-    - **Physical force and restraint:** potentially excessive force, including people reportedly held on the ground.
-    - **Serious injury:** a hospital interviewee alleged that police caused a serious leg injury.
-    - **Detention safeguards:** the Ombudsman documented missing rights-information forms, incomplete detention registers and allegations that personal phones were searched without appropriate authorization.
-    - **Treatment of minors:** reports include questioning without guardians or psychologists, alleged isolation and possible exposure to force or detention.
-    - **Freedom of the press:** assaults, threats, injuries, obstruction and forced removal affecting journalists and media workers.
+    **What European representatives are doing**
 
-    These are attributed reports and allegations requiring independent verification, not established legal findings. Some participants reportedly threw stones and lit fires; that does not justify the use of force against people who did not. As the Albanian Helsinki Committee said on 13 October, the acts of individuals cannot make an entire assembly violent, and police force must remain lawful, necessary and proportionate.
+    Representatives from several European political groups have spoken up for peaceful protest and accountability:
 
-    Please assign a reporter, seek responses from the Albanian authorities and affected people, and press for preservation of police video, deployment orders and medical records alongside an independent inquiry into the serious leg-injury case—especially while covering the possible treatment of minors and interference with journalists. I would appreciate knowing whether and when your newsroom plans to cover this. The attached brief provides sources and verification questions.
+    - **Renew Europe (member):** Sandro Gozi, European Democratic Party Secretary General, called for an independent investigation into alleged police abuses and protection of peaceful protest and press freedom. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (members):** Marco Tarquinio and Andreas Schieder, in their European Parliament roles on Albania, urged protection of peaceful assembly and accountability for excessive force, while condemning violence by protesters (RTSH, 19 October). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA and European Green Party — June 2026:** A delegation joined the peaceful Tirana protests on 29 June. MEP Tineke Strik pledged to bring protesters’ concerns back to Brussels; co-chair Vula Tsetsi supported their defence of nature, democracy and the rule of law. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **European People’s Party — 29–30 June 2026:** Its Political Assembly expressed solidarity with peaceful protesters and called for EU accession progress to remain linked to democracy, fundamental rights and environmental protection. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Kind regards,
 
-    - Flamingo Revolution — protest documentation and civic projects.
-    - Flamingo Revolution Diaspora — diaspora updates and outreach.
-    - Albanian Diaspora Civic Network — research and evidence-based civic work.
-    - Illyrian Brains Network — a global network of Albanian professionals.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -67,64 +65,44 @@ hide:
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "International institution"
 
-    !!! warning "Who is best placed to send this?"
-        Suggested senders, in priority order:
+=== "Local Institution"
 
-        - **The Flamingo communities**
-        - **Civic organisations**
-        - **Professionals in the networks**
-        - **A diaspora member**
+    **Subject:** Albania’s student protests: request for diplomatic follow-up and safeguards
 
-        Use the strongest genuine connection and describe it accurately.
+    Dear [institution or department],
 
-    **Subject:** Flamingo Protests in Albania: urgent alert on reported rights abuses
+    **Steps your institution can take**
 
-    To whom it may concern,
+    I am writing to ask your institution to review the reported treatment of protesters and detainees in Albania and take the protective steps available within its mandate. Please let me know which steps fall within your mandate and whether you can provide an update on any follow-up.
 
-    I am writing to alert your institution to serious reported human-rights concerns during student-led demonstrations that began in Tirana on 13 October 2026 and have since spread. Students, journalists, bystanders and detainees may be affected, and high school participation raises particular child-protection concerns.
+    - Review the available evidence and raise concerns directly with the Albanian authorities through the channels available to your institution.
+    - Seek safeguards for detainees, particularly minors, including access to lawyers and appropriate medical care.
+    - Support independent monitoring of detention conditions and court proceedings, and request the preservation of relevant evidence.
 
-    These demonstrations form part of more than 140 days of Flamingo protests in Albania. According to the [movement's published protest chronology](https://www.flamingorevolution.eu/protestat/), the protests began over development affecting the protected Vjosë–Nartë coastal landscape and broadened to concerns about public accountability, corruption allegations, education and healthcare, youth emigration, economic pressure, democratic representation and the rule of law.
+    **Why action is needed**
 
-    Key reported figures include:
+    The demonstrations follow more than 150 days of Flamingo protests, which began over development in the protected Vjosë–Nartë landscape and expanded to public services, accountability and the rule of law ([protest chronology](https://www.flamingorevolution.eu/protestat/)). These figures cover different periods and groups, overlap, and must not be added together. These are attributed reports and allegations requiring independent verification, not established legal findings. Key reported figures include:
 
-    - **1,067 arrests and 388 criminal proceedings:** reported by Reuters and attributed to the Albanian authorities at the time of publication.
-    - **310 injured through 19 October:** 191 police officers, 88 protesters and 31 bystanders, reported by *El País* citing Ministry of Health figures.
-    - **214 detained people met during earlier monitoring:** the Ombudsman's preliminary record, as cited in the Res Publica letter, noted visible signs of violence or mistreatment allegations for 26 people and reports concerning about 12 minors allegedly held in isolation.
-    - **32 reported police-violence cases:** catalogued in the Res Publica open-letter annex covering 13–17 October; these are reported cases, not final legal findings.
-    - **124 evidence items reviewed:** described in the lawyers' cover letter to Amnesty International, including 31 newly submitted log entries covering 18–20 October; the underlying confidential log is not public in this repository.
+    - **1,067 arrests; 388 criminal proceedings:** Reuters, citing Albanian authorities.
+    - **310 injured through 19 October:** 191 police, 88 protesters and 31 bystanders (*El País*, citing the Health Ministry).
+    - **214 detainees met:** earlier Ombudsman monitoring, cited by Res Publica, recorded visible signs of violence or mistreatment allegations for 26 people and reports of about 12 minors allegedly held in isolation.
+    - **32 reported police-violence cases:** Res Publica’s annex covering 13–17 October; not final legal findings.
+    - **124 evidence items reviewed:** lawyers’ letter to Amnesty International, including 31 new log entries for 18–20 October. The confidential log is not public.
 
-    These figures have different periods, populations and definitions. They overlap and should not be added together as a single total.
+    **What European representatives are doing**
 
-    Source-linked reporting raises concerns about:
+    Representatives from several European political groups have spoken up for peaceful protest and accountability:
 
-    - **Crowd-control weapons:** police use of tear gas, water cannon, batons, irritant spray and, according to international reporting on 17 October, rubber bullets against protesters and bystanders.
-    - **Physical force and restraint:** potentially excessive force, including people reportedly held on the ground.
-    - **Serious injury:** a hospital interviewee alleged that police caused a serious leg injury.
-    - **Detention safeguards:** the Ombudsman documented missing rights-information forms, incomplete detention registers and allegations that personal phones were searched without appropriate authorization.
-    - **Treatment of minors:** reports include questioning without guardians or psychologists, alleged isolation and possible exposure to force or detention.
-    - **Freedom of the press:** assaults, threats, injuries, obstruction and forced removal affecting journalists and media workers.
-
-    These are attributed reports and allegations requiring independent verification, not established legal findings. Some participants reportedly threw stones and lit fires; that does not justify the use of force against people who did not. As the Albanian Helsinki Committee said on 13 October, the acts of individuals cannot make an entire assembly violent, and police force must remain lawful, necessary and proportionate.
-
-    I would be grateful if your institution could:
-
-    - Place this situation on your urgent monitoring agenda and contact the appropriate Albanian authorities now.
-    - Seek preservation of police video, deployment orders and medical records relevant to the reported injuries and detentions.
-    - Press for an independent, person-specific inquiry into the serious leg-injury case and any allegations of excessive force.
-    - Clarify what action you can take through bilateral or multilateral channels, including the OSCE and the Council of Europe where relevant.
-
-    I would be grateful for a reply explaining what your institution can do and when I might expect a response. I have attached the ADCN evidence brief, which links directly to the reporting and original posts below.
+    - **Renew Europe (member):** Sandro Gozi, European Democratic Party Secretary General, called for an independent investigation into alleged police abuses and protection of peaceful protest and press freedom. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (members):** Marco Tarquinio and Andreas Schieder, in their European Parliament roles on Albania, urged protection of peaceful assembly and accountability for excessive force, while condemning violence by protesters (RTSH, 19 October). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA and European Green Party — June 2026:** A delegation joined the peaceful Tirana protests on 29 June. MEP Tineke Strik pledged to bring protesters’ concerns back to Brussels; co-chair Vula Tsetsi supported their defence of nature, democracy and the rule of law. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **European People’s Party — 29–30 June 2026:** Its Political Assembly expressed solidarity with peaceful protesters and called for EU accession progress to remain linked to democracy, fundamental rights and environmental protection. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Kind regards,
 
-    - Flamingo Revolution — protest documentation and civic projects.
-    - Flamingo Revolution Diaspora — diaspora updates and outreach.
-    - Albanian Diaspora Civic Network — research and evidence-based civic work.
-    - Illyrian Brains Network — a global network of Albanian professionals.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -141,67 +119,44 @@ hide:
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "International representative"
 
-    !!! warning "Who is best placed to send this?"
-        Suggested senders, in priority order:
+=== "Local MP"
 
-        - **The Flamingo communities**
-        - **Civic organisations**
-        - **Professionals in the networks**
-        - **A diaspora member**
+    **Subject:** Albania’s student protests: request for parliamentary questions to your government
 
-        Use the strongest genuine connection and describe it accurately.
+    Dear [title and surname],
 
-    **Subject:** Flamingo Protests in Albania: please raise reported human-rights abuses
+    **Parliamentary action I am requesting**
 
-    To whom it may concern,
+    I am writing as [a constituent / a member of the Albanian diaspora / a concerned resident] to ask you to bring reported police abuses during Albania’s student protests before parliament. I would appreciate a reply outlining which parliamentary steps you can take and when.
 
-    I am writing as [a constituent / a member of the Albanian diaspora / a concerned resident] to ask for parliamentary action on reported police violence during student protests in Albania, including concerns about the treatment of minors.
+    - Table a parliamentary question asking what your government is doing about the reported abuses and what response it has sought from Albania.
+    - Ask the relevant foreign affairs or human rights committee to examine the reports and hear from affected people and independent monitors.
+    - Request a public update from your foreign ministry on its contacts with Albania, the safeguards it has sought and the follow-up it plans.
 
-    These demonstrations form part of more than 140 days of Flamingo protests in Albania. According to the [movement's published protest chronology](https://www.flamingorevolution.eu/protestat/), the protests began over development affecting the protected Vjosë–Nartë coastal landscape and broadened to concerns about public accountability, corruption allegations, education and healthcare, youth emigration, economic pressure, democratic representation and the rule of law.
+    **Why action is needed**
 
-    Key reported figures include:
+    The demonstrations follow more than 150 days of Flamingo protests, which began over development in the protected Vjosë–Nartë landscape and expanded to public services, accountability and the rule of law ([protest chronology](https://www.flamingorevolution.eu/protestat/)). These figures cover different periods and groups, overlap, and must not be added together. These are attributed reports and allegations requiring independent verification, not established legal findings. Key reported figures include:
 
-    - **1,067 arrests and 388 criminal proceedings:** reported by Reuters and attributed to the Albanian authorities at the time of publication.
-    - **310 injured through 19 October:** 191 police officers, 88 protesters and 31 bystanders, reported by *El País* citing Ministry of Health figures.
-    - **214 detained people met during earlier monitoring:** the Ombudsman's preliminary record, as cited in the Res Publica letter, noted visible signs of violence or mistreatment allegations for 26 people and reports concerning about 12 minors allegedly held in isolation.
-    - **32 reported police-violence cases:** catalogued in the Res Publica open-letter annex covering 13–17 October; these are reported cases, not final legal findings.
-    - **124 evidence items reviewed:** described in the lawyers' cover letter to Amnesty International, including 31 newly submitted log entries covering 18–20 October; the underlying confidential log is not public in this repository.
+    - **1,067 arrests; 388 criminal proceedings:** Reuters, citing Albanian authorities.
+    - **310 injured through 19 October:** 191 police, 88 protesters and 31 bystanders (*El País*, citing the Health Ministry).
+    - **214 detainees met:** earlier Ombudsman monitoring, cited by Res Publica, recorded visible signs of violence or mistreatment allegations for 26 people and reports of about 12 minors allegedly held in isolation.
+    - **32 reported police-violence cases:** Res Publica’s annex covering 13–17 October; not final legal findings.
+    - **124 evidence items reviewed:** lawyers’ letter to Amnesty International, including 31 new log entries for 18–20 October. The confidential log is not public.
 
-    These figures have different periods, populations and definitions. They overlap and should not be added together as a single total.
+    **What European representatives are doing**
 
-    Source-linked reporting raises concerns about:
+    Representatives from several European political groups have spoken up for peaceful protest and accountability:
 
-    - **Crowd-control weapons:** police use of tear gas, water cannon, batons, irritant spray and, according to international reporting on 17 October, rubber bullets against protesters and bystanders.
-    - **Treatment of minors:** reports include questioning without guardians or psychologists, alleged isolation and possible exposure to force or detention.
-    - **Freedom of the press:** assaults, threats, injuries, obstruction and forced removal affecting journalists and media workers.
-
-    These are attributed reports and allegations requiring independent verification, not established legal findings.
-
-    Please use the channels available to you to:
-
-    - Raise the reported violence through a parliamentary question or debate.
-
-    - Ask the foreign ministry to raise the issue with the Albanian authorities and request an official response.
-
-    - Raise these concerns with the European Parliament and European Commission so that respect for human rights carries weight in Albania’s EU accession talks.
-
-    - Call for independent monitoring of court proceedings involving students and minors.
-
-    Peaceful protest, freedom of expression and fair treatment are European values. Albanian students deserve to see those rights protected in practice.
-
-    Please let me know what steps you can take. Sources are linked below.
+    - **Renew Europe (member):** Sandro Gozi, European Democratic Party Secretary General, called for an independent investigation into alleged police abuses and protection of peaceful protest and press freedom. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (members):** Marco Tarquinio and Andreas Schieder, in their European Parliament roles on Albania, urged protection of peaceful assembly and accountability for excessive force, while condemning violence by protesters (RTSH, 19 October). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA and European Green Party — June 2026:** A delegation joined the peaceful Tirana protests on 29 June. MEP Tineke Strik pledged to bring protesters’ concerns back to Brussels; co-chair Vula Tsetsi supported their defence of nature, democracy and the rule of law. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **European People’s Party — 29–30 June 2026:** Its Political Assembly expressed solidarity with peaceful protesters and called for EU accession progress to remain linked to democracy, fundamental rights and environmental protection. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Kind regards,
 
-    - Flamingo Revolution — protest documentation and civic projects.
-    - Flamingo Revolution Diaspora — diaspora updates and outreach.
-    - Albanian Diaspora Civic Network — research and evidence-based civic work.
-    - Illyrian Brains Network — a global network of Albanian professionals.
-
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -218,7 +173,62 @@ hide:
     - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
 
-    For the full list of media outlets that have reported on the protests, see [Media Reports ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "EU MP"
+
+    **Subject:** Albania’s student protests: request for EU scrutiny and Commission answers
+
+    Dear [title and surname],
+
+    **Action through the European Parliament**
+
+    I am writing as [an EU resident / a member of the Albanian diaspora / a concerned citizen] to ask you, as a Member of the European Parliament, to raise reported abuses during Albania’s student protests through EU oversight and accession scrutiny. Please let me know which steps you can take.
+
+    - Submit a written question to the European Commission on its assessment of the reported abuses and the safeguards it is seeking for students, minors and journalists.
+    - Ask the relevant parliamentary committee or Albania delegation to hear from independent monitors and affected people, and examine the findings.
+    - Press for the Commission’s accession assessments to address these reports and for the EU Delegation in Albania to support independent trial monitoring and follow up on accountability.
+
+    **Why action is needed**
+
+    The demonstrations follow more than 150 days of Flamingo protests, which began over development in the protected Vjosë–Nartë landscape and expanded to public services, accountability and the rule of law ([protest chronology](https://www.flamingorevolution.eu/protestat/)). These figures cover different periods and groups, overlap, and must not be added together. These are attributed reports and allegations requiring independent verification, not established legal findings. Key reported figures include:
+
+    - **1,067 arrests; 388 criminal proceedings:** Reuters, citing Albanian authorities.
+    - **310 injured through 19 October:** 191 police, 88 protesters and 31 bystanders (*El País*, citing the Health Ministry).
+    - **214 detainees met:** earlier Ombudsman monitoring, cited by Res Publica, recorded visible signs of violence or mistreatment allegations for 26 people and reports of about 12 minors allegedly held in isolation.
+    - **32 reported police-violence cases:** Res Publica’s annex covering 13–17 October; not final legal findings.
+    - **124 evidence items reviewed:** lawyers’ letter to Amnesty International, including 31 new log entries for 18–20 October. The confidential log is not public.
+
+    **What European representatives are doing**
+
+    Representatives from several European political groups have spoken up for peaceful protest and accountability:
+
+    - **Renew Europe (member):** Sandro Gozi, European Democratic Party Secretary General, called for an independent investigation into alleged police abuses and protection of peaceful protest and press freedom. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (members):** Marco Tarquinio and Andreas Schieder, in their European Parliament roles on Albania, urged protection of peaceful assembly and accountability for excessive force, while condemning violence by protesters (RTSH, 19 October). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Greens/EFA and European Green Party — June 2026:** A delegation joined the peaceful Tirana protests on 29 June. MEP Tineke Strik pledged to bring protesters’ concerns back to Brussels; co-chair Vula Tsetsi supported their defence of nature, democracy and the rule of law. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **European People’s Party — 29–30 June 2026:** Its Political Assembly expressed solidarity with peaceful protesters and called for EU accession progress to remain linked to democracy, fundamental rights and environmental protection. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    Kind regards,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **References:**
+
+    Selected international reporting, newest first:
+
+    - El País, 22 October — reporting from Tirana on the continuing student protests, police–protester violence and the government's offer of dialogue: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 October — arrests, criminal proceedings and the government's response: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Primary and local documentation for specific allegations:
+
+    - Albanian Ombudsman, 20 October — preliminary monitoring findings on detention conditions and the treatment of minors: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — evidence base: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — video collection documenting reported police violence: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Optional image attachments and Flamingo resources
 
@@ -254,7 +264,7 @@ Download only the images relevant to your message, keep the supplied credit, and
 
 ## Translations
 
-The three recipient templates are available in [Albanian](../languages/sq.md) · [Bulgarian](../languages/bg.md) · [Czech](../languages/cs.md) · [Danish](../languages/da.md) · [Dutch](../languages/nl.md) · [Finnish](../languages/fi.md) · [French](../languages/fr.md) · [German](../languages/de.md) · [Greek](../languages/el.md) · [Italian](../languages/it.md) · [Norwegian](../languages/no.md) · [Polish](../languages/pl.md) · [Portuguese](../languages/pt.md) · [Romanian](../languages/ro.md) · [Serbian](../languages/sr.md) · [Spanish](../languages/es.md) · [Swedish](../languages/sv.md) · [Turkish](../languages/tr.md) · [Ukrainian](../languages/uk.md).
+The four recipient templates are available in [Albanian](../languages/sq.md) · [Bulgarian](../languages/bg.md) · [Czech](../languages/cs.md) · [Danish](../languages/da.md) · [Dutch](../languages/nl.md) · [Finnish](../languages/fi.md) · [French](../languages/fr.md) · [German](../languages/de.md) · [Greek](../languages/el.md) · [Italian](../languages/it.md) · [Norwegian](../languages/no.md) · [Polish](../languages/pl.md) · [Portuguese](../languages/pt.md) · [Romanian](../languages/ro.md) · [Serbian](../languages/sr.md) · [Spanish](../languages/es.md) · [Swedish](../languages/sv.md) · [Turkish](../languages/tr.md) · [Ukrainian](../languages/uk.md).
 
 ## Credits and acknowledgements
 

@@ -11,17 +11,25 @@ hide:
 
 # Protestas de flamencos en Albania: correos electrónicos de sensibilización en inglés
 
-=== "Medios de comunicación"
+Puedes enviar estas cartas personalmente. Elige la versión adecuada, añade unas palabras propias y envíala en tu nombre. Cada mensaje personal ayuda a dar visibilidad a las protestas. Después del saludo de despedida, añade tu nombre o el de tu organización.
+
+=== "Medios locales"
 
     **Asunto:** Protestas de flamencos en Albania: denuncias de abusos policiales durante manifestaciones estudiantiles en Tirana
 
     A quien le interese,
 
+    **Qué solicito**
+
     Pido a su sala de redacción que examine urgentemente los abusos contra los derechos humanos denunciados durante las manifestaciones lideradas por estudiantes que comenzaron en Tirana el 13 de octubre de 2026 y que desde entonces se han extendido. En las protestas participan estudiantes, incluidos alumnos de secundaria, y las acusaciones merecen una atención pública más amplia.
 
-    Estas manifestaciones forman parte de más de 140 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho.
+    - Investiguen escuchando a las personas afectadas y verificando imágenes y documentos.
+    - Soliciten una respuesta oficial sobre el uso de la fuerza y el trato a menores.
+    - Publiquen los resultados y sigan la tramitación de las denuncias.
 
-    Las cifras clave reportadas incluyen:
+    **Por qué hace falta actuar**
+
+    Estas manifestaciones forman parte de más de 150 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho. Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único. Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Las cifras clave reportadas incluyen:
 
     - **1.067 arrestos y 388 procesos penales:** informados por Reuters y atribuidos a las autoridades albanesas en el momento de la publicación.
     - **310 heridos hasta el 19 de octubre**: 191 policías, 88 manifestantes y 31 transeúntes, informó *El País* citando cifras del Ministerio de Salud.
@@ -29,27 +37,18 @@ hide:
     - **32 casos denunciados de violencia policial:** catalogados en el anexo de la carta abierta de Res Publica que abarca del 13 al 17 de octubre; Estos son casos reportados, no conclusiones legales finales.
     - **124 elementos de evidencia revisados:** descritos en la carta de presentación de los abogados a Amnistía Internacional, incluidas 31 entradas de registro recientemente presentadas que abarcan del 18 al 20 de octubre; el registro confidencial subyacente no es público en este repositorio.
 
-    Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único.
+    **Qué hacen los representantes europeos**
 
-    Los informes vinculados a fuentes plantean preocupaciones sobre:
+    Representantes de varios grupos políticos europeos han defendido la protesta pacífica y la rendición de cuentas:
 
-    - **Armas de control de multitudes:** uso policial de gases lacrimógenos, cañones de agua, porras, aerosoles irritantes y, según informes internacionales del 17 de octubre, balas de goma contra manifestantes y transeúntes.
-    - **Fuerza física y contención:** fuerza potencialmente excesiva, incluidas las personas supuestamente retenidas en el suelo.
-    - **Lesiones graves:** un entrevistado del hospital alegó que la policía le causó una lesión grave en la pierna.
-    - **Salvaguardias de detención:** el Defensor del Pueblo documentó la falta de formularios de información sobre derechos, registros de detención incompletos y denuncias de que se registraron teléfonos personales sin la autorización adecuada.
-    - **Trato a menores:** los informes incluyen interrogatorios sin tutores ni psicólogos, presunto aislamiento y posible exposición a la fuerza o detención.
-    - **Libertad de prensa:** agresiones, amenazas, lesiones, obstrucción y desalojo forzado que afectan a periodistas y trabajadores de medios de comunicación.
-
-    Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Según los informes, algunos participantes arrojaron piedras y encendieron hogueras; eso no justifica el uso de la fuerza contra personas que no lo hicieron. Como dijo el Comité Albanés de Helsinki el 13 de octubre, los actos de individuos no pueden tornar violenta a una asamblea entera, y la fuerza policial debe seguir siendo legal, necesaria y proporcionada.
-
-    Asigne un reportero, busque respuestas de las autoridades albanesas y de las personas afectadas, y presione para que se preserven los videos policiales, las órdenes de despliegue y los registros médicos junto con una investigación independiente sobre el caso de lesiones graves en las piernas, especialmente mientras se cubre el posible tratamiento de menores y la interferencia con los periodistas. Agradecería saber si su redacción planea cubrir esto y cuándo. El informe adjunto proporciona fuentes y preguntas de verificación.
+    - **Renew Europe (miembro):** Sandro Gozi, secretario general del Partido Demócrata Europeo, pidió una investigación independiente de los presuntos abusos policiales y protección de la protesta pacífica y la libertad de prensa. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (miembros):** Marco Tarquinio y Andreas Schieder, en sus funciones sobre Albania en el Parlamento Europeo, pidieron proteger la reunión pacífica y exigir responsabilidades por el uso excesivo de la fuerza, condenando también la violencia de manifestantes (RTSH, 19 de octubre). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Verdes/ALE y Partido Verde Europeo — junio de 2026:** Una delegación se unió a las protestas pacíficas en Tirana el 29 de junio. La eurodiputada Tineke Strik prometió llevar sus preocupaciones a Bruselas; la copresidenta Vula Tsetsi apoyó la defensa de la naturaleza, la democracia y el Estado de derecho. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partido Popular Europeo — 29–30 de junio de 2026:** Su Asamblea Política expresó solidaridad con los manifestantes pacíficos y pidió vincular los avances hacia la UE con la democracia, los derechos fundamentales y la protección ambiental. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Atentamente,
 
-    - Flamingo Revolution — documentación de protesta y proyectos cívicos.
-    - Diáspora de Flamingo Revolution — actualizaciones y divulgación de la diáspora.
-    - Red Cívica de la Diáspora Albanesa — investigación y trabajo cívico basado en evidencia.
-    - Illyrian Brains Network: una red global de profesionales albaneses.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -66,29 +65,25 @@ hide:
     - ADCN — base de evidencia: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — colección de vídeos que documentan la violencia policial denunciada: <https://hajdenshesh.com/dhuna>
 
-    La lista completa de medios que han informado sobre las protestas está disponible en [Informes de medios ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Institución internacional"
 
-    !!! warning "¿Quién está en mejor posición para enviar esto?"
-        Remitentes sugeridos, en orden de prioridad:
-
-        - **Las comunidades Flamencas**
-        - **Organizaciones cívicas**
-        - **Profesionales en las redes**
-        - **Un miembro de la diáspora**
-
-        Utilice la conexión genuina más fuerte y descríbala con precisión.
+=== "Institución local"
 
     **Asunto:** Protestas de flamencos en Albania: alerta urgente sobre denuncias de abusos de derechos
 
     A quien le interese,
 
+    **Qué solicito**
+
     Le escribo para alertar a su institución sobre graves preocupaciones en materia de derechos humanos durante las manifestaciones dirigidas por estudiantes que comenzaron en Tirana el 13 de octubre de 2026 y que desde entonces se han extendido. Los estudiantes, periodistas, transeúntes y detenidos pueden verse afectados, y la participación en las escuelas secundarias plantea preocupaciones particulares en materia de protección infantil.
 
-    Estas manifestaciones forman parte de más de 140 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho.
+    - Examinen las pruebas disponibles y planteen las preocupaciones directamente a las autoridades albanesas.
+    - Soliciten acceso a asistencia letrada y atención médica, especialmente para menores detenidos.
+    - Apoyen la observación independiente de detenciones y juicios y la conservación de pruebas.
 
-    Las cifras clave reportadas incluyen:
+    **Por qué hace falta actuar**
+
+    Estas manifestaciones forman parte de más de 150 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho. Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único. Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Las cifras clave reportadas incluyen:
 
     - **1.067 arrestos y 388 procesos penales:** informados por Reuters y atribuidos a las autoridades albanesas en el momento de la publicación.
     - **310 heridos hasta el 19 de octubre**: 191 policías, 88 manifestantes y 31 transeúntes, informó *El País* citando cifras del Ministerio de Salud.
@@ -96,34 +91,18 @@ hide:
     - **32 casos denunciados de violencia policial:** catalogados en el anexo de la carta abierta de Res Publica que abarca del 13 al 17 de octubre; Estos son casos reportados, no conclusiones legales finales.
     - **124 elementos de evidencia revisados:** descritos en la carta de presentación de los abogados a Amnistía Internacional, incluidas 31 entradas de registro recientemente presentadas que abarcan del 18 al 20 de octubre; el registro confidencial subyacente no es público en este repositorio.
 
-    Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único.
+    **Qué hacen los representantes europeos**
 
-    Los informes vinculados a fuentes plantean preocupaciones sobre:
+    Representantes de varios grupos políticos europeos han defendido la protesta pacífica y la rendición de cuentas:
 
-    - **Armas de control de multitudes:** uso policial de gases lacrimógenos, cañones de agua, porras, aerosoles irritantes y, según informes internacionales del 17 de octubre, balas de goma contra manifestantes y transeúntes.
-    - **Fuerza física y contención:** fuerza potencialmente excesiva, incluidas las personas supuestamente retenidas en el suelo.
-    - **Lesiones graves:** un entrevistado del hospital alegó que la policía le causó una lesión grave en la pierna.
-    - **Salvaguardias de detención:** el Defensor del Pueblo documentó la falta de formularios de información sobre derechos, registros de detención incompletos y denuncias de que se registraron teléfonos personales sin la autorización adecuada.
-    - **Trato a menores:** los informes incluyen interrogatorios sin tutores ni psicólogos, presunto aislamiento y posible exposición a la fuerza o detención.
-    - **Libertad de prensa:** agresiones, amenazas, lesiones, obstrucción y desalojo forzado que afectan a periodistas y trabajadores de medios de comunicación.
-
-    Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Según los informes, algunos participantes arrojaron piedras y encendieron hogueras; eso no justifica el uso de la fuerza contra personas que no lo hicieron. Como dijo el Comité Albanés de Helsinki el 13 de octubre, los actos de individuos no pueden tornar violenta a una asamblea entera, y la fuerza policial debe seguir siendo legal, necesaria y proporcionada.
-
-    Agradecería que su institución pudiera:
-
-    - Coloque esta situación en su agenda de seguimiento urgente y comuníquese ahora con las autoridades albanesas correspondientes.
-    - Buscar la preservación de videos policiales, órdenes de despliegue y registros médicos relevantes a las lesiones y detenciones reportadas.
-    - Presione para que se realice una investigación independiente y específica de cada persona sobre el caso de lesiones graves en las piernas y cualquier acusación de fuerza excesiva.
-    - Aclare qué medidas puede tomar a través de canales bilaterales o multilaterales, incluidos la OSCE y el Consejo de Europa, cuando corresponda.
-
-    Le agradecería una respuesta que explique qué puede hacer su institución y cuándo puedo esperar una respuesta. Adjunto el resumen de evidencia de ADCN, que enlaza directamente con los informes y las publicaciones originales a continuación.
+    - **Renew Europe (miembro):** Sandro Gozi, secretario general del Partido Demócrata Europeo, pidió una investigación independiente de los presuntos abusos policiales y protección de la protesta pacífica y la libertad de prensa. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (miembros):** Marco Tarquinio y Andreas Schieder, en sus funciones sobre Albania en el Parlamento Europeo, pidieron proteger la reunión pacífica y exigir responsabilidades por el uso excesivo de la fuerza, condenando también la violencia de manifestantes (RTSH, 19 de octubre). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Verdes/ALE y Partido Verde Europeo — junio de 2026:** Una delegación se unió a las protestas pacíficas en Tirana el 29 de junio. La eurodiputada Tineke Strik prometió llevar sus preocupaciones a Bruselas; la copresidenta Vula Tsetsi apoyó la defensa de la naturaleza, la democracia y el Estado de derecho. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partido Popular Europeo — 29–30 de junio de 2026:** Su Asamblea Política expresó solidaridad con los manifestantes pacíficos y pidió vincular los avances hacia la UE con la democracia, los derechos fundamentales y la protección ambiental. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Atentamente,
 
-    - Flamingo Revolution — documentación de protesta y proyectos cívicos.
-    - Diáspora de Flamingo Revolution — actualizaciones y divulgación de la diáspora.
-    - Red Cívica de la Diáspora Albanesa — investigación y trabajo cívico basado en evidencia.
-    - Illyrian Brains Network: una red global de profesionales albaneses.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -140,29 +119,25 @@ hide:
     - ADCN — base de evidencia: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — colección de vídeos que documentan la violencia policial denunciada: <https://hajdenshesh.com/dhuna>
 
-    La lista completa de medios que han informado sobre las protestas está disponible en [Informes de medios ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== "Representante internacional"
 
-    !!! warning "¿Quién está en mejor posición para enviar esto?"
-        Remitentes sugeridos, en orden de prioridad:
-
-        - **Las comunidades Flamencas**
-        - **Organizaciones cívicas**
-        - **Profesionales en las redes**
-        - **Un miembro de la diáspora**
-
-        Utilice la conexión genuina más fuerte y descríbala con precisión.
+=== "Diputado nacional"
 
     **Asunto:** Protestas de flamencos en Albania: mencionen las denuncias de abusos contra los derechos humanos
 
     A quien le interese,
 
+    **Qué solicito**
+
     Le escribo como [elector/a / miembro de la diáspora albanesa / residente preocupado/a] para pedir una actuación parlamentaria ante las denuncias de violencia policial durante las protestas estudiantiles en Albania y las preocupaciones sobre el trato a menores.
 
-    Estas manifestaciones forman parte de más de 140 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho.
+    - Presenten una pregunta parlamentaria sobre las medidas de su gobierno y la respuesta solicitada a Albania.
+    - Pidan a la comisión competente que escuche a las personas afectadas y a observadores independientes.
+    - Solicite al Ministerio de Exteriores una actualización pública sobre los contactos con Albania, las garantías solicitadas y el seguimiento previsto.
 
-    Las cifras clave reportadas incluyen:
+    **Por qué hace falta actuar**
+
+    Estas manifestaciones forman parte de más de 150 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho. Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único. Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Las cifras clave reportadas incluyen:
 
     - **1.067 arrestos y 388 procesos penales:** informados por Reuters y atribuidos a las autoridades albanesas en el momento de la publicación.
     - **310 heridos hasta el 19 de octubre**: 191 policías, 88 manifestantes y 31 transeúntes, informó *El País* citando cifras del Ministerio de Salud.
@@ -170,37 +145,18 @@ hide:
     - **32 casos denunciados de violencia policial:** catalogados en el anexo de la carta abierta de Res Publica que abarca del 13 al 17 de octubre; Estos son casos reportados, no conclusiones legales finales.
     - **124 elementos de evidencia revisados:** descritos en la carta de presentación de los abogados a Amnistía Internacional, incluidas 31 entradas de registro recientemente presentadas que abarcan del 18 al 20 de octubre; el registro confidencial subyacente no es público en este repositorio.
 
-    Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único.
+    **Qué hacen los representantes europeos**
 
-    Los informes vinculados a fuentes plantean preocupaciones sobre:
+    Representantes de varios grupos políticos europeos han defendido la protesta pacífica y la rendición de cuentas:
 
-    - **Armas de control de multitudes:** uso policial de gases lacrimógenos, cañones de agua, porras, aerosoles irritantes y, según informes internacionales del 17 de octubre, balas de goma contra manifestantes y transeúntes.
-    - **Trato a menores:** los informes incluyen interrogatorios sin tutores ni psicólogos, presunto aislamiento y posible exposición a la fuerza o detención.
-    - **Libertad de prensa:** agresiones, amenazas, lesiones, obstrucción y desalojo forzado que afectan a periodistas y trabajadores de medios de comunicación.
-
-    Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas.
-
-    Le pido que utilice los medios a su alcance para:
-
-    - Plantear las denuncias de violencia mediante una pregunta o un debate parlamentario.
-
-    - Pedir al Ministerio de Asuntos Exteriores que trate el asunto con las autoridades albanesas y solicite una respuesta oficial.
-
-    - Trasladar estas preocupaciones al Parlamento Europeo y a la Comisión Europea para que el respeto de los derechos humanos tenga peso en las negociaciones de adhesión de Albania.
-
-    - Pedir la observación independiente de los procesos judiciales que afecten a estudiantes y menores.
-
-    La protesta pacífica, la libertad de expresión y el trato justo son valores europeos. Los estudiantes albaneses merecen que estos derechos se protejan en la práctica.
-
-    Le agradecería que me indicara qué medidas puede tomar. Las fuentes figuran a continuación.
+    - **Renew Europe (miembro):** Sandro Gozi, secretario general del Partido Demócrata Europeo, pidió una investigación independiente de los presuntos abusos policiales y protección de la protesta pacífica y la libertad de prensa. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (miembros):** Marco Tarquinio y Andreas Schieder, en sus funciones sobre Albania en el Parlamento Europeo, pidieron proteger la reunión pacífica y exigir responsabilidades por el uso excesivo de la fuerza, condenando también la violencia de manifestantes (RTSH, 19 de octubre). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Verdes/ALE y Partido Verde Europeo — junio de 2026:** Una delegación se unió a las protestas pacíficas en Tirana el 29 de junio. La eurodiputada Tineke Strik prometió llevar sus preocupaciones a Bruselas; la copresidenta Vula Tsetsi apoyó la defensa de la naturaleza, la democracia y el Estado de derecho. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partido Popular Europeo — 29–30 de junio de 2026:** Su Asamblea Política expresó solidaridad con los manifestantes pacíficos y pidió vincular los avances hacia la UE con la democracia, los derechos fundamentales y la protección ambiental. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Atentamente,
 
-    - Flamingo Revolution — documentación de protesta y proyectos cívicos.
-    - Diáspora de Flamingo Revolution — actualizaciones y divulgación de la diáspora.
-    - Red Cívica de la Diáspora Albanesa — investigación y trabajo cívico basado en evidencia.
-    - Illyrian Brains Network: una red global de profesionales albaneses.
-
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -217,7 +173,62 @@ hide:
     - ADCN — base de evidencia: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — colección de vídeos que documentan la violencia policial denunciada: <https://hajdenshesh.com/dhuna>
 
-    La lista completa de medios que han informado sobre las protestas está disponible en [Informes de medios ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "Eurodiputado"
+
+    **Asunto:** Protestas de flamencos en Albania: mencionen las denuncias de abusos contra los derechos humanos
+
+    A quien le interese,
+
+    **Qué solicito**
+
+    Le pido, como eurodiputado/a, que plantee los abusos denunciados en las protestas estudiantiles de Albania mediante el control europeo y el examen del proceso de adhesión. Le agradecería que indicara las medidas posibles.
+
+    - Presente una pregunta escrita a la Comisión sobre los abusos denunciados y las garantías para estudiantes, menores y periodistas.
+    - Pida a la comisión competente o a la delegación para Albania que escuche a observadores independientes y personas afectadas.
+    - Pida que las evaluaciones de adhesión aborden estas denuncias y que la delegación de la UE apoye la observación independiente de juicios en Albania.
+
+    **Por qué hace falta actuar**
+
+    Estas manifestaciones forman parte de más de 150 días de protestas de Flamingo en Albania. Según la [cronología de protesta publicada por el movimiento](https://www.flamingorevolution.eu/protestat/), las protestas comenzaron por el desarrollo que afectaba el paisaje costero protegido de Vjosë-Nartë y se ampliaron a preocupaciones sobre la rendición de cuentas pública, acusaciones de corrupción, educación y atención médica, emigración juvenil, presión económica, representación democrática y el estado de derecho. Estas cifras tienen diferentes períodos, poblaciones y definiciones. Se superponen y no deben sumarse como un total único. Se trata de informes y acusaciones atribuidos que requieren verificación independiente, no conclusiones legales establecidas. Las cifras clave reportadas incluyen:
+
+    - **1.067 arrestos y 388 procesos penales:** informados por Reuters y atribuidos a las autoridades albanesas en el momento de la publicación.
+    - **310 heridos hasta el 19 de octubre**: 191 policías, 88 manifestantes y 31 transeúntes, informó *El País* citando cifras del Ministerio de Salud.
+    - **214 personas detenidas se reunieron durante el monitoreo anterior:** el expediente preliminar del Defensor del Pueblo, citado en la carta de Res Publica, señaló signos visibles de acusaciones de violencia o maltrato para 26 personas e informes sobre unos 12 menores presuntamente detenidos en aislamiento.
+    - **32 casos denunciados de violencia policial:** catalogados en el anexo de la carta abierta de Res Publica que abarca del 13 al 17 de octubre; Estos son casos reportados, no conclusiones legales finales.
+    - **124 elementos de evidencia revisados:** descritos en la carta de presentación de los abogados a Amnistía Internacional, incluidas 31 entradas de registro recientemente presentadas que abarcan del 18 al 20 de octubre; el registro confidencial subyacente no es público en este repositorio.
+
+    **Qué hacen los representantes europeos**
+
+    Representantes de varios grupos políticos europeos han defendido la protesta pacífica y la rendición de cuentas:
+
+    - **Renew Europe (miembro):** Sandro Gozi, secretario general del Partido Demócrata Europeo, pidió una investigación independiente de los presuntos abusos policiales y protección de la protesta pacífica y la libertad de prensa. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (miembros):** Marco Tarquinio y Andreas Schieder, en sus funciones sobre Albania en el Parlamento Europeo, pidieron proteger la reunión pacífica y exigir responsabilidades por el uso excesivo de la fuerza, condenando también la violencia de manifestantes (RTSH, 19 de octubre). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Verdes/ALE y Partido Verde Europeo — junio de 2026:** Una delegación se unió a las protestas pacíficas en Tirana el 29 de junio. La eurodiputada Tineke Strik prometió llevar sus preocupaciones a Bruselas; la copresidenta Vula Tsetsi apoyó la defensa de la naturaleza, la democracia y el Estado de derecho. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Partido Popular Europeo — 29–30 de junio de 2026:** Su Asamblea Política expresó solidaridad con los manifestantes pacíficos y pidió vincular los avances hacia la UE con la democracia, los derechos fundamentales y la protección ambiental. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    Atentamente,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Referencias:**
+
+    Informes internacionales seleccionados, los más nuevos primero:
+
+    - El País, 22 de octubre — informando desde Tirana sobre las continuas protestas estudiantiles, la violencia entre policías y manifestantes y la oferta de diálogo del gobierno: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 de octubre: arrestos, procesos penales y la respuesta del gobierno: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Documentación primaria y local para alegaciones específicas:
+
+    - Defensor del Pueblo de Albania, 20 de octubre: conclusiones preliminares del seguimiento de las condiciones de detención y el trato de los menores: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — base de evidencia: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — colección de vídeos que documentan la violencia policial denunciada: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Archivos adjuntos de imágenes opcionales y recursos de Flamingo
 
@@ -255,7 +266,7 @@ Descargue solo las imágenes relevantes para su mensaje, conserve el crédito pr
 
 ## Traducciones
 
-Los mismos tres correos electrónicos están disponibles en [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+Los mismos cuatro correos electrónicos están disponibles en [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Créditos y reconocimientos
 

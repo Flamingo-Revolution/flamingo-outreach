@@ -51,6 +51,7 @@ extra_javascript:
   - assets/js/outreach_directory.js
   - assets/js/education_map.js
   - assets/js/email_templates.js
+  - assets/js/social_templates.js
   - assets/js/evidence_comparison.js
   - assets/js/momentum.js
   - https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.30.4/cytoscape.min.js
@@ -61,8 +62,9 @@ nav:
 
   - Home: index.md
   - Start: start.md
-  - Letters:
+  - Contact:
       - Overview: messages/index.md
+      - Social Media: social-media.md
       - Languages:
           - Albanian: languages/sq.md
           - Bulgarian: languages/bg.md

@@ -11,17 +11,25 @@ hide:
 
 # Protesty flamingów w Albanii — e-maile uświadamiające w języku angielskim
 
-=== "Głoska bezdźwięczna"
+Możesz wysłać te listy samodzielnie. Wybierz wersję odpowiednią dla odbiorcy, dodaj kilka własnych słów i wyślij ją w swoim imieniu. Każda osobista wiadomość pomaga zwrócić uwagę na protesty. Po zwrocie pożegnalnym dodaj swoje imię i nazwisko lub nazwę swojej organizacji.
+
+=== "Media lokalne"
 
     **Temat:** Protesty flamingów w Albanii: zgłoszone nadużycia policji podczas demonstracji studentów w Tiranie
 
     Kogo to może dotyczyć,
 
+    **O co proszę**
+
     Proszę waszą redakcję o pilne zbadanie zgłoszonych przypadków łamania praw człowieka podczas demonstracji pod przewodnictwem studentów, które rozpoczęły się w Tiranie 13 października 2026 r. i od tego czasu się rozprzestrzeniły. W protestach biorą udział studenci, w tym uczniowie szkół średnich, a zarzuty zasługują na szerszą uwagę opinii publicznej.
 
-    Demonstracje te stanowią część trwających ponad 140 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności.
+    - Zbadajcie doniesienia, rozmawiając z poszkodowanymi i weryfikując nagrania oraz dokumenty.
+    - Poproście o oficjalną odpowiedź dotyczącą użycia siły i traktowania nieletnich.
+    - Opublikujcie ustalenia i śledźcie rozpatrywanie skarg.
 
-    Najważniejsze raportowane dane obejmują:
+    **Dlaczego potrzebne są działania**
+
+    Demonstracje te stanowią część trwających ponad 150 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności. Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość. Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Najważniejsze raportowane dane obejmują:
 
     - **1067 aresztowań i 388 postępowań karnych:** zgłoszone przez Reuters i przypisane władzom Albanii w momencie publikacji.
     - **310 osób zostało rannych do 19 października:** 191 funkcjonariuszy policji, 88 protestujących i 31 przypadkowych osób, jak podaje *El País*, powołując się na dane Ministerstwa Zdrowia.
@@ -29,27 +37,18 @@ hide:
     - **32 zgłoszone przypadki przemocy policyjnej:** skatalogowane w załączniku do listu otwartego Res Publica obejmującego okres 13–17 października; są to przypadki zgłoszone, a nie ostateczne ustalenia prawne.
     - **124 sprawdzone dowody:** opisane w liście przewodnim prawników do Amnesty International, w tym 31 nowo przesłanych wpisów do dziennika obejmujących okres 18–20 października; podstawowy poufny dziennik nie jest publiczny w tym repozytorium.
 
-    Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość.
+    **Co robią europejscy przedstawiciele**
 
-    Sprawozdania powiązane ze źródłem budzą wątpliwości dotyczące:
+    Przedstawiciele kilku europejskich grup politycznych poparli pokojowe protesty i rozliczenie odpowiedzialnych:
 
-    - **Broń do kontroli tłumu:** użycie przez policję gazu łzawiącego, armatek wodnych, pałek, sprayu drażniącego oraz, według międzynarodowego raportu z 17 października, gumowych kul przeciwko protestującym i przypadkowym osobom.
-    - **Siła fizyczna i ograniczenie:** potencjalnie nadmierna siła, w tym także osoby trzymane na ziemi.
-    - **Poważne obrażenia:** rozmówca w szpitalu stwierdził, że policja spowodowała poważny uraz nogi.
-    - **Zabezpieczenia w areszcie:** Rzecznik Praw Obywatelskich udokumentował brakujące formularze informacji o prawach, niekompletne rejestry osób zatrzymanych oraz zarzuty przeszukania telefonów osobistych bez odpowiedniego zezwolenia.
-    - **Traktowanie nieletnich:** raporty obejmują przesłuchanie bez opiekunów i psychologów, rzekomą izolację i możliwe narażenie na użycie siły lub zatrzymanie.
-    - **Wolność prasy:** napaści, groźby, obrażenia, utrudnianie i przymusowe wydalenia dotykające dziennikarzy i pracowników mediów.
-
-    Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Według doniesień niektórzy uczestnicy rzucali kamieniami i rozpalali ogniska; nie usprawiedliwia to użycia siły wobec osób, które tego nie zrobiły. Jak stwierdził 13 października Albański Komitet Helsiński, działania jednostek nie mogą spowodować, że całe zgromadzenie będzie brutalne, a siły policyjne muszą pozostać zgodne z prawem, konieczne i proporcjonalne.
-
-    Proszę o wyznaczenie reportera, uzyskanie odpowiedzi od władz Albanii i osób, których to dotyczy, oraz naleganie na zachowanie policyjnych nagrań wideo, nakazów rozmieszczenia i dokumentacji medycznej wraz z niezależnym dochodzeniem w sprawie poważnego urazu nogi – zwłaszcza uwzględniając możliwe traktowanie nieletnich i ingerencję w dziennikarzy. Byłbym wdzięczny za informację, czy i kiedy redakcja planuje zająć się tą sprawą. Załączony brief zawiera źródła i pytania weryfikacyjne.
+    - **Renew Europe (członek):** Sandro Gozi, sekretarz generalny Europejskiej Partii Demokratycznej, wezwał do niezależnego zbadania domniemanych nadużyć policji oraz ochrony pokojowych protestów i wolności prasy. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (członkowie):** Marco Tarquinio i Andreas Schieder, w swoich rolach dotyczących Albanii w Parlamencie Europejskim, wezwali do ochrony pokojowych zgromadzeń i odpowiedzialności za nadmierne użycie siły, potępiając też przemoc protestujących (RTSH, 19 października). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zieloni/WSE i Europejska Partia Zielonych — czerwiec 2026:** Delegacja dołączyła do pokojowych protestów w Tiranie 29 czerwca. Europosłanka Tineke Strik obiecała przedstawić postulaty w Brukseli; współprzewodnicząca Vula Tsetsi poparła obronę przyrody, demokracji i praworządności. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Europejska Partia Ludowa — 29–30 czerwca 2026:** Zgromadzenie Polityczne wyraziło solidarność z pokojowymi demonstrantami i zażądało powiązania postępów akcesyjnych z demokracją, prawami podstawowymi i ochroną środowiska. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Serdeczne pozdrowienia,
 
-    - Rewolucja Flamingów — dokumentacja protestacyjna i projekty obywatelskie.
-    - Flamingo Revolution Diaspora — aktualizacje i kontakt z diasporą.
-    - Sieć Obywatelska Diaspory Albańskiej — badania i praca obywatelska oparta na dowodach.
-    - Illyrian Brains Network — globalna sieć albańskich profesjonalistów.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -66,29 +65,25 @@ hide:
     - ADCN — baza dowodowa: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — kolekcja wideo dokumentująca zgłoszone przypadki przemocy ze strony policji: <https://hajdenshesh.com/dhuna>
 
-    Pełną listę mediów, które informowały o protestach, znajdziesz na [Raporty medialne ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== „Instytucja międzynarodowa”
 
-    !!! warning "Kto najlepiej może to wysłać?"
-        Sugerowani nadawcy, w kolejności priorytetów:
-
-        - **Społeczności Flamingów**
-        - **Organizacje obywatelskie**
-        - **Profesjonaliści w sieciach**
-        - **Członek diaspory**
-
-        Użyj najsilniejszego prawdziwego połączenia i opisz je dokładnie.
+=== "Instytucja lokalna"
 
     **Temat:** Protesty flamingów w Albanii: pilne powiadomienie w sprawie zgłoszonych naruszeń praw
 
     Kogo to może dotyczyć,
 
+    **O co proszę**
+
     Piszę, aby ostrzec Państwa instytucję o poważnych obawach dotyczących praw człowieka zgłoszonych podczas demonstracji pod przewodnictwem studentów, które rozpoczęły się w Tiranie w dniu 13 października 2026 r. i od tego czasu rozprzestrzeniły się. Może to mieć wpływ na uczniów, dziennikarzy, osoby postronne i osoby zatrzymane, a uczęszczanie do szkół średnich budzi szczególne obawy w zakresie ochrony dzieci.
 
-    Demonstracje te stanowią część trwających ponad 140 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności.
+    - Przeanalizujcie dowody i przedstawcie obawy bezpośrednio władzom Albanii.
+    - Zażądajcie dostępu do prawnika i opieki medycznej, szczególnie dla zatrzymanych nieletnich.
+    - Wspierajcie niezależne monitorowanie zatrzymań i procesów oraz zabezpieczenie dowodów.
 
-    Najważniejsze raportowane dane obejmują:
+    **Dlaczego potrzebne są działania**
+
+    Demonstracje te stanowią część trwających ponad 150 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności. Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość. Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Najważniejsze raportowane dane obejmują:
 
     - **1067 aresztowań i 388 postępowań karnych:** zgłoszone przez Reuters i przypisane władzom Albanii w momencie publikacji.
     - **310 osób zostało rannych do 19 października:** 191 funkcjonariuszy policji, 88 protestujących i 31 przypadkowych osób, jak podaje *El País*, powołując się na dane Ministerstwa Zdrowia.
@@ -96,34 +91,18 @@ hide:
     - **32 zgłoszone przypadki przemocy policyjnej:** skatalogowane w załączniku do listu otwartego Res Publica obejmującego okres 13–17 października; są to przypadki zgłoszone, a nie ostateczne ustalenia prawne.
     - **124 sprawdzone dowody:** opisane w liście przewodnim prawników do Amnesty International, w tym 31 nowo przesłanych wpisów do dziennika obejmujących okres 18–20 października; podstawowy poufny dziennik nie jest publiczny w tym repozytorium.
 
-    Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość.
+    **Co robią europejscy przedstawiciele**
 
-    Sprawozdania powiązane ze źródłem budzą wątpliwości dotyczące:
+    Przedstawiciele kilku europejskich grup politycznych poparli pokojowe protesty i rozliczenie odpowiedzialnych:
 
-    - **Broń do kontroli tłumu:** użycie przez policję gazu łzawiącego, armatek wodnych, pałek, sprayu drażniącego oraz, według międzynarodowego raportu z 17 października, gumowych kul przeciwko protestującym i przypadkowym osobom.
-    - **Siła fizyczna i ograniczenie:** potencjalnie nadmierna siła, w tym także osoby trzymane na ziemi.
-    - **Poważne obrażenia:** rozmówca w szpitalu stwierdził, że policja spowodowała poważny uraz nogi.
-    - **Zabezpieczenia w areszcie:** Rzecznik Praw Obywatelskich udokumentował brakujące formularze informacji o prawach, niekompletne rejestry osób zatrzymanych oraz zarzuty przeszukania telefonów osobistych bez odpowiedniego zezwolenia.
-    - **Traktowanie nieletnich:** raporty obejmują przesłuchanie bez opiekunów i psychologów, rzekomą izolację i możliwe narażenie na użycie siły lub zatrzymanie.
-    - **Wolność prasy:** napaści, groźby, obrażenia, utrudnianie i przymusowe wydalenia dotykające dziennikarzy i pracowników mediów.
-
-    Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Według doniesień niektórzy uczestnicy rzucali kamieniami i rozpalali ogniska; nie usprawiedliwia to użycia siły wobec osób, które tego nie zrobiły. Jak stwierdził 13 października Albański Komitet Helsiński, działania jednostek nie mogą spowodować, że całe zgromadzenie będzie brutalne, a siły policyjne muszą pozostać zgodne z prawem, konieczne i proporcjonalne.
-
-    Byłbym wdzięczny, gdyby Państwa instytucja mogła:
-
-    - Umieść tę sytuację w swoim pilnym programie monitorowania i skontaktuj się już teraz z odpowiednimi władzami Albanii.
-    - Należy zwrócić się o zabezpieczenie policyjnych nagrań wideo, nakazów rozmieszczenia i dokumentacji medycznej odnoszącej się do zgłoszonych obrażeń i zatrzymań.
-    - Nalegamy na niezależne, szczegółowe dochodzenie w sprawie poważnego urazu nogi i wszelkich zarzutów użycia siły.
-    - Wyjaśnij, jakie działania możesz podjąć kanałami dwustronnymi lub wielostronnymi, w tym, w stosownych przypadkach, przez OBWE i Radę Europy.
-
-    Byłbym wdzięczny za odpowiedź wyjaśniającą, co może zrobić Państwa instytucja i kiedy mogę się spodziewać odpowiedzi. Załączam krótki dokument dowodowy ADCN, który zawiera bezpośrednie linki do raportów i oryginalnych postów poniżej.
+    - **Renew Europe (członek):** Sandro Gozi, sekretarz generalny Europejskiej Partii Demokratycznej, wezwał do niezależnego zbadania domniemanych nadużyć policji oraz ochrony pokojowych protestów i wolności prasy. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (członkowie):** Marco Tarquinio i Andreas Schieder, w swoich rolach dotyczących Albanii w Parlamencie Europejskim, wezwali do ochrony pokojowych zgromadzeń i odpowiedzialności za nadmierne użycie siły, potępiając też przemoc protestujących (RTSH, 19 października). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zieloni/WSE i Europejska Partia Zielonych — czerwiec 2026:** Delegacja dołączyła do pokojowych protestów w Tiranie 29 czerwca. Europosłanka Tineke Strik obiecała przedstawić postulaty w Brukseli; współprzewodnicząca Vula Tsetsi poparła obronę przyrody, demokracji i praworządności. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Europejska Partia Ludowa — 29–30 czerwca 2026:** Zgromadzenie Polityczne wyraziło solidarność z pokojowymi demonstrantami i zażądało powiązania postępów akcesyjnych z demokracją, prawami podstawowymi i ochroną środowiska. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Serdeczne pozdrowienia,
 
-    - Rewolucja Flamingów — dokumentacja protestacyjna i projekty obywatelskie.
-    - Flamingo Revolution Diaspora — aktualizacje i kontakt z diasporą.
-    - Sieć Obywatelska Diaspory Albańskiej — badania i praca obywatelska oparta na dowodach.
-    - Illyrian Brains Network — globalna sieć albańskich profesjonalistów.
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -140,29 +119,25 @@ hide:
     - ADCN — baza dowodowa: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — kolekcja wideo dokumentująca zgłoszone przypadki przemocy ze strony policji: <https://hajdenshesh.com/dhuna>
 
-    Pełną listę mediów, które informowały o protestach, znajdziesz na [Raporty medialne ↗](https://illyrianbrains.github.io/media-coverage/).
 
-=== „Przedstawiciel międzynarodowy”
 
-    !!! warning "Kto najlepiej może to wysłać?"
-        Sugerowani nadawcy, w kolejności priorytetów:
-
-        - **Społeczności Flamingów**
-        - **Organizacje obywatelskie**
-        - **Profesjonaliści w sieciach**
-        - **Członek diaspory**
-
-        Użyj najsilniejszego prawdziwego połączenia i opisz je dokładnie.
+=== "Poseł krajowy"
 
     **Temat:** Protesty flamingów w Albanii: proszę poruszyć zgłoszone przypadki łamania praw człowieka
 
     Kogo to może dotyczyć,
 
+    **O co proszę**
+
     Piszę jako [wyborca / członek albańskiej diaspory / zaniepokojony mieszkaniec], prosząc o działania parlamentarne w sprawie doniesień o przemocy policyjnej podczas protestów studenckich w Albanii oraz traktowania osób niepełnoletnich.
 
-    Demonstracje te stanowią część trwających ponad 140 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności.
+    - Złóżcie pytanie parlamentarne o działania rządu i odpowiedź, o którą zwrócił się do Albanii.
+    - Poproście właściwą komisję o wysłuchanie poszkodowanych i niezależnych obserwatorów.
+    - Poproście MSZ o publiczną informację o kontaktach z Albanią, wymaganych gwarancjach i dalszych krokach.
 
-    Najważniejsze raportowane dane obejmują:
+    **Dlaczego potrzebne są działania**
+
+    Demonstracje te stanowią część trwających ponad 150 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności. Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość. Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Najważniejsze raportowane dane obejmują:
 
     - **1067 aresztowań i 388 postępowań karnych:** zgłoszone przez Reuters i przypisane władzom Albanii w momencie publikacji.
     - **310 osób zostało rannych do 19 października:** 191 funkcjonariuszy policji, 88 protestujących i 31 przypadkowych osób, jak podaje *El País*, powołując się na dane Ministerstwa Zdrowia.
@@ -170,31 +145,18 @@ hide:
     - **32 zgłoszone przypadki przemocy policyjnej:** skatalogowane w załączniku do listu otwartego Res Publica obejmującego okres 13–17 października; są to przypadki zgłoszone, a nie ostateczne ustalenia prawne.
     - **124 sprawdzone dowody:** opisane w liście przewodnim prawników do Amnesty International, w tym 31 nowo przesłanych wpisów do dziennika obejmujących okres 18–20 października; podstawowy poufny dziennik nie jest publiczny w tym repozytorium.
 
-    Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość.
+    **Co robią europejscy przedstawiciele**
 
-    Sprawozdania powiązane ze źródłem budzą wątpliwości dotyczące:
+    Przedstawiciele kilku europejskich grup politycznych poparli pokojowe protesty i rozliczenie odpowiedzialnych:
 
-    - **Broń do kontroli tłumu:** użycie przez policję gazu łzawiącego, armatek wodnych, pałek, sprayu drażniącego oraz, według międzynarodowego raportu z 17 października, gumowych kul przeciwko protestującym i przypadkowym osobom.
-    - **Traktowanie nieletnich:** raporty obejmują przesłuchanie bez opiekunów i psychologów, rzekomą izolację i możliwe narażenie na użycie siły lub zatrzymanie.
-    - **Wolność prasy:** napaści, groźby, obrażenia, utrudnianie i przymusowe wydalenia dotykające dziennikarzy i pracowników mediów.
-
-    Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne.
-
-    Proszę o wykorzystanie dostępnych możliwości, aby:
-
-    - Poruszyć kwestię zgłaszanej przemocy poprzez pytanie parlamentarne lub debatę.
-
-    - Zwrócić się do Ministerstwa Spraw Zagranicznych o podjęcie sprawy z władzami Albanii i uzyskanie oficjalnej odpowiedzi.
-
-    - Przekazać te obawy Parlamentowi Europejskiemu i Komisji Europejskiej, aby poszanowanie praw człowieka miało znaczenie w negocjacjach akcesyjnych Albanii.
-
-    - Wezwać do niezależnej obserwacji procesów sądowych dotyczących studentów i osób niepełnoletnich.
-
-    Pokojowy protest, wolność słowa i sprawiedliwe traktowanie to wartości europejskie. Albańscy studenci zasługują na ochronę tych praw w praktyce.
-
-    Proszę o informację, jakie kroki mogą Państwo podjąć. Źródła znajdują się poniżej.
+    - **Renew Europe (członek):** Sandro Gozi, sekretarz generalny Europejskiej Partii Demokratycznej, wezwał do niezależnego zbadania domniemanych nadużyć policji oraz ochrony pokojowych protestów i wolności prasy. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (członkowie):** Marco Tarquinio i Andreas Schieder, w swoich rolach dotyczących Albanii w Parlamencie Europejskim, wezwali do ochrony pokojowych zgromadzeń i odpowiedzialności za nadmierne użycie siły, potępiając też przemoc protestujących (RTSH, 19 października). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zieloni/WSE i Europejska Partia Zielonych — czerwiec 2026:** Delegacja dołączyła do pokojowych protestów w Tiranie 29 czerwca. Europosłanka Tineke Strik obiecała przedstawić postulaty w Brukseli; współprzewodnicząca Vula Tsetsi poparła obronę przyrody, demokracji i praworządności. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Europejska Partia Ludowa — 29–30 czerwca 2026:** Zgromadzenie Polityczne wyraziło solidarność z pokojowymi demonstrantami i zażądało powiązania postępów akcesyjnych z demokracją, prawami podstawowymi i ochroną środowiska. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
     Z poważaniem,
+
+    <p class="email-signature-space"><br></p>
 
     ---
 
@@ -211,7 +173,62 @@ hide:
     - ADCN — baza dowodowa: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
     - Hajde n’Shesh — kolekcja wideo dokumentująca zgłoszone przypadki przemocy ze strony policji: <https://hajdenshesh.com/dhuna>
 
-    Pełną listę mediów, które informowały o protestach, znajdziesz na [Raporty medialne ↗](https://illyrianbrains.github.io/media-coverage/).
+
+
+=== "Europoseł"
+
+    **Temat:** Protesty flamingów w Albanii: proszę poruszyć zgłoszone przypadki łamania praw człowieka
+
+    Kogo to może dotyczyć,
+
+    **O co proszę**
+
+    Proszę o podjęcie jako europoseł kwestii zgłaszanych nadużyć podczas protestów studenckich w Albanii w ramach kontroli UE i procesu akcesyjnego. Proszę o wskazanie możliwych kroków.
+
+    - Złóżcie pytanie pisemne do Komisji o nadużycia i gwarancje dla studentów, nieletnich oraz dziennikarzy.
+    - Poproście właściwą komisję lub delegację ds. Albanii o wysłuchanie niezależnych obserwatorów i poszkodowanych.
+    - Zażądajcie uwzględnienia doniesień w ocenach akcesyjnych i wsparcia delegatury UE dla niezależnej obserwacji procesów w Albanii.
+
+    **Dlaczego potrzebne są działania**
+
+    Demonstracje te stanowią część trwających ponad 150 dni protestów Flamingów w Albanii. Według [opublikowanej chronologii protestów ruchu](https://www.flamingorevolution.eu/protestat/) protesty rozpoczęły się w związku z rozwojem sytuacji wpływającym na chroniony krajobraz przybrzeżny Vjosë–Nartë i rozszerzyły się na obawy dotyczące odpowiedzialności publicznej, zarzutów o korupcję, edukacji i opieki zdrowotnej, emigracji młodzieży, presji ekonomicznej, reprezentacji demokratycznej i praworządności. Liczby te mają różne okresy, populacje i definicje. Nakładają się na siebie i nie należy ich sumować w jedną całość. Są to przypisane doniesienia i zarzuty wymagające niezależnej weryfikacji, a nie ustalone ustalenia prawne. Najważniejsze raportowane dane obejmują:
+
+    - **1067 aresztowań i 388 postępowań karnych:** zgłoszone przez Reuters i przypisane władzom Albanii w momencie publikacji.
+    - **310 osób zostało rannych do 19 października:** 191 funkcjonariuszy policji, 88 protestujących i 31 przypadkowych osób, jak podaje *El País*, powołując się na dane Ministerstwa Zdrowia.
+    - **214 zatrzymanych osób spotkało się podczas wcześniejszego monitoringu:** we wstępnym raporcie Rzecznika, cytowanym w piśmie Res Publica, odnotowano widoczne oznaki zarzutów dotyczących przemocy lub złego traktowania w przypadku 26 osób oraz raporty dotyczące około 12 nieletnich rzekomo przetrzymywanych w izolacji.
+    - **32 zgłoszone przypadki przemocy policyjnej:** skatalogowane w załączniku do listu otwartego Res Publica obejmującego okres 13–17 października; są to przypadki zgłoszone, a nie ostateczne ustalenia prawne.
+    - **124 sprawdzone dowody:** opisane w liście przewodnim prawników do Amnesty International, w tym 31 nowo przesłanych wpisów do dziennika obejmujących okres 18–20 października; podstawowy poufny dziennik nie jest publiczny w tym repozytorium.
+
+    **Co robią europejscy przedstawiciele**
+
+    Przedstawiciele kilku europejskich grup politycznych poparli pokojowe protesty i rozliczenie odpowiedzialnych:
+
+    - **Renew Europe (członek):** Sandro Gozi, sekretarz generalny Europejskiej Partii Demokratycznej, wezwał do niezależnego zbadania domniemanych nadużyć policji oraz ochrony pokojowych protestów i wolności prasy. [↗](https://democrats.eu/news/albania-gozi-condemns-violence-and-urges-prime-minister-rama-to-engage-in-genuine-dialogue-with-citizens/)
+    - **S&D (członkowie):** Marco Tarquinio i Andreas Schieder, w swoich rolach dotyczących Albanii w Parlamencie Europejskim, wezwali do ochrony pokojowych zgromadzeń i odpowiedzialności za nadmierne użycie siły, potępiając też przemoc protestujących (RTSH, 19 października). [↗](https://rtsh.al/rti/en/european-parliament-condemns-violence-during-protests-in-tirana/)
+    - **Zieloni/WSE i Europejska Partia Zielonych — czerwiec 2026:** Delegacja dołączyła do pokojowych protestów w Tiranie 29 czerwca. Europosłanka Tineke Strik obiecała przedstawić postulaty w Brukseli; współprzewodnicząca Vula Tsetsi poparła obronę przyrody, demokracji i praworządności. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
+    - **Europejska Partia Ludowa — 29–30 czerwca 2026:** Zgromadzenie Polityczne wyraziło solidarność z pokojowymi demonstrantami i zażądało powiązania postępów akcesyjnych z demokracją, prawami podstawowymi i ochroną środowiska. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
+
+    Z poważaniem,
+
+    <p class="email-signature-space"><br></p>
+
+    ---
+
+    **Odniesienia:**
+
+    Wybrane raporty międzynarodowe, najpierw najnowsze:
+
+    - El País, 22 października — relacja z Tirany na temat ciągłych protestów studentów, przemocy policji wobec demonstrantów oraz oferty dialogu ze strony rządu: <https://elpais.com/internacional/2026-10-22/la-violencia-se-instala-entre-policia-y-manifestantes-en-albania-es-legitima-cuando-el-estado-te-ignora-y-agrede.html>
+    - Reuters, 18 października — aresztowania, postępowanie karne i reakcja rządu: <https://www.reuters.com/world/albanian-pm-says-mass-protests-threat-eu-membership-not-government-2026-10-18/>
+
+    Dokumentacja podstawowa i lokalna dotycząca konkretnych zarzutów:
+
+    - Albański Rzecznik Praw Obywatelskich, 20 października — wstępne ustalenia z monitoringu dotyczące warunków przetrzymywania i traktowania nieletnich: <https://www.avokatipopullit.gov.al/sq/articles-layout-1/home/news/commissioner-ahmet-preni-communication-with-the-media-regarding-findings-from-the-monitoring-of-the-october-19-2026-protest-1382/>
+    - ADCN — baza dowodowa: <https://albaniandiasporacivicnetwork.com/sq/violence-appeal/>
+    - Hajde n’Shesh — kolekcja wideo dokumentująca zgłoszone przypadki przemocy ze strony policji: <https://hajdenshesh.com/dhuna>
+
+
+
 
 ## Opcjonalne załączniki obrazów i zasoby Flamingo
 
@@ -249,7 +266,7 @@ Pobierz tylko obrazy istotne dla Twojej wiadomości, zachowaj podane informacje 
 
 ## Tłumaczenia
 
-Te same trzy e-maile są dostępne w językach: [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+Te same cztery e-maile są dostępne w językach: [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
 
 ## Uznania i podziękowania
 
