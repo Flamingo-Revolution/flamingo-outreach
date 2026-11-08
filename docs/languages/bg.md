@@ -175,12 +175,6 @@ hide:
     - Hajde n’Shesh — видеоколекция, документираща съобщено полицейско насилие. <https://hajdenshesh.com/dhuna>
 
 
-</div>
-
-Изображения и приложения: използвайте раздела за незадължителни приложения на английската страница. Запазете авторството и връзката към оригиналната публикация. Не твърдете, че изображение доказва действия извън видимото в кадъра.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Прегледайте източниците и бележките за проверка](../background/sources.md)
-
 
 === "Евродепутат"
 
@@ -237,32 +231,26 @@ hide:
 
 </div>
 
-Изображения и приложения: използвайте раздела за незадължителни приложения на английската страница. Запазете авторството и връзката към оригиналната публикация. Не твърдете, че изображение доказва действия извън видимото в кадъра.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Прегледайте източниците и бележките за проверка](../background/sources.md)
-
-
-
 ## Незадължителни приложения с изображения
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 октомври · Улична сцена в Тирана — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 октомври · Улична сцена в Тирана — Citizens.al"></a>
     <strong>13 октомври · Улична сцена в Тирана</strong>
     <span>Източник: Citizens.al. Виждат се полицейски автомобили, дим, хора и улични щети; изображението не установява отговорност за конкретно действие.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="14 октомври · Студентски бойкот и шествие — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="14 октомври · Студентски бойкот и шествие — Citizens.al"></a>
     <strong>14 октомври · Студентски бойкот и шествие</strong>
     <span>Източник: Citizens.al. Използвайте описанието на издателя; участието не означава институционална подкрепа.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="15 октомври · Пряко отразяване на протестите — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="15 октомври · Пряко отразяване на протестите — Citizens.al"></a>
     <strong>15 октомври · Пряко отразяване на протестите</strong>
     <span>Източник: Citizens.al. Проверете оригиналния надпис и контекст, преди да приложите или опишете изображението.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Изтегли изображението</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Оригинална публикация ↗</a></div>
   </article>
 </div>
 
@@ -271,3 +259,13 @@ hide:
   <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Досие Flamingo ↗</a>
   <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Карта на протестите Flamingo ↗</a>
 </nav>
+
+## Преводи
+
+Същите четири писма са достъпни на [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+
+## Благодарности
+
+Този материал за застъпничество се основава на документация, граждански инициативи и обществена информация, предоставени от [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) и други групи Flamingo в диаспората, Хелзинкския комитет на Албания, местни репортери на място, журналисти и независими доброволци. Признанието не означава авторство, разрешение или одобрение на тази бланка от всяка посочена група.
+
+Източниците, отворените въпроси и стандартите за проверка на всяко твърдение по-горе са събрани в [Background → Sources and verification](../background/sources.md).

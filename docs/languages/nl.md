@@ -154,7 +154,7 @@ U kunt deze brieven zelf versturen. Kies de passende versie, voeg enkele persoon
     - **Groenen/EVA en Europese Groene Partij — juni 2026:** Een delegatie sloot op 29 juni aan bij de vreedzame protesten in Tirana. Europarlementariër Tineke Strik beloofde de zorgen naar Brussel te brengen; medevoorzitter Vula Tsetsi steunde de verdediging van natuur, democratie en rechtsstaat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
     - **Europese Volkspartij — 29–30 juni 2026:** De Politieke Vergadering sprak solidariteit uit met vreedzame demonstranten en vroeg EU-toetredingsvooruitgang te koppelen aan democratie, grondrechten en milieubescherming. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
-    Met vriendelijke groet,
+    Met vriendelijke groeten,
 
     <p class="email-signature-space"><br></p>
 
@@ -208,7 +208,7 @@ U kunt deze brieven zelf versturen. Kies de passende versie, voeg enkele persoon
     - **Groenen/EVA en Europese Groene Partij — juni 2026:** Een delegatie sloot op 29 juni aan bij de vreedzame protesten in Tirana. Europarlementariër Tineke Strik beloofde de zorgen naar Brussel te brengen; medevoorzitter Vula Tsetsi steunde de verdediging van natuur, democratie en rechtsstaat. [↗](https://www.greens-efa.eu/en/article/press/albania-is-not-for-sale)
     - **Europese Volkspartij — 29–30 juni 2026:** De Politieke Vergadering sprak solidariteit uit met vreedzame demonstranten en vroeg EU-toetredingsvooruitgang te koppelen aan democratie, grondrechten en milieubescherming. [↗](https://www.epp.eu/papers/democracy-rule-of-law-and-citizens-rights-essential-conditions-for-albanias-european-future)
 
-    Met vriendelijke groet,
+    Met vriendelijke groeten,
 
     <p class="email-signature-space"><br></p>
 
@@ -236,22 +236,22 @@ Download alleen de afbeeldingen die relevant zijn voor uw bericht, behoud de opg
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="Street scene during the 13 October protest in Tirana, with police vehicles, smoke and people in the roadway"></a>
     <strong>13 October · Tirana street scene</strong>
     <span>Credit: Citizens.al. Context includes police vehicles, smoke, people and street damage; it does not establish responsibility for any specific act.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="Citizens.al image accompanying reporting on the 14 October student boycott and march"></a>
     <strong>14 October · Student boycott and march</strong>
     <span>Credit: Citizens.al. Use with the publisher's description and do not infer institutional endorsement from participation.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Download image</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="Citizens.al image accompanying live coverage of the 15 October protests"></a>
     <strong>15 October · Live protest coverage</strong>
     <span>Credit: Citizens.al. Verify the original caption and context before attaching or describing the image.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Download image</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Original report ↗</a></div>
   </article>
 </div>
 

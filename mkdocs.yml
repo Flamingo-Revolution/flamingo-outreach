@@ -62,29 +62,58 @@ nav:
 
   - Home: index.md
   - Start: start.md
-  - Contact:
+  - Letters:
       - Overview: messages/index.md
-      - Social Media: social-media.md
-      - Languages:
+      - Main languages:
+          - English (EU): messages/eu.md
+          - English (USA): messages/us.md
+          - English (UK): messages/gb.md
+          - German: languages/de.md
+          - French: languages/fr.md
+          - Italian: languages/it.md
+          - Spanish: languages/es.md
+          - Polish: languages/pl.md
+      - More languages:
           - Albanian: languages/sq.md
           - Bulgarian: languages/bg.md
           - Czech: languages/cs.md
           - Danish: languages/da.md
           - Dutch: languages/nl.md
           - Finnish: languages/fi.md
-          - French: languages/fr.md
-          - German: languages/de.md
           - Greek: languages/el.md
-          - Italian: languages/it.md
           - Norwegian: languages/no.md
-          - Polish: languages/pl.md
           - Portuguese: languages/pt.md
           - Romanian: languages/ro.md
           - Serbian: languages/sr.md
-          - Spanish: languages/es.md
           - Swedish: languages/sv.md
           - Turkish: languages/tr.md
           - Ukrainian: languages/uk.md
+  - Social Media:
+      - Overview: social-media/index.md
+      - Main languages:
+          - English (EU): social-media/eu.md
+          - English (USA): social-media/us.md
+          - English (UK): social-media/gb.md
+          - German: social-media/de.md
+          - French: social-media/fr.md
+          - Italian: social-media/it.md
+          - Spanish: social-media/es.md
+          - Polish: social-media/pl.md
+      - More languages:
+          - Albanian: social-media/sq.md
+          - Bulgarian: social-media/bg.md
+          - Czech: social-media/cs.md
+          - Danish: social-media/da.md
+          - Dutch: social-media/nl.md
+          - Finnish: social-media/fi.md
+          - Greek: social-media/el.md
+          - Norwegian: social-media/no.md
+          - Portuguese: social-media/pt.md
+          - Romanian: social-media/ro.md
+          - Serbian: social-media/sr.md
+          - Swedish: social-media/sv.md
+          - Turkish: social-media/tr.md
+          - Ukrainian: social-media/uk.md
   - Status:
       - Directories:
           - Media: media-coverage.md

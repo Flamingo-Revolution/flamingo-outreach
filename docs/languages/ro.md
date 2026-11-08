@@ -175,12 +175,6 @@ Puteți trimite personal aceste scrisori. Alegeți versiunea potrivită destinat
     - Hajde n’Shesh — colecție video care documentează violența poliției semnalată. <https://hajdenshesh.com/dhuna>
 
 
-</div>
-
-Imagini și anexe: utilizați secțiunea de anexe opționale de pe pagina în engleză. Păstrați creditul și legătura către publicația originală; nu afirmați că o imagine dovedește fapte care nu sunt vizibile.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Consultați sursele și notele de verificare](../background/sources.md)
-
 
 === "Europarlamentar"
 
@@ -237,32 +231,26 @@ Imagini și anexe: utilizați secțiunea de anexe opționale de pe pagina în en
 
 </div>
 
-Imagini și anexe: utilizați secțiunea de anexe opționale de pe pagina în engleză. Păstrați creditul și legătura către publicația originală; nu afirmați că o imagine dovedește fapte care nu sunt vizibile.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Consultați sursele și notele de verificare](../background/sources.md)
-
-
-
 ## Imagini opționale pentru atașare
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 octombrie · Scenă stradală din Tirana — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 octombrie · Scenă stradală din Tirana — Citizens.al"></a>
     <strong>13 octombrie · Scenă stradală din Tirana</strong>
     <span>Sursa: Citizens.al. Se văd vehicule ale poliției, fum, oameni și pagube stradale; imaginea nu stabilește responsabilitatea pentru o anumită faptă.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="14 octombrie · Boicot și marș studențesc — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="14 octombrie · Boicot și marș studențesc — Citizens.al"></a>
     <strong>14 octombrie · Boicot și marș studențesc</strong>
     <span>Sursa: Citizens.al. Folosiți descrierea publicației; participarea nu implică susținere instituțională.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="15 octombrie · Relatare în direct a protestelor — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="15 octombrie · Relatare în direct a protestelor — Citizens.al"></a>
     <strong>15 octombrie · Relatare în direct a protestelor</strong>
     <span>Sursa: Citizens.al. Verificați legenda și contextul original înainte de a atașa sau descrie imaginea.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Descarcă imaginea</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Relatarea originală ↗</a></div>
   </article>
 </div>
 
@@ -271,3 +259,13 @@ Imagini și anexe: utilizați secțiunea de anexe opționale de pe pagina în en
   <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Dosarul Flamingo ↗</a>
   <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Harta protestelor Flamingo ↗</a>
 </nav>
+
+## Traduceri
+
+Aceleași patru mesaje sunt disponibile în [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+
+## Mulțumiri
+
+Acest material de informare se bazează pe documentație, acțiune civică și informații publice furnizate de [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) și alte grupuri Flamingo din diaspora, Comitetul Albanez Helsinki, reporteri locali de la fața locului, jurnaliști și voluntari independenți. Recunoașterea nu implică faptul că fiecare grup menționat este autor, a autorizat sau susține acest model.
+
+Sursele, întrebările deschise și standardele de verificare pentru fiecare afirmație de mai sus sunt reunite în [Background → Sources and verification](../background/sources.md).

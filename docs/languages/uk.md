@@ -175,12 +175,6 @@ hide:
     - Hajde n’Shesh — добірка відео, що документують повідомлене поліцейське насильство. <https://hajdenshesh.com/dhuna>
 
 
-</div>
-
-Зображення й додатки: скористайтеся розділом необов’язкових додатків на англійській сторінці. Збережіть зазначення авторства та посилання на оригінальну публікацію. Не стверджуйте, що фотографія доводить дії, яких не видно в кадрі.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Перегляньте джерела та примітки щодо перевірки](../background/sources.md)
-
 
 === "Євродепутат"
 
@@ -237,32 +231,26 @@ hide:
 
 </div>
 
-Зображення й додатки: скористайтеся розділом необов’язкових додатків на англійській сторінці. Збережіть зазначення авторства та посилання на оригінальну публікацію. Не стверджуйте, що фотографія доводить дії, яких не видно в кадрі.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Перегляньте джерела та примітки щодо перевірки](../background/sources.md)
-
-
-
 ## Необов’язкові зображення для додавання
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 жовтня · Вулична сцена в Тирані — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 жовтня · Вулична сцена в Тирані — Citizens.al"></a>
     <strong>13 жовтня · Вулична сцена в Тирані</strong>
     <span>Джерело: Citizens.al. Видно поліцейські автомобілі, дим, людей і пошкодження вулиці; це не встановлює відповідальність за конкретну дію.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="14 жовтня · Студентський бойкот і марш — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="14 жовтня · Студентський бойкот і марш — Citizens.al"></a>
     <strong>14 жовтня · Студентський бойкот і марш</strong>
     <span>Джерело: Citizens.al. Використовуйте опис видавця; участь не означає інституційної підтримки.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="15 жовтня · Пряме висвітлення протестів — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="15 жовтня · Пряме висвітлення протестів — Citizens.al"></a>
     <strong>15 жовтня · Пряме висвітлення протестів</strong>
     <span>Джерело: Citizens.al. Перевірте оригінальний підпис і контекст, перш ніж додавати чи описувати зображення.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Завантажити зображення</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Оригінальна публікація ↗</a></div>
   </article>
 </div>
 
@@ -271,3 +259,13 @@ hide:
   <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Досьє Flamingo ↗</a>
   <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Карта протестів Flamingo ↗</a>
 </nav>
+
+## Переклади
+
+Ті самі чотири повідомлення доступні мовами [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+
+## Подяки
+
+Цей матеріал для інформування громадськості ґрунтується на документації, громадській роботі та публічній інформації, наданій [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) та іншими групами Flamingo в діаспорі, Гельсінським комітетом Албанії, місцевими репортерами на місцях, журналістами та незалежними волонтерами. Подяка не означає авторства, уповноваження чи підтримки цього шаблону кожною згаданою групою.
+
+Джерела, відкриті питання та стандарти перевірки для кожного твердження вище зібрано на сторінці [Background → Sources and verification](../background/sources.md).

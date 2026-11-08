@@ -1,8 +1,8 @@
 function setupSocialTemplates() {
   document.querySelectorAll('.social-template').forEach((template) => {
     if (template.dataset.copyReady) return;
-    const message = template.querySelector('p');
-    if (!message) return;
+    const paragraphs = template.querySelectorAll('p');
+    if (!paragraphs.length) return;
     template.dataset.copyReady = '1';
 
     const button = document.createElement('button');
@@ -11,11 +11,16 @@ function setupSocialTemplates() {
     button.textContent = 'Copy message';
     button.dataset.copyFailed = 'Copy failed';
     button.addEventListener('click', () => {
-      const copy = message.cloneNode(true);
-      copy.querySelectorAll('a').forEach((link) => {
-        link.replaceWith(`${link.textContent} (${link.href})`);
-      });
-      copyTextOnly(button, copy.textContent.trim(), 'Copied', 'Copy message');
+      const text = Array.from(paragraphs)
+        .map((paragraph) => {
+          const copy = paragraph.cloneNode(true);
+          copy.querySelectorAll('a').forEach((link) => {
+            link.replaceWith(`${link.textContent} (${link.href})`);
+          });
+          return copy.textContent.trim();
+        })
+        .join('\n\n');
+      copyTextOnly(button, text, 'Copied', 'Copy message');
     });
     template.append(button);
   });

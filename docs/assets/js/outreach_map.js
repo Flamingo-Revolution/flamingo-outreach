@@ -83,6 +83,17 @@ function outreachMarkerSize(total, mode) {
   return total ? Math.min(58, 26 + Math.sqrt(total) * 6) : 22;
 }
 
+// Markers are HTML icons, so Leaflet never resizes them on its own: zooming
+// out would otherwise leave them just as big, dwarfing the shrunk map.
+// Scale them down below the map's starting zoom so "zoomed out" also reads
+// as "smaller"; zoomed in (at or past that starting level) keeps the size
+// the mode/total formula above already tuned.
+function outreachMarkerZoomScale(zoom, minZoom, baseZoom) {
+  if (zoom >= baseZoom) return 1;
+  const span = Math.max(1, baseZoom - minZoom);
+  return 0.5 + 0.5 * (zoom - minZoom) / span;
+}
+
 function outreachMarkerLabel({ total, recorded }, mode) {
   if (!total) return '—';
   if (mode === 'percentage') return Math.round(recorded / total * 100) + '%';
@@ -139,7 +150,8 @@ async function setupOutreachMap() {
     const total = stat.total || 0;
     const recorded = stat.recorded || 0;
     const missing = Math.max(0, total - recorded);
-    const size = outreachMarkerSize(total, display?.value || 'done-todo');
+    const zoomScale = map ? outreachMarkerZoomScale(map.getZoom(), map.getMinZoom(), 4) : 1;
+    const size = Math.round(outreachMarkerSize(total, display?.value || 'done-todo') * zoomScale);
     return { total, recorded, missing, size, color: outreachMapColor(item, categoryKey) };
   };
 
@@ -410,6 +422,7 @@ async function setupOutreachMap() {
     attribution?.addEventListener('click', () => attribution.classList.toggle('is-open'));
     const tiles = L.tileLayer(statusTileUrl(), { attribution: 'Esri, HERE, Garmin, © OpenStreetMap contributors', maxZoom: 16 }).addTo(map);
     capitalLayer = L.layerGroup().addTo(map);
+    map.on('zoomend', renderCapitalMarkers);
     resizeObserver = new ResizeObserver(() => map.invalidateSize());
     resizeObserver.observe(shell);
     themeObserver = new MutationObserver(() => tiles.setUrl(statusTileUrl()));

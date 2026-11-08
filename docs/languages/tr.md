@@ -175,12 +175,6 @@ Bu mektupları kendiniz gönderebilirsiniz. Alıcınıza uygun sürümü seçin,
     - Hajde n’Shesh — bildirilen polis şiddetini belgeleyen video koleksiyonu. <https://hajdenshesh.com/dhuna>
 
 
-</div>
-
-Görseller ve ekler: İngilizce sayfadaki isteğe bağlı ekler bölümünü kullanın. Özgün yayın ve fotoğraf kredisini koruyun; görselin göstermediği bir eylemi kanıtladığını ileri sürmeyin.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Kaynakları ve doğrulama notlarını inceleyin](../background/sources.md)
-
 
 === "Avrupa Parlamentosu üyesi"
 
@@ -237,32 +231,26 @@ Görseller ve ekler: İngilizce sayfadaki isteğe bağlı ekler bölümünü kul
 
 </div>
 
-Görseller ve ekler: İngilizce sayfadaki isteğe bağlı ekler bölümünü kullanın. Özgün yayın ve fotoğraf kredisini koruyun; görselin göstermediği bir eylemi kanıtladığını ileri sürmeyin.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Kaynakları ve doğrulama notlarını inceleyin](../background/sources.md)
-
-
-
 ## İsteğe bağlı görsel ekleri
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 Ekim · Tiran’da sokak görüntüsü — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 Ekim · Tiran’da sokak görüntüsü — Citizens.al"></a>
     <strong>13 Ekim · Tiran’da sokak görüntüsü</strong>
     <span>Kaynak: Citizens.al. Polis araçları, duman, insanlar ve sokaktaki hasar görülmektedir; belirli bir eylemin sorumluluğunu kanıtlamaz.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="14 Ekim · Öğrenci boykotu ve yürüyüşü — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="14 Ekim · Öğrenci boykotu ve yürüyüşü — Citizens.al"></a>
     <strong>14 Ekim · Öğrenci boykotu ve yürüyüşü</strong>
     <span>Kaynak: Citizens.al. Yayıncının açıklamasıyla birlikte kullanın; katılımdan kurumsal destek sonucu çıkarmayın.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="15 Ekim · Protestoların canlı takibi — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="15 Ekim · Protestoların canlı takibi — Citizens.al"></a>
     <strong>15 Ekim · Protestoların canlı takibi</strong>
     <span>Kaynak: Citizens.al. Eklemeden veya görseli açıklamadan önce özgün başlığı ve bağlamı doğrulayın.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Görseli indir</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Özgün haber ↗</a></div>
   </article>
 </div>
 
@@ -271,3 +259,13 @@ Görseller ve ekler: İngilizce sayfadaki isteğe bağlı ekler bölümünü kul
   <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Flamingo dosyası ↗</a>
   <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Flamingo protesto haritası ↗</a>
 </nav>
+
+## Çeviriler
+
+Aynı dört mesaj [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md) dillerinde de mevcuttur.
+
+## Teşekkürler
+
+Bu bilgilendirme materyali [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) ve diasporadaki diğer Flamingo gruplarının, Arnavutluk Helsinki Komitesi'nin, yerel muhabirlerin, gazetecilerin ve bağımsız gönüllülerin sağladığı belgelere, sivil toplum çalışmalarına ve kamuya açık bilgilere dayanmaktadır. Bu teşekkür, adı geçen her grubun bu şablonun yazarı olduğu, onu yetkilendirdiği veya onayladığı anlamına gelmez.
+
+Yukarıdaki her iddiaya ilişkin kaynaklar, açık sorular ve doğrulama standartları [Background → Sources and verification](../background/sources.md) sayfasında bir araya getirilmiştir.

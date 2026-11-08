@@ -175,12 +175,6 @@ hide:
     - Hajde n’Shesh — συλλογή βίντεο που τεκμηριώνουν αναφερόμενη αστυνομική βία. <https://hajdenshesh.com/dhuna>
 
 
-</div>
-
-Εικόνες και συνημμένα: χρησιμοποιήστε την ενότητα προαιρετικών συνημμένων της αγγλικής σελίδας. Διατηρήστε την αναφορά δημιουργού και τον σύνδεσμο της αρχικής δημοσίευσης. Μην υπονοείτε ότι μια εικόνα αποδεικνύει πράξεις που δεν φαίνονται σε αυτήν.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Ελέγξτε τις πηγές και τις σημειώσεις επαλήθευσης](../background/sources.md)
-
 
 === "Ευρωβουλευτής"
 
@@ -237,32 +231,26 @@ hide:
 
 </div>
 
-Εικόνες και συνημμένα: χρησιμοποιήστε την ενότητα προαιρετικών συνημμένων της αγγλικής σελίδας. Διατηρήστε την αναφορά δημιουργού και τον σύνδεσμο της αρχικής δημοσίευσης. Μην υπονοείτε ότι μια εικόνα αποδεικνύει πράξεις που δεν φαίνονται σε αυτήν.
-
-[English: optional image attachments and Flamingo resources](../messages/index.md#optional-image-attachments-and-flamingo-resources) · [Ελέγξτε τις πηγές και τις σημειώσεις επαλήθευσης](../background/sources.md)
-
-
-
 ## Προαιρετικά συνημμένα εικόνων
 
 <div class="email-attachment-grid">
   <article>
-    <a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 Οκτωβρίου · Σκηνή δρόμου στα Τίρανα — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download><img src="../assets/images/evidence/citizens-13oct-tear-gas.jpg" alt="13 Οκτωβρίου · Σκηνή δρόμου στα Τίρανα — Citizens.al"></a>
     <strong>13 Οκτωβρίου · Σκηνή δρόμου στα Τίρανα</strong>
     <span>Πηγή: Citizens.al. Διακρίνονται αστυνομικά οχήματα, καπνός, άνθρωποι και ζημιές στον δρόμο· δεν αποδεικνύεται ευθύνη για συγκεκριμένη πράξη.</span>
-    <div><a href="../../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-13oct-tear-gas.jpg" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/13/studentet-rizgjojne-protesten-policia-pergjigjet-me-dhune/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../../assets/images/evidence/citizens-14oct-boycott.png" alt="14 Οκτωβρίου · Φοιτητική αποχή και πορεία — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-14oct-boycott.png" download><img src="../assets/images/evidence/citizens-14oct-boycott.png" alt="14 Οκτωβρίου · Φοιτητική αποχή και πορεία — Citizens.al"></a>
     <strong>14 Οκτωβρίου · Φοιτητική αποχή και πορεία</strong>
     <span>Πηγή: Citizens.al. Χρησιμοποιήστε την περιγραφή του εκδότη· η συμμετοχή δεν συνεπάγεται θεσμική υποστήριξη.</span>
-    <div><a href="../../assets/images/evidence/citizens-14oct-boycott.png" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-14oct-boycott.png" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/14/protesta-e-studenteve-nis-me-bojkot/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
   </article>
   <article>
-    <a href="../../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../../assets/images/evidence/citizens-15oct-live.jpg" alt="15 Οκτωβρίου · Ζωντανή κάλυψη διαδηλώσεων — Citizens.al"></a>
+    <a href="../assets/images/evidence/citizens-15oct-live.jpg" download><img src="../assets/images/evidence/citizens-15oct-live.jpg" alt="15 Οκτωβρίου · Ζωντανή κάλυψη διαδηλώσεων — Citizens.al"></a>
     <strong>15 Οκτωβρίου · Ζωντανή κάλυψη διαδηλώσεων</strong>
     <span>Πηγή: Citizens.al. Ελέγξτε την αρχική λεζάντα και το πλαίσιο πριν επισυνάψετε ή περιγράψετε την εικόνα.</span>
-    <div><a href="../../assets/images/evidence/citizens-15oct-live.jpg" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
+    <div><a href="../assets/images/evidence/citizens-15oct-live.jpg" download>Λήψη εικόνας</a> · <a href="https://citizens.al/2026/10/15/protesta-e-studenteve-ore-pas-ore/" target="_blank" rel="noopener noreferrer">Αρχικό δημοσίευμα ↗</a></div>
   </article>
 </div>
 
@@ -271,3 +259,13 @@ hide:
   <a class="md-button" href="https://www.flamingorevolution.eu/dosjet/" target="_blank" rel="noopener noreferrer">Φάκελος Flamingo ↗</a>
   <a class="md-button" href="https://www.flamingorevolution.eu/harta/" target="_blank" rel="noopener noreferrer">Χάρτης διαδηλώσεων Flamingo ↗</a>
 </nav>
+
+## Μεταφράσεις
+
+Τα ίδια τέσσερα μηνύματα είναι διαθέσιμα στα [Shqip](sq.md) · [Български](bg.md) · [Čeština](cs.md) · [Dansk](da.md) · [Nederlands](nl.md) · [Suomi](fi.md) · [Français](fr.md) · [Deutsch](de.md) · [Ελληνικά](el.md) · [Italiano](it.md) · [Norsk](no.md) · [Polski](pl.md) · [Português](pt.md) · [Română](ro.md) · [Srpski](sr.md) · [Español](es.md) · [Svenska](sv.md) · [Türkçe](tr.md) · [Українська](uk.md).
+
+## Ευχαριστίες
+
+Αυτό το υλικό ενημέρωσης βασίζεται σε τεκμηρίωση, πολιτική δράση και δημόσια πληροφόρηση που παρείχαν οι [ADCN](https://albaniandiasporacivicnetwork.com/), [Flamingo Revolution](https://www.flamingorevolution.eu/), [Flamingo Berlin](https://flamingo-berlin.github.io/) και άλλες ομάδες Flamingo στη διασπορά, η Αλβανική Επιτροπή Ελσίνκι, τοπικοί δημοσιογράφοι επί τόπου και ανεξάρτητοι εθελοντές. Η αναγνώριση δεν υποδηλώνει συγγραφή, έγκριση ή επιδοκιμασία αυτού του υποδείγματος από κάθε αναφερόμενη ομάδα.
+
+Οι πηγές, τα ανοικτά ερωτήματα και τα πρότυπα επαλήθευσης για κάθε παραπάνω ισχυρισμό συγκεντρώνονται στην ενότητα [Background → Sources and verification](../background/sources.md).

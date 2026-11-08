@@ -1517,7 +1517,7 @@ a.coverage-outlet-headline { font-weight: 600; }
 #outreach-map .leaflet-popup-content a { color: var(--md-typeset-a-color); }
 #outreach-map .leaflet-control-attribution { font-size: 9px; }
 .outreach-capital-marker-icon { background: transparent; border: 0; }
-.outreach-capital-marker { display: grid; width: var(--marker-size); height: var(--marker-size); place-items: center; color: #fff; background: var(--marker-color); border: 2.5px solid #fff; border-radius: 50%; box-shadow: 0 0 0 1px #0002, 0 8px 22px #0003; font: 800 13px/1 var(--md-text-font-family); transform: translate(6px, 6px); transition: transform .16s ease, box-shadow .16s ease; }
+.outreach-capital-marker { display: grid; width: var(--marker-size); height: var(--marker-size); place-items: center; color: #fff; background: var(--marker-color); border: 2.5px solid #fff; border-radius: 50%; box-shadow: 0 0 0 1px #0002, 0 8px 22px #0003; font: 800 clamp(9px, calc(var(--marker-size) * .32), 15px)/1 var(--md-text-font-family); transform: translate(6px, 6px); transition: transform .16s ease, box-shadow .16s ease, width .16s ease, height .16s ease; }
 .outreach-capital-marker span { display: inline-flex; align-items: flex-start; justify-content: center; gap: 1px; min-width: 0; text-shadow: 0 1px 2px #0004; }
 .outreach-capital-marker sup { margin-top: -3px; font-size: .65em; line-height: 1; }
 .outreach-capital-marker-icon:hover .outreach-capital-marker, .outreach-capital-marker-icon.is-selected .outreach-capital-marker { transform: translate(6px, 6px) scale(1.12); box-shadow: 0 0 0 5px color-mix(in srgb, var(--marker-color) 38%, transparent), 0 10px 26px #0004; }
@@ -1752,26 +1752,32 @@ body.country-popup-open { overflow: hidden; }
   font-size: .68rem; transition: transform .18s ease;
 }
 .outreach-activity[open] > summary::after { transform: rotate(180deg); }
-.outreach-activity-content { padding: 0 .9rem .9rem; }
+/* The content pane owns its own scroll height (filters, status and list
+   scroll together) so it works regardless of how the browser renders the
+   <details> disclosure's internal content box. */
+.outreach-activity-content {
+  padding: 0 .9rem .9rem;
+  max-height: min(48vh, 420px); overflow-y: auto; overscroll-behavior: contain;
+  scrollbar-width: thin; scrollbar-color: var(--md-default-fg-color--lighter) transparent;
+}
 .outreach-activity-controls {
   grid-template-columns: auto 1fr; align-items: center; gap: .35rem .55rem; margin-block: .6rem .5rem;
 }
 .outreach-activity-controls label { margin: 0; font-size: .64rem; font-weight: 700; }
 .outreach-activity-controls select, .outreach-activity-controls input { min-height: 2rem; padding: .35rem .55rem; font-size: .7rem; }
 .outreach-activity #outreach-activity-status { margin: 0 0 .6rem; }
-/* The list owns its own scroll height so it works regardless of how the
-   browser renders the <details> disclosure's internal content box. */
 .outreach-activity-list {
-  display: flex; flex-direction: column; gap: .5rem;
-  max-height: min(48vh, 420px); overflow-y: auto; overscroll-behavior: contain;
-  margin: 0 !important; padding: .1rem .4rem .1rem 0 !important;
-  list-style: none; scrollbar-width: thin; scrollbar-color: var(--md-default-fg-color--lighter) transparent;
+  display: flex; flex-direction: column; gap: 0;
+  margin: 0 !important; padding: 0 .4rem 0 0 !important;
+  list-style: none;
 }
 /* Every entry is one line: icon, name (ellipsis, never wraps), date.
-   Type/country live in the title tooltip instead of a second line. */
+   Type/country live in the title tooltip instead of a second line. A flat,
+   divider-separated row — not a bordered card — so the list reads as one
+   plain surface instead of a stack of boxes. */
 .outreach-activity-item {
-  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; margin: 0 !important; padding: .4rem .6rem;
-  border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; background: var(--md-default-bg-color);
+  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; margin: 0 !important; padding: .4rem .2rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
 .outreach-activity-icon {
   position: relative; display: inline-flex; flex: 0 0 auto; width: 18px; height: 18px;
@@ -1781,13 +1787,17 @@ body.country-popup-open { overflow: hidden; }
 .outreach-activity-icon img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; background: var(--md-default-bg-color); }
 .outreach-activity-icon--institutions { background: #277f73; }
 .outreach-activity-icon--parties { background: #ca8c36; }
-.outreach-activity-icon--mps { background: #5a6ac4; }
+.outreach-activity-icon--mps { background: #7a6a3b; }
 .outreach-activity-icon--actors { background: #8e1539; }
 .outreach-activity-icon--actions { background: #556; }
 .outreach-activity-name {
   flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
-  font-size: .72rem; font-weight: 700;
+  font-size: .72rem; font-weight: 700; text-decoration: none;
 }
+.outreach-activity-item a.outreach-activity-name,
+.outreach-activity-item a.outreach-activity-name:visited { color: var(--md-default-fg-color); }
+.outreach-activity-item a.outreach-activity-name:hover,
+.outreach-activity-item a.outreach-activity-name:focus { color: var(--md-accent-fg-color); text-decoration: underline; }
 .outreach-activity-item time {
   flex: 0 0 auto; color: var(--md-default-fg-color--light); font-size: .6rem; font-variant-numeric: tabular-nums;
 }
@@ -1798,18 +1808,20 @@ body.country-popup-open { overflow: hidden; }
    repeating its name once per link or hiding links behind a count. The
    summary row matches a plain entry's look exactly — no extra chrome —
    and the whole row opens the disclosure on click, same as a native summary. */
-.outreach-activity-item--group { padding: 0; border: 0; background: transparent; min-height: 0; }
-.outreach-activity-group { width: 100%; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .6rem; background: var(--md-default-bg-color); overflow: hidden; }
+.outreach-activity-item--group { padding: 0; background: transparent; min-height: 0; }
+.outreach-activity-group { width: 100%; background: transparent; overflow: hidden; }
 .outreach-activity-group > summary {
-  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; padding: .4rem .6rem; cursor: pointer; list-style: none;
+  display: flex; align-items: center; gap: .5rem; min-height: 2.1rem; padding: .4rem .2rem; cursor: pointer; list-style: none;
 }
 .outreach-activity-group > summary::-webkit-details-marker { display: none; }
 .outreach-activity-group[open] > summary { border-bottom: 1px solid var(--md-default-fg-color--lightest); }
 .outreach-activity-sublist {
-  display: flex; flex-direction: column; gap: .2rem; margin: 0 !important; padding: .3rem .6rem .4rem 2.1rem !important; list-style: none;
+  display: flex; flex-direction: column; gap: .15rem; margin: 0 !important; padding: .3rem .4rem .35rem 1.9rem !important; list-style: none;
 }
-.outreach-activity-sublist li { display: flex; align-items: center; gap: .5rem; min-height: 1.8rem; }
-.outreach-activity-sublist a { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: .64rem; color: var(--md-typeset-a-color); }
+.outreach-activity-sublist li { display: flex; align-items: center; gap: .5rem; min-height: 1.7rem; }
+.outreach-activity-sublist li a { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--md-default-fg-color--light); font-size: .64rem; text-decoration: none; }
+.outreach-activity-sublist li a:visited { color: var(--md-default-fg-color--light); }
+.outreach-activity-sublist li a:hover, .outreach-activity-sublist li a:focus { color: var(--md-accent-fg-color); text-decoration: underline; }
 .outreach-activity-sublist time { flex: 0 0 auto; color: var(--md-default-fg-color--light); font-size: .58rem; font-variant-numeric: tabular-nums; }
 /* Lives inside the scrollable list, as its last row, instead of pinned
    below it as its own prominent button. */
@@ -1825,7 +1837,7 @@ body.country-popup-open { overflow: hidden; }
     width: min(320px, calc(100vw - 1rem)); right: .5rem; bottom: max(.25rem, env(safe-area-inset-bottom));
     max-height: calc(100% - 4.5rem);
   }
-  .outreach-activity-list { max-height: min(38vh, 360px); }
+  .outreach-activity-content { max-height: min(38vh, 360px); }
 }
 @media (prefers-reduced-motion: reduce) {
   .outreach-activity, .outreach-activity > summary::after { transition: none; }
