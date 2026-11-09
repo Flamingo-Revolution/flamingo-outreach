@@ -20,7 +20,7 @@ hide:
     </header>
     <section id="outreach-pane-view" class="outreach-panel-section">
       <label for="outreach-layer">Category</label>
-      <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option><option value="actors">Actors / civil society</option></select>
+      <select id="outreach-layer"><option value="all">All categories</option><option value="media">Media coverage</option><option value="institutions">Institution responses</option><option value="mps">MP responses</option><option value="parties">Party responses</option><option value="politicians">Politicians</option><option value="actors">Civil society</option></select>
       <label for="outreach-display">Marker display</label>
       <select id="outreach-display"><option value="percentage">Percentage</option><option value="numbers">Numbers (done / total)</option><option value="done-todo" selected>Done + todo</option></select>
     </section>
@@ -54,7 +54,7 @@ hide:
     <div class="outreach-activity-content">
       <div class="outreach-activity-controls outreach-panel-section">
         <label for="outreach-activity-type">Sources</label>
-        <select id="outreach-activity-type"><option value="">All sources</option><option value="media">Media</option><option value="institutions">Institutions</option><option value="parties">Parties</option><option value="mps">MPs</option><option value="actors">Actors</option><option value="actions">Actions</option></select>
+        <select id="outreach-activity-type"><option value="">All sources</option><option value="media">Media</option><option value="institutions">Institutions</option><option value="parties">Parties</option><option value="mps">MPs</option><option value="politicians">Politicians</option><option value="actors">Civil society</option><option value="actions">Actions</option></select>
         <label for="outreach-activity-search">Find activity</label>
         <input id="outreach-activity-search" type="search" placeholder="Name or country" autocomplete="off">
       </div>

@@ -6,7 +6,8 @@ const COUNTRY_SECTIONS = [
   { key: 'institutions', title: 'Institutions', file: 'institutions.csv', name: 'organization', evidence: 'response_link', verb: 'with responses' },
   { key: 'mps', title: 'MPs', file: 'mps.csv', name: 'name', evidence: 'response_link', verb: 'with responses' },
   { key: 'parties', title: 'Parties & parliamentary groups', file: 'political_parties.csv', name: 'party', evidence: 'response_link', verb: 'with responses' },
-  { key: 'actors', title: 'Actors', file: 'actors.csv', name: 'organization', evidence: 'evidence_url', verb: 'with evidence linked' }
+  { key: 'politicians', title: 'Politicians', file: 'politicians.csv', name: 'name', evidence: 'evidence_urls', verb: 'with evidence linked' },
+  { key: 'actors', title: 'Civil society', file: 'actors.csv', name: 'organization', evidence: 'evidence_url', verb: 'with evidence linked' }
 ];
 const COUNTRY_ALIASES = {
   'Czech Republic': 'Czechia', Macedonia: 'North Macedonia',

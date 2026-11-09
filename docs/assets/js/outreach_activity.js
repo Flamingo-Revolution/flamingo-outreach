@@ -16,7 +16,7 @@ function buildOutreachActivity(countries, actions = [], extraActors = []) {
   };
   const addRow = (row, section, country) => {
     const source = { name: row[section.name], type: section.key, country };
-    const dates = (section.key === 'media' ? row.dates || '' : row.response_date || '').split(';').map(value => value.trim());
+    const dates = (section.key === 'media' ? row.dates || '' : section.key === 'politicians' ? row.evidence_dates || '' : row.response_date || '').split(';').map(value => value.trim());
     outreachUrls(row[section.evidence]).forEach((url, index) => add(url, source, section.key === 'actors' ? '' : dates[index] || (dates.length === 1 ? dates[0] : '')));
     if (section.key === 'actors') add(row.response_link, source, row.response_date);
     add(row.follow_up_evidence_url, source, row.follow_up_evidence_date);
@@ -62,7 +62,7 @@ async function setupOutreachActivity(root, countries) {
   const search = rail.querySelector('#outreach-activity-search');
   const more = rail.querySelector('#outreach-activity-more');
   const moreItem = rail.querySelector('#outreach-activity-more-item');
-  const labels = { media: 'Media', institutions: 'Institutions', parties: 'Parties', mps: 'MPs', actors: 'Actors', actions: 'Actions' };
+  const labels = { media: 'Media', institutions: 'Institutions', parties: 'Parties', mps: 'MPs', politicians: 'Politicians', actors: 'Civil society', actions: 'Actions' };
   let limit = 20;
   const results = await Promise.allSettled(['actions.csv', 'actors.csv'].map(async file => {
     const response = await fetch(new URL(file, countryAssetsBase));

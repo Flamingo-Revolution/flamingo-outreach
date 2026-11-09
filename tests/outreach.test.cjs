@@ -138,7 +138,7 @@ test('popup combines MPs and groups without changing original country entries', 
     mps: [{ name: 'Zeta MP', party: 'Alpha group', response_link: 'https://example.test/mp' }],
     parties: [{ party: 'Alpha group', response_link: '' }]
   } };
-  assert.equal(evaluate(`countryPopupSections().map(section => section.key).join(',')`), 'media,institutions,parliament,actors');
+  assert.equal(evaluate(`countryPopupSections().map(section => section.key).join(',')`), 'media,institutions,parliament,politicians,actors');
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').length`), 2);
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').sort((a,b) => compareCountryEntries(a,b,countryPopupSections()[2],'name')).map(row => row.popupName).join(',')`), 'Alpha group,Zeta MP');
   assert.equal(evaluate(`countryPopupEntries(parliamentCountry, 'parliament').filter(row => outreachUrls(row.response_link).length).length`), 1);

@@ -83,6 +83,29 @@ class WorkbookContributorsTests(unittest.TestCase):
                 self.assertEqual(totals['contributors'][0]['total'], 1)
                 self.assertEqual(totals['contributors'][0]['sheets'], {sheet_name: 1})
 
+    def test_politicians_sheet_import_normalizes_evidence_dates(self):
+        headers = [
+            'Figure ID', 'Name', 'Entity Category', 'Political Role / Type', 'Party / Group', 'Country',
+            'EU Parliament', 'First Recorded Date', 'Evidence Count', 'Engagement Classification',
+            'Verification Status', 'Website', 'Instagram', 'Email', 'Assigned To', 'Notes', 'Evidence IDs',
+            'Evidence Dates', 'Evidence Classifications', 'Evidence Descriptions', 'Evidence URLs',
+        ]
+        values = [
+            'PE-004', 'Example MEP', 'Individual politician', 'MEP', 'Greens/EFA', 'Netherlands', 'Yes',
+            '46190.0', '2.0', 'Direct quotation', '', '', '', '', '', '', 'EV-0004; EV-0043', '46190.0; 46202.0',
+            'Direct quotation; Explicit support', 'Support for protesters; Raised demands in Brussels',
+            'https://example.test/one; https://example.test/two',
+        ]
+        with tempfile.TemporaryDirectory() as folder:
+            output = Path(folder) / 'politicians.csv'
+            updater.publish_csv('Politicians', [headers, values], output)
+            with output.open(newline='') as handle:
+                record = next(csv.DictReader(handle))
+        self.assertEqual(record['name'], 'Example MEP')
+        self.assertEqual(record['first_recorded_date'], updater.normalize_dates('46190.0'))
+        self.assertEqual(record['evidence_dates'], updater.normalize_dates('46190.0; 46202.0'))
+        self.assertEqual(record['evidence_urls'], 'https://example.test/one; https://example.test/two')
+
     def test_country_only_media_placeholders_are_skipped(self):
         rows = [updater.MEDIA_HEADERS, ['Sweden'], ['Argentina', 'Outlet', '', '', '', '', '', '', '']]
         records = updater.normalize_media_coverage(rows)

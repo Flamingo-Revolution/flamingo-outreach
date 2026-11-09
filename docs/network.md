@@ -10,19 +10,20 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/">Parties & groups</a>
-  <a href="../actors/">Actors</a>
+  <a href="../politicians/">Politicians</a>
+  <a href="../actors/">Civil society</a>
   <a href="../network/" aria-current="page">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>
 </nav>
 
-How the civil-society side of the movement connects: actors who took joint **action** together, actors that belong to a parent group, the people **assigned to** or **contributing** data, and institutions an action was addressed to. A missing connection doesn't mean an actor is inactive — just that it isn't recorded here yet.
+How the civil-society side of the movement connects: groups who took joint **action** together, groups that belong to a parent group, the people **assigned to** or **contributing** data, and institutions an action was addressed to. A missing connection doesn't mean a group is inactive — just that it isn't recorded here yet.
 
 <div class="coverage-chart-card">
   <p id="network-summary" class="status-page-note" role="status">Loading network…</p>
-  <div id="network-graph" role="img" aria-label="Network of actors, actions, institutions and people. The action list below has the same information in text form."></div>
+  <div id="network-graph" role="img" aria-label="Network of civil-society groups, actions, institutions and people. The action list below has the same information in text form."></div>
   <div class="network-legend" aria-hidden="true">
-    <span class="network-legend-heading">Actor type</span>
+    <span class="network-legend-heading">Civil-society type</span>
     <span class="network-legend-swatch" style="--legend-color:#c62828">Media & press freedom</span>
     <span class="network-legend-swatch" style="--legend-color:#2e7d32">Environmental</span>
     <span class="network-legend-swatch" style="--legend-color:#ad1457">Human & civil rights</span>
@@ -42,13 +43,13 @@ How the civil-society side of the movement connects: actors who took joint **act
 <details class="status-disclosure status-page-filters"><summary class="status-disclosure-summary"><span>Search & filters</span></summary>
 <div class="coverage-sort-control">
   <label for="network-search">Find a node</label>
-  <input id="network-search" type="search" placeholder="Actor, action, institution or person" autocomplete="off">
-  <label for="network-category-filter">Actor category</label>
+  <input id="network-search" type="search" placeholder="Group, action, institution or person" autocomplete="off">
+  <label for="network-category-filter">Civil-society category</label>
   <select id="network-category-filter"><option value="">All categories</option></select>
 
   <fieldset class="network-filter-group">
     <legend>Show node types</legend>
-    <label><input id="network-kind-actor" type="checkbox" checked> Actors</label>
+    <label><input id="network-kind-actor" type="checkbox" checked> Civil society</label>
     <label><input id="network-kind-action" type="checkbox" checked> Actions</label>
     <label><input id="network-kind-institution" type="checkbox" checked> Institutions</label>
     <label><input id="network-kind-person" type="checkbox" checked> People</label>
@@ -78,13 +79,13 @@ How the civil-society side of the movement connects: actors who took joint **act
 </div>
 </details>
 
-Circle size tracks number of connections. Actors whose only connection is one action shared by more than 10 others are folded into a dashed "+N more actors" node — search a name to pull it back out. Select a node for details; select an action to open it below.
+Circle size tracks number of connections. Groups whose only connection is one action shared by more than 10 others are folded into a dashed "+N more groups" node — search a name to pull it back out. Select a node for details; select an action to open it below.
 
 ## Actions
 
-<p class="status-page-note">Sorted by number of actors involved. Same data as the graph, in text form.</p>
+<p class="status-page-note">Sorted by number of civil-society groups involved. Same data as the graph, in text form.</p>
 <div id="network-actions" class="network-actions" aria-live="polite">Loading actions…</div>
 
 ## Download the data
 
-[Download the actor list](assets/data/actors.csv) or the [action log](assets/data/actions.csv), or [update the shared workbook](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing).
+[Download the civil-society list](assets/data/actors.csv) or the [action log](assets/data/actions.csv), or [update the shared workbook](https://docs.google.com/spreadsheets/d/19qp5A7qB5DwoKEF6WlYKy_GSWNOxTgMX/edit?usp=sharing).

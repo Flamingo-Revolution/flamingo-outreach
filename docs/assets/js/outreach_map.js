@@ -388,7 +388,7 @@ async function setupOutreachMap() {
   try {
     countries = await loadOutreachCountries();
     if (disposed || !root.isConnected) return;
-    const nouns = { media: 'media outlets', institutions: 'institutions', mps: 'MPs', parties: 'parties / groups', actors: 'actors / civil society' };
+    const nouns = { media: 'media outlets', institutions: 'institutions', mps: 'MPs', parties: 'parties / groups', politicians: 'politicians', actors: 'civil society' };
     const totals = COUNTRY_SECTIONS.map(section => ({
       key: section.key,
       total: countries.reduce((sum, item) => sum + item.stats[section.key].total, 0),

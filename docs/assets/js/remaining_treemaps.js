@@ -294,12 +294,12 @@ function setupRemainingTreemaps() {
 
   const cards = [];
 
-  Promise.all(['institutions.csv', 'political_parties.csv', 'media_coverage.csv', 'mps.csv', 'actors.csv'].map(file =>
+  Promise.all(['institutions.csv', 'political_parties.csv', 'media_coverage.csv', 'mps.csv', 'politicians.csv', 'actors.csv'].map(file =>
       fetch(new URL(file, remainingAssetsBase)).then(response => {
         if (!response.ok) throw Error(response.status);
         return response.text();
       })
-  )).then(([institutionsText, partiesText, mediaText, mpsText, actorsText]) => {
+  )).then(([institutionsText, partiesText, mediaText, mpsText, politiciansText, actorsText]) => {
     if (!institutionsRoot.isConnected) return;
     const institutions = remainingGroupBy(csvRows(institutionsText), {
       nameField: 'organization',
@@ -312,6 +312,10 @@ function setupRemainingTreemaps() {
     const media = remainingGroupBy(csvRows(mediaText), {
       nameField: 'outlet',
       isDone: row => outreachUrls(row.article_urls).length > 0
+    });
+    const politicians = remainingGroupBy(csvRows(politiciansText), {
+      nameField: 'name',
+      isDone: row => outreachUrls(row.evidence_urls).length > 0
     });
     const actors = remainingGroupBy(csvRows(actorsText), {
       nameField: 'organization',
@@ -341,6 +345,14 @@ function setupRemainingTreemaps() {
       containerId: 'media-treemap',
       legendId: 'media-treemap-legend',
       tableBodyId: 'media-treemap-table'
+    });
+    cards.push({
+      data: politicians,
+      doneLabel: 'Evidence linked',
+      pendingLabel: 'No evidence link',
+      containerId: 'politicians-treemap',
+      legendId: 'politicians-treemap-legend',
+      tableBodyId: 'politicians-treemap-table'
     });
     cards.push({
       data: actors,

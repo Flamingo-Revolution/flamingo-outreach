@@ -10,7 +10,8 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/">Institutions</a>
   <a href="../parties/" aria-current="page">Parties & groups</a>
-  <a href="../actors/">Actors</a>
+  <a href="../politicians/">Politicians</a>
+  <a href="../actors/">Civil society</a>
   <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>

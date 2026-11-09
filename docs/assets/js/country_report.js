@@ -30,11 +30,12 @@ function countryReportNote(text) {
 
 const COUNTRY_ENTRY_STATUS_LABELS = {
   media: ['Coverage linked', 'No coverage link recorded'],
-  actors: ['Evidence linked', 'No evidence link recorded']
+  actors: ['Evidence linked', 'No evidence link recorded'],
+  politicians: ['Evidence linked', 'No evidence link recorded']
 };
 
 function countryReportEntry(row, section, detailed = false) {
-  if (!detailed && section.key !== 'actors') return countryEntryLinkList(row, section);
+  if (!detailed && !['actors', 'politicians'].includes(section.key)) return countryEntryLinkList(row, section);
   const hasRecord = outreachUrls(row[section.evidence]).length > 0;
   const card = countryElement('article', 'country-entry');
   const header = countryElement('div', 'country-entry-header');
@@ -44,7 +45,7 @@ function countryReportEntry(row, section, detailed = false) {
     hasRecord ? recordedLabel : missingLabel);
   header.append(title, status);
   card.append(header);
-  const meta = [row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
+  const meta = [row.category, row.city, row.role, section.key === 'mps' ? row.party : '', section.key === 'politicians' ? [row.entity_category, row.political_role_type, row.party_group, row.engagement_classification].filter(Boolean).join(' · ') : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
   if (meta.length) card.append(countryElement('p', 'country-entry-meta', meta.join(' · ')));
   const tags = row.issues || row.tags;
   if (tags) card.append(countryElement('p', 'country-entry-meta', tags));
@@ -58,36 +59,43 @@ function countryReportEntry(row, section, detailed = false) {
   if (row.checked_on) card.append(countryElement('p', 'country-entry-meta', 'Checked: ' + countryReportDate(row.checked_on)));
   if (row.requested_action) card.append(countryElement('p', 'country-entry-note', `Suggested action: ${row.requested_action}`));
   const links = countryElement('div', 'country-entry-links');
-  const dates = (section.key === 'media' ? row.dates || '' : section.key === 'actors' ? '' : row.response_date || '').split(';').map(date => countryReportDate(date.trim()));
+  const evidenceLinks = countryElement('div');
+  const ownLinks = countryElement('div');
+  const dates = (section.key === 'media' ? row.dates || '' : section.key === 'actors' ? '' : section.key === 'politicians' ? row.evidence_dates || '' : row.response_date || '').split(';').map(date => countryReportDate(date.trim()));
   const types = (row.response_type || '').split(';').map(value => value.trim());
-  const evidenceLabel = section.key === 'media' ? 'Coverage' : section.key === 'actors' ? 'Evidence' : 'Response';
+  const evidenceLabel = section.key === 'media' ? 'Coverage' : ['actors', 'politicians'].includes(section.key) ? 'Evidence' : 'Response';
   outreachUrls(row[section.evidence]).forEach((url, index) => {
-    countryReportLink(links, url, [section.key === 'actors' ? `${evidenceLabel} ${index + 1}` : types[index] || `${evidenceLabel} ${index + 1}`, dates[index]].filter(Boolean).join(' · '));
+    countryReportLink(evidenceLinks, url, [['actors', 'politicians'].includes(section.key) ? `${evidenceLabel} ${index + 1}` : types[index] || `${evidenceLabel} ${index + 1}`, dates[index]].filter(Boolean).join(' · '));
   });
   if (section.key === 'actors' && row.response_link) {
-    outreachUrls(row.response_link).forEach((url, index) => countryReportLink(links, url, `Response to outreach ${index + 1}`));
+    outreachUrls(row.response_link).forEach((url, index) => countryReportLink(evidenceLinks, url, `Response to outreach ${index + 1}`));
   }
-  countryReportLink(links, row.follow_up_evidence_url, ['Follow-up evidence', countryReportDate(row.follow_up_evidence_date)].filter(Boolean).join(' · '));
-  countryReportLink(links, row.latest_source_url, ['Latest source', countryReportDate(row.latest_source_date)].filter(Boolean).join(' · '));
-  countryReportLink(links, row.website || row.outlet_url, 'Website');
-  countryReportLink(links, row.instagram_url, 'Instagram');
-  countryReportLink(links, row.email || row.contact_email, 'Email', true);
+  countryReportLink(evidenceLinks, row.follow_up_evidence_url, ['Follow-up evidence', countryReportDate(row.follow_up_evidence_date)].filter(Boolean).join(' · '));
+  countryReportLink(evidenceLinks, row.latest_source_url, ['Latest source', countryReportDate(row.latest_source_date)].filter(Boolean).join(' · '));
   if (row.instagram_evidence) {
     const url = row.instagram_evidence.match(/https?:\/\/[^\s;]+/)?.[0];
-    if (url) countryReportLink(links, url, 'Instagram evidence');
+    if (url) countryReportLink(evidenceLinks, url, 'Instagram evidence');
   }
+  countryReportLink(ownLinks, row.website || row.outlet_url, 'Website');
+  countryReportLink(ownLinks, row.instagram_url, 'Instagram');
+  countryReportLink(ownLinks, row.email || row.contact_email, 'Email', true);
   if (row.contact_route) {
     card.append(countryElement('p', 'country-entry-note', `Contact route: ${row.contact_route}`));
     const url = row.contact_route.match(/https?:\/\/[^\s;]+/)?.[0];
-    if (url) countryReportLink(links, url, 'Contact route');
+    if (url) countryReportLink(ownLinks, url, 'Contact route');
     const email = row.contact_route.match(/[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/)?.[0];
-    if (email && email !== row.email) countryReportLink(links, email, 'Contact email', true);
+    if (email && email !== row.email) countryReportLink(ownLinks, email, 'Contact email', true);
   }
   if (row.assigned_to) card.append(countryElement('p', 'country-entry-meta', `Assigned to: ${row.assigned_to}`));
   if (row.contributors) card.append(countryElement('p', 'country-entry-meta', `Data contributors: ${row.contributors}`));
   if (section.key === 'actors' && row.country_of_interest && typeof actorAssignedInstitutionsNote === 'function') {
     card.append(actorAssignedInstitutionsNote(row));
   }
+  const hasEvidenceLinks = evidenceLinks.childNodes.length > 0;
+  const hasOwnLinks = ownLinks.childNodes.length > 0;
+  [...evidenceLinks.childNodes].forEach(link => links.append(link));
+  if (hasEvidenceLinks && hasOwnLinks) links.append(countryElement('span', 'country-entry-links-sep', '–'));
+  [...ownLinks.childNodes].forEach(link => links.append(link));
   card.append(links);
   return card;
 }
@@ -102,30 +110,37 @@ function countryEntryLinkList(row, section, tag = 'article') {
   entry.append(status);
   entry.append(countryElement('strong', '', row[section.name]));
   const links = countryElement('span', 'country-link-item-links');
+  const ownLinks = countryElement('span');
+  const evidenceLinks = countryElement('span');
   const seen = new Set();
-  const add = (value, label, email = false) => {
+  const add = (target, value, label, email = false) => {
     const holder = countryElement('span');
     countryReportLink(holder, value, label, email);
     [...holder.childNodes].forEach(link => {
       if (seen.has(link.href)) return;
       seen.add(link.href);
-      links.append(link);
+      target.append(link);
     });
   };
-  add(row.website || row.outlet_url, 'Website');
-  add(row.instagram_url, 'Instagram');
-  add(row.email || row.contact_email, 'Email', true);
+  add(ownLinks, row.website || row.outlet_url, 'Website');
+  add(ownLinks, row.instagram_url, 'Instagram');
+  add(ownLinks, row.email || row.contact_email, 'Email', true);
   if (row.contact_route) {
-    add((row.contact_route.match(/https?:\/\/[^\s;<>]+/g) || []).map(url => url.replace(/[.,)]+$/, '')).join(';'), 'Contact');
-    add((row.contact_route.match(/[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/g) || []).join(';'), 'Email', true);
+    add(ownLinks, (row.contact_route.match(/https?:\/\/[^\s;<>]+/g) || []).map(url => url.replace(/[.,)]+$/, '')).join(';'), 'Contact');
+    add(ownLinks, (row.contact_route.match(/[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}/g) || []).join(';'), 'Email', true);
   }
-  add(row[section.evidence], section.key === 'media' ? 'Coverage' : section.key === 'actors' ? 'Evidence' : 'Response');
-  add(row.follow_up_evidence_url, 'Evidence');
-  add(row.latest_source_url, 'Source');
-  add((row.instagram_evidence || '').match(/https?:\/\/[^\s;<>]+/)?.[0], 'Instagram evidence');
+  add(evidenceLinks, row[section.evidence], section.key === 'media' ? 'Coverage' : ['actors', 'politicians'].includes(section.key) ? 'Evidence' : 'Response');
+  add(evidenceLinks, row.follow_up_evidence_url, 'Evidence');
+  add(evidenceLinks, row.latest_source_url, 'Source');
+  add(evidenceLinks, (row.instagram_evidence || '').match(/https?:\/\/[^\s;<>]+/)?.[0], 'Instagram evidence');
+  const hasOwnLinks = ownLinks.childNodes.length > 0;
+  const hasEvidenceLinks = evidenceLinks.childNodes.length > 0;
+  [...ownLinks.childNodes].forEach(link => links.append(link));
+  if (hasOwnLinks && hasEvidenceLinks) links.append(countryElement('span', 'country-link-item-sep', '–'));
+  [...evidenceLinks.childNodes].forEach(link => links.append(link));
   if (section.key === 'actors') {
     [...new Set((row.country_of_interest || '').split(';').map(outreachCountryName).filter(Boolean))].forEach(country => {
-      add(outreachCountryPopupUrl(country, true), country);
+      add(links, outreachCountryPopupUrl(country, true), country);
     });
   }
   entry.append(links);
@@ -260,7 +275,7 @@ function countryEntryDisclosure(row, section, extra, detailed = false) {
   const heading = countryElement('span', 'country-popup-entry-title', row[section.name]);
   const status = countryElement('span', `country-entry-status${hasRecord ? ' country-entry-status--recorded' : ''}`,
     hasRecord ? (COUNTRY_ENTRY_STATUS_LABELS[section.key] || ['Response linked'])[0] : 'Todo');
-  const meta = [row.popupSection ? (row.popupSection === 'mps' ? 'MP' : 'Party / parliamentary group') : '', row.category, row.city, row.role, section.key === 'mps' ? row.party : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
+  const meta = [row.popupSection ? (row.popupSection === 'mps' ? 'MP' : 'Party / parliamentary group') : '', row.category, row.city, row.role, section.key === 'mps' ? row.party : '', section.key === 'politicians' ? [row.entity_category, row.political_role_type, row.party_group].filter(Boolean).join(' · ') : '', row.priority ? `${row.priority} priority` : '', row.part_of ? `Part of: ${resolveActorName(row.part_of)}` : ''].filter(Boolean);
   const summaryNodes = [heading, status];
   if (meta.length) summaryNodes.push(countryElement('small', 'country-popup-entry-meta', meta.join(' · ')));
   const content = countryReportEntry(row, section, true);

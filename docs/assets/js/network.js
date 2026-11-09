@@ -14,8 +14,8 @@ const NETWORK_KINDS = ['actor', 'action', 'institution', 'person'];
 const NETWORK_EDGE_TYPES = ['action', 'partof', 'assigned', 'credit'];
 const NETWORK_NODE_COLOR = { action: '#af6010', institution: '#455a64', person: '#1976d2', overflow: '#9e9e9e' };
 const NETWORK_NODE_SHAPE = { actor: 'ellipse', action: 'round-rectangle', institution: 'diamond', person: 'ellipse', overflow: 'ellipse' };
-/* Actions with more than this many actors whose ONLY connection is that one
-   action get those actors collapsed into a single "+N more actors" node. */
+/* Actions with more than this many groups whose ONLY connection is that one
+   action get those groups collapsed into a single "+N more groups" node. */
 const NETWORK_OVERFLOW_THRESHOLD = 10;
 
 /* Named force/layout presets, so the same graph can be checked under a few
@@ -149,7 +149,7 @@ function collapseActionOverflow(nodes, edges, degree, threshold = NETWORK_OVERFL
       removeEdgeIds.add(edge.data.id);
     });
     const overflowId = `overflow-${actionId}`;
-    extraNodes.push({ data: { id: overflowId, label: `+${sole.length} more actors`, kind: 'overflow', count: sole.length, url: '' } });
+    extraNodes.push({ data: { id: overflowId, label: `+${sole.length} more groups`, kind: 'overflow', count: sole.length, url: '' } });
     extraEdges.push({ data: { id: `${overflowId}-edge`, source: overflowId, target: actionId, label: '', type: 'action' } });
   });
 
@@ -172,7 +172,7 @@ function networkActionCard(action, model) {
   if (institutionNames.length) heading.push(countryElement('span', 'coverage-priority-percentage', `${institutionNames.length} institution${institutionNames.length === 1 ? '' : 's'}`));
 
   const content = countryElement('div', 'network-action-body');
-  if (actorNames.length) content.append(countryElement('p', 'network-action-meta', `Actors: ${actorNames.join(', ')}`));
+  if (actorNames.length) content.append(countryElement('p', 'network-action-meta', `Civil society: ${actorNames.join(', ')}`));
   if (institutionNames.length) content.append(countryElement('p', 'network-action-meta', `Institutions: ${institutionNames.join(', ')}`));
   if (action.response_to) content.append(countryElement('p', 'network-action-meta', `In response to: ${action.response_to}`));
   if (action.notes) content.append(countryReportNote(action.notes));
@@ -341,7 +341,7 @@ function setupNetwork() {
       networkGraph.on('tap', 'node', event => {
         const data = event.target.data();
         if (data.kind === 'overflow') {
-          selection.textContent = `${data.count} more actors whose only recorded connection is this one action`;
+          selection.textContent = `${data.count} more groups whose only recorded connection is this one action`;
           return;
         }
         const kindLabel = data.kind === 'actor' ? data.actorType : data.kind;

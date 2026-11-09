@@ -128,6 +128,7 @@ CSV_SHEETS = {
     "Actions": "actions.csv",
     "Embassies by Country": "embassies.csv",
     "Political Parties": "political_parties.csv",
+    "Politicians": "politicians.csv",
     "MPs": "mps.csv",
     "Members of Parliament": "mps.csv",
     "Issues Gallery": "issues_gallery.csv",
@@ -145,6 +146,7 @@ CSV_HEADERS = {
     "actions.csv": ["action_id", "action", "actor_ids", "evidence_urls", "response_to", "notes", "institution_ids"],
     "embassies.csv": ["country", "representation", "category", "official_website", "instagram_url", "verification"],
     "political_parties.csv": ["country", "party", "website", "priority", "issues", "status", "response_link", "instagram_evidence"],
+    "politicians.csv": ["figure_id", "name", "entity_category", "political_role_type", "party_group", "country", "eu_parliament", "first_recorded_date", "evidence_count", "engagement_classification", "verification_status", "website", "instagram_url", "email", "assigned_to", "notes", "evidence_ids", "evidence_dates", "evidence_classifications", "evidence_descriptions", "evidence_urls"],
     "mps.csv": ["country", "name", "party", "role", "website", "email", "response_date", "response_type", "response_link", "notes"],
     "issues_gallery.csv": ["date", "category", "issue", "location", "source_url", "status", "tags"],
     "sources-example.csv": [
@@ -387,6 +389,7 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
         "Actions": ["Action ID", "Action", "Contributor IDs", "Evidence URLs", "Response To", "Notes", "Institution IDs"],
         "Embassies by Country": ["Country", "Representation", "Category", "Official Website", "Instagram URL", "Verification"],
         "Political Parties": ["Country", "Party", "Website", "Priority", "Issues", "Status", "Response Link", "Instagram Evidence"],
+        "Politicians": ["Figure ID", "Name", "Entity Category", "Political Role / Type", "Party / Group", "Country", "EU Parliament", "First Recorded Date", "Evidence Count", "Engagement Classification", "Verification Status", "Website", "Instagram", "Email", "Assigned To", "Notes", "Evidence IDs", "Evidence Dates", "Evidence Classifications", "Evidence Descriptions", "Evidence URLs"],
         "MPs": ["Country", "Name", "Party", "Role", "Website", "Email", "Response Date", "Response Type", "Response Link", "Notes"],
         "Members of Parliament": ["Country", "Name", "Party", "Role", "Website", "Email", "Response Date", "Response Type", "Response Link", "Notes"],
         "Issues Gallery": ["Date", "Category", "Issue", "Location", "Source URL", "Status", "Tags"],
@@ -420,7 +423,7 @@ def publish_csv(name: str, rows: list[list[str]], output: Path) -> int:
             if not any(value.strip() for value in output_values):
                 continue
             for index, field in enumerate(fields):
-                if field.endswith("_date") or field in {"date", "checked_on"}:
+                if field.endswith("_date") or field.endswith("_dates") or field in {"date", "checked_on"}:
                     output_values[index] = normalize_dates(output_values[index])
                 if field in {"eu_member", "office_in_albania"} and output_values[index] in {"0.0", "1.0"}:
                     output_values[index] = output_values[index][0]

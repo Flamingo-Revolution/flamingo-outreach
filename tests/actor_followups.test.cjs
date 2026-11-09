@@ -80,7 +80,7 @@ test('popup simple view shows semantic lists grouped by type and toggles to full
   assert.equal(done.className, 'country-link-status country-link-status--done');
   assert.equal(done.attrs['aria-label'], 'Done: source link recorded');
   assert.equal(body.querySelectorAll('a').length, 2);
-  assert.equal(body.querySelectorAll('details').length, 4);
+  assert.equal(body.querySelectorAll('details').length, 5);
   assert.equal(nodes.filter(node => node.attrs.role === 'tab').length, 0);
   const groups = body.childNodes;
   assert.equal(groups[0].dataset.groupKey, 'media');
@@ -91,8 +91,8 @@ test('popup simple view shows semantic lists grouped by type and toggles to full
   assert(toggle);
   toggle.handlers.click();
   assert.equal(toggle.textContent, 'Show simple');
-  assert.equal(body.querySelectorAll('details').length, 6);
-  assert.equal(body.querySelectorAll('summary').length, 6);
+  assert.equal(body.querySelectorAll('details').length, 7);
+  assert.equal(body.querySelectorAll('summary').length, 7);
   assert.equal(body.childNodes[0].open, false);
   assert.equal(body.childNodes[1].open, true);
   assert.equal(body.childNodes[0].querySelectorAll('details')[0].open, undefined);

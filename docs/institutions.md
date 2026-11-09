@@ -10,13 +10,14 @@ hide:
   <a href="../media-coverage/">Media</a>
   <a href="../institutions/" aria-current="page">Institutions</a>
   <a href="../parties/">Parties & groups</a>
-  <a href="../actors/">Actors</a>
+  <a href="../politicians/">Politicians</a>
+  <a href="../actors/">Civil society</a>
   <a href="../network/">Network</a>
   <a href="../remaining/">Remaining</a>
   <a href="../momentum/">Momentum</a>
 </nav>
 
-See which institutions and diplomatic representations have responded and which have no response link recorded. Select a country on the map to inspect its organizations. Civil-society organizations are tracked separately on the [Actors](actors.md) page.
+See which institutions and diplomatic representations have responded and which have no response link recorded. Select a country on the map to inspect its organizations. Civil-society organizations are tracked separately on the [Civil society](actors.md) page.
 
 <div class="coverage-chart-card coverage-chart-card--map">
   <div class="status-map-stats" id="institutions-map-stats" aria-label="Institution outreach statistics" aria-live="polite">

@@ -1533,6 +1533,8 @@ a.coverage-outlet-headline { font-weight: 600; }
 .country-entry-meta { margin: .4rem 0; font-size: .65rem; color: var(--md-default-fg-color--light); }
 .country-entry-note { margin: .5rem 0; font-size: .75rem; overflow-wrap: anywhere; }
 .country-entry-links, .country-section-footer { display: flex; flex-wrap: wrap; gap: .45rem .9rem; font-size: .7rem; margin-top: .6rem; }
+.country-entry-links-sep, .country-link-item-sep { color: var(--md-default-fg-color--light); align-self: center; }
+.country-link-item-sep { margin: 0 .35rem; }
 .country-section-footer { margin-top: 1rem; }
 .country-empty { padding: 1rem; border-radius: .5rem; background: var(--md-default-fg-color--lightest); font-size: .75rem; }
 .outreach-home-intro { padding: 1.3rem; border: 1px solid var(--md-default-fg-color--lightest); border-radius: .8rem; margin-block: 1.2rem; }
@@ -1792,6 +1794,7 @@ body.country-popup-open { overflow: hidden; }
 .outreach-activity-icon--parties { background: #ca8c36; }
 .outreach-activity-icon--mps { background: #7a6a3b; }
 .outreach-activity-icon--actors { background: #8e1539; }
+.outreach-activity-icon--politicians { background: #1f5fa8; }
 .outreach-activity-icon--actions { background: #556; }
 .outreach-activity-name {
   flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;

@@ -18,9 +18,9 @@ function compareCountryEntries(a, b, section, order) {
 
 function countryPopupSections() {
   return [
-    ...COUNTRY_SECTIONS.filter(section => !['mps', 'parties', 'actors'].includes(section.key)),
+    ...COUNTRY_SECTIONS.filter(section => !['mps', 'parties', 'actors', 'politicians'].includes(section.key)),
     { key: 'parliament', title: 'MPs & parliamentary groups', name: 'popupName', evidence: 'response_link' },
-    ...COUNTRY_SECTIONS.filter(section => section.key === 'actors')
+    ...COUNTRY_SECTIONS.filter(section => ['politicians', 'actors'].includes(section.key))
   ];
 }
 

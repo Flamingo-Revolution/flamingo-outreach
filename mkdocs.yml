@@ -47,6 +47,7 @@ extra_javascript:
   - assets/js/outreach_map.js
   - assets/js/institutions.js
   - assets/js/parties.js
+  - assets/js/politicians.js
   - assets/js/actors.js
   - assets/js/remaining_treemaps.js
   - assets/js/outreach_directory.js
@@ -96,7 +97,8 @@ nav:
           - Media: media-coverage.md
           - Institutions: institutions.md
           - Parties: parties.md
-          - Actors: actors.md
+          - Politicians: politicians.md
+          - Civil society: actors.md
       - Additional:
           - Network: network.md
           - Remaining: remaining.md
